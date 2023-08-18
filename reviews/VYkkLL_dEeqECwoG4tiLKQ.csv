@@ -1,0 +1,45 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+72254624~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1625427640612,1,0,The course is too short. For analysis similar query was repeated.,0,0,Kunal Kumar Gupta,72254624
+4639042~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1603048451921,1,0,Too easy for intermediate level.,0,7,upendra madam,4639042
+23134489~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1598369563779,1,0,This course is too short and too simple. I was expecting some details in Pyspark or mechanism in RDD. But nothing was shown but just some SQL operations.,0,13,Longlong Feng,23134489
+89596251~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1638356987382,2,0,E​nvironment not stable - Java instalation errors.,0,0,Łukasz Łuszczyński,89596251
+644185~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1613622061033,3,0,"The material is too basic, full of typos. The data set is a mess. Not recommended. ",0,0,Minh Nguyen,644185
+76737154~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1606406529052,3,0,The execution of this course is pretty good. But I wished the PySpark part was way bigger. It's basically a 3 minute introduction into PySpark and the rest done using Spark-like sql-queries. ,0,3,Gabriel Mendoza,76737154
+39527470~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1601438244886,3,0,This project is way too easy. Not tech enough to put on my resume. But may be a good intro of da and pyspark,0,0,Yuqi Liu,39527470
+2588759~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1600018177432,3,0,The forms aren't maintained but its a good intro to pyspark - yet it doesn't include any theory. ,0,0,Aila Ansari,2588759
+4195742~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1599863625523,3,0,The user interface is too clunky.,0,0,Lin Liu,4195742
+47352395~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1596728293076,3,0,Interesting but no dept,0,2,Agbaeze Henry,47352395
+94461693~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1656350798884,4,0,Nice Course with good hads-on,0,0,Vivek Upadhyay,94461693
+38985468~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1642934180612,4,0,Quick and good course on pyspark for someone who is familiar with Pandas. Although some more depth can be added to the course by giving short brief on Spark and how it works.,0,0,Ahad,38985468
+93177167~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1636966828338,4,0,Es muy basico,0,0,IRIS RUBI MORENO,93177167
+90799827~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1632476961106,4,0,Nice tutorials,0,0,RAVIDIWAKAR KUMAR,90799827
+92867669~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1630507274746,4,0,Very focused informative Course,0,0,Sourav Mohanty,92867669
+70251657~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1612028934689,4,0,It would have been better if more foundations of Spark framework had been provided,0,0,Aruparna Maity,70251657
+69106228~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1597979477206,4,0,"Ok, but needs a longer explanation of the functions that are used and its range of possibilites.",0,0,Sebastian Diaz Araya,69106228
+1878685~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1597791493201,4,0,"Instructor is great but the project itself is very short and shallow. If you have no idea where to start - it's ok to start with this course, but if you already have little practice with pandas or want to know how to use PySpark in real HDFS environment - i'm afraid it wont be helpful. ",0,3,Иван Темиров,1878685
+114549325~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1669287126390,5,0,"Totally loved this course! This is the first time I've used the Coursera Project format, and I've found that it's a great environment to a first, practical introduction to a very specific topic. Yes, this is a very basic introduction, you will not have theoretical lessons about Spark and its functionalities, but you'll dive right in Pyspark and write commands on a dataset. Projects are done in the Google Colab platform, so that the code you did will be available on your profile even after the course ended. ",0,0,Silvia Gloria Tamburini,114549325
+62126924~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1662714479003,5,0,good,0,0,Mounika Kaja,62126924
+112387389~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1661385731188,5,0,solid explanation step by step,0,0,Santiago Venegas,112387389
+110115448~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1658390481490,5,0,Basics covered nicely.,0,0,Rishabh Paliwal,110115448
+108225128~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1658254616286,5,0,-,0,0,Nayana D K,108225128
+54051644~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1648811298268,5,0,"Très bon projet pour prendre en main PySpark et me permettre de me sentir plus à l'aise avec les subtitlité de cette biblitotèque, en comparaison de Pandas.Encore merci pour cet exercie rapide mais vraient efficace pour monter en compétence sur le Big Data",0,0,Antoine CARRE,54051644
+9161241~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1645986253341,5,0,S​mooth and lucid project!,0,0,RLee,9161241
+71587359~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1645629607974,5,0,Perfect for understand the pyspark bases,0,0,Francesco Angeli,71587359
+101964727~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1644497603418,5,0,good way to start learning pyspark!,0,0,Shivam Ghodke,101964727
+72753755~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1641638926861,5,0,This project is really good. Gives you a hands-on experience on PySpark. I was able to write complex queries on my own after a while in this project. Very useful.,0,0,Shreeya Chafekar,72753755
+3601113~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1639206768060,5,0,"quick start for a newbie with most basic information covered here, worth it.",0,0,vignesh babu bm,3601113
+45540714~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1626334199436,5,0,Très bon cours,0,0,Favre d'Echallens Marion,45540714
+48668614~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1625509718512,5,0,"I​t is very good, just basic, but if someone has already knowledge in SQL and Python is more than enough to get started.",0,0,Oliver Emmanuel Argote Brito,48668614
+88892449~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1624715988968,5,0,This is perfect hands on workshop!,0,0,Kishore Kumar V,88892449
+82176645~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1623532795103,5,0,awesome,0,0,Diogo Jesus,82176645
+34768860~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1617634398949,5,0,I'm happy!,0,0,Pris A.,34768860
+78197707~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1614562314749,5,0,Nice course,0,0,Mohamad Faiq Hanif,78197707
+1062772~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1614154106389,5,0,good,0,0,Mayank yadav,1062772
+58747484~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1605413262327,5,0,Best guided project for an introduction to the PySpark,0,0,Devvrat Mungekar,58747484
+4479256~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1604415866416,5,0,Excellent course and instructor.,0,0,Syed Ahsan Raza,4479256
+66551352~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1604281143625,5,0,This course has help equip me with a lot of experience on data analysis and i really love it. Thank you Ahmad Varasteh.A big thanks to Coursera for creating such a wonderful opportunity. ,0,0,Derek Edwin Essiaw,66551352
+67950486~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1603964176862,5,0,Awesome course for beginners!,0,0,Ajay Negi,67950486
+55130852~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1599754429499,5,0,Good explaining,0,0,Dianel Ago,55130852
+69934618~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1598560891666,5,0,pretty good,0,0,Артур Аляска,69934618
+27989255~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1596988986557,5,0,Great course,0,0,Jesus Maria Zabaleta Franco,27989255
+31756039~COURSE!~VYkkLL_dEeqECwoG4tiLKQ,1596663230249,5,0,all is great except the idea of struct function it is a little bit confusing .however all awesome hand-on practice please do more coursers,0,1,أحمد ماهر فوزى محمد سلام,31756039

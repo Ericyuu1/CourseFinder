@@ -1,0 +1,2 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+6478918~COURSE!~MHH2S4_LEeufWxJF99y4DQ,1651007782105,2,0,"This guided project was poor. The instructor didn't explain their coding choices, didn't use abstraction well, and even failed to use one of the functions they created, opting instead to repeat the same code block twice in seperate functions, rather than calling the function they had already created. The instrutor's commentary largely was limited to reading out the code as they were typing.",0,0,John Concannon,6478918

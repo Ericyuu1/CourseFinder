@@ -1,0 +1,9 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+80600745~COURSE!~cn__GvKzEeqGWhKIbM029w,1612423857982,3,0,The author should talk more about the specific option why he is selecting to configure the Auto scaling.,0,0,Shahvez,80600745
+44192352~COURSE!~cn__GvKzEeqGWhKIbM029w,1607472967089,4,0,"An Introduction to EC2 instances and load balance configuration. In general, a good course to someone who are new in AWS. ",0,0,gustavo sabino,44192352
+95481119~COURSE!~cn__GvKzEeqGWhKIbM029w,1636200571616,5,0,Excellent information,0,0,MD UDDIN,95481119
+34768860~COURSE!~cn__GvKzEeqGWhKIbM029w,1613579076740,5,0,Perfect!,0,0,Pris A.,34768860
+60143100~COURSE!~cn__GvKzEeqGWhKIbM029w,1609966956942,5,0,It was a nice general review and practice.,0,0,Ramazan Türkmen,60143100
+45913869~COURSE!~cn__GvKzEeqGWhKIbM029w,1605726100675,5,0,"It is a great way to learn AWS, got introduced to a lot of different elements other than EC2. I learned not only AWS but few other tools like putty and Filezilla. It'd be great to have the command line prompts zoomed in while working simultaneously but that's it. Overall, had fun working on it!",0,0,Shazmeen Shaikh,45913869
+72221706~COURSE!~cn__GvKzEeqGWhKIbM029w,1601977954880,5,0,IT Was Really good experience ,0,0,PARTHA BHATTACHARYA,72221706
+35601565~COURSE!~cn__GvKzEeqGWhKIbM029w,1601012379590,5,0,"An excellent course, explain all the necessary things to understand Autoscaling Group and LoadBalancer work.",0,0,Nicolás Benítez,35601565

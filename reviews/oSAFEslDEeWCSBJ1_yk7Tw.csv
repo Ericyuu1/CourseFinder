@@ -1,0 +1,312 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+47445665~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1588520455667,1,0,"The course required no prerequisites,  but no one can complete the course without actually completing the courses preceding this in the specializing series.",0,0,Jyotir Pant,47445665
+35869555~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1561871730557,1,0,not so good ,0,0,Naivadhya Jain,35869555
+33145044~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1536819379121,1,0,Not suitable for beginners,0,1,Syed Salmaan Rashid,33145044
+33329863~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1554275733856,2,0,it provides a superficial knowledge. A deep understanding of subject can not be gain from this course,0,1,Anukul,33329863
+2416008~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1465506377256,2,0,She just started with wk 2. There should have been more explanation and videos in week 1...not very interesting.  I think statistics you need to take in person.,0,1,M. Isabella Fratinni,2416008
+107555669~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1657654452472,3,0,"s​ome labs and quizzes not labelled correctly i.e. week 1 quiz in week2, week 1 and 2 lab in week 3",0,0,Maeve Boyce,107555669
+41790986~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1613365364909,3,0,dropped,0,0,Stan Markham,41790986
+57049986~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1592322632688,3,0,Average,0,0,Farabe Khan Alif,57049986
+49771280~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1584624036676,3,0,"Overall it covers everything that you would want this course to.However, I was a complete beginner when starting this course, and as a result I regularly got confused (especially when it came to coding in R)3/5 stars for me",0,0,Liam James Kelly,49771280
+45435977~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1573190248457,3,0,lectures are great. but no tutor answers my question posted in discussion board.,0,0,Jingyi Yang,45435977
+42028544~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1566349638845,3,0,The grading is just so annoying,0,0,楼啸,42028544
+6149798~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1546897599484,3,0,"The course is good regarding concepts and theoretical exercises, but poor regarding applying new knowledge in R. Since the course is introductory, an instruction how to install R and a list of R functions without clear explanation how they should be applied in general regression situations makes me explore other sources to learn how to apply those concepts (e.g. DataCamp, CRAN-RProject, etc) and then get back to learn theory? Sorry for expectations but course should provide a full and integrated package of knowledge and skills, especially for beginners. Furthermore, no Machine Learning (ML) is covered as a tool to run a regression. My proposal is to provide an algorithm with a comprehensive example how to run a regression using R. From data to final model, step-by-step.",0,5,Mindaugas Žilionis,6149798
+30604613~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1532697878763,3,0,"Great instruction on stats, however the R portion a weekly project that is largely self directed, very little instruction.",0,1,mark nuneviller,30604613
+8466212~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1525096744904,3,0,"Other nits about the depth and breadth of the course aside, I thought it was a good course. The main critique I have to offer is the lack of emphasis of using the power of R. When teaching model selection, the course should have at least provided instruction—or at least a written resource—on how to write the R code for automating forward/backward selection by R^2.* Being a course about using R as well as about linear regression and modeling, it seems like the appropriate thing to do.(*A classmate whose final project I peer-reviewed used for loops to run the forward model selection based on R^2. That's how I learned about it.)",0,0,Micah Himmel,8466212
+30974488~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1521095330911,3,0,"The mathematical depth of this course, is insufficient even at its targeted level, and therefore a lot of practical manipulations of the data, and fine tuning of the model could be had if a week more has been put into this course.Easy does not equate fun, after completing this course, I left the specialization.",0,2,Assaf Bental,30974488
+11033188~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1509701494834,3,0,Only contains linear regression as opposed to other model types,0,0,Kshitij Tumbde,11033188
+11403440~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1508166581983,3,0,"Provides a good overview, but I felt some loose ends were not addressed in terms of how stringent the conditions need to be met, and if one can use MLR when this is not the case.",0,0,Brandon Frank,11403440
+18297876~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470756061498,3,0,"Covers the basic of Linear Regression, would like to see more advanced material.",0,0,Zhao Liu,18297876
+964819~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1467398424506,3,0,"Compared to other courses in the specification, this course content is too shallow and brief.  ",0,1,QIAN YANG,964819
+98871926~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1664877522606,4,0,v​ery nice.,0,0,Desalegn Abebe Mekonen,98871926
+33469250~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1642431096433,4,0,"Very good course and material overall - although a little lighter in content compared to the previous one (Inferential Statistics). I think you get a good intro to linear regression and getting to apply the knowledge in the assignment is very helpful.
+Beware though as the message boards are empty and it's very unlikely that you will get any questions answered. That's a serious issue with this class.",0,0,Σταυρος Βλαχος,33469250
+7865664~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1612381280467,4,0,Nice overview and R examples!,0,0,Seyyed Bahram borgheai,7865664
+28057828~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1611789506723,4,0,"Awesome course with very clear material! I do wish that the course had a bit broader of a scope (i.e. also covering logistic regression and other kinds of regression with non-numerical response variables). Compared to the Inferential Statistics course, it feels like there was a bit less material. Otherwise, I was very happy with this course. :)",0,0,Jason Lipshin,28057828
+22850224~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1610469572063,4,0,"i would like it very much if the course had more auxiliar videos about R code, because is maybe the most dificult thing to follow on the course. In general the course is amazing, very well explained, i learned a lot.",0,0,Jennifer garcia espitia,22850224
+35444744~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1608283982462,4,0,"A nice experience, clear explanations, lots of exercises that are really important. The project also allowed one to reflect carefully on how to use R to carry out the analysis. ",0,0,Roel Merckx,35444744
+36480800~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1607247948170,4,0,A very practical course with hands on sessions in regression. I loved the final project which actually helped me to apply everything that I learnt during the 4 week period and hence cleared so many doubts I had in mind. ,0,0,Amara Zuffer,36480800
+74892938~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1604662139863,4,0,The Lab could be better if there was a video that goes with it. But overall I love this course.,0,0,marvin marchadesch,74892938
+14188535~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1595283960379,4,0,"It's a nice overview of linear regression but I feel like there needs to be more time spent on model selection processes, collinearity/confounding/intermediate variables, and interaction terms.  It's super important for accurate model building for research purposes.",0,0,Albert Ha,14188535
+20217021~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1593357189967,4,0,"The key concepts of linear regression are explain really well, without heavy mathematical explanation, that is good, because the main concepts are what it important.The project at the end of the course is REALLY good, you can learn a lot from the analysis and investigation you need to do on it, it took me around  30 hours to really understand and complete (a full time job of 1 week), which is really nice.I give 4 stars to the course, because they don't dig very much in variables selection, specially with categorical variables, with are the ones i had an hard time during the project. Note: It was hard, because it was difficult, but in the process i learnt a lot of things investigating.Besides this point, the course is really good to say: ""I know the basics of linear regression, I know how to handle it in R"", the topic of ""Linear Regression and Modeling"" is of course much, much more larger than what can be explained in 1 course.",0,0,Walter Villafañe,20217021
+45099293~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591630262577,4,0,Great model with clear explanations ,0,0,Mohammed Shamil Serajudeen,45099293
+54668812~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591361465763,4,0,Lecture explanations are fantastic as are slides.  Pace is appropriate.  R information is a little sketchy but manageable with diligence. ,0,0,Janice Hauge,54668812
+16854916~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1587886628159,4,0,"A great course on regression. Though some topics weren't taught in the lecture but they can be easily covered using the links provided in the course. Additionally, a more detailed lecture on diagnostics plot can be useful.  ",0,0,Aditya Vikram,16854916
+30672578~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1587264932480,4,0,"I enjoyed the course and learned a lot overall.  However, we were extraordinarily unprepared for the final project.  The dataset was full of characteristics that were explicitly not covered in the course.  I had to do a ton of outside research in order to complete the project and understand what I was doing.Additionally, the forums are completely unhelpful.  I never got a reply to any of my questions, and saw many other unanswered questions while browsing.  ",0,1,Katy S,30672578
+44190328~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1586296238235,4,0,The material in this course is explained very well. However it requires one has the knowledge in using R.,0,0,Elham Lashkari,44190328
+50087815~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1586071159591,4,0,I liked the course. I learnt a lot while working on its project. Instructor's way of teaching is very engaging.,0,0,Shivani Jaiswal,50087815
+40842760~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1579947939594,4,0,Not covered entire regression technique,0,0,Nikhil Kumar,40842760
+36679598~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1578383970485,4,0,"Again, Dr. Mine Cetinkaya Rundel is amazing. However, linear regression is a vast topic, and maybe another week could have been better. But nonetheless, the concepts explained herein are crystal clear, succinct, and taught in an engaging manner.",0,0,Aaradhya Gupta,36679598
+1535455~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1571600284193,4,0,"The course is good and the material is presented clearly. The capstone project is very good and makes you really use all the knowledge obtained in the course and the pre-prequisite course Inferral Statistics. My only dissatisfaction is that the course was rather short: only 3 weeks of material and 1 capstone. Therefor it covered less material then I expected. For example, I expected logistic regression  to be covered. ",0,0,Veliko Donchev,1535455
+16630104~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1565095063135,4,0,Contents are easier compared with other courses in this series. Quite systematic and easy to understand.,0,0,Siyao Guo,16630104
+40823050~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1559585712250,4,0,"Clearly presented.  R instruction is pretty minimal, so there is a lot of trial and error and googling.",0,0,Natalie Reeder,40823050
+33690154~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1558893527137,4,0,"It's a very good course for starting to learn about linear regression. Just be aware that the quality of this course is a bit lower than the previous two. There are fewer videos, the book material is shorter (less suggested exercises and the chapters cover fewer things about linear regression) and some quiz exercises of week 2, which should only cover simple linear regression, have some questions about multiple linear regression which is the 3rd week's topic. Also, as in the previous two courses, the emphasis is on statistics, not programming with R. This means that if you already know statistics and only want to learn how to use R, there are probably better courses out there for you. But if you want to learn or improve your knowledge of statistics, and also learn how to use R, then do take this course. I think that it's much better to start learning R by actually doing some statistical work and seeing first hand what the software is capable of doing with only a few lines of code, even if you don't fully understand the code's syntax at first.With all that said, if you take the course PAY ATTENTION TO THE LECTURES, READ THE CHAPTERS and DO THE SUGGESTED EXERCISES. I can't stress this enough. If you don't do all of that, you won't learn as much as you should, and it's painfully obvious that some students didn't do all of that when you review their final R projects. Also, take your time with that final project because that's where you will actually learn some things about R and use what you have learned about statistics (you will have to use google to learn how to code some things properly).",0,10,Diego Ramírez González,33690154
+8151204~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1557637516938,4,0,"I liked, but I guess it could improve little by including more topics in linear regression analysis.",0,0,Guillermo Ulises Ortiz Garin,8151204
+10030466~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1555902213058,4,0,Could be more informative,0,0,Lalu Prasad Lenka,10030466
+33158941~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1555634154304,4,0,A good course for Bayesian statistics.,0,0,FangYiWang,33158941
+26438054~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1545224387429,4,0,"Very informative for an introduction.  Wish it was longer and more mathematical, but there are other courses on Coursera for that.",0,0,Nathan Heng,26438054
+29392333~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1544628144302,4,0,Files for this course were broken and I faced a lot of trouble to find good one. This course may be made more comprehensive and not assuming that reader have also understanding.,0,0,Allah Ditta Nawaz,29392333
+13559620~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1544559183085,4,0,A good course,0,0,Toan Le Thien,13559620
+33579993~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1530709210083,4,0,"Really enjoyed this course! It teaches you the theory you need to understand how a linear regression model works, how to check that your model fulfils certain conditions so that it is valid, and how to build and implement your model in practice!",0,0,Sean Tabor,33579993
+1827326~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1524630696349,4,0,Really good course as the previous ones in this specialization. Could have included something more on checking for collinearity with categorical variables.,0,0,christian alsing,1827326
+15231717~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1521528341240,4,0,Awesome course.,0,0,Syed Muhammad Raza Abidi,15231717
+19751740~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1521071199633,4,0,excellent,0,0,Ananda Rivas,19751740
+28990343~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1516480391669,4,0,"Good but I felt some gaps in the material made it difficult to learn.  Also, the quiz questions are focused on attention to detail ""gotcha"" questions.  This can be frustrating. ",0,0,Charles Gallagher,28990343
+82278~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1513759517940,4,0,"Nice course. The downside is that it only explains interpretation of linear regression, but not enough details about how linear regression is performed from math point of view.",0,0,Aydar Aliev,82278
+19472869~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1508054214511,4,0,Very good and gentle introduction to linear regression. The final assignment however uses dataset which is very risky to use with linear regression (not all conditions were met in all the assignments I rated!). This is confusing.,0,0,Tomasz Jankowski,19472869
+565877~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1495445936625,4,0,Great course and lots of useful knowledge! ,0,0,Anna Daniel,565877
+4434057~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1494456221020,4,0,"The material is very straightforward and gives a great introduction to multiple linear regression. My only reservation is the length of the course, which seems to be a bit shorter than other courses in the certification. Would love to have more material/in-depth exposure to components available to us in R.",0,0,Artur A. Belov,4434057
+15876981~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1492646932371,4,0,Very useful insights and lea,0,0,Daniel Chow,15876981
+11938261~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1490912685079,4,0,"This course provides a very good introduction to basic linear regression, including simple multiple linear regression, model building and interpretation, model diagnostics, and application in R.",0,0,Duane Stanton,11938261
+23038865~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1490889022736,4,0,"It was a really good introduction to Linear Model, I recommend this course to all people who wants to learn more about statistical analysis",0,0,Dgo Dur,23038865
+21633276~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1488107725999,4,0,"Good, but a little ""smaller"" than the Inferential statistics course (which is very complete). I would have liked to also learn Logistics regression, which I now have to learn elsewhere.",0,0,Erik Bruin,21633276
+24258321~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1486572900846,4,0,"First, this course will enable me to understand the quantitative part of a research. Additionally, this will help a student to understand the essence of performing such numerical calculations and will make us understand the relationship between different variables.Secondly, this is the need of the hour and such numerical functions are used worldwide so, learning this course will help in almost every field be it 'Management' be it 'Social Sciences' or be it 'Human Behaviour'. ",0,0,Neeraj K Pandey,24258321
+11093198~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1485715760357,4,0,"Good overview of regression modeling.  Would have liked to see more on logistic regression.  But that's ok, can read it on my own.",0,0,Tony Gojanovic,11093198
+15261815~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1484305292172,4,0,"This course was good. However, compared to the other courses in the specialisation had less content. I would have liked to have videos on logistic regression as well.",0,0,Jessye Maxwell,15261815
+13397308~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1481558099917,4,0,I learnt quite a bit. One of the most useful courses! I would suggest add more exercises in R.,0,0,Jian Song,13397308
+8828396~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1481536170746,4,0,This course has provided me with a good and simple understanding on the concept ,0,0,NG YEW WENG,8828396
+6085574~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1480236103804,4,0,"Compared to the Course 2 Statistic inference, this session seems to be a little be informal and rush. But still learn a lot from the conception of linear regression!",0,0,冯允鹏,6085574
+1875527~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1478696942165,4,0,"Great introduction to linear regression. Nice, clean R tutorials via the labs. The lectures do become a little monotonous, but there there are linked readings in a nice, open-source textbook if reading suits you better than listening.",0,0,Richard Nathan Boyes Ambler,1875527
+9414583~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477833431279,4,0,"Excellent Course. Mine, the teacher is a great great teacher. The mentors help a lot. Technical parts, coursera platform should work better",0,0,Ana Caballero,9414583
+903394~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477580592010,4,0,"Excellent course, I think it still could include more content!",0,0,Luis Fernando Rodríguez Caro,903394
+46742~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1472691334390,4,0,This is a great course for this specialization but don't expect much depth.,0,0,Amir Ziai,46742
+512103~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470771999247,4,0,Great course. I only wish there was more time spent on dealing with more complex situations such as overfitting.,0,0,Scott Tse,512103
+10857521~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1469017457744,4,0,"An extremely good introductory course. A must for undergraduates. The style of teaching is fluid and you learn concepts step by step. For more advanced learners the only drawback I see is that this is, by default, an introductory course.But still for advanced learners it can be a great (and I really mean great) refresher.
+
+",0,0,Saif Ullah Khan,10857521
+17755580~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1465264427282,4,0,"nice lecture, but it is really too short, not into too much details.  ",0,0,zhenyue zhu,17755580
+120530788~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1673881097881,5,0,"The course is great and I got the certificate for finishing the specialization. I'm a bit sad though. There used to be a 4-th and a capstone course in this specialization, but they removed them from the requirements. The courses used to be a bit more difficult with a final project, they made them optional too.I really hope they can improve the course content instead of removing things. The sense of achievement drops greatly knowing the courses get watered down in difficulty.",0,1,Y. Ngiam,120530788
+110558872~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1672172989750,5,0,"Very useful, it really helps me to understand how to interpret the association in my study.",0,0,Shenq-Shyang Huang,110558872
+115634689~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1670331970076,5,0,"Super challenging, a worthwhile supplement to my university course.",0,0,Vadym Yudenko,115634689
+107934971~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1666176977289,5,0,t​rès interressant ses cours. Merci pour l'opportunité,0,0,Dimitri Mekontso Tedjeuguim,107934971
+71309455~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1657799539289,5,0,"A​s a medical student, I found the course highly enlightening. With R practice, every week's course was taught me well.",0,0,ASLI BERRU ARSLAN,71309455
+100172187~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1655843588954,5,0,"Good overview  of  LR and MLR - strong on basic principles, assumptions and a relatively simple applications.  ",0,0,Elaina Kenyon,100172187
+94680812~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1654894312888,5,0,really it is very useful,0,0,Sendrella Cat,94680812
+2184117~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1654117966444,5,0,I​ learned alot from the course ,0,0,WAIDI GBENRO ADEBAYO,2184117
+87795793~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1652728469911,5,0,Nice course.,0,0,Sanchoy Samriddha Ranchi,87795793
+4813405~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1650149541218,5,0,I really recomend this course! It was very important to my carreer evaluating buildings prices (real state appraisal).,0,0,artur antonio dal pra,4813405
+71164556~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1644835098469,5,0,Good course,0,0,kuo jason1,71164556
+82511595~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1643395999147,5,0,I really liked the way theoretical knowledge is combined with real study cases,0,0,Alessandro Di Mattia,82511595
+48849534~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1640946430059,5,0,Great introductory course to linear regression. great foundation to build upon,0,0,Stephen Aboagye-Ntow,48849534
+94780130~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1640682104577,5,0,Excellent.,0,0,Beatriz Martin Atienza,94780130
+89790059~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1632771776785,5,0,"linear regression is well taught throughout the course, but I think learning other types of regression modeling would be useful as well and adding them to the course materials is really good.",0,0,Mohammad Abouee,89790059
+76782101~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1632595042084,5,0,valuable,0,0,Khalifa Ali Abdulrahman Hashem (ADNOC Onshore - P&PERF) Hashem,76782101
+53388566~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1628514242462,5,0,  Is,0,0,Priya Pichai,53388566
+57007279~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1628187532107,5,0,"It is a very friendly course and requires you to learn and understand the methods, I highly recommend it ",0,0,VICTOR ALFONSO ISLAS LEDON,57007279
+42886271~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1627231188729,5,0,I 've only finished the first week. but I like the course because of explanatory examples,0,0,nguyen hong nhung,42886271
+85141780~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1625069447085,5,0,The best part is the last exercise,0,0,Jesus Eduardo Uriegas Ibarra,85141780
+63413454~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1624283669493,5,0,Excellent course and excellent teaching. Lots of techniques to learn for regression and modeling. ,0,0,Abdallah Nihrane,63413454
+46024702~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1618437063455,5,0,"I loved the course, and I am loving the specialization. I have acquired important knowledge.",0,0,Juan Rodriguez,46024702
+11454466~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1616016930060,5,0,"I do like the Duke way of teaching statistic, very clear and easy to understand. The final project is interesting and you can learn a lot while doing it, but it won't be enough to do it using the knowledge from this course only, you need to learn from online researching along the way.",0,0,Q R,11454466
+79635067~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1615169142994,5,0,"Really a good course to take, you can learn a lot of things effectively!!!!",0,0,Runda Zheng,79635067
+43875956~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1613336423081,5,0,Very good course that teaches you the theory behind regression analysis and how to implement is using R.,0,0,Michael Schwartz,43875956
+39275216~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1612531405748,5,0,Best Course under Statistics domain on coursera,0,0,Nandini Guntur,39275216
+33380452~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1612051177813,5,0,we can learn fundamental concepts of linear regression by this course,0,0,Akira Sugihara,33380452
+3554322~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1611670403086,5,0,Nice introductory course!,0,0,George Papadopoulos,3554322
+749448~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1610529041103,5,0,"Extremely helpful, easy to follow, and with a great learning curve!",0,0,Anka,749448
+31496509~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1610363242693,5,0,Very helpful for beginners and those refreshing their statistical skills alive. Thank you for this course and problem statements.,0,0,Deepak Saldanha,31496509
+65516959~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1607986703402,5,0,"I learn a lot. It added more lessons beyond my graduate school. Especially that the course is based on R, this course is very helpful for my journey towards using R. ",0,0,Mart Andrew Maravillas,65516959
+18053447~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1607023481220,5,0,Excelente curso para recordar muchos conceptos un poco olvidados. La metodología usada para acercar el contenido al uso de RStudio es excelente y gracias a ella logré desarrollar una serie de nuevas habilidades.,0,0,Camilo Montes,18053447
+23695897~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1606796880927,5,0,Good course for regression modelling. ,0,0,pawan sharma,23695897
+17947506~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1604472500145,5,0,Very good!,0,0,Qiming Liu,17947506
+65551164~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1603831156513,5,0,It's awesome,0,0,Yassir Arroud,65551164
+68594274~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1603367857313,5,0,very good and clear presentations,0,0,Angelo Queipo,68594274
+65486396~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1602994240875,5,0,"It covers all the basics of linear regression and creates a strong base for studying logistic, poisson regression.",0,0,Gaurav Jagtap,65486396
+61429446~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1602785951583,5,0,this course is very good,0,0,YOUNES ELOIARM,61429446
+34188776~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1602603921518,5,0,Thanks for all the works.,0,0,chi zhang,34188776
+44608632~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1602222350154,5,0,Thank you!,0,0,Tom Belanger,44608632
+73476630~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1602207717518,5,0,Great,0,0,RAHMA MELIA FITRI,73476630
+73441049~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601614237782,5,0,Great course,0,0,MUHAMMAD RAIHAN,73441049
+73474481~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601549946266,5,0,GOOD,0,0,Musthafa Badri El-Kautsar,73474481
+72905438~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601480495249,5,0,thank you,0,0,ADITYA WIDODO PRATAMA,72905438
+72904318~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601457892987,5,0,I'm so very stress but very grateful too and get a lot knowledge. Thankyou coursera!,0,0,Aulia Azzahra,72904318
+64967217~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601457716328,5,0,I'm so helpful after I finish this course. ,0,0,BAROKATURRIZKIA AMELIANI,64967217
+67364934~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1601445495248,5,0,i really enjoy this course. thank you so much!,0,0,FAIRUZIA RAHMADIYANTI WIDYADHARI,67364934
+61605932~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1600016042758,5,0,Excellent Course,0,0,Yusra Naseem,61605932
+64808217~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1599972389468,5,0,"The course is structured in a very informative way, it is easy to understand and at the same time difficult concepts are presented in a very easy way. The course instructor is awesome. ",0,0,Aditya Nigam,64808217
+65561422~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1599451659270,5,0,Thank you!,0,0,Lou Benedic Valle,65561422
+64109340~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1598312243282,5,0,Great course!,0,0,Carlos Andrés Monzón Quispe,64109340
+67452318~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1598058305330,5,0,"I really like regression - related topics, and I learned a lot and in an easy way.",0,0,Ana Milena Cardona Fernández,67452318
+49800759~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1597976204178,5,0,Great class with a great teacher. I learnt a lot and enjoyed the process.,0,0,calvin nuon,49800759
+50201437~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1597650575808,5,0,nice,0,0,Aman Garg,50201437
+9035326~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1597556843359,5,0,very clear and helpful,0,0,chenshuai,9035326
+32003854~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1597134247017,5,0,Perfect,0,0,mausci71,32003854
+34259375~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1596942768047,5,0,This was a challenging but very rewarding course.  I feel that my analyst skills have greatly improved as a result of understanding and applying the ideas through the quizzes and final project.  Thank you very much to the instructors!,0,0,Cynthia  Joan Johnson,34259375
+55806750~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1596132108162,5,0,"Well structured course , huge thank to you,I learned a lot, in fact, while learning this course, I was in a discovery internship in an office of agriculture, and I was giving data about date production of a certain product, rain, temperature, and thanks to this course I knew what to do and I manage to fit a multiple linear model.The result was not perfect due to the lack of data and other factors, but I was very satisfied with my work.",0,0,Ghali Mohamed,55806750
+58973591~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1596112145910,5,0,A very good course. I am from the engineering field and this course really helps.,0,0,Akshay Kumar,58973591
+37530088~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1595518879163,5,0,Excelent  Course,0,0,Oscar Couoh Ramirez,37530088
+56664116~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1595429356757,5,0,"A great primer on linear regression with labs that help to establish understanding and a project that is focused enough not to be overwhelming, and allows the learner to play around with the concepts",0,0,Tanika Mei,56664116
+59298521~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1595252888665,5,0,Excellent and effective way of learning statistics and Linear regression!,0,0,Anushka Bandara Tennakoon,59298521
+64029831~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1595042002333,5,0,"This course helped me in understanding the real story behind the numbers that we get in outcomes after running a linear regression , making predictions and interpreting the data. the tutor is really good and explains everything in a very simple manner. Thanks Courseera and thanks Duke University.",0,0,Sehrish Munaf,64029831
+8482353~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1594882234202,5,0,"This course was designed fabulously! However, you'd better have some statistics skills before this class, like EDA and programming skills, since the final project is sooooo hard!",0,0,hou,8482353
+64270726~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1594562378784,5,0,Great course. I've started knowing very little and were able to do great.,0,0,Joao Victor Alcantara Pimenta,64270726
+49412835~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1594549257345,5,0,Great Course!!!,0,0,MOH MAJEED YAKUB SHAIKH,49412835
+49258809~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1594547722198,5,0,Good practical introduction to linear regression modelling. ,0,0,Benjamin Esche,49258809
+274205~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1593959754609,5,0,"This course checked off many boxes: theoretical concepts, assumptions, R code, interpreting the output, thought-provoking questions, non-trivial quizzes and interesting data analysis project. I am grateful to the instructor for putting together such a useful course. Thank you ! ",0,0,anand v,274205
+62484272~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1593836437200,5,0,thank you i learned a lot,0,0,"ZOLINA, ALCHRIS NIÑO (NAVAROSA)",62484272
+61509181~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1593798763592,5,0,informative,0,0,Vedant Gupta,61509181
+48250646~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1592860667271,5,0,"The content of the regression course is an essential first step into the world of data modeling.  Mine as always did a remarkable job of intertwining theory with practice.  The final project was certainly time-consuming and challenging, but extremely worth it to integrate the material well.",0,0,Sandro H.,48250646
+52840069~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1592459952752,5,0,Good structure of course.,0,0,GISHA GEORGE,52840069
+27095572~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591638927526,5,0,Excellent course.  I feel this specialization and this course are far more rigorous than the statistics class I took in college.  The professor does an excellent job of making the material very intuitive.  The steps needed to develop a sound linear regression model are very clearly explained; the diagnostics are clearly laid out with examples of how to test each condition.  I highly recommend this class.,0,0,Monique O'Driscoll Vo,27095572
+36962751~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591285439032,5,0,",",0,0,Sanan Imanguliyev,36962751
+57492240~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591173315727,5,0,"The course is very interesting and the concepts behind the regression analysis are very well explained and the pedagogy adopted by the professor is excellent and with the various examples and in between video quizzes, the implementation part of the concept was given complete justice.",0,0,Vishal Tiwari,57492240
+53639439~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1591016429609,5,0,"This is arguably the best online course I have ever done. The teacher and the way she drives home her point her spot-on. Until now, I have struggled with most aspects of linear regression, e.g model selection, model fitting and interpretation of the results. Undertaken this course has cleared all these shortcomings and I can't wait to start analyzing my PhD project. I appreciate the opportunity afforded me by Duke University and Coursera for participating in the course, it will indeed help me in my academic pursuit and lastly many thanks to the facilitator of the course Dr. Mine Çetinkaya-RundelI appreciate.Adedayo Michael, AWONIYI  ",0,0,Adedayo Michael Awoniyi ,53639439
+42153342~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1590653680534,5,0,This Module/course was very good. I have learnt many concepts which will be helpful while learning machine learning.,0,0,Aditya Girigoudar,42153342
+57508686~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1590412297681,5,0,Fantastic content and organized devlivery,0,0,Mr. V. B. Vaijapurkar,57508686
+12216880~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1590398425228,5,0,"Not very hard, but useful, especially in model diagnostics and comparison ",0,0,Михеев Владмир Юрьевич,12216880
+13145936~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1589515257679,5,0,It has been a great adventure so far. I still greatly appreciate how final projects are constructed that gives us freedom to choose our approach to the problems within the data set.,0,0,Long Dang Hoang,13145936
+50425484~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1589277517305,5,0,"Very complete course, although it would be nice to include some explanation about the interaction between variables in a multiple linear regression.",0,0,Lucia Mayor,50425484
+33662311~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1589116775589,5,0,Thanks so much! I have learned a lot.,0,0,Shiyue LI,33662311
+50029395~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1588514028596,5,0,Good course,0,0,Yichang Liu,50029395
+35134116~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1588338340547,5,0,It is a very nice course. The instructor's way of delivering the content is flawless and very precise. The course has been designed very nicely.,0,0,Ashutosh Shukla,35134116
+44299569~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1588284092539,5,0,"these lessons are great even if the class ends, these are helpful for future assessments",0,0,"EGAM, ANGEL FLYNN (LUALHATI)",44299569
+44384592~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1588042742688,5,0,Excellent course and very well organized!  ,0,0,John Catalano,44384592
+37633283~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1587659982851,5,0,"Excellent course, wonderfully organised and in-depth yet simplistic explanation technique makes understanding regression easy.",0,0,Amarendra Singh,37633283
+47405761~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1587653700353,5,0,The course material was relevant and well-taught.  The course was well-paced.,0,0,Nicholas Jones,47405761
+29522616~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1585850901697,5,0,Really useful stuff in this course,0,0,Edward Ferrara,29522616
+46214919~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1584987916146,5,0,The course is very beneficial both in terms of learning regression modeling and R programming.,0,0,Gor Sahakyan,46214919
+48366060~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1584706636678,5,0,Very good courses. Great teacher and exercises.,0,0,Gerardo Martínez Álvarez,48366060
+35593038~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1583803679852,5,0,"really good course, it will be better if added more R programming learning in the videos",0,0,詹佳鑫,35593038
+25995593~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1581733347503,5,0,Excellent Course. Make anyone who is fear staticstics understand Regression. ,0,0,Dongliang Zhou,25995593
+27156336~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1577331237887,5,0,Wonderful course,0,0,Bhabani Das,27156336
+3010754~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1576719351437,5,0,Another fantastic course by Duke staff. I'd love to thank Professor Cetinkaya-Rundel for the passion that she shares.  I really loved working on weekly labs and a final project. I learned a lot of tools and developed my own functions while solving the tasks. ,0,0,Valeriy Kondruk,3010754
+2950424~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1575733576400,5,0,Worth it!,0,0,Md Nurul Islam Sohel,2950424
+2269962~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1574691922534,5,0,Nice introduction to linear modelling! really easy to follow,0,0,Giulia Tamburrino,2269962
+418973~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1574264780918,5,0,"It is a course with an excelent level, it is well evaluated and one can to learn a lot.",0,0,Michael Olmos Trujillo,418973
+32123279~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1570862361393,5,0,This course explains the statistical aspects of linear regression. A detailed explanation  of minute aspects of linear regressions. The quizzes and assignments are quite exciting. Recommend to anyone with little know (4/10) knowledge regarding Linear Regression.,0,0,Chris D'mello,32123279
+43663451~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1569851089347,5,0,An excellent course by Professor Rundel on Linear Regression and Modelling,0,0,Parab Nachiket Subhash,43663451
+38839697~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1568730678264,5,0,It's helpful for me!,0,0,Deleted Account,38839697
+16297771~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1565744898651,5,0,Excellent!,0,0,Eduardo Marenco,16297771
+20898232~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1563311620793,5,0,This course was exactly what I needed for a project involving logistic regression. Difficult (way past beginner!) but clear. Doing all the exercises in the workbook cemented my knowledge. Good final project. Very interesting to see other people's results from the final project. Great teacher! Thanks Duke!,0,0,Sherrod Blankner,20898232
+9777759~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1562771537352,5,0,Excellent,0,0,gerardo reyes guzman,9777759
+39943797~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1559825891499,5,0,Good lectures!I learned many thing from this course!Thanks,0,0,Heungbak Choi,39943797
+8111827~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1559337446768,5,0,Good videos and projects,0,0,Greg Schliesmann,8111827
+30288606~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1559156721426,5,0,Incredible course with interesting projects and excellent explanation. ,0,0,Jacob Turney,30288606
+14563306~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1558768638762,5,0,"I feel I'm running out of complement words for this course series. In conclusion, clear teaching, helpful project, and knowledgeable classmates that I can learn from through final project. ",0,0,Rui Zhang,14563306
+32888609~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1553823740978,5,0,Excellent. A well designed course and the explanation are very easy to understand,0,0,Alfredo José Neto,32888609
+461911~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1553221391952,5,0,Great contents and great teacher. I enjoyed it very much.,0,0,Henri Menager,461911
+23689229~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1552981574356,5,0,Nice module! It is very clear.,0,0,GUO Shiwen,23689229
+32118320~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1551618720180,5,0,"Very good, and most important of all, very well explained!",0,0,Aleix Dorca,32118320
+6386244~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1549365582830,5,0,"Really great course, clear and easy to follow. Highlight recommended. ",0,1,Richard Millington,6386244
+36829416~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1548551750997,5,0,Great course!,0,0,Olga,36829416
+4092188~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1548130536485,5,0,The applications of linear regression models are vast. This is a useful course.,0,0,Sergio Escalante,4092188
+35116181~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1547617909290,5,0,"Simple syllabus, but excellent explanation. ",0,0,YASHKUMAR RAMESHBHAI TRADA,35116181
+37541931~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1546964806421,5,0,Exceptionally helpful for beginners due to perfect combination of theoretical and practical sessions.,0,0,PRIYANKA DAS,37541931
+2070864~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1546867451493,5,0,"A great intro to linear regression, both from theoretical and practical point of view.  Really enjoyed the course! ",0,0,Daniel Castro Johanning,2070864
+27243339~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1546509989652,5,0,10/10,0,0,Bilinclizihin,27243339
+36674717~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1545446993642,5,0,"The course provides good insights for linear regression. Also, I think the professors are intended to statistics and its application in real life.",0,0,Charles Chen,36674717
+11848761~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1545224577455,5,0,"Great course, just like the rest of the specialization.I am just missing math formality, but I guess that I shall target a different type of course (perhaps even of platform) for that.Great professor; one can see that besides mastering the material, she has done the homework regarding teaching techniques.",0,0,Dario Bahena,11848761
+4643519~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1544549196110,5,0,Amazing content!,0,0,Tulio Carreira,4643519
+8493068~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1543069960366,5,0,The flow of information is clear and understandable. ,0,0,Abdullatif Alrasheed,8493068
+3116352~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1542932869240,5,0,/,0,0,Robert,3116352
+33391613~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1542889572401,5,0,"Great course! as a suggestion I Believe Duke should publish new courses on other prediction tools (like SVM, for example)",0,0,Pedro Moro,33391613
+7056367~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1541705451179,5,0,Very useful and practical,0,0,Jaime Rodríguez,7056367
+2190476~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1541363815180,5,0,"I enjoyed this course. It was quick, but I learned a lot! I thought the assignments were well-thought-out, and the custom R package for the course was a nice touch. ",0,0,Julian Alexander Stanley,2190476
+37069134~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1540796651469,5,0,"This course was very challenging. I learn a lot with the model we have to find and it is very interesting to note other students. None of us found the same results. For me, it is very strange not to know at the end what are the good results. It seems that you change the subject overtime. Do you send the correction?It will be nice to know if we reasoned correctly. ",0,0,Anne BRUNEL,37069134
+35634417~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1538445663908,5,0,Learnt a lot after doing the course project. Very good exposure.,0,0,Lokesh Muthuraj,35634417
+519463~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1536754896807,5,0,Simple and easy way to understand statistics.,0,0,vineet pandey,519463
+20560951~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1535945374948,5,0,Brilliant Course,0,0,Aravindan Vethachalam,20560951
+519041~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1534399776170,5,0,How I loved this course! Elegantly taught and lots of learning :),0,0,Md Hamza Umar,519041
+14961265~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1534078343025,5,0,Great Lesson!,0,0,Aidi Bian,14961265
+19012434~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1533401438693,5,0,Great work! Really intuitive and helpful for regression cases.,0,0,Janio Bachmann,19012434
+14995848~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1532534585519,5,0,"Very interesting, well taught. ",0,0,Sophie Gallet,14995848
+22047110~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1529584479455,5,0,This was the first course where I started noticing that I'm really learning and was able to apply some of the earned knowledge at work.Totally recommended.,0,0,Marcus Sanchez,22047110
+33366499~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1529038857430,5,0,Good way to startCovered all basics stuffSimple to understand Good structuring,0,0,Arun Sathyanarayana,33366499
+23397674~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1528314182629,5,0,Nicely Explained Concepts :),0,0,Dushyant Dhankar,23397674
+6998186~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1527705754147,5,0,Very helpful! ,0,0,Luo Yuan,6998186
+29128283~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1526742767016,5,0,"Great learning experience 😊 learnt how to  Build efficient  models  by
+keeping in mind so  many statistical
+techniques ",0,0,Lakshmi manasa,29128283
+30872606~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1525940082959,5,0,The course has enabled me to grasp the concepts on linear regression and how to conduct a statistical analysis.,0,0,Lilian Onyango,30872606
+1574015~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1525839924630,5,0,Thanks to the instructor and all the people involved for this wonderful course.,0,0,anirban dutta,1574015
+22735398~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1523988859152,5,0,One of my favorite course.,0,0,Pratibha Kumar,22735398
+3521576~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1523522939633,5,0,presenting linear regression concepts is amazing and worth to spend time for it.,0,0,Jalal Abdellahi,3521576
+32233776~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1522788918296,5,0,"
+Good course, gives you a solid foundation.
+
+",0,0,Ben Reed,32233776
+24341851~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1522600462479,5,0,This course is vary useful,0,0,Alexey Kuzmin,24341851
+32300741~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1522547377415,5,0,"great course,  it help me better understand some concepts. But the content is kind of short. ",0,0,郝崇皓,32300741
+13268630~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1521664599646,5,0,Very interesting course and well taught!! Advice to everybody also if you have not much previous experience with regression.,0,0,Andrea Pagani,13268630
+24116490~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1520202927662,5,0,Extremely Informative Course.,0,0,Rony Sulca,24116490
+25818764~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1518649767544,5,0,"Great work Mine Çetinkaya-Rundel, I liked the wrapping of the course and way of teaching .",0,0,Cosma Adrian,25818764
+13991595~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1517860473263,5,0,"Great course, very helpful.",0,0,Jim Flynn,13991595
+28749071~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1517475129608,5,0,Pretty Good!,0,0,fanjieqi,28749071
+1220981~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1516584061688,5,0,Great course for a begginer. ,0,0,Raja Ramana Kova,1220981
+5101052~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1516459675977,5,0,"One of the most useful of the series, can be valuable as a standalone course on Regression and Correlation. It is also very accessible.",0,0,Bruno Rafael Santos,5101052
+16786675~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1516389761638,5,0,"A good course introducing basic ideas in linear regression and modeling! However, it might be better if future versions of this course could include slightly more advanced concepts such interaction and logistic regression model. ",0,0,Zhou Cao,16786675
+8900972~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1515537211620,5,0,easy to understand,0,0,Yi Yang,8900972
+851910~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1514915363259,5,0,A great introduction to linear regression modeling.,0,0,Ahmed Ibrahim,851910
+23376162~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1513852648563,5,0,Good course. ,0,0,Theo Alli,23376162
+28035709~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1513808239763,5,0,Nice course on using R for SLR and MLR!,0,0,Stanley R Carlson,28035709
+4660492~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1513718034500,5,0,Great course. The instructor is very clear on the statistical concepts and thorough on the application of various methods. I learned a lot about how to do regression analysis from this course. The R integration is very helpful as well. Overall great course! Everybody should take it and complete all the quizzes and the final project. ,0,0,Can,4660492
+25493775~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1511894151841,5,0,"Great course! I've already taken a similar stats course using SPSS and this course was an excellent refresher, while increasing my familiarity with R. ",0,0,Amanda Bradshaw,25493775
+18896678~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1511765001906,5,0,"Nice course. Comparing this course with the second and fourth ones in the specialization, this is a rather light-weighted one.",0,0,Shao Ying (Clare) Huang,18896678
+1259129~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1511174163283,5,0,This was a very straightforward and thorough class with clear material that was logically structured.,0,0,Jennifer Koenig,1259129
+28522736~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1510226899016,5,0,practical and useful,0,0,张馨元,28522736
+27719294~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1510156148439,5,0,Great course.,0,0,Ricardo Bejarano,27719294
+21543684~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1510143237918,5,0,Excellent material,0,0,Ale Declerr,21543684
+2448~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1508695686515,5,0,"Tough, but good course with interesting capstone project",0,0,Andrew Denisov,2448
+28758273~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1507808189391,5,0,The lab work is pretty well-designed. I've learnt a lot from it! Great!,0,0,"Ji, Chunyu",28758273
+27092364~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1507735734166,5,0,Very helpful!,0,0,Tian Zhang,27092364
+23613140~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1507623807032,5,0,perfect,0,0,Bouquegneau,23613140
+27627306~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1506896653011,5,0,Excelent !!!,0,0,AGUSTÍN GARCÍA GONZÁLEZ,27627306
+1646764~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1505484967724,5,0,"fantastic course on linear regression, concepts are well explained followed by quiz and practical exercises.though you need to complete the prior courses to understand this.",0,1,Vijay Prasad Sripragada,1646764
+645348~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1502989728369,5,0,"Loved the course; content, exercises and the final assignment we very good. Loved the instructor's energy!!",0,0,Arun Iyer,645348
+8862202~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1502076318264,5,0,Another excellent course in this series.,0,0,Thomas J. Haslam,8862202
+13828126~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1501782675668,5,0,The content is very basic but useful!,0,0,LynchWong,13828126
+15816091~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1501683573064,5,0,I truly enjoyed this course. It's one of the most useful and easier to understand than the rest. Could use more samples and information on how to deal with Categorical Data though.Final Project is a full-time job. 1-week while working full-time is hardly enough time.,0,0,Ann Nelson,15816091
+6303297~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1501008033512,5,0,awesome coursework,0,0,Utkarsh Agarwal,6303297
+23285085~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1500992217157,5,0,"Very short and concise, and minimal theory related content. Very practical crash course.",0,0,Shibin Tang,23285085
+11704079~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1500476348322,5,0,Interesting project for a moviegoer!,0,0,Chengran Yang,11704079
+1734381~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1500455962751,5,0,"Very interesting, I have learned a lot and I have been able to apply it to the final project",0,0,Marina Conde Ramos,1734381
+24562583~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1500278912585,5,0,"Very useful for my job, excellent as a foundational course in regression",0,0,Adam Andrew,24562583
+18945672~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1500096034255,5,0,"Good, detailed course on linear regression and how to perform statistic inference on the coefficients.",0,0,Kevin Lin,18945672
+26990561~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1499939067375,5,0,Great.,0,0,Byeong-eok Kang,26990561
+19829018~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1499210935258,5,0,wonderful module! easy to understand. the labs are extremely helpful which enables you to have a good command of practicing linear regression with R,0,0,Hao.Xue,19829018
+581819~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1498025543160,5,0,Excellent for new learners!,0,0,Pratik kumar chhapolika,581819
+8711091~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1496952665404,5,0,"Instructor  teaches the concept well , a new to statistics can learn easy",0,0,Sylas John,8711091
+13482467~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1496790472339,5,0,I enjoyed the course. ,0,0,Grisel Capriles Andriassi,13482467
+13109391~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1496782573105,5,0,The Professor is a clear communicator and has a flair for finding interesting and engaging examples to illustrate the concepts.,0,0,David Willson,13109391
+4691981~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1496629122218,5,0,Difficult. Possible. Love it. My the most favourite course or the specialization,0,0,Marina Zub,4691981
+13085334~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1495716115541,5,0,Very nice introduction to regression techniques and helpful labs on how to implement in R.,0,0,Andrew Lugg,13085334
+14019229~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1495633973219,5,0,Very good course taught by Dr. Mine who is as always a very good teacher. The videos are very eloquent and easy to understand. Highly recommend it if you are looking for a basic refresher course. ,0,0,Praneeth Kvs,14019229
+13086165~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1494861438606,5,0,Excellent training !,0,0,Julien Escribe,13086165
+19232133~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1494691080930,5,0,"Super useful, Mine has incredible pedagogic skills",0,0,David Olmo Pérez,19232133
+24151446~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1494663411517,5,0,All the secret of linear regression are revealed in this course!,0,0,Benjamin Gauron,24151446
+3746018~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1493553382371,5,0,It is a good course,0,0,Saul Abraham Garcia Calderon Chavez,3746018
+22507157~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1490164023640,5,0,Very useful.,0,0,José Marcelo Costamagna,22507157
+15071163~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1489962678705,5,0,Best course in the series so far. Highly recommended! Seriously.,0,0,Emmanouil Kalaitzakis,15071163
+7080102~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1489175866109,5,0,Awesome teacher,0,0,Samir Ranjan,7080102
+2745835~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1488372730896,5,0,"As with the previous courses on this Specialiazation, the instructor makes the difference. With detailed examples, clear explanations and a very handy supplementary e-book provided for free, this is a must course for everyone wanting to learn Statistics. Highly recommended!",0,0,Minas-Marios Vamvoukas,2745835
+23773203~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1488095185925,5,0,Best course on linear regression  and modelling.,0,0,Himanshu Deo,23773203
+16969929~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1485871258850,5,0,Excellent easy going course,0,0,Prasant Kumar Samantaray,16969929
+4512242~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1485280984044,5,0,"The lessons from this course are very useful, and I will be able to apply them for work.",0,0,Joseph Kaire,4512242
+11152109~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1485121291878,5,0,Excellent course and content for the beginners. I certainly learned a lot from this course. a Big Thank You!!!,0,0,Nishit Patel,11152109
+4855252~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1484826533737,5,0,"Superb, Best course, Best data set for project analysis",0,0,K.K.Thampi,4855252
+18718083~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1484822518335,5,0,Nicely explained ,0,0,Karanpal Singh,18718083
+22015492~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1483823976130,5,0,Very good course.,0,0,Donal Glancy,22015492
+224183~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1483552411797,5,0,One of the best holistic fundamentals reviews of regression analysis. ,0,0,Erika Uyterhoeven,224183
+12009525~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1483381899976,5,0,"Again like the first two courses, this course was great. The Lectures were excellent and the assignments very helpful in solidifying understanding. Thanks a lot Dr Mine",0,0,Yaw Owusu-Agyemang,12009525
+4691044~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1482634804053,5,0,Best approach to learn linear regression. Good course!,0,0,M. Reiko,4691044
+10427032~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1482347694491,5,0,Great material. ,0,0,bin jia,10427032
+19533004~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1481386522907,5,0,this course is thorough and indepth,0,0,Abiodun Bayowa,19533004
+10487997~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477559817971,5,0,Great Course ,0,0,Kuntal Ganguly,10487997
+18981811~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477544356152,5,0,.,0,0,Yu-Yang Liu,18981811
+13954261~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477471797783,5,0,"This is the first course that's made me understand linear regression. The instructor is so spot on, and all areas are covered including diagnostics which I find most teachings skipping. Awesome course!",0,0,Arnold Taremwa,13954261
+19066768~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1477127390152,5,0,Very interesting course. I recommand it,0,0,Marc Jaffrennou,19066768
+5744710~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1476247737572,5,0,"Excellent course, quality teaching ",0,0,Bryan Scheiderer,5744710
+18729546~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1475423815029,5,0,The structure of this course is really good. The slides demonstrates everything clearly. The speed that the instructor talks is good too.,0,0,Hanyue Zheng,18729546
+7044386~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1474841578090,5,0,"Fantastic course with fantastic materials, i love it.",0,0,pascal seke,7044386
+17204815~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1474567701732,5,0,Very good course. while it does not cover everything. the teacher does a great job explaining things in a simple manner. My feed back would be to move ANOVA into this module. ,0,2,Omar Kahwaji,17204815
+504100~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1474365681193,5,0,An awesome course with great resources and teaching style,0,0,Vincent Mathew,504100
+19112709~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1473343586800,5,0,"Excelent, excelent, excelent, excelent",0,0,Gonzalo Colmenarejo Sanchez,19112709
+3341961~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1471366763271,5,0,Does a good job of explain a complicated topic in a very simple and understandable way,0,0,Andy Davidson,3341961
+12750068~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470913793252,5,0,Very usefull and interesting.,0,0,Minasian Vaagn,12750068
+7931283~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470729340823,5,0,Good Explanation,0,0,UTSAV BHARGAVA,7931283
+16863904~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470569200874,5,0,Good course well taught. ,0,0,Sinan Jasim Hadi,16863904
+18355097~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1470553874833,5,0,很棒 学到很多东西,0,0,BillyLin,18355097
+6339180~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1469653173087,5,0,"
+Clear explanation of concepts
+",0,0,Shaima Mohamed Salim,6339180
+1340265~COURSE!~oSAFEslDEeWCSBJ1_yk7Tw,1465330318743,5,0,Very nice course! Amazing teacher!,0,0,EDILSON SUAME SILVA OLIVEIRA JÚNIOR,1340265

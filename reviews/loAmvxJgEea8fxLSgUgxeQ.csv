@@ -1,0 +1,509 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+91158286~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1630707721126,1,0,T​he VM software provided is now out of date. The use of a clunky GUI-based tool (KNIME) seems like a  waste of time--not likely to be useful in real applications.,0,0,Tim Cassidy,91158286
+47183515~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602866119998,1,0,cloudera vm doesnt work well,0,0,Martin DION,47183515
+36138655~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1571885319052,1,0,"Regression is least bothered, less hands on",0,0,Kamalesh P,36138655
+18696918~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1481697639756,1,0,"The course content is very poorly explained. The quiz questions don't really test what was taught in the lectures, and the assignments are just copying and pasting things. I feel like I still have a very poor understanding of what was supposedly covered in the course. I cannot generalise or apply the 'learned' information or skills to other topics or researches because I didn't actually understand the core concepts or how to use the programs.",0,0,Beatrice Cheung,18696918
+3007741~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1479610300403,1,0,"This is another course in UCSD's ""Big Data"" introductory course.  The material is not pertinent to a specialty on big data technologies.  Further the course does not increase one's knowledge of Machine Learning in any way that justifies spending the time in the course.",0,0,William Raper,3007741
+76254570~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1621809678050,2,0,the course is good but the software is outdated and not maintained. avoid,0,3,Iván Aponte,76254570
+69234074~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597949704576,2,0,"It should have been made clear that good experience in Spark is required for this course. I struggled with most of the commands and had to watch, re-watch most Spark related videos, google meanings of commands etc. The course experience was not very pleasant. Nevertheless, thank you.",0,0,Anirudha Anand Managoli,69234074
+50592531~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591968125903,2,0,The course was thrilling with a lot of hands-on activities..but the downside was that there were errors especially in the second and last hands-on and those bugs are so annoying giving the fact that some of us are still new in the big data world and have no clue to solving such problems,0,0,Nwogbo bani Chibuike,50592531
+47813433~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591749959285,2,0,Considero que está algo desactualizado el curso y las herramientas de aprendizaje. Tenía mayor expectativa,0,0,LEONARDO  RAMIREZ,47813433
+33257976~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590196129242,2,0,"I have to say this course is so disappointing. Almost all the instructions in hands-on assignment about the installation of system are wrong, which means you have to waste lots of time finding the right methodology by yourself. In addition, the lectures are theoretical and unrelated to assignments. You can have a very, very basic understanding about the tools mentioned in this course and what's why I think the staff should redesign the stucture of this course.",0,2,Yi Shen,33257976
+37513564~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1559051240624,2,0,"It's a very basic course. In my opinion, if you have done some research by yourself this won't provide you new knowledge about the topic. The assignments can be done by a 5 year old and they don't even make you put an effort into it. In my opinion, not worth the money.",0,10,Joaquim Pla,37513564
+21731617~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1511670206830,2,0,Too basic,0,0,Ruijia Wang,21731617
+1370050~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1508249272856,2,0,The virtual machine in this course no longer is functioning.  PySpark update seems to not play nice.  I think the content also needs some updating for more modern machine learning techniques.. like using big data with deep learning systems like tensor flow or PyTorch.,0,0,Erik Peterson,1370050
+1962905~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1507122010616,2,0,"This course is more ""the very basics of machine learning"" illustrated with some examples. The lectures were clear and logical, but honestly, very basic. Unfortunately the big data handsons (the ones with pyspark) are not explained very thoroughly, often they just state that ""do this or do that"" instead of explaining what is going on. All in all, I have expected more big-data related topics and less introduction to machine learning. ",0,0,Csaba Péter Ortutay,1962905
+4246602~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1501505647921,2,0,"The parts including KNIME was not interesting or educational, it was just an big grind. I feel once you are on a level to use KNIME you know that it is better (and easier) to use other frameworks where you have more control, therefor missing customers the program is meant for. Additionally the last hands-on felt rushed and just copy-paste to some extent (to being able to complete the tasks), even for me having a lot of jupyter and machine learning background. ",0,0,Tobias Olsen Foslid,4246602
+26076389~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1500028266136,2,0,"I expected course with more in-depth and more difficult examples, I learned about a few new concepts, most methods were repetitions for me.",0,0,Manfred Kuegel,26076389
+19860029~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1480792569780,2,0,"Machine learning is too simplified and spark part is not even explained, also very little relation of all course with Big Data.",0,0,Alfonso Alvarez Gómez,19860029
+3783631~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1479462888746,2,0,Almost a useless course - ML overview using KNIME which gives no insight whatsoever.,0,0,Michal Švácha,3783631
+87967054~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1643225001005,3,0,The content of the course is basic but not bad. The wrost thing is that we can't use the virtual machine and follow the activities. The Jupyter doesn't work and KNIME version used in the video is very old.,0,2,Allyson Dias de Lima,87967054
+37978806~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1610531268162,3,0,The course as such is not too bad ... BUT it's nearly impossible to do the hands-on exercises as Cloudera doesn't support virtual machines anymore.,0,0,Thorsten Schlack,37978806
+44550057~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602597235338,3,0,I would like to give a three-star rating because  of the following reasons:1.Very Few Exercises2.No challenging exercise3.Only discussed Decision tree classifier 4.There are other important machine learning algorithms.5.Overall I don't like the design of this course. It could have been degined to prepare learners for the industrial job ,0,0,Sarwar Alam,44550057
+38264008~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601909647748,3,0,"The course tries to cover too many areas of Machine Learning, which ends up reducing the amount of time per topic, as well as the information you'll get to see. ",0,0,Santiago Cortes Fernandez,38264008
+35238205~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1600672199307,3,0,"Low volume for lecture videos,  System setup is long and tedious .",0,0,Atharva Joshi,35238205
+2652646~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1600007228819,3,0,"Very basic, and if you know machine learning only good for using knime",0,0,Giorgi Batiashvili,2652646
+68190394~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598353415875,3,0,nice course,0,0,shraddha sonekar,68190394
+8650203~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594595891242,3,0,"Un curso introductorio a las técnicas de machine learning. Los ejercicios en Knime permiten entender el paso a paso de un proyecto de ML, mientras que los ejercicios en Python son prácticamente replicar el código ofrecido y no agrega valor a menos que conozcas muy bien este lenguaje de programación",0,0,Sebastián Cardona,8650203
+44151750~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592726415340,3,0,Topics covered are good.Outdated.Hands-on needs to be updated. Exisitng set of 5th week contains error  ,0,0,HILLEL DOR,44151750
+38654574~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591439627536,3,0,"this is more about ml classes, very less practical, only theoretical........",0,0,Akash Raj,38654574
+43701366~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590841663027,3,0,The descriptive topics were The Handson exercise could be more elaborative. Many of the commands are just written but not explained.,0,0,Mohan Raghunath Sabat,43701366
+24303432~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589502489601,3,0,Very basic in terms of statistical techniques but liked the use of big data tools,0,0,Luis Alaniz,24303432
+195878~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589340098022,3,0,"El curso es introductorio no ahonda en los temas, me hubiese gustado que hubiese mostrado mas temas.",0,0,JAIDER MANUEL FERNANDEZ TORRES,195878
+10652491~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589072357465,3,0,"The course start excellent talking about categorical predictions but I would like see a similar explanation for regression or numeric predictions. However, the course offer an excellent quality.",0,0,Victor Jose Olivero Ortiz,10652491
+38024228~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588543205631,3,0,The Cloudera must to be checked. Too many errors in the Hands-On exercices,0,0,Juan Sebastián Herrera Cobo,38024228
+40609916~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587789056970,3,0,We dont see how to use things like hadoop map reduce or clustering,0,0,Carlos Alarcón,40609916
+10457624~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1582155137418,3,0,"I like this course, but is very old and doesn't have methods for programming like python or other. Please check the content and upgrade the software, for me, it doesn't work Cloudera VM and is very sad. More Quality.",0,0,Javier Pinzón Castellanos,10457624
+45016510~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1577193248257,3,0,The last week in my point of view is not linked to machine learning.,0,0,Francisco Javier Huerta Albiar,45016510
+18995307~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1564756932486,3,0,The Hands-On exercises were good. The theory part was too shallow.,0,0,Rahul Padhy,18995307
+38019609~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1548054382939,3,0,It would have been better if more case studies to work were given. I am surprised that there is no working case study given for regression analysis.,0,0,anilbkt,38019609
+36054718~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1542999845760,3,0,The course should cover more topics about Machine Learning. ,0,0,Kartik Kumar,36054718
+32139606~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1534503871275,3,0,I miss some technical information about machine learning techniques such as neural networks.,0,0,Miguel Toledano,32139606
+4344902~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1527842929550,3,0,"Not so happy... it would be a little bit better if I attended this one before the ML course by Andrew NG...Here, the topics are just introduced and poorly demonstrated using Knime and Spark. Maybe,
+ I had wrong expectations but, given the course title, you need to push 
+more on Spark and leave the ML introduction to better courses like 
+Andrew's one or a dedicated one.Don't spare too much time with stuff like Course 2 and get some risks",0,0,Riccardo Pasquini,4344902
+30939931~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1521113935148,3,0,It was a basic course for initial understanding about Machine learning.,0,0,PRERNA SRIVASTAVA,30939931
+12339403~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1519225306036,3,0,"It's better than the other courses of this specialization, but still I wouldn't say that the course is particularly good. Also, the instructors don't appear to care for the learning progress of the learners. There is next to no help via forums, for example. What I think was good is that the instructor attempts to explain the algorithms of the machine learning methods visually and comprehensively.What I think is a joke is the way the quizzes are organized. The questions almost never deviate from a 'change a number or copy the code' style. Like this, you do not really learn anything instead of copying code and changing something. The quizzes need some additional parts where it is important to apply what is learned to new contexts. ADditionally, the instructors need to put more focus on explaining what certain parts of the code do and why certain parts of the codes are improtant- Otherwise, this course won't be worth more than learning by doing alone.",0,0,Hendrik Bruns,12339403
+1822636~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517026445064,3,0,"Not hard, a very beginner-level course.",0,0,Palash Siddamsettiwar,1822636
+25703754~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1510820785559,3,0,"I liked the theory parts, but had a to of problems with the hands on exercises: I spent a tremendous amount of time on installing/trying to install the necessary software. And not everything worked properly on my Mac Laptop. ",0,0,Beate Stoffels,25703754
+28658333~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1509111105469,3,0,Nice knowledge refresher,0,0,Artur Lapczynski,28658333
+15367889~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1503957539648,3,0,A bird's-eye-overview introduction of the field. It teaches you some terms and it gives you ideas about which fields might be interesting for you if you want to really learn how to do machine learning with big data.,0,0,Joren Zandstra,15367889
+19725608~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1501666726819,3,0,"Some parts of the course are quite interesting, in concrete, the introduction to the Knime tool (so useful and open source tool  which I will try to take a deep look on it as the course only provide a slightly overview). Otherwise, i think that the content is not enough, i don´t feel that I have fully understand the core of Machine Learning and its difference with other BD applications.",0,0,Francisco Poyatos Jiménez,19725608
+6003494~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1497421562779,3,0,"many basic of machine learning but not so specific to big data, only hands-on with pyspark is big-data related",0,0,Alberto Termanini,6003494
+21847398~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1488397064981,3,0,Very basic things... Any examples for regression.,0,0,Ivan Shcherbakov,21847398
+13920133~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1483006304921,3,0,It's ok for an extremely high-level overiew,0,0,Andrew Howe,13920133
+17390921~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1655108125723,4,0,"W​ell explained topics about Machine Learning in Big Data scenarios. It's difficult to install Pyspark because of an outdated Cloudera version, but searching in forums and installing Cloudera VM 5.5 you can complete all tasks and assignments.",0,0,Gabriel Montenegro,17390921
+35334433~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1637781241586,4,0,H​ands-on experience is very helpful,0,0,Rudransh Pathak,35334433
+20111207~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1628522921181,4,0,Great course but hard to hear from the instructors with questions raised. ,0,0,Jin Liu,20111207
+80060761~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1621495188255,4,0,Good,0,0,Yash Bhardwaj,80060761
+78501830~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1620919561068,4,0,.,0,0,AMIT BODLA (RA1811004010374),78501830
+68568028~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1617169248204,4,0,"i think was very basic, useful but very basic.",0,0,Bud Pacheco,68568028
+19622740~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1613796116832,4,0,Buen curso para iniciar el entrenamiento en logaritmos de machine learning.,0,0,Jumled León,19622740
+64798062~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1613710284682,4,0,"Lot of problems with setting up the virtual machine initially, but these can be resolved by doing the exercises on your own local computer instead. The exercises are great! Very fun exposure to ML libraries. I found myself using sci-kit libraries instead of the Spark libraries to complete the exercises, and it worked out just fine.",0,0,Gail Hobbs,64798062
+4129523~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1612402142573,4,0,"The course is excellent, the hands on allow are realistic and allow you to have contact with the analysis tools and real Big Data applications. I am very happy and satisfied with the course.",0,0,Carlos Arnaudo,4129523
+10423165~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1607962024186,4,0,Good course.,0,0,Thomas Young,10423165
+64919766~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1606978073639,4,0,Good course.,0,0,Anindya Vinayak Gopal,64919766
+40895183~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1606864243607,4,0,Some software are hard to set up..............,0,0,Yujie Guo,40895183
+40760218~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1605801293578,4,0,A little outdated perhaps but generally good,0,0,Jacob Nordstrøm Hansen,40760218
+47410168~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1605203411173,4,0,"  In my opinion this is one of the best courses in Big Data specialization. I hghly recommend it, because of the theory AND practical tasks.",0,0,MartinsT,47410168
+68640569~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1604956394929,4,0,"There were several issues running the hands-on assignments; problems with getting various python tools and/or features. These issues made the labs frustrating at times, take much longer than needed, and quite stressful to complete. This is an old specialization and must be updated with a variety of necessary modifications done to it in order to keep it running!",0,0,Jeffrey Kent,68640569
+43498755~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603865334606,4,0,Non working libraries are there in cloudera. I got lot problems to install jupyter and ananconda therefore I used my os and installed everything indivisually. Please solve that. Anyway other things are awesome. Good Job. Thank you very much for providing this course.,0,0,Dhananjay Wadhavane,43498755
+13781602~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603607050876,4,0,"El curso es bueno, falta mayor soporte por parte de los tutores para la resolución de problemas .",0,0,alvaro aroca,13781602
+43667093~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602596871815,4,0,Nice!,0,0,Rohit Kumar Singh,43667093
+32016767~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602076763141,4,0,It seems that there are problems with the dataset of Spark.,0,0,李诗瑶,32016767
+71661197~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601881867156,4,0,"I was expecting a deeper coverage of the ML algorithm, however the course was fun and it was useful for me to get acquainted with KNIME ",0,0,Ofer Katz,71661197
+19760783~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601470308858,4,0,Good!,0,0,Fabián Steven Álvarez Muñoz,19760783
+68873489~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601297889466,4,0,This course is probably a little bit too simple for anyone with a basic background in machine learning. The introduction to KNIME was unexpected but a nevertheless welcome addition. The Pyspark course material could do with updating to reflect changes in a few python libraries.,0,0,David Lloyd,68873489
+62339733~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1599334180244,4,0,"Buen curso, un poco más de análisis en los ejercicios. Pero buen curso.",0,0,John Fredy Piñeros,62339733
+61455278~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598555464580,4,0,The course is easy. Expected more algorithm detailing.,0,0,Velavan S,61455278
+5658993~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598203300575,4,0,"Good course, but I found several problems in the virtual machine and it was difficult to solve them with the forum info. I had to rebuild the vm several times.",0,0,Santiago Zuluaga,5658993
+30259531~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597832046452,4,0,"Spark was too much for my machine to handle, but working with Knime was a nice visual and guided experience to ML. ",0,0,Stefan Volkmann,30259531
+36763604~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596621757093,4,0,Mentors please reply in the discussion forums so that we can clear our doubts,0,0,Gokul K,36763604
+57114677~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595162491250,4,0,GOOD,0,0,Hien Bebe Lucien,57114677
+65006984~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594490458487,4,0,THANK YOU! ITS GREAT TO LEARN .,0,0,rajashekar reddy venkata,65006984
+64249308~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594402248726,4,0,goog cource,0,0,SYED MUZZAMILALI,64249308
+47850076~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592805060743,4,0,Good but too much theory without practicing at the same time. It gets boring sometimes.,0,0,Andrés Alberto Herrera García,47850076
+42863159~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591976863544,4,0,This couse is very nice for learning big data ,0,0,Sharanaya Gupta,42863159
+1067954~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591591492389,4,0,"great course, felt it was a bit basic for some stuff, would've liked more hands on.Liked working with 2 tools, KNIME and Pyspark",0,0,Andres Vargas Nava,1067954
+59576604~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590217094445,4,0,good,0,0,Bodempudi Navya,59576604
+59694209~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589784266677,4,0,Nope,0,0,SHREYAS JAYANTILAL CHAROLA,59694209
+30892813~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589097489028,4,0,More hands on session needed!,0,0,Manav Gumber,30892813
+354171~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588015722092,4,0,"Un excelente curso, para aprender ML, y buenas herramientas, aunque el uso de Cloudera para Big Data es pesado para procesar incluso como VM.  se refuerzan conceptos.  aunque algunas veces si es bueno detallar algunas etapas  como la normalizacion que es muy importante.",0,0,carlos felipe ordoñez,354171
+10354454~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587993994518,4,0,The content of this course is very useful. I really enjoyed it. The only problem I had was the possibility to work with an instance of Apache Spark in my laptop. This machine couldn't initiate the instance because of its capacity. I think they should recommend other online utility for the hands-on practices.,0,0,Juan Esteban Franco Arango,10354454
+5513649~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587916827535,4,0,"Se abordan conceptos teoricos muy importantes pero el uso de pyspark en algunas oportunidades es complicado ya que no se da una introducción al tema, por lo q se da por sentado que la persona que hace el curso debe conocer pyspark. Adicionalmente me parece interesante instalar pyspark en mi propia maquina sin tener que usar una Maquina virtual de cloudera.",0,0,Jose Julian Hoyos Garces,5513649
+26543275~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587380877444,4,0,Excellent Course,0,0,Juan José R,26543275
+50726432~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586905899878,4,0,good ,0,0,SELMI ANWAR,50726432
+1336898~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585095464986,4,0,"This course is really nice and interesting one. Dr. Mai is excellent instructor and has good capabilities to simplify complex ideas. However, I did disagree with the course name since a main subject of this course ""big data"" is not touched in the given sample dataset.  ",0,0,Ahmed Shahat,1336898
+12825440~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584923574688,4,0,Good introduction,0,0,Gary Tse,12825440
+31708862~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584323661796,4,0,Muy bien explicado,0,0,ALVARO VILLA MARTINEZ,31708862
+16319176~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1579913098846,4,0,"congratulations, it's amazing",0,0,Yomin Estiven Jaramillo Múnera,16319176
+14221771~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1579884216158,4,0,Needed more clear instructions in each module else a very good course to understand ML,0,0,Ripunjay Kumar,14221771
+35888924~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1579495391919,4,0,The instructor is explaining well. But still in some weeks there is a gap between the Hands on and theories,0,0,Dev Anand S,35888924
+44388905~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1578871353825,4,0,"
+
+There was a good explanation of concepts, but I think it was possible to include more themes or empathize more in other techniques.  ",0,0,Miguel Angel Rodríguez Bejarano,44388905
+23526357~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1577480219917,4,0,"
+The fact that the assignments are graded means that there’s incentive to
+ work on them, solve problems, and ask questions. Traditional online 
+courses don’t offer that incentive.
+
+",0,0,Tariq Ahmed,23526357
+46242957~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1576542858317,4,0,"Only one concern that was faced during the course is, unfortunately, all the needed spark related libraries are not available to setup. It would have been nice, if either online compilers or readily accessible along with the course, would have become learners journey smooth.",0,0,Ravisankar Satrasala,46242957
+28801570~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1575645058753,4,0,The didactic qualities of the lecturer greatly compensate the lack of support and maintenance.,0,0,David Pérez García,28801570
+30506455~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1572442677377,4,0,"It was brief and comprehensive , Got to learn various technologies like Knime and Spark",0,0,Harshith,30506455
+37218732~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1571991247426,4,0,it was very useful for me to get knowledge about Machine Learning with somehow details and reminded me wh,0,0,Jae Yeon Shim,37218732
+20135447~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1569314882053,4,0,Generally its good content. However the VM setup is still horrible. Many time wasted on debugging and set up environment.,0,0,Sun Weiran,20135447
+37818341~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1568948813658,4,0,"Esta Bien, :)",0,0,Verónica Yohana Garzón Zuluaga,37818341
+44198574~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1568943945839,4,0,Thas good course for learn the machine learning and big data,0,0,Huber Morales,44198574
+5631781~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1567511847831,4,0,"The concepts in the course are very good but very basics in machine learning, it's a good introduction to knime and spark",0,0,Jose R. Zapata,5631781
+44410440~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1566551429112,4,0,Good one !!,0,0,siva REDDY,44410440
+35346746~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1562404030152,4,0,"great course, all examples with Spark and Knime were working for me",0,0,Laurent C. Schneider,35346746
+1649588~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1562155931083,4,0,"Good, would be better if was in portuguese. and sometime is very painful configure the machine. But is a good course, better than the previus 3",0,0,Gustavo Ide Maciel,1649588
+40154082~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1554821437364,4,0,Very good course but not getting course certificate. Please help!,0,0,Chaitanya Jain,40154082
+39671683~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1554234518406,4,0,Good course,0,0,Carlos Soriano de la Cruz,39671683
+40626690~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1553765206478,4,0,Good,0,0,Saravanan,40626690
+30499046~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1553700520994,4,0,nice introductory course,0,0,Siddharth Shailendra,30499046
+14165863~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1548930880629,4,0,I want more hands on in Spark,0,0,To Phung Huy,14165863
+29730341~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1544356639520,4,0,Interesting material. Ran into several issues with the hands on that could have been avoided. Loved learning more about Neo4J. The section on Spark needed more time and additional descriptions.,0,0,John Canessa,29730341
+34963810~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1540996271216,4,0,Reasonable overview. The VM environment is a major challenge for my hardware. Takes more time to make it work than it should. I am wondering if a cloud solution e.g. GCP would be better.,0,0,Jürgen Brust,34963810
+35670575~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1536507547062,4,0,very good topic learnt from you,0,0,Kesanakurthi  Nagababu,35670575
+20559267~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1535339806148,4,0,"105/5000
+I lack to have more examples of a complete solution, applying all the concepts in a generic problem.",0,0,Raul,20559267
+34662874~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1534018206280,4,0,The course was really informative .I got new things to learn.,0,0,Harsh Ojha,34662874
+21952111~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1526802684520,4,0,Too Basic,0,0,Isco22,21952111
+30526898~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1525561341372,4,0,The course was ver,0,0,Vincent Roquebert,30526898
+23522712~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522938627462,4,0,This course gives a good overview of the main machine learning techniques to analyze data using either spark or a GUI tool (KNIME).,0,0,Matteo Barbieri,23522712
+1447999~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522924150615,4,0,I enjoyed learning theory and technical knowledge and tools used within ML. ,0,0,Antony Chrysochoou,1447999
+19814886~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1520065936575,4,0,The entire coursework is very well explained and organized such that we will get better understanding of the terms related to this field. Hands-on exercises have also given better insight of how to use those tools. I would suggest to take this course for getting a brief knowledge about Machine Learning and Big Data. ,0,0,Ramya Sruthi,19814886
+4254305~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1520004074230,4,0,"It fullfilled my expectations, and created the motivation to further increase my knowledge of ML",0,0,Federico Sanchis,4254305
+1926312~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517677299195,4,0,"The course was great. Lost of great content, pedagogically sound! I leaned a whole lot",0,0,Gabriel Teku,1926312
+30505147~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517338480440,4,0,Very interesting course that will help us to understand how machine learning course works and also to analyze data.,0,0,Teresa Sanz,30505147
+23029446~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1514695563004,4,0,  Nice overview to get into it.  ,0,0,Mehul Patel,23029446
+15017461~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1512382700564,4,0,"The precise definitions for many commonly used terms were very helpful. You do not find these details in many books or documents. Also, using KNIME was also interesting ",0,0,SUNITHA MOHANACHANDRAN,15017461
+28154102~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1511596616732,4,0,Good course for new comers. Regression and Clustering concepts were explained in very high level and need some in depth.,0,0,Irfan Subhani,28154102
+26175282~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1511437903461,4,0,great learning,0,0,Teja Sri Ch,26175282
+16094071~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1511042735536,4,0,Very practical and interesting course! Ideal for people  who does not have previous knowledge in Machine Learning.,0,0,Silvia Catherine Redondo Santos,16094071
+26194624~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1510074963417,4,0,Easy understandable introduction to Machine Learning,0,0,Stefan SCHMIDT,26194624
+18411925~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1508623892886,4,0,very good introduction to the topic. I enjoyed the hands on exercises but wanted more explanations and may be more reading/exercise and in depth to pyspark. Overall I would recommend this course for anyone like me just starting to scratch the surface on chine learning.  ,0,0,Ahmed Omran,18411925
+20880479~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1507987212877,4,0,The hands-on exercises were a little bit too easy. ,0,0,吴武辉,20880479
+7201340~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1507659301835,4,0,Very interesting. KNIME  is an exciting tool!,0,0,Fernando Balue Martin,7201340
+25856904~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1507117622671,4,0,Good coverage of concepts and hand's on. More Hands-on can be included.,0,0,Ashish Agrawal,25856904
+2654726~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1505219118573,4,0,"This is a good course to understand how we can apply basic ML algorithm like classification, clustering using KNIME and Spark ML on very high level.",0,0,vishal chauhan,2654726
+8272890~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1504786157017,4,0,"Hands n exercises and corresponding quizzes are great !Content could be more detailed, but may be I felt it so given my past exposure to ML. I enjoyed learning Knime and Spark.",0,0,Dushyant,8272890
+2874662~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1500297595874,4,0,it great course and it help me a lot to understand Machine Learning.,0,0,Muhammad Tariq,2874662
+15331652~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1498570595148,4,0,It's necessary to get in some themes deeper to understand more,0,0,Juan José Rubio Mesa,15331652
+2712799~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1497462523682,4,0,Good course.It would be really completed if we go on in details of different analysis algorithms,0,0,NFOTABONG FRANCK QUENTIN,2712799
+21756213~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1494435325626,4,0,Great overview about the machine learning in general. There are still lots not covered specially the Neural Network algorithms. Learning Spark MLlib was great advantage of this course. ,0,0,Jamal Alikhani,21756213
+24115953~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1493983692753,4,0,good,0,0,Praveen kumar N,24115953
+20895308~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1486949354483,4,0,not enough work in the other machine learning models (the course centered the main part of it to classification ),0,0,Hugo de Jesús Mesa Yepes,20895308
+4517459~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1486829894102,4,0,"I think its a good introductory course, but lacking in exercises.",0,0,Nicolas Ibarra,4517459
+1984378~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1486731916295,4,0,-,0,0,Agaraoli Aravazhi,1984378
+9286040~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1485039220385,4,0,"well structured, fits well to beginners!",0,0,Masahiro Hiramatsu,9286040
+22204435~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1484954397890,4,0,"Good overview of tools specially Spark. The last demo handson with Spark clustering had too much content to be covered in 11 minutes. The presenter does not give any details on many functions he was using. Felt like copy paste coding. The rest was good, specially the lecturer compared to the lecturers of the other courses of the specialisation.",0,0,Jose Francisco Zubizarreta Rodriguez,22204435
+3796982~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1483822890027,4,0,Easy to follow. Good resource to understand the basic concept of big data.,0,0,Shunichiro Mimura,3796982
+3512724~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482723067393,4,0,excellent! best place to begin with Big Data and ML!,0,0,Sergio Arroyo,3512724
+18455736~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1480988822088,4,0,"This was a good introductory class to machine learning, but I wish it had more depth. ",0,0,Kairsten Fay,18455736
+620406~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1480551882310,4,0,"Have to make sure that code provided are fine and without problem... also, better instructions on how to go about the tool needed to use. Remember, we are learning and the amount of tools in Big Data ecosystem is vast...",0,0,Roman Jaquez,620406
+11516127~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1480265214039,4,0,Good overview of working with SPARK and KNIME - acceptable little theoretical background for all the presented concepts for the sake of application use.,0,0,Thomas Helmker,11516127
+7056604~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1478555022239,4,0,insightful,0,0,SAURAV PRAKASH,7056604
+101799747~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1665313236250,5,0,​Amazing,0,0,Vasudev Kini T,101799747
+58195462~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1663750835301,5,0,G​ood course to understand big data and machine learning,0,0,sahil Shashikant sawant ,58195462
+36785037~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1653421514755,5,0,Very complete and structured. Topics are very interesting and the explanation techniques allow the user to undertand everything in a very confortable and easy way,0,0,Cristobal Miranda Puente,36785037
+99752575~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1649886180127,5,0,excellent,0,0,Abul Bashar,99752575
+100561065~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1642758016350,5,0,NA,0,0,Shilpi Gupta,100561065
+379799~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1637241225475,5,0,The content is basic and provides a great structure for further exploration,0,0,Nikola Mickovski,379799
+70947~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1636615497504,5,0,Excellent Course,0,0,Sergio G. Navarro Ortiz,70947
+74571950~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1636555997371,5,0,Thank you!,0,0,Ke Li,74571950
+83941428~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1636045532715,5,0,"The course content was well structured , excellent presentation and step by step hands on practice using KNIME and Apache Spark.",0,0,Alfred Adi,83941428
+88228283~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1630946623604,5,0,very nice must try this course,0,0,MOHAMED fareestha (RA1911004010267),88228283
+58780751~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1624887305939,5,0,Good content and delivery. Just make sure to follow instructions on cloudera VM config based on inputs in the forum. Hopefully the contents and tools will get updated.,0,0,Jauhari Khairuddin,58780751
+88421616~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1624008355023,5,0,good,0,0,Gouthami Kurra,88421616
+79583455~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1623050206828,5,0,Excellent presentations. Thank you so much for this training,0,0,Shadrach,79583455
+70106177~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1622613440636,5,0,"Muy completo, da buenas bases para adentrarse al mundo del aprendizaje automático, hay que tener previos conocimientos de estadística para entender",0,1,Santiago Cano Ramirez,70106177
+49496410~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1619491987779,5,0,The professors are amazing!,0,0,Isa Wang,49496410
+34834820~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1617861548902,5,0,This course was very helpful to me. I learnt many things about machine learning. Thank you,0,0,praveena narayan,34834820
+47828837~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1616117348627,5,0,"it was an excellent course, i learned a lot and reinforced other concepts.",0,0,DIEGO FERNANDO QUIROZ TAPIE,47828837
+81464846~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1613634948295,5,0,nice to have a such course to improve my skillset,0,0,radha krishna,81464846
+72775617~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1612220367882,5,0,Best on the Data Specialization Series so far,0,0,Christian Barreto,72775617
+63498319~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1608080377724,5,0,"Buen curso, le exige bastante al estudiante, sin embargo hay pasos en los cuales se debe investigar fuera del curso para poder completar las tareas en los software. Sin embargo muy bueno",0,0,Andres Felipe Sanchez,63498319
+47808866~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1607741414826,5,0,"Genial este curso, muy claro, conciso, con respecto a fundamentos del Machine Learning  ",0,0,LUISA MARCELA CORREA TAPASCO,47808866
+10428389~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1606436465307,5,0,"One of the best courses. Knime is an awesome tool. I will use it on my job going forward. this is the second course were I find the cloudera environment to learn spark. I think it is really hard to setup for a business environment, but I will give it a try. Many thanks to you.",0,0,Elkin Eduardo Gutierrez Ardila,10428389
+32952472~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1606364710585,5,0,really awesome,0,0,Halin Swaroop,32952472
+44359236~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1606224820759,5,0,"Fue un buen curso, aprender las nociones básicas de análisis de datos y diferentes tipos de algoritmos mas aun haciendo las practicas con las herramientas",0,0,Cristian David Arenas,44359236
+41924609~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1605814272428,5,0,"Me gusto mucho este curso, muy bien explicado, me gusto la metodología.",0,0,Karina Sierra,41924609
+47772999~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1605476844914,5,0,"Excelentes las explicaciones de las docentes, y los ejemplos y ejercicios muy prácticos",0,0,FREDY ALEXANDER CHAPARRO CASTRO,47772999
+12378832~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1605127415791,5,0,"Excelente!!! altamente recomendado, para quienes comienzan en el mundo del análisis de datos, ya que se hace un repaso exhaustivo de las herramientas que ofrece las matematicas y la estadistica en direccion de conseguir ese objetivo.",0,0,carlos rodriguez moreno,12378832
+62241818~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1604732346149,5,0,good course,0,0,Juan Esteban Marriaga Rivera,62241818
+43359749~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1604501388468,5,0,This course was very useful in learning ML using big data the explanation was very clear,0,0,K S Sai Shrinivas,43359749
+46733421~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1604382009483,5,0,Wonderful introduction to data mining using Machine Learning strategies,0,0,Iván García Laverde,46733421
+21126500~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603592469587,5,0,"                 The best course so far in the Big Data specialization, concepts are
+very well explained,
+hands on exercises have appropriate
+complexity but due to outdated python notebooks sometimes you have to struggle
+with software versions. Otherwise this is a very good introduction to machine learning, fully recommended for beginners.  ",0,0,Gustavo Villa,21126500
+46483715~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603584322390,5,0,"Excellent course. It teaches the basics with a great method and with practical exercises, involving real data. The sctructure is clear and it covers a good amount of topics. Well done San Diego!",0,0,Juan Carlos Acosta Gonzalez,46483715
+39849233~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603512219198,5,0,"Great course, I learned a lot",0,0,Graig Luque,39849233
+64201041~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603324099405,5,0,"Un curso muy práctico, si se toma a conciencia cada conjunto de videos y lecturas se aprende bastante, realizar los laboratorios  es fundamental para el aprendizaje. El curso está bien diseñado y tiene un carácter introductorio. No es un curso para estudiantes avanzados.",0,0,Jhoan Sebastian Tenjo García,64201041
+55483836~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603256529689,5,0,It is a good course to study the basic of ML.,0,0,Minki Kwak,55483836
+60938328~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603189888589,5,0,Great,0,0,Amit K. Mogal,60938328
+30552599~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1603121170456,5,0,Exceptional Instructor providing needed knowledge on the matter,0,0,Georgios Georgakakos,30552599
+3873293~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602808448456,5,0,A good balance between theory and practice. It is well explained,0,0,Maly Johanna Puerto López,3873293
+19688066~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602313495129,5,0,"The particular good point for this course is a very complete illustration of machine learning life cycle. And it is also very good to introduce the tool Knime and provides hands on material how to use it so one could further its learning path. Exercise is good, material is well documented. What a disappointment is that I want to learn how machine learning algorithm could parellelly running in spark, or how machine learning algorithm could benefits from distriubted system, in this aspect I am not reach my goal because the couse did not teach in detail. Maybe I shall choose other course in the coursera.  Anyway, big big thanks to the teachers.",0,0,沈建军,19688066
+59135957~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1602236222884,5,0,Good Course,0,0,KEERTHIVASAN P V SIT,59135957
+46337860~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601948279646,5,0,"Muy interesante, explica de forma practica algunos métodos de Maching learning",0,0,Oscar Andres Ocampo Garcia,46337860
+47702142~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601725380175,5,0,good,0,0,PURUSHOTTAM KULKARNI,47702142
+61932081~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1601077456810,5,0,Excellent course. The tools and its explanation were very useful for understanding the key concepts of Machine Learning,0,0,Carlos Mejia,61932081
+48009427~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1600894643046,5,0,I liked the techers. They teach very well. I liked the course,0,0,JAVER ANDRES BENAVIDEZ GOMEZ,48009427
+42070349~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1600838033795,5,0,Highly recommended for Big Data and Machine Learning enthusiasts. ,0,0,Abhinav Ranjan,42070349
+20343154~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1600223055162,5,0,Excelente programa..,0,0,Luis Carlos Hinestroza Guerrero,20343154
+47341783~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1599642329820,5,0,wow,0,0,Fhareza Alvindo,47341783
+6222785~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1599526661768,5,0,"The best course in this specialization, clear and to the point with a good exercises ",0,0,Ali Abdellatif,6222785
+70838094~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1599323449515,5,0,Excellent and simple language to understand the concepts and hands-on. ,0,0,Avadhoot Prabhu,70838094
+65387873~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1599156852994,5,0,Very good explanation and practice oriented teaching.,0,0,Dr. M. Mohan,65387873
+35607246~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598894649917,5,0,"AMOOOOOO ESTE CURSO, entre los mejores de Big Data de la universidad de San Diego, super claro y organizado, amo la tutora de estos videos. En los foros los compañeros son super colaborativos y adore el contenido del curso. Excelente y super recomendado.  I LOOOOOVE THIS COURSE, among the best in Big Data of the University of San Diego, super clear and organizaded, I love the tutor of these videos. In the forums the colleagues are super collaborative and I love the content of the course. Excellent and super recommended. ",0,0,Kely Johanna Monroy Malagon,35607246
+58973975~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598706464746,5,0,No comment,0,0,Jayshree Rajusing Chhapule,58973975
+66482780~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598607933109,5,0,"Very nice, facile explanations, makes it easy to understand the friendly part of ML but not the mathematical part which is way more difficult.",0,0,Mihai Zanfir,66482780
+5895753~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598563428995,5,0,Excellent !!!,0,0,MD ARIF REZA ANWARY,5895753
+66904338~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1598222404564,5,0,"Even though I am not very familiar with math, this course gave me a great overview of machine learning algorithms, data preparation, and model evaluation. The hands-on activities are not hard and offer a guide on applying the theoretical methods taught along the course using python commands together with Spark package, as well as the KNIME software which is pretty easy to learn",0,0,Lucas Borges dos Santos,66904338
+47813350~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597872397676,5,0,this course is the best that i have seen. it is very good designed. ,0,0,OSCAR JULIÁN NARVÁEZ LÓPEZ,47813350
+39915733~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597860963861,5,0,"the subject was shown with a lot of clarity, objectivity",0,0,Fernando Luiz Baptista Pinto,39915733
+16653065~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597548944875,5,0,very useful,0,0,German Niebles,16653065
+14350629~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597263828909,5,0,"Excelente curso, tiene aplicaciones muy didácticas, hace énfasis en tema conglomerados y  clasificación que son temas que muy poco se profundizan en otros cursos. ",0,0,JESÚS DAVID GUTIÉRREZ SANTIAGO,14350629
+59977647~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1597137964463,5,0,EXCELLENT,0,0,SASI VARDHAN THOTA,59977647
+50203954~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596806879097,5,0,this course is amazing and its one of the most interesting and informative one in this specialization i really enjoyed it and the instructor is great and illustrates everything in a very simple and clear way ,0,0,Asmaa Adel Abdel-Fattah Ibrahim,50203954
+63788362~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596690959001,5,0,The course outline and cover area was really exportable for any one who has a keen interest with that ,0,0,Muhammad Sadaqat Janjua,63788362
+54462147~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596377982050,5,0,It was an excellent course for beginners. The Lectures were very good. Lot of learning happened. Content was wonderful.,0,0,vrunda kusanur,54462147
+62052338~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596232844747,5,0,"I am so much pleased with this course. Very much convinced by the presentation, way of speech, and the script of the Instructor. I am so excited to learn more about Machine Learning.",0,0,Rony Kumar Datta,62052338
+387033~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1596158242518,5,0,Excellent,0,0,Jorge Arley Hernández Tellez,387033
+57433817~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595684538318,5,0,good,0,0,RAGHUVEER SINGH DHAKA,57433817
+7558417~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595563972886,5,0,"Amazing course. Very easy to understand because of the way the doctor teaches. Also the hands-on activities are very easy to follow and I liked that in most of the hands-on questions I needed to do a modification in knime or spark challenging me to apply what what already learned and analyse what was going on. Thank you very much, excellent course.",0,1,Camilo Andres Cuartas Osorio,7558417
+37214965~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595493552484,5,0,Great course. Good mix of fundamentals and applications. Clear and well taught. I recommend. ,0,0,Misha,37214965
+52094717~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595237687473,5,0,Good!,0,0,Hamora Hadi,52094717
+26833366~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1595099046759,5,0,"Great course with detailed explanations of complex topics and very good assignments. A big ""thank you"" to the teaching staff!",0,0,João Freire,26833366
+28437857~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594737078221,5,0,Awesome course.......... Great learning experience.,0,0,SARATH P S,28437857
+66466880~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594732178490,5,0,Very good content with great explanation with examples.,0,0,Madhuraj Singh,66466880
+63870549~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594552404990,5,0,Good experience,0,0,prashant Bachanna,63870549
+58767867~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594487220708,5,0,Good,0,0,VISHNU TEJA B,58767867
+3575984~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594442426178,5,0,Well Taught!,0,0,Saju Thomas Mathew,3575984
+59019872~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594441988989,5,0,The course is excellent and the information is very good regarding the machine learning.,0,0,Velampudi Rohit,59019872
+38748761~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594304683510,5,0,"Course well understood, lectures up to the point and information received is very useful",0,0,Nkosinathi Cedric,38748761
+64997686~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594280867945,5,0,grt exp,0,0,JAKKULA CHANTI KUMAR,64997686
+62622294~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594103363107,5,0,good ,0,0,Rabindra kumar Singh,62622294
+48252206~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594101761393,5,0,The course was clear and the instructor was good at explaining it well,0,0,Sindhu Elizabeth Thomas,48252206
+55720413~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594051354525,5,0,Excellent way of teaching...concepts are very understandable. Thanks team.,0,0,Ganesan Rangasamy,55720413
+59012992~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1594048039821,5,0,It gave me a better understanding of machine learning in big data,0,0,Amrit Kumar Baruah ,59012992
+2478931~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593733418915,5,0,"Muy bueno, conciso pero atinado",0,0,Javier A. Roa Ruiz,2478931
+43944370~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593721775690,5,0,The course gives brief explanation of each of the machine learning aspects used widely for problem solving.,0,0,Nishant Goel,43944370
+64700269~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593598137506,5,0,Good,0,0,Prof. Arivanantham,64700269
+47811622~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593489125465,5,0,"Este curso presenta de manera clara los conceptos introductorios necesarios para realiza el "" Machine Learning"", las palabras finales de la tutora son un gran ejemplo y una metodología a seguir. Excellent course",0,0,JOSE FERNANDO BARRAZA HERNANDEZ,47811622
+62892881~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593481823200,5,0,thanks,0,0,Wahyu Hidayat,62892881
+52646986~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593438386570,5,0,Great course for learning Model design and evaluation on Big Data,0,0,Shivam Thaploo,52646986
+62729142~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593352490348,5,0,amazing,0,0,MR. GAMAGE L.S.K.,62729142
+41164761~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1593165878711,5,0,It's really helpful for beginners to learn Machine learning. I strongly recommend this course.,0,0,이명훈,41164761
+56814523~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592686012825,5,0,Great course,0,0,Manikant Rai,56814523
+60556646~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592629396489,5,0,This is highly recommended course  for beginners in machine learning and big data analytics,0,0,MR UJGARE NITIN SAKHARAM,60556646
+40337705~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592459859554,5,0,"ES UN CURSO MUY COMPLETO, ADICIONAL QUE EL COMPLEMENTO DE LA PRACTICA, LO HACE DINAMICO",0,0,SERGIO LUIS DUARTE ZAMUDIO,40337705
+4134134~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592449838057,5,0,The workshops are great !!,0,0,Johann De Jesus Olaya Herrera,4134134
+47946440~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592446258551,5,0,Excelent course !!!!! Tks,0,0,ALEXANDER  MORENO TORO,47946440
+47822996~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592312148643,5,0,Muy buen curso introductorio en Aprendizaje automático apoyado en pyspark. los vídeos fueron muy instructivos y la profesora que los presenta explica muy bien los temas.,0,0,EDWARD ALBERTO ALVAREZ FRANCO,47822996
+18700109~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592287995085,5,0,Excelente,0,0,Juan David Arango Buitrago,18700109
+55771024~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1592250041751,5,0,good,0,0,SURAJ PB,55771024
+48020727~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591587528830,5,0,So great!,0,0,Cindy Natalia Peñaranda Palacios,48020727
+20021233~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591566708591,5,0,Very well structured the course!,0,0,Jefersón Argumero,20021233
+21695913~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591460130957,5,0,"Great course in introduction to applying machine learning technique in BigData environment, especially using Spark.",0,0,Achmad Zaenuri,21695913
+7586427~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591361825880,5,0,good course,0,0,Vathana Rufush,7586427
+5102229~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591360786889,5,0,good,0,0,vanusha,5102229
+23979863~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591279257150,5,0,Excellent course for someone with less knowledge of ML,0,0,Rahul Khanna,23979863
+58132130~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591126950221,5,0,Good,0,0,Mosfiqun Nahid Hassan,58132130
+59973745~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1591082112022,5,0,Gud,0,0,SHAKTHI SWETHA.I.A,59973745
+56745570~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590911601416,5,0,great,0,0,Arief Setyanto,56745570
+44195359~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590847310802,5,0,Very good Course,0,0,PARITOSH PRAMANIK,44195359
+48382461~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590771388758,5,0,"It was an interesting and very informative course. The course was well planned and tutors were brilliant. The course was useful from a practical point of view. Thanks, Coursera for proving such an amazing course.",0,0,Asif Ali,48382461
+43036545~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590441107900,5,0,Good course for introductory Machine learning with Big Data,0,0,Shreyaskumar Kathiriya,43036545
+38444050~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590419542366,5,0,After this course you will understand all you need to know about machine learning in big data.,0,0,Cheikh BADIANE,38444050
+14090549~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590417281250,5,0,Nice course,0,0,A Srinivasa Reddy,14090549
+31655223~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590225062148,5,0,Very Good Course.,0,0,SUTHAHAR P,31655223
+12996251~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590077103229,5,0,great course,0,0,Tapan Chowdhury,12996251
+59229114~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1590058204249,5,0,Very nice course!!,0,0,Eranki Sanjay,59229114
+54256734~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589969597961,5,0,"Very informative and highly useful course, covering all perspectives of Machine Learning with Big Data. ",0,0,PAVITHRA BALACHANDRAN,54256734
+47907009~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589850670270,5,0,Great course.,0,0,JUAN SEBASTIAN MÜLLER RUEDA,47907009
+34190465~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589645611807,5,0,Great course! ,0,0,Vedant Parwal,34190465
+37622626~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589526423976,5,0,the course was very practical and covered relatable examples throughout,0,0,ARPAN NAGAR,37622626
+45434624~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589457186680,5,0,Very useful and well explained,0,0,Iniyan,45434624
+36492104~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589370361943,5,0,The course was very useful and show me some light on Big Data.,0,0,Vignesh.D,36492104
+59703654~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589277534662,5,0,it was very good ,0,0,,59703654
+45383785~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1589146886821,5,0,"It was a great course. Best course ever participated in coursera. I'm so glad to have been part of it, thank you all!",0,0,Pedro Elkin Rivera Jaimes,45383785
+55718069~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588931825877,5,0,Good Course,0,0,S Karunakaran,55718069
+47653410~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588724438098,5,0,Very interesting and well planned to cover the expectations of the first level course to motivate the student to continue in this conceptual and application framework in the BigData scenario.,0,0,ELIXENDER LAMPREA,47653410
+36923631~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588683581718,5,0,Great Learning from this course surely one have to take this course for the clarification of conceptual as well as practical implementation of Machine Learning,0,0,Gaurav gupta,36923631
+18119341~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588473720258,5,0,Very powerful because it mixes the most relevant concepts of Machine Learning with BigData tools of great boom,0,0,Adam Carrillo,18119341
+47772501~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588383183258,5,0,Great,0,0,LUZ JANNETH PARRA AYALA,47772501
+55981132~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588327299587,5,0,good course,0,0,Gayathri M,55981132
+11399824~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588193445892,5,0,cool introductory course,0,0,Alejandro Salinas Medina,11399824
+57543699~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588077064794,5,0,Excellent,0,0,C.Malathy,57543699
+14391137~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1588032922801,5,0,excellent,0,0,Héctor Julio Castro,14391137
+58041137~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587983073779,5,0,Excellent,0,0,SURESH KUMAR KARPURAM,58041137
+44546210~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587921832959,5,0,good one,0,0,Varshith B R,44546210
+44853294~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587837305005,5,0,SUPER,0,0,Abhishek O,44853294
+48001174~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587779806036,5,0,Brinda herramientas básicas para aprender sobre las metodologías de machine learning,0,0,JOHN FREDDY VARGAS OCAMPO,48001174
+16673769~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587734900572,5,0,It is a very nice overview of machine learning methods for beginner,0,0,Василий Пу,16673769
+55692578~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587722339396,5,0,EXCELLENT COURSE FOR EVERY INDIVIDUAL WHO IS KEEN INSERTED TO LEARN MACHINE LEARNING ,0,0,Dr M ARUNA SAFALI ,55692578
+1531689~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1587482243192,5,0,This course was great. Is very clear the concepts and practices to understand the concepts,0,0,Elizabeth Berrio Restrepo,1531689
+16850994~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586555074778,5,0,"Excelente curso, muy bien expliacado y los ejemplos de KNIME y SPARK son muy objetivos.",0,0,jesus maria cano barrientos,16850994
+47845592~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586414372793,5,0,The instructores were great. Extremely clear and detailed. I really learned a lot and would recommend this course to everyone wanting to have a general overview of machine learning for data analysis. Great job.,0,0,CAMILO ANDRÉS DE LA CRUZ ARBOLEDA,47845592
+47927219~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586194097874,5,0,"Muy bueno, claro en sus conceptos y didáctico con herramientas de Machine Learning",0,0,CARLOS ALBERTO URIBE FUENTES,47927219
+48909400~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586110094503,5,0,Excellent Course,0,0,AKSHAT VIKRAM,48909400
+43550495~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586100481590,5,0,Tremendous. Very happy to use tools and understand how the process works,0,0,Sylvain Ogier,43550495
+46645292~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1586064055708,5,0,Clear and easy to follow information and guidance. Really enjoyed it!,0,0,Ágnes Csatáry,46645292
+36112043~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585679284206,5,0,"Good learning videos with excellent pronunciation, challenging labs... i have fun. ",0,0,David Charif,36112043
+50137083~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585660263898,5,0,well orchestrated and very useful,0,0,Prasanna VR,50137083
+45635513~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585648140041,5,0,"I liked the lectures most so far. She spoke well, clear and undestandable. Although it could be more in depth for my taste. However, good for starters.",0,0,Simon B. Cox,45635513
+12292761~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585517371253,5,0,"Very good course, with a excelent generalization of all cases to use it in the real life.",0,0,Julián Alemán,12292761
+52106254~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1585286050493,5,0,Good,0,0,Dhananjai Patnaik ,52106254
+33559350~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584692052564,5,0,Really good hands-on activities on Pyspark and KNIME!,0,0,Michael,33559350
+1702882~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584666797447,5,0,Exceltent!! Well explained,0,0,Juan Carlos Chaverra,1702882
+41982945~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584543609738,5,0,it is a good course.you must take this course.,0,0,saif ullah Naeem,41982945
+47482552~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584307329577,5,0,good content,0,0,carlos alberto guzman baquero,47482552
+35226863~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584206831152,5,0,thank you ,0,0,Mostafa Rafat,35226863
+4963574~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1584110527759,5,0,"Muy buen curso para introducirse en las nociones básicas de aprendizaje automático, además de algunas herramientas para reaizarlo.",0,0,Daniel Enrique Yabrudy Mercado,4963574
+46627098~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1583483570569,5,0,"This is starting course for Machine Learning. Very well explained and after finishing this course, one will get interest in continuing and exploring further in Machine Learning field.",0,1,Bharath Kottala,46627098
+48479495~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1583192053944,5,0,"Clear and concise explanations. Good examples, and good hands-on (setup issues aside).",0,0,Benh LIEU SONG,48479495
+49660761~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1582724453345,5,0,Good,0,0,Bhoopal,49660761
+41192053~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1582712607363,5,0,Good materials and excellent hands on practicals. Thanks !,0,0,Sengottuvelu Dhayalan,41192053
+14323670~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1581948083707,5,0,I will surely recommend to others about this course. This built my basic pillars of Machine Learning. Thanks Coursera.,0,0,A Raza,14323670
+36800513~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1581846640532,5,0,This has given me foundational knowledge in Machine Learning for someone who is not a practitioner. Thank you Mai Nguyen for the excellent course presentation. Keep it up.,0,0,Basil Chua,36800513
+47945233~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1580237623570,5,0,"I highly recommend this course. Well explained, simple but complete enough to capture the basics of machine learning applied to big data analysis. It also has a good balance between theory and practice.",0,0,CRISTIAN ALEJANDRO USMA ROJAS,47945233
+47842260~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1579885288630,5,0,I am really thankful to help to start understand the machine learning in big data analysis field ,0,0,JUAN PABLO GUZMAN BERNAL,47842260
+38475354~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1579645543639,5,0,great!,0,0,Angel Morales,38475354
+27855780~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1577544057861,5,0,excelente curso,0,0,NAHUM ISAAC GAMERO ACOSTA,27855780
+46839504~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1575642718187,5,0,"Wonder full information i could able to learn, in this module it has been shown how ML is helps or used in to Big data area.",0,0,Chandrakanth Biradar,46839504
+15063526~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1575617323281,5,0,Good,0,0,Suriya Bhagavan,15063526
+41708228~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1575553681058,5,0,Extremely good. Lot of learning and course is very well designed and simple to understand. Thanks a lot for such courses.,0,0,Amit Malhotra,41708228
+46466750~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1574937980957,5,0,Excellent Course.,0,0,Bharti Garg,46466750
+44198611~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1573586455483,5,0,Clearly explained course with practical hands-on and insightful concepts.,0,0,Juan Camilo Correa Chica,44198611
+19661289~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1573540577349,5,0,Good course to have a first hand and concise knowledge about various machine learning algorithms,0,0,Ayush Agrawal,19661289
+31912167~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1572951554158,5,0,"Its a great course! that provide you with many concepts of Machine learning. But Since this course is about big data and not about Machine learning, you have keep in the mind the concepts of deep learning.  Because after training the data the you feed it to deep learning so that you discover more hidden patterns or to learn more about those patterns  to predict unseen patterns. ",0,0,Mohamad Khaled,31912167
+46113573~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1572009066700,5,0,Ease of learning and visually attractive. ,0,0,Doppalapudi Purna Venkata Subbarao,46113573
+44172907~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1571171463583,5,0,Excellent Course. I would consider changing Spark for other similar to knime,0,0,MARTIN CADENA,44172907
+43621640~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1571110439522,5,0,Excellent,0,0,SANJU MITRA,43621640
+44788896~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1570425921278,5,0,"Excellent course, I highly recommend",0,0,MINKI AHN,44788896
+3243870~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1570417754368,5,0,Awesome!! It would be great if more hands-on (specially spark) will be added.,0,0,Amin Oroji,3243870
+6313132~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1570416972813,5,0,Excelente curso,0,0,Víctor Rolando Tomanguilla Collazos,6313132
+45071406~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1570246709540,5,0,Very good,0,0,Tamil Glitz,45071406
+45377272~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1570110945852,5,0,"It was a really nice experience to learn on the Machine Learning Platform.Cleared on Data Exploration, Classification, Regression and much more.Hands-on exercises are very much interesting. Training Videos are nice and very well explained by the instructor with a good number of examples. Happy Machine Learning!",0,0,Somnath Pate,45377272
+45372359~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1569736535895,5,0,great experience and learned about Machine Learning with Big Data,0,0,Ramalingaraju Gottumukkala,45372359
+40777522~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1569574532163,5,0,great for learning ML,0,0,ablewly,40777522
+5879497~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1569393837869,5,0,"Excellent course!!!!I learned a lot. The course structure, topics, explanations and activities were very precise. Thanks to the tutors.",0,0,William Javier Cuervo-Bejarano,5879497
+42163344~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1569294499962,5,0,Thanks for craeting such nice course and helping other to learn new technology,0,0,Suraj Jagdish Walde,42163344
+18077783~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1568582067946,5,0,Excellent course.,0,0,Mauricio Hernández,18077783
+37352420~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1567971665536,5,0,Awesome course.,0,0,Juan Pineda-Jaramillo,37352420
+42279537~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1567782259055,5,0,Very well thought out and just enough content to intrigue the learner to continue digging. ,0,0,Armando Padilla,42279537
+44204974~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1567390404881,5,0,Excellent Course!,0,0,Eduard Alexis Larranaga,44204974
+9297652~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1567208301354,5,0,"This course help me to understand the missing point of my learning about Machine Learning. Since my background is not related with statistic, but  the module and also the trainer help to understand easily of ML algorithm. Thanks for  Ms Mai and Ilkay and someone who teach  onhands on.",0,0,jauhar mustikarani,9297652
+22379170~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1566936179049,5,0,Fantástico!!!!,0,0,Rubiel Velasquez,22379170
+27397570~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1566435405777,5,0,  This course is quite good and easy to follow  ,0,0,Shin Youil,27397570
+41410183~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1562550865196,5,0,"Excellent, very useful",0,0,Emilio Mencia,41410183
+28840919~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1562252093405,5,0,"This is good courses, the explanation of the concept is easy to understand. Thank you!",0,0,Nur Khamid,28840919
+21806881~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1562138683446,5,0,This course provides you starting point to start working in KNIME and helps you in explaining basic statistics concepts along with its application in KNIME and Spark,0,0,Nikhil Parashar,21806881
+42723090~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1561502197721,5,0,This is a really good course on ML and Big ,0,0,Shikhar Singh,42723090
+36836512~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1561353453365,5,0,"What a wonderful way of learning Big Data Concepts on a wonderful platform of Coursera. The instructor is really amazing. Before taking this course i was afraid of machine learning process, but when i successfully finished this course, there is a big smile on my face.Thanks to Coursera for providing such an amazing modern skills. ",0,1,Javed Ahmad,36836512
+23634785~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1560579362114,5,0,Good to start with Machine Learning,0,0,Swapnil Dewangan,23634785
+39101537~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1560274267897,5,0,Thank you very much for the great course.,0,0,Slavisa Dosenovic,39101537
+11200868~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1558893987588,5,0,"So far, the most enjoyable course of the specialization. The lectures were engaging and very application oriented.",0,0,Guilherme Domingos Carvalho Teixeira,11200868
+40314347~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1556527007245,5,0,none,0,0,Priyanka,40314347
+11397395~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1555780451624,5,0,Very nice course and good instructors,0,0,Ganga Holi,11397395
+37942409~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1553327042641,5,0,Very good course. Training very well provided by trainer. Very good examples used.,0,0,Apurva TR,37942409
+40468834~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1553167553006,5,0,good,0,0,selvaraj,40468834
+13936078~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1553102695396,5,0,Fantastic course and for users new to Spark an amazing hands-on introduction providing actual programming experience,0,0,Markus Schwarz,13936078
+29149713~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1552838718455,5,0,"Clear, efficient, not exhaustive but very complete.",0,0,Marc-André Sauvé,29149713
+19619746~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1552586945090,5,0,Excelent materials.,0,0,Luis Alberto Ramirez,19619746
+39786203~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1552154887363,5,0,Excellent course and material.  It was  really great learning for me.,0,0,Harinarayanan P,39786203
+30919959~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1551758514708,5,0,Really nice course.Explained with care !!,0,0,Debanita Dasgupta,30919959
+13306182~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1550278412161,5,0,J'ai vraiment apprécié ce cours bien expliquer et très pédagogique !,0,0,Salma Rama,13306182
+39613536~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1549996301997,5,0,Great Learning,0,0,Sachin M Soni,39613536
+32574404~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1549461849611,5,0,Nice,0,1,Mohammed Innat,32574404
+37549206~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1549403258258,5,0,This course is amazing and recommend to other students!,0,0,Wookjin Jang,37549206
+38775648~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1549105211051,5,0,Excellent course. The teacher is extremely good! ,0,0,Shimon Abravaya,38775648
+38847188~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1548845407994,5,0,The courses was really easy to understand and useful for anyone who want to get insight about big data with machine learning.,0,0,Mahamat Nour Ali Mai,38847188
+34740266~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1545767495067,5,0,The Course was great giving a good overview of all Machine Learning Concepts. It is good starting point to understand Basics and Deep dive into Learning. ,0,0,Ramesh Thammidela Venkata Reddy,34740266
+33169785~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1545581667322,5,0,Thank you for teaching me,0,0,Mohd Arif Ansari,33169785
+34899031~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1545163481284,5,0,"Very Good Course with an excellent Trainer, it was well designed and right pace. Thank you Mai Nguyen",0,0,Bhola Nath Rajwar,34899031
+34475228~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1544934100016,5,0,This course is quite good and easy to follow,0,0,Jude Ofili,34475228
+14097028~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1543163190516,5,0,Great,0,0,Sajeed Kazi,14097028
+23008790~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1541486402930,5,0,Great Course!,0,0,Sudipta Saha Shubha,23008790
+37220176~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1540969574260,5,0,The Hands-On exercises are particularly challenging and interesting,0,0,Sai Likhith Kotha,37220176
+33928196~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1540661855140,5,0,Nice Course for revising concepts on Machine Learning and adding a nice flavour of Big Data on it.,0,0,Hardik Vikramsinh Udeshi,33928196
+32527677~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1540186949025,5,0,"Awesome!!! it's a very hands-on driven course with so much concepts to takeaway and expand on... I loved it...
+",0,0,Jamiil Touré ALI,32527677
+34715649~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1539666303898,5,0,Course is well designed to understand the concepts of ML,0,0,Tejprakash Uppu,34715649
+5116441~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1538674320967,5,0,"A very good introduction to fundamentals of machine learning from a practitioner's perspective, without going into mathematical details (there are many other courses for that). The focus was on using big data systems for performing ML tasks and it was introduced quite well.",0,0,Anurag Sharma,5116441
+30877128~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1537480633480,5,0,"It's a very good introductory course, in this course we acquire the first notions on clustering, association, classification and regression. Great!",0,0,Jose Luis Ribero,30877128
+322723~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1537213826894,5,0,My name is Jose Antonio. I am looking for a new Data Scientist career (https://www.linkedin.com/in/joseantonio11)I did this specialization to get new knowledge about Machine Learning and better understand the technology and your practical applications. The course was excellent and the classes well taught by teachers.Congratulations to Coursera team and Instructors.Regards.Jose Antonio.,0,0,José Antonio Ribeiro Neto,322723
+24420776~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1536443227402,5,0,It was very interesting course. I enjoyed learning. ,0,0,Explore Now,24420776
+8536743~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1535775689911,5,0,Amazing training on ML for people starting their first experiences with the topic. Practical and easy to understand examples that can be further extended by the student.,0,0,Roberto Gomes Correa,8536743
+5354034~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1535210868682,5,0,This course strikes the right balance between theory and practice of introductory ML. The instructors have done a tremendous job of presenting the material. ,0,0,Prasanna Uppaladadium,5354034
+34860103~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1534344435973,5,0,"Great and very practical introduction to machine learning, good explanations. Thanks Mai...",0,0,Santiago Amores Garcia,34860103
+32515651~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1534236623982,5,0,This is a very good introductory course that benefits from excellent teaching and materials. It is highly recommended.,0,0,Tom Merriman,32515651
+184905~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1532732045498,5,0,"very good overview of machine learning. Hands on exercises gives a solid platform to explore the real problems. Realize that ML is all about experiments doing , no theory. More u get ur hands dirty more u learn ",0,0,loveneet kumar,184905
+19294517~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1532583435799,5,0,Excellent Course.. Very helpful . Learned a lot and excercize and quizzes really helped to clear concepts more.,0,0,Sinchan Banerjee,19294517
+23268428~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1531968737921,5,0,"Excellent course, I learned a lot about machine learning with big data, but most importantly I feel ready to take it into more complex level although I realized there is lots to learn.",0,3,Prospero-Martin Ramonet,23268428
+16945306~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1531894769767,5,0,The best course in the specialization. ML instructor was very crisp and smiplistic. ,0,0,Prajwal S Nayak,16945306
+32950914~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1531144009419,5,0,another great hands-on course using applications Knime and Spark. I learned quite a bit and expanded my career horizons. Thanks!,0,0,Edward Flynn,32950914
+32202356~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1530718906773,5,0,easy subject,0,0,mansi gupta,32202356
+33844008~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1529127466531,5,0,Great Teachers and great course,0,0,Bhrigu Celly,33844008
+33275228~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1528000644346,5,0,Good introductory course.,0,0,Pijush Kanti Giri,33275228
+31933316~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1527418626438,5,0,Powerful.,0,0,Marcos,31933316
+30032834~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1527270603961,5,0,"Awesome course and you will learn a lot, with great explanations.",0,0,Lorie Skoldberg,30032834
+30535029~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1524587334393,5,0,"
+
+Great course. The instructor is extraordinarily clear in her presentation and the material is very well organized  ",0,0,Julio Diaz,30535029
+3741713~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1524396856196,5,0,  very good  ,0,0,Anup Kumar Mishra,3741713
+7890191~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1524340116253,5,0,nice course for those who desire to gain a basic level knowledge of machine learning and its implementation in the field of big data.,0,0,Raunak Shakya,7890191
+26743930~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1524218464075,5,0,I really enjoyed completing this course and this certification made me confident enough to explore more. ,0,0,piyush manglani,26743930
+1574015~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1523346887891,5,0,The course was wonderful and the lecturer was great too. Thanks for making it available to all.,0,0,anirban dutta,1574015
+28324070~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1523215517054,5,0,Really well delivered. Very good presentations and the hands-on labs did a good job of reinforcing the presented material. ,0,0,William Buenzle,28324070
+28731664~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1523058303315,5,0,A very interesting course that is directly applicable.,0,0,Alexandre VALENTIN,28731664
+27562823~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522959463732,5,0,Excellent! Learned many ML concepts and Knime tool!,0,0,Sam Mallisetti,27562823
+19749914~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522537949946,5,0,I would have like to seen how to compare models using KNIME.    For example the hands on could have explored a number of classification models and then simplified this KNIME youtube video to demonstrate how to select the best model using ROC ,0,0,David dornan,19749914
+8892030~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522496767751,5,0,Deep and accurate course.Thank you.,0,0,Mohammed Acharki,8892030
+2724589~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522363066490,5,0,Loved the contents and the explanation for using the different tools motivated me to use them more outside!,0,0,Ing. Juan Habib Bendeck Soto,2724589
+1101421~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1522071572479,5,0,"Very good blend of Machine learning and BigData. I like KNIME usage during this course, this helped me to practice without getting too much in to coding",0,0,Nishant Jain,1101421
+5077560~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1521960982994,5,0,Much helpful for me in my academics.Excellent...,0,0,Tarun Kumar,5077560
+27940742~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1521430331490,5,0,Great course for Machine learning with Big Data,0,0,Vinod Sashittal,27940742
+11667054~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1521093556845,5,0,"Good contents, interesting topics, hands-on were good but not very confident with those",0,0,Ali Adnan,11667054
+53467~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1520699048149,5,0,"Excelente course, I will continue learning and practicing all the concepts that explained in this course. Thank you!!",0,0,Daniela Vergara Osorio,53467
+28155200~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1520696347635,5,0,Great course - would recommend further details towards the end of course lectures..more explanation on the graphs.,0,0,Sunil Bhojwani,28155200
+17075430~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1518754017991,5,0,It is very effective course to learn machine learning and big data with their relation.,0,0,Asm Imran Hossain Bhuyan,17075430
+22206886~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517684861335,5,0,Very useful introduction in the field!,0,0,YEVHEN KRASNIANSKYI,22206886
+25746723~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517351811003,5,0,"Excellent content, the hands on exercise can be improved and be more detailed.",0,0,Sabawoon Shafaq,25746723
+13907229~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1517328033983,5,0,Great to start with big Data,0,0,Manoj Bhat (M3B),13907229
+14125505~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1516387818920,5,0,Good for learning the concepts and techniques of Machine Learning with Big,0,0,Aditya Sinha,14125505
+20027445~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1516026023192,5,0,Very well structured and clearly presented course! Thank you for putting this together!,0,0,Grissonnanche,20027445
+377460~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1515738145705,5,0,The most interesting course of all specialization. What is missing is deeper insight.,0,0,Lukáš Bernat,377460
+24096567~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1515075587535,5,0,Very Well Explained and gather a clear concept,0,0,Anurup Borah,24096567
+4918816~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1514822122998,5,0,Great course to understand Machine Learning basics and practice with Spark,0,0,Darius Tamašauskas,4918816
+24749535~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1514569172647,5,0,A quite knowledge-full course for the beginners. Enough of practical guidance on ML with Apache Spark and KNIME,0,0,Gaurav Sharma,24749535
+11373014~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1513563202754,5,0,Very educational course but doable and fun as well.,0,0,Chesed Mercado,11373014
+29803860~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1513534106507,5,0,5/5,0,0,KOUSHIK CHOWDHURY,29803860
+14158435~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1513283674607,5,0,Excelente curso!,0,0,Carlos Eduardo de Souza,14158435
+26785928~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1512949134601,5,0,I will continue with this on my own.  Started a lot of great discussions with a broad variety of approaches,0,0,James Archuleta,26785928
+24911026~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1512137618129,5,0,Very good start to learn Machine Learning,0,0,Tandy Susanto,24911026
+3509911~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1511672807728,5,0,Very informative and well presented course.  Thank you!,0,0,Steve Zutaut,3509911
+17204815~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1510892738025,5,0,"I really liked this course. The way they walk you through the process is very great. Even though i had done the same process due to working in the industry, i was lacking the terminology and the ability to articulate it, this course made it clear me among many other things. Good way to shed some light on what to expect on a daily basis on the job as a data scientist. Thank you for the great work. ",0,1,Omar Kahwaji,17204815
+25439742~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1510767209190,5,0,Perfect introduction.,0,0,Michel Racine,25439742
+24323381~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1509922136733,5,0,This was an amazing course. Everything was very well explained. Thank you.,0,0,Piotr Białka,24323381
+26476763~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1509412601001,5,0,"Excelent course, good machine learning tool",0,0,Nicolas Garcia,26476763
+24791482~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1508827215861,5,0,Very good course to machine learning.,0,0,陈洁莉,24791482
+22417428~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1508659450353,5,0,"very good course design,  easy to understand",0,0,colin zeng,22417428
+29176271~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1508418864813,5,0,"This is by far the most enjoyable course of the big data specialization, i loved the teaching approach and enjoyed all the hands on exercises. Great job!",0,0,Lola Bastos,29176271
+24479456~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1507861055222,5,0,a great course,0,0,arnold8968,24479456
+13195245~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1506974477176,5,0,Wonderful Course,0,0,Kamran Kausar,13195245
+22029493~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1506972248102,5,0,"Yet another high quality course in the Big Data Specialisation track, providing proper theoretical background in combination with hands on material, which are both -as always- very well prepared. I really like the well-balanced, concise approach. As with any course, this is a start allowing you to continue, depending on your personal and professional interests, with one or more of the topics touched over the past few weeks.",0,1,Dieter Bauwens,22029493
+28040590~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1506445471262,5,0,  This is a very good course in most aspects.  ,0,0,Assaduzzaman Noor,28040590
+8062855~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1506046482058,5,0,Great Course and tools,0,0,Enrique Agredano,8062855
+244865~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1505419840151,5,0,"It's been a little difficult but I am happy, I will take a machine learning course with R. I used databricks for processing since my Mac it's old, databricks it's free and nice but I couldn't run the libraries matplotlib parallels plot. ",0,0,Fernando García de León Villaseñor,244865
+19708619~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1504831939983,5,0,A very good course to begin with.,0,0,rajat bhati,19708619
+16787903~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1504680255120,5,0,That is why I took this coursera speciality,0,0,Monteil Jean-François,16787903
+25937885~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1503376615720,5,0,Suitable for beginner.,0,0,viper,25937885
+19614251~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1503123375750,5,0,"Love this course , given me good understanding of Machine Learning , Also introduced two tools - KNIME and Spark Mlib with really good hands on",0,0,Ankur Kapoor,19614251
+2026469~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1502765802022,5,0,"Amazing course, introduce the basic concepts.",0,0,Renato A. Guimararães,2026469
+16572100~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1501240037964,5,0,"Excellent course, funny assignments and good presentations",0,0,Nikos Berdos,16572100
+22541150~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1501088619024,5,0,"Wonderful teacher! Excellent course! But if you really want to learn Machine learning with Big Data, you have to work yourself on a project",0,0,Fernando Andrés Sánchez González,22541150
+22110947~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1500973504000,5,0,"Great experience, valuable knowledge and encouraging tests.",0,0,Marcin Laskowski,22110947
+16501425~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1500810963755,5,0,"Nice overview, I enjoyed the whole content. It  is very basic for ML specialists but definitely a good overview.",0,0,Alper Tutak,16501425
+15258724~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1499585949400,5,0,Simply Superb introduction to Machine Learning. ,0,0,PREMAL MEHTA,15258724
+26824328~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1499339624908,5,0,very good teacher!!,0,0,ran.yi14,26824328
+24331966~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1499325259811,5,0,very good this course special the activity on KNIME prog thank you DR Mai   ,0,0,Hamada Ibrahim Mohamed,24331966
+22652795~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1499285405157,5,0,Well taught material that was presented clearly and reinforced.  The material was interesting.,0,0,Keith Badgley,22652795
+22027568~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1499195646398,5,0,This is really very useful course to start with machine learning which goes through all terminology and basic algorithms in detail with hands on. More information about Spark would have been little bit more useful.,0,0,Gaurav Datar,22027568
+16216076~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1498953549011,5,0,"Excellent course, teacher and practices!",0,0,Fernando Martinez,16216076
+24333734~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1498832626205,5,0,Great thanks to every one .It was a good time and fantastic learning.Best Place to learn and Study with easy way .,0,0,Sayed Tarek Sayed,24333734
+22737574~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1498163892618,5,0,Excellent,0,0,Marino Gavidia,22737574
+19784800~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1498028804699,5,0,Really Really worth course!!,0,0,Jitender Singh Virk,19784800
+25291225~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1497927617928,5,0,I loved this course as it explained many of the machine learning algorithms that I was already familiar with with much more clarity than from online videos that I've seen. The equations were also explained very intuitively and with very practical handson exercises. I really recommend this course for anyone who needs a refresher on machine learning or brand new into it as the instructors Mai and Ilkay were so wonderful.,0,0,Dennis Nguyen-Do,25291225
+12260460~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1497386941360,5,0,I was really happy to take this course after the last two had really disappointed me. The organization was a lot stronger which led to a better understanding. The hands-on problems were also very thorough. It was a great introduction to machine learning with big data.,0,0,Ryan Honea,12260460
+2750617~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1497196781410,5,0,All the topics were explained with a lot of detail. Enjoyed and Learned a lot!!,0,0,Juan C Hidalgo,2750617
+24376298~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1496309432871,5,0,Excellent course. Want to dive deeper into the subject :-D,0,0,Mark de Boer,24376298
+2873272~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1496174559425,5,0,VERY GOOD,0,0,Juliano Iowa,2873272
+22760389~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1495638859064,5,0,very easy to follow and good hand on exercise,0,0,Frank Fan,22760389
+1244251~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1495475249491,5,0,One of the best courses in the series with a good mix of theory and hand-on exercise on ML implementation in big data,0,0,Aakarsh Gupta,1244251
+19259998~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1494186179698,5,0,Best course so far in this Intro to Big data.,0,0,Martin Lavoie,19259998
+2692836~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1493175248115,5,0,This course is a great fit between theory and pratice,0,0,Paul Aan,2692836
+18676012~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1492725278703,5,0,"Really fun, glad I finally finished.  I got so distracted running off and learning things.  I got familiar with scala and python along the way too.",0,0,Billy Perez,18676012
+428634~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1492322703086,5,0,"This is the best course of this specialization.  Dr. Nguyen describes and teaches the contents of machine learning with clarity and digested knowledge.  I would suggest to add more in-depth contents to each of the machine learning category, especially clustering, classification and association, at least as optional contents in case the number of weeks allocated for course are restricted.",0,0,Jian Song,428634
+3960322~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1490770363561,5,0,Very good,0,0,Sudhanshu Sharma,3960322
+9991870~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1490560024752,5,0,Very interesting cource! Thank you! I would suggest to advance python tasks,0,0,Сулейкин Александр,9991870
+3152514~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1489382914589,5,0,"Nice course, very practical.",0,0,Jose Alejandro Benitez Aragon,3152514
+19445399~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1489183203980,5,0,"This course introduces the basic concepts of ML beautifully, the instructor explains everything in a very lucid way. It also teaches modeling with ML in KNIME. I would personally want to know more about spark, but this course gives a good introduction. Overall very good starting point for beginners.",0,0,Aditi DB,19445399
+21835041~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1488279447215,5,0,Very well explained course on Machine Learning. I am grateful for the highly insightful course like this. I will recommend this course for all data enthusiasts.,0,0,Lawrence Osei-Wusu,21835041
+22835916~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1484070137677,5,0,It is really great.,0,0,Hadi Bitalebi,22835916
+242512~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1483921177243,5,0,The course was the best introduction I had for machine learning. Helped me a lot to understand different concepts from people who already know about the subject and I didn't have any idea. ,0,0,Piero Torres,242512
+20561926~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1483016938824,5,0,"I really enjoyed the course since it's match with my patience and work, in addition I'd like to highlight the instructor, clear,organized idea and steps, this was 70% of the success of the course I believe.",0,0,Othmane BELHADJER,20561926
+12667361~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482884606744,5,0,Excelent Introductory course to MACHINE LEARNING with Big Data.,0,0,juan antonio castro silva,12667361
+20231934~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482862281594,5,0,Great introduction with great tools. Has definitely inspired me to lean more about 'Machine Learning'!,0,0,Ben Woods,20231934
+19093746~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482664514246,5,0,"The course helped me understand the concepts of the machine learning from the very rudimentary level. It also laid the foundation for understanding and dealing with the practical implementation of the machine learning algorithms and their implementation in big data which eventually elevated my understanding of applications dealing machine learning with Big Data. Thanks to all the mentors and instructors for everything- the teaching materials, quizzes, assignments and hands-on; everything was awesome.",0,0,Akshay Vyas,19093746
+8006674~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482425537386,5,0,thanks so much ,0,0,Amir Ageez,8006674
+5825643~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1482351524029,5,0,the course helped understand the machine learning concepts and the hands-on were very comprehensive.,0,0,Sita Ram Prasad Gunturu,5825643
+4282000~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1481566284085,5,0,"Both the professors are great , the videos helped alot in understanding lot of core concepts in machine learning.",0,0,Rashmi Uikey,4282000
+167352~COURSE!~loAmvxJgEea8fxLSgUgxeQ,1480734866681,5,0,excellent!!,0,0,Víctor Viera Balanta,167352

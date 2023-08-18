@@ -1,0 +1,52 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+94202622~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1638122073916,1,0,T​he peer reviews ruin the course.,0,0,Balraj Bains,94202622
+60270989~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1590063623294,1,0,Peer Grade Assignments Marking By Indian Peers are validating our assignments very poor manner overall very bad attitude ,0,0,Praveen Peiris,60270989
+79543728~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1622828647186,3,0," The information presented in this course is easy to digest and on point when discussing the identification of security vulnerabilities. The information related to ciphers, hash functions, threat model description, cryptography usage, OWASP, various security vulnerabilities (sql injection, cross site scripting, permissions, authentication via cookies and sessions, etc) were all fairly modern (I think?) and well explained. WebGoat and Burp were cool tools (once I got them working...) and their associated labs (while not required for completion) were useful and interesting. 
+
+While the information was good and fairly well presented in general, I think this class would be greatly improved with an integrated jupyter notebook for the java programming sections. This would allow auto-graded input/output based assignments. Additionally create more jupyter notebook assignments in each module to further solidify chapter topics. The labs were difficult to setup: the tools themselves seem to be fairly old and required a bit of configuring to get them to work correctly. The assignment is out of date: javax has been deprecated since the release of java 9 in 2017; the assignments should be updated to use the latest technologies. If a jupyter notebook was used the above problems would be solved, as the lab/assignment environment would be pre-configured correctly. Additionally, this would guarantee all students access to the same development environment and that all the necessary packages are available. ",0,0,Nickolas Davis,79543728
+41763988~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1573577171873,3,0,A lot of the labs need to be updated as the latest webgoat does not function the same way as described in the lab anymore.,0,1,malromaithi,41763988
+45404103~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1572432229957,3,0,"Except for the first week, which introduces thread models, the rest of the course is the same as a part on ""Identifying vulnerabilities in C/C++ programming""....",0,2,Giorgio Bernardinetti,45404103
+79768540~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1665037996768,4,0,A​ good overview of the fundmentals are provided,0,0,Daniel de Jager,79768540
+52523399~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1624884306113,4,0,"Excelente curso, lo único que mejoraría es que para el último ejercicio, indicaran claramente en que versión de Java se debe hacer.",0,0,Edinson Guzman,52523399
+72828307~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1604897264192,4,0,Good,0,0,Paramananda Mishra,72828307
+8694218~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1603810969578,4,0,"Excellent course with a broad coverage of all the aspects involved in Application Security, clearly explained and the peer graded labs were fun to do!",0,0,Wilco Kasteleijn,8694218
+67170720~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1600155242299,4,0,"First week very theoretical, while the last three becomes more practical. I did however feel like I learnt something that I could use in everyday life. The additional resources and reading is really nice, though you might want to check up on the current OWASP top 10, since this course is from 2017.",0,0,Christoffer Lambertsson,67170720
+62473800~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1595245978642,4,0,Really awesome to learn about vulnerabilities.,0,0,Kevin Paulraj,62473800
+53992559~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1586769516665,4,0,I was excellent,0,0,Dr. Digvijaysinh Rathod,53992559
+109281769~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1664304706646,5,0,I thoroughly enjoyed going through this course.  Sandra did an excellent job explaining all the concepts.  The slides were very clear and her explanations matched the slides (some teachers don't do that!).  She explained things in a very concise and clear way. ,0,0,Elizabeth Balcha,109281769
+108682425~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1657168829056,5,0,Very informative,0,0,ANJLI RAI,108682425
+104757625~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1651167737340,5,0,Excelente curso,0,0,IBARRA LEON FERNANDO,104757625
+41085475~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1648738714888,5,0,Done,0,0,mathen cse,41085475
+98766043~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1648141284362,5,0,excellent,0,0,Ivan Alberto Rangel Baza,98766043
+102382253~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1647459063380,5,0,un curso muy completo.,0,0,MORA VAZQUEZ JULIO CESAR,102382253
+1394504~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1640326396723,5,0,T​his course has been very usefull to me. It introduces me to security vulnerabilities and how to think about the mitigations. I'm planning to do the last course in this specialisation next. Thank you for this inspiring course  ,0,0,Edwin Siebrasse,1394504
+73789687~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1633542067399,5,0,Wonderful class! Amazing teacher :),0,0,Andrea Gallegati,73789687
+105628~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1631059013942,5,0,​It's a good course for who is looking to learn about secure code,0,0,Jennifer Yepez,105628
+29605174~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1629410048440,5,0,Excellent Course!,0,0,Daniel Fernando Ospina Duque,29605174
+85796681~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1626123564078,5,0,Excelente metodología de aprendizaje de desarrollo seguro de Software,0,0,Juan Alejandro Goez Garcia,85796681
+76424184~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1612242231015,5,0,"Excellent course, everything is accessible and understandable",0,0,Rus Mazh,76424184
+24680190~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1605779162368,5,0,Very informative & exhaustive coverage. Kudos to the tutor and thank you !!,0,0,jason george,24680190
+63188938~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1605561268519,5,0,It's great theme,0,0,Miguel Antonio Charris Linares,63188938
+55984330~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1605553998523,5,0,Good one,0,0,APOORV GUPTA,55984330
+71631530~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1604328857194,5,0,The course give main bricks for handle security things. It gives also a small hands on and propose a few useful libraries for security development,0,0,luca minotti,71631530
+54154938~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1601019110935,5,0,It Helped me alot this is best course 😊,0,0,GUPTA AKASH,54154938
+64914338~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1595990021232,5,0,I really enjoyed the course just somethings need to be reviewed again so that it could be up to date,0,0,Righteous Ehiede,64914338
+64151501~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1595685813289,5,0,"Coursera site is very use full for learning,knowledge sharing, quality checking and  improve skills",0,0,Mahendiran,64151501
+56398280~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1594047253407,5,0,Thank you ma'am it was a great learning with you. I learned so many new things.,0,0,NITESH KUMAR SAH,56398280
+21884239~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1593730954212,5,0,"very good course and i love the instructor, very clear and straight to the point ",0,0,Joseph O. Kennedy,21884239
+60997883~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1592501732927,5,0,Perfect Course learn about mitigating vulnerabilities! ,0,0,Shyam Raveenthiran,60997883
+41179150~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1590593531573,5,0,"Excellent course, i have learned a lot of thing, even when some topics are explained in a general way, The instructor has much knowledge about the topics, the syllabus is according with the goal of the course; and the practice with webgoat gives that practice in the learning process. Thank you for sharing this knowledge.",0,0,Juan Camilo Quintero Vargas,41179150
+58804197~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1590357523428,5,0,"This class was awesome, it was challenging, and caused me to grow toward my goal of being in Cyber security! Thanks!",0,1,Virgil Lee McClain,58804197
+56810996~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1590034918629,5,0,KINDLY PROVIDE HANDS ON .THERE WAS NO  HANDS ON ALL THEORY NO T MUCH USE IF STUDENTS GET ZERO PRACTICAL,0,0,DEEPAK JINDAL,56810996
+57051734~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1589638835227,5,0,The course is really great and got to learn new & interesting concepts except that the webgoat installation tutorial/document is not up to date.,0,0,Hardik Prakash Trivedi,57051734
+36534774~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1589515770949,5,0,Excellent course material and equally good delivery.,0,0,Ajith G Nayak,36534774
+5963083~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1588541555667,5,0,Instructor is very knowledgeable. Content was fantastic & modern. Quizzes weren't easy & really enforced the course content. My favorite course so far of the 4 part series. ,0,0,David A,5963083
+54936995~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1588260486026,5,0,Very informative course,0,0,Dr V Ceronmani Sharmila,54936995
+39777072~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1575961330936,5,0,Its a good learning and got to know about security and Vulnerabilities in an ellaborate way. Thanks,0,0,Deepak Behera,39777072
+43988205~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1574213587224,5,0,Build practical foundation for application security,0,0,Howard Shin,43988205
+44466157~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1574091677000,5,0,"
+It is not a very intense course, but each class is very well planned to learn the objectives and provides the resources to learn more. I am glad to have learned the topics developed in class.
+
+",0,0,Fernando Demetrio Briceño Gonzales,44466157
+681550~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1571835458157,5,0,Threat Modeling and Week 4 code submission was very fruitful. Overall good content to learn for developers and Application Engineers.,0,0,Sanjeev Kumar Jaiswal,681550
+35744707~COURSE!~V1k0pBtIEemZRAqH7m9oGA,1563323092119,5,0,"I can now take full control of my personal information online, without any tradeoffs",0,0,Shimane Mosenogi,35744707

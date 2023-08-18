@@ -1,0 +1,4 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+101897752~COURSE!~huPu7DZ5EeyTERK47a9PLQ,1645026425580,2,0,"I copied the ""Delete_User"" Script, word for word and it did not work",0,0,Taylor Hubbard,101897752
+78891233~COURSE!~huPu7DZ5EeyTERK47a9PLQ,1675599606446,5,0,Best.,0,0,Samee Shaikh,78891233
+85005010~COURSE!~huPu7DZ5EeyTERK47a9PLQ,1675467979497,5,0,Basic intro to shell scripting,0,0,Brian Kinkead,85005010

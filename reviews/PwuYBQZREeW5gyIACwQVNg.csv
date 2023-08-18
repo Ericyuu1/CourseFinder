@@ -1,0 +1,419 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+3543404~COURSE!~PwuYBQZREeW5gyIACwQVNg,1626814855715,1,0,"T​his course is absolutely CRAP, as there are questions I can prove that the answers are wrong on the final exam, using Maple to do it.",0,0,Thomas Toseland,3543404
+9190100~COURSE!~PwuYBQZREeW5gyIACwQVNg,1602298150547,1,0,"i've been stuck at week one for the past six monthsthere aren't any peers to review, so i can't move forwardi need to go to week 2 because life is going by so fast, if i don't do it now, it'll never happen",0,0,hamid mazuji,9190100
+26027122~COURSE!~PwuYBQZREeW5gyIACwQVNg,1505168760771,3,0,"I know I'm giving this 3 stars, but I wanted to point out that this is not a rigorous introduction to complex variables. For those getting started - it's an excellent introduction, but for those familiar with proofs and prefer more, resources like University of Alberta's Math 411 - Honors Complex Variables at https://www.math.ualberta.ca/~bowman/m411/m411.pdf is a much more proof-based.  I hope (and I really do hope) that someone will offer a honours-level (which rigorous proofs and reasoning) on Coursera one day, and I would like to take that course.",0,12,Supakorn Rassameemasmuang,26027122
+111896251~COURSE!~PwuYBQZREeW5gyIACwQVNg,1668113170448,4,0,Excellent course!  Dr. Bonfert-Taylor was an excellent present & very straightforward in her approach to the subject material. Only thing I would change is to present Julia and Mandelbrot sets later in the course.,0,0,Stewart Anderson,111896251
+4437878~COURSE!~PwuYBQZREeW5gyIACwQVNg,1660227831285,4,0,"Graphical display problems came into the html later in the course - line spacing was messed up.  Generally very well presented, and I hadn't done this before, but I am not motivated to pursue it furtherI made several attempt to complete with 100% and fell short at the final exam!  Grrr .  Not far short though.",0,0,Greg Lesnie,4437878
+76907144~COURSE!~PwuYBQZREeW5gyIACwQVNg,1628005290744,4,0,"
+This course contains an overview of manipulation in complex
+numbers at a second-year undergraduate level. Various techniques, such as
+visualizing mappings, solving integrals, and manipulating series in complex
+numbers are introduced. The course also goes through some of the application of
+a few crucial theorems, such as Cauchy-Riemann Equations, Cauchy’s Theorem and
+Cauchy Integral Formula.
+8 weeks ago, I started this course with a knowledge of some
+very basic real analysis (the epsilon-delta definition of convergence,
+differentiation, and Riemann integration). As a major in mathematics, I found
+this course refreshing and a pleasure to take. Dr Taylor’s voice was engaging,
+and the lecture notes were self-contained and well-explained. 
+One remarkable feature that I want to highlight is the coursework
+component. It consisted of graded quizzes with multiple choices, tick boxes,
+and some short fill in the blanks. There were also graded peer assignments once
+per 2 weeks, this made sure that our answers produced are readable by other
+people. I found the difficulty of the coursework very appropriate: it was
+deliberately not straightforward, and you must be careful while applying
+different theorems and concepts that were taught in the lessons. The
+peer-graded assignment also emphasized communicating mathematics carefully,
+with clearly given guidance and appropriate suggestions from other learners, it
+was a very well thought out part of the course. 
+The course was very enjoyable on its own. But certain
+features could be more well-polished. Overall, this feels like a course for
+applied mathematicians. Heavy focus is put on and applying the results.
+However, with a little bit of generalization and more discussions of proofs and
+their logic behind them, it can benefit more pure mathematicians that are
+interested in the subject. Similarly, I think the assignments (especially the
+peer-graded ones) can be more proof-centric, with more videos explaining the
+sketch of proof in more detail. Therefore, the course can aim for a balance
+between applied and pure content, which would in turn benefit more learners.
+Moreover, even with the addition of Residue Calculus, I
+still think that more content can be added to the course. It currently contains
+topics such as Solving Real-valued Integrals, Understanding the Mandelbrot set,
+etc. But more applied topics, such as introducing the idea of the harmonic
+equation in liquid flow or heat flow using polar coordinate might be more
+inspiring and make the course more fulfilling.
+Lastly, I found Week 5 (The first week that introduces
+complex integration) particularly challenging. I think I spent twice the time
+revising it compared to other units in this course. Therefore I think it will
+be better to add new content and let the whole course be 12-week long or so.
+Overall, I enjoy this course a lot, and I will recommend anyone
+who has an interest in Complex numbers and have 1-2 years of experience in
+university STEM subjects.
+
+
+
+
+
+",0,1,Ryan Lam,76907144
+86152408~COURSE!~PwuYBQZREeW5gyIACwQVNg,1626971956554,4,0,"Очень интересно, познавательно, узнал для себя много нового. Но в этом и проблема, пришлось уделять много времени курсу, потому что много информации для самостоятельного обучения. Автопереводчик на русский язык справляется средне. ",0,0,Артур Шварц,86152408
+72809987~COURSE!~PwuYBQZREeW5gyIACwQVNg,1614510895204,4,0,"Très intéressant, mais le début (week 1&2) est trop simple par rapport à la suite.Il manque beaucoup de démonstrations difficiles.Parfait après une CPGE scientifique.",0,0,Martin Jean,72809987
+71202296~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610420319142,4,0,Excellent lectures.  Great insights into how complex integration works.  Tests and assignments are fair.  Extra practice problems would be nice to help understanding. ,0,0,David T McInturff,71202296
+58934305~COURSE!~PwuYBQZREeW5gyIACwQVNg,1609256293461,4,0,"This course is good for anyone who wants to know how to handle the tools associated with complex numbers. But, it is less formal than I iniatilly expected. It was a good particular experience because it was my first course in a non-native language.",0,0,Eleomar Cardoso Júnior,58934305
+6101056~COURSE!~PwuYBQZREeW5gyIACwQVNg,1601410868501,4,0,Very interesting and stimulating. It was difficult but I am a bit elderly (84). It was well explained for the most part. I am not sure about the value of the peer graded assignments.  I have learned a lot. Thank you Prof Bonfert-Taylor.,0,0,Arthur Gilbert,6101056
+72522124~COURSE!~PwuYBQZREeW5gyIACwQVNg,1601376324872,4,0,Methodology of the whole course is good. ,0,0,Shibu Andia,72522124
+57244478~COURSE!~PwuYBQZREeW5gyIACwQVNg,1598534833834,4,0,"much of the course is excellent, I found some better aids along the way which gave well worked out examples; the peer assessed exercises were very good but the standard shown by some participants seemed low in terms of presentation (neatness, clarity of argument) the final exam was quite hard and even if one achieves a pass mark of > 80% it is not possible to see exactly where one went wrong. I found the course stimulated my personal research : https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/wbooks_fulllist.html I also greatly appreciated the presentation in ""Visual Complex Analysis"" by Tristan Needham Clarendon Press Oxford my background : Calculus at School until 18, 1 year maths for sciences at Uni, Khan Academy Maths in the last 5 years, Intro to Math Thinking Keith Devlin Coursera",0,0,simon wallis,57244478
+44795390~COURSE!~PwuYBQZREeW5gyIACwQVNg,1598349782193,4,0,Not enough proves and theoretical reasonings,0,0,Никулин Олег Алексеевич,44795390
+49996039~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597453910762,4,0,"Area of special interest for me, and what I was hoping to prepare
+myself for in this course, for example include 1. Nyquist stability criterion, as it relates to classical approach
+to analysis and design of the control systems,2. Fourier, Laplace and Z-transforms, with rigorous approach
+to definition of the region of convergence, and generalized functions transformations, Nyquist stability criterion actually comes from residue
+theorem, so with addition of the week 7, that goal is partially fulfilled. Actually, without week 7, this course would not have much of
+the sense at all. To include topics like Julia and Mandelbrot sets, and even Riemann
+Hypothesis, while skimping on Cauchy’s Theorem and Integral Formula, and actually
+to completely left out Residue Theorem and its applications altogether… well
+that would be pure ""l'art pour l'art"". From each sentence, this course instructor knowledge and
+expertise clearly shines, but so does the fascinations with pretty, fractal
+like, pictures or open problems in mathematics. From that kind of fascinations
+the greatest results in mathematics  came.
+Complex analysis is one of those gems, so don’t cut corners on it. Most of the proofs are just sketched, or omitted
+altogether. That is really unfortunate, because proofs of the complex analysis
+theorems are really good way to gain in depth understanding of the subject
+meter. Very much like in vector calculus, the approach and ideas in those
+proofs, have universal applicability in wide range of engineering areas. To
+state complex analysis theorem without proof is like teaching student a recipe
+to solve differential equitation, without teaching him to properly set the equitation
+together with appropriate boundary conditions.",0,0,Ron Taune,49996039
+63365667~COURSE!~PwuYBQZREeW5gyIACwQVNg,1595954287294,4,0,great course and a very good teacher,0,0,shushant valabh,63365667
+56212552~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591998793756,4,0,"A really tough and complete introduction to complex analysis. With the added lectures about the residue theorem and Laurent series, the course feels really useful and fun to apply. The pop-up questions seem a bit out of place for me, and confused me more times than they helped me comprehend the concept at hand. Besides that, this was really a great experience, and one of the most challenging and fun math courses I have done here in Coursera.",0,0,Santiago Rodríguez Roiz,56212552
+49200653~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591755946118,4,0,"Everything in the course was explained in great detail and clarity, and the assignments that were assigned for the course provided educational value. However, I feel that the quizzes and the problems on them were considerably more difficult than most of the example problems that were gone over during the lectures, and that can be a problem considering you need at least a 4/5 (80%) to pass each quiz (each quiz consisting of 5 questions at the time I'm writing this).The difficulty spike being slightly too high is the only problem that I experienced in this course, and aside from that, everything else was great!",0,0,The Shadow Fox,49200653
+25478778~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591529460809,4,0,"it's  very nice and soundly developped , any problems showing the  latex code  in some questionaires ( seeing  with Firefox) ",0,0,vicente pascual,25478778
+37892875~COURSE!~PwuYBQZREeW5gyIACwQVNg,1588772881930,4,0,"A well taught course that merges well into undergraduate mathematics, and provided useful experience of higher level maths for a student deciding which degree to do.",0,0,Alex Young,37892875
+6365954~COURSE!~PwuYBQZREeW5gyIACwQVNg,1588278850111,4,0,"Some tasks contain errors and typos. Also, the lecture material should be with the proof of the theorems, because the technique of proofs also gives many practical methods that can be used in practice. Just a set of facts lectures and trivial examples make a very elementary introduction to complex analysis.",0,0,Александр Романенков,6365954
+7918561~COURSE!~PwuYBQZREeW5gyIACwQVNg,1581675471183,4,0,أشكركم لقد تعلمت الكثير من هذا الدرس,0,0,mery,7918561
+36848724~COURSE!~PwuYBQZREeW5gyIACwQVNg,1577073315853,4,0,good course,0,0,Chem Engineer#guy,36848724
+43689904~COURSE!~PwuYBQZREeW5gyIACwQVNg,1566930190622,4,0,"in my humble opinion I think this course is very well  but exists several topic more important for touch, and manner for made the exams and the homeworks in my opinion is bad because you will not need to do a lot of the equations for solve that ",0,0,Reymundo Flores Fernandez,43689904
+27297878~COURSE!~PwuYBQZREeW5gyIACwQVNg,1558317778213,4,0,Assignments are deep and systematic,0,0,Aung Khaing Min,27297878
+12482064~COURSE!~PwuYBQZREeW5gyIACwQVNg,1554106880155,4,0,"Even though I haven't completed the course, I managed to do up to week 3. It is nice and the lecture videos are easy to follow and understand. Hopefully i'll retake it and complete it this time around.",0,0,Ditiro Mahlasela,12482064
+6990911~COURSE!~PwuYBQZREeW5gyIACwQVNg,1553889090825,4,0,Really good course. Well explained and interesting.,0,0,Eleftheriadis Vasileios,6990911
+2522855~COURSE!~PwuYBQZREeW5gyIACwQVNg,1551985713634,4,0,Excellent instructor and good range of material. There are some theorems that aren't proved though and I was hoping that an analysis course would have proofs for all theorems students are required to use.,0,0,Samuel Kapust,2522855
+38098473~COURSE!~PwuYBQZREeW5gyIACwQVNg,1546652624984,4,0,It's wonderful!!,0,0,Jianlong He,38098473
+35980821~COURSE!~PwuYBQZREeW5gyIACwQVNg,1539467697219,4,0,This was a pretty interesting course with a lot of useful information. It was taught at an intermediate level which was good for me because I don't do a lot of pure math. This was mainly used as a refresher of complex analysis for an EE masters. Did the job!,0,0,Alexander Lindsey,35980821
+23403031~COURSE!~PwuYBQZREeW5gyIACwQVNg,1536529541886,4,0,"Some of the latter lessons should have been put up front so as to better present the intuitions of what you're proofing, but overall found it to be a good course. ",0,0,Blake Cole,23403031
+29742070~COURSE!~PwuYBQZREeW5gyIACwQVNg,1526374393221,4,0,Fun course and learned lots. Its tough to do maths without doing lots of practice so be prepared to do lots of examples outside of the course in order to master the material.,0,0,Malcolm Gardner,29742070
+30145196~COURSE!~PwuYBQZREeW5gyIACwQVNg,1522169066582,4,0,"Its an overall satisfactory course. It balances the understanding of functions in the complex plane and the processing of functions in the complex plane. Throughout this course, there are in depth (as in depth as an introductory course can be) mention of topics such as properties and implications of analytic functions, transformations, residue calculus, power series, and more. Apart from this, the only drawback is the occasional omission of proofs. In general, there is always an attempt to either prove a given theorem, or at least give an idea as to how it would be proved, but quite often the student is entrusted to apply a theorem without fully understanding it. All-in-all, I would recommend this course to others.",0,0,Joshua Heckroodt,30145196
+267740~COURSE!~PwuYBQZREeW5gyIACwQVNg,1518269324341,4,0,Works for me.,0,0,Troy Woo,267740
+5939585~COURSE!~PwuYBQZREeW5gyIACwQVNg,1511888653786,4,0,"This is a very good course. Professor Bonfert-Taylor only uses slides so it is a traditional maths course (for awesome non-traditional maths courses on Coursera Cf Jim Fowler calculus 1 and 2). However, the content is very homogeneous in terms of level of difficulty, the progression is perfect and she explains everything there is on each one of the slides. It's a pity she doesn't try to appeal to our geometrical intuition (I know it's less easy to do than in real analysis, but still, it would have been helpful in some places).",0,0,Carlo,5939585
+19012046~COURSE!~PwuYBQZREeW5gyIACwQVNg,1505829471411,4,0,Excelent course on complex analysis. The course would be more complete if the proofs of the theorems were provided/shown.,0,0,Fabio Benjovengo,19012046
+25614997~COURSE!~PwuYBQZREeW5gyIACwQVNg,1495478710190,4,0,"clearly explained, clear voice, teaching style is perfect and instant reply on discussion board. i guess more no. of questions are required in the assignments and homework. assignments and homework questions are average level kind, it needs to be improved to a little higher level thinking kind. i really enjoyed each part of the course.",0,0,PANKAJ CHANDRAVANSHI,25614997
+25644360~COURSE!~PwuYBQZREeW5gyIACwQVNg,1492672155775,4,0,intresting !!!!,0,0,shriman keshri,25644360
+18623377~COURSE!~PwuYBQZREeW5gyIACwQVNg,1488906241636,4,0,Nice course explaining basics of complex analysis. ,0,0,Daniel,18623377
+11763612~COURSE!~PwuYBQZREeW5gyIACwQVNg,1485368822381,4,0,Interesting and illuminating course on Complex Analysis. Thank you so much.,0,0,LittleStone,11763612
+2920999~COURSE!~PwuYBQZREeW5gyIACwQVNg,1481094592563,4,0,Good introduction to Complex Analysis ,0,0,Víctor Pérez Villar,2920999
+403991~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474401574104,4,0,Very good course. I learned a lot of new things,0,0,Robert Lutz,403991
+16797116~COURSE!~PwuYBQZREeW5gyIACwQVNg,1473187663255,4,0,"
+The course is really interesting and it is very clear.thanks a lot of ! Sylvain ",0,0,Blondeau ,16797116
+994651~COURSE!~PwuYBQZREeW5gyIACwQVNg,1472631093741,4,0,V,0,0,Mark Roberts,994651
+11705543~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471437393255,4,0,"I found this very interesting, covering some topics I did not expect an introduction. I think the pace of the course is about right, but I would have liked more questions. Unfortunately I became  very busy during the course and failed to keep up. I look forward to repeating it when I have more time.",0,0,Glenn Reader,11705543
+113170259~COURSE!~PwuYBQZREeW5gyIACwQVNg,1676304095002,5,0,it was really a nice experience to learn complex analysis.,0,0,Rashad Ali,113170259
+69118469~COURSE!~PwuYBQZREeW5gyIACwQVNg,1675610444245,5,0,It's a great course. I wanted to remember the main topics of complex analysis and it helped me a lot to achieve it.,0,0,Juan Guillermo Garrido,69118469
+82488619~COURSE!~PwuYBQZREeW5gyIACwQVNg,1675390527762,5,0,"curso de altíssima qualidade, garantia de aprendizado",0,0,Ryan Freitas,82488619
+117838396~COURSE!~PwuYBQZREeW5gyIACwQVNg,1673913306650,5,0,Great course. Great use of video whiteboard. Good problems.,0,0,Kent Leonard,117838396
+31024285~COURSE!~PwuYBQZREeW5gyIACwQVNg,1670865781502,5,0,Excelent introductory course to Complex Analysis. Topics are explained with great detail and a lot of examples are solved through the lessons. I must highlight the pedagogical skill of Prof. Bonfert-Taylor,0,0,JOSE MANUEL ALBIÑANA ESTEVE,31024285
+115782207~COURSE!~PwuYBQZREeW5gyIACwQVNg,1668302058965,5,0,Very well designed! Easy to follow.,0,0,Tian-hao Zhang,115782207
+2749892~COURSE!~PwuYBQZREeW5gyIACwQVNg,1667196484154,5,0,V​ery well instructed. And the exercises are useful. ,0,0,Hongxing Xu,2749892
+17431871~COURSE!~PwuYBQZREeW5gyIACwQVNg,1667043066051,5,0,"I​ have never taken a mathematics course which I want to learn a few more times. Thanks, Dr. Petra Bonfert-Taylor,   you made this course cool with so much fun!",0,0,Meng Tong,17431871
+88963870~COURSE!~PwuYBQZREeW5gyIACwQVNg,1660169825777,5,0,Very useful course that can be followed regardless of your mathematical background - whether you have even heard of imaginary numbers or only have done pre-calculus work. A gem of a course.,0,0,Rahul Kesavan,88963870
+104799001~COURSE!~PwuYBQZREeW5gyIACwQVNg,1650751368572,5,0,Very interesting course of the main things of Complex Analysis,0,0,Dmytro Husan,104799001
+81999620~COURSE!~PwuYBQZREeW5gyIACwQVNg,1649649963272,5,0,Me amplió en gran medida mi comprension del Análisis Complejo y me ofreció herramientas útiles para mi quehacer como docente.,0,0,Sebastián Martínez Huato,81999620
+44621745~COURSE!~PwuYBQZREeW5gyIACwQVNg,1643178563022,5,0,"It's my pleasure and honour to learn math with Professor Bonfert-Taylor, she teaches in a comprehensive, rigorous (I have rarely seen her making mistakes), and sometimes homorous style. I like her and wish more courses if it is possible. Thanks to the Professor, and wish you all Merry Christmas!",0,0,,44621745
+2833906~COURSE!~PwuYBQZREeW5gyIACwQVNg,1642144654517,5,0,Amazing! Just the way it should be...challenging!,0,0,Sunil Thapa,2833906
+97221069~COURSE!~PwuYBQZREeW5gyIACwQVNg,1640115583377,5,0,"i really liked this course, i got stuck in some parts but that's because i took this course only knowing math until calc 2",0,0,Manuel Gandaras,97221069
+23311875~COURSE!~PwuYBQZREeW5gyIACwQVNg,1639950564369,5,0,This course gave me a lot of practice tools for Complex analysis ! Thanks a lot to have created this course. This will help me for my studies.,0,0,thomas guilbert,23311875
+43764956~COURSE!~PwuYBQZREeW5gyIACwQVNg,1639246166489,5,0,An extraordinarily talented instructor.,0,0,Keith Chernicky,43764956
+11707637~COURSE!~PwuYBQZREeW5gyIACwQVNg,1638618608549,5,0,Every topic is explained clearly and basics of complex analysis can be digested easily following the exercises and the lectures. ,0,0,Mehmet Murat Gozum,11707637
+35898851~COURSE!~PwuYBQZREeW5gyIACwQVNg,1638331535439,5,0,T​he professor did an excellent job of presenting the material.,0,0,paradigminversion,35898851
+33873785~COURSE!~PwuYBQZREeW5gyIACwQVNg,1637643689772,5,0,"I really enjoyed this course!! Wish there were sequels to this course, which deal with more advanced topics on complex analysis. Many, many thanks to Dr. Petra Bonfert-Taylor - her way of introducing new topics is superb. ",0,0,Yuri EZAKI,33873785
+41970654~COURSE!~PwuYBQZREeW5gyIACwQVNg,1635177425734,5,0,Excellent first course in Complex Analysis.,0,0,Samuel Dotson,41970654
+78865913~COURSE!~PwuYBQZREeW5gyIACwQVNg,1631768612256,5,0,So helpful,0,0,TUMWEKWASE SOLOMON,78865913
+10657356~COURSE!~PwuYBQZREeW5gyIACwQVNg,1631540548384,5,0,"A teacher is wonderful, her explanation is intuitive. Structure, of course, are well sequentially organised. A GRAND Thank You to Dr Petra Bonfert-Taylor, Coursera, Wesleyan University. Salute to all Contributors !!!",0,0,Avinash Maurya Shripal,10657356
+41191746~COURSE!~PwuYBQZREeW5gyIACwQVNg,1630589462210,5,0,thanks,0,0,RAJENDRA VERMA,41191746
+26438609~COURSE!~PwuYBQZREeW5gyIACwQVNg,1628783135358,5,0,The professor was AWESOME! It was a joy to learn the subject from her.,0,0,Qurat-ul-Ain Durrani,26438609
+12875002~COURSE!~PwuYBQZREeW5gyIACwQVNg,1627929505921,5,0,G​reat introduction.  Clearly explained... great teacher!,0,0,Carlos Gonzalez,12875002
+89211537~COURSE!~PwuYBQZREeW5gyIACwQVNg,1627642619708,5,0,"V​ery high quality course.  Uncompromising and wide-ranging. Very suitable for those who already know complex analysis and are revising for e.g. postgraduate study.  As an intro to complex analysis, some background in multivariate calculus (including path integrals) is needed, as is some background in university level real analysis.  If you've done complex analysis before, the final exam will be straightforward, if you're learning it, it requires more thought and the high pass grade threshold insists on that.  The assesments require real engagement and this isn't a course that you can approach lightly but as a summary review of the subject, you couldn't ask for more.",0,1,James Cemmell,89211537
+68155220~COURSE!~PwuYBQZREeW5gyIACwQVNg,1626620977654,5,0,"Good, amazing course",0,0,MUTHUKUMAR P,68155220
+88455547~COURSE!~PwuYBQZREeW5gyIACwQVNg,1626349173707,5,0,"Dr. Bonfert-Taylor wsa an excellent teacher, the course notes were very clear and helpful as well. ",0,0,Laura,88455547
+65934571~COURSE!~PwuYBQZREeW5gyIACwQVNg,1626056642209,5,0,A more challenging course I've taken on the platform but quite rewarding in the richness of material presented,0,0,Joanna Li,65934571
+37929240~COURSE!~PwuYBQZREeW5gyIACwQVNg,1623084170713,5,0,G​ood experience to solve problems,0,0,Muthu Kumar S,37929240
+10380130~COURSE!~PwuYBQZREeW5gyIACwQVNg,1621601966216,5,0,Excellent introduction to Complex Analysis.,0,0,Eugene Kernan,10380130
+8047468~COURSE!~PwuYBQZREeW5gyIACwQVNg,1618605303528,5,0,Absolutely marvelous!,0,0,Raúl Solera Rallo,8047468
+80554906~COURSE!~PwuYBQZREeW5gyIACwQVNg,1618391932092,5,0,This course has been interesting and challenging on some topics like conformal mappings which I didn't do further at my undergraduate.Otherwise I would like to be given sponsorship to take other master track course I will appreciate,0,0,Tuesday Kafunda,80554906
+74040~COURSE!~PwuYBQZREeW5gyIACwQVNg,1618249658300,5,0,"Fantastic course. After my lifelong fascination with real analysis and the real numbers, it's been literally and figuratively expansive (even mind expanding) to move into the complex plane. Dr. Bonfert-Taylor motivates and explains everything clearly. The examples are simple enough to understand yet nontrivial enough to be interesting, and are complemented with intuitive drawings. The lectures are invariably fascinating throughout. I thank her. ",0,0,Michael Laszlo,74040
+77373232~COURSE!~PwuYBQZREeW5gyIACwQVNg,1617623108040,5,0,Fabulous!!!,0,0,Manfred Lange,77373232
+60394812~COURSE!~PwuYBQZREeW5gyIACwQVNg,1616378572373,5,0,Such an exciting and insightful introduction to this beautiful subject!,0,0,William Taylor,60394812
+70975458~COURSE!~PwuYBQZREeW5gyIACwQVNg,1615036816699,5,0,"Exceptional course! Very well structured, great exposure to the material, and excellent opportunities to practice what you've learned! Thank you so much!",0,0,Anthony Forgetta,70975458
+16379475~COURSE!~PwuYBQZREeW5gyIACwQVNg,1614529856048,5,0,I found this to be an excellent course. The teaching style used by Prof. Bonfert-Taylor is very effective in my opinion. Examples and proofs were worked in great detail. Exercises were challenging and represented a blend of theory and application. Thank you so much for providing this course!,0,0,Matt,16379475
+79261103~COURSE!~PwuYBQZREeW5gyIACwQVNg,1613926386271,5,0,"The course is not very in-depth, but it
+helps to recall the Complex Analysis if you have studied it before. To the
+disadvantages of the course, I would attribute the fact that the Laurent series
+and singular points of analytic functions are not considered in sufficient
+detail. This is a very difficult topic. Series expansions are mainly considered
+for rational functions, and other cases are considered very briefly. As a
+result, by the final exam, I felt rather unconfident with the Laurent series.
+Also, it seems like the author intentionally avoids the use of some
+well-established terms, such as holomorphic and meromorphic functions, and I don’t
+think it is a good decision. Many concepts are intuitive and seem clear during
+the lectures, but are difficult when it comes time to quizzes. For me
+personally, the most interesting was the second week devoted to fractals. These
+topics are often not covered in the standard course of Complex Analysis, and
+almost all this information was new to me. The elements of number theory
+(Riemann's hypothesis and Euler's results) also made me happy. The overall
+impression of the course is positive, but some hard topics are unjustifiably
+superficially presented. It might be better to extend the course for one or two
+weeks.",0,4,Evgeniy Kaptsov,79261103
+34863006~COURSE!~PwuYBQZREeW5gyIACwQVNg,1613145387334,5,0,"This is one of the best online classes I've ever taken. Make no mistake, this course is rigorous and can be challenging, but the assignment questions never seemed absurdly unfair or unrelated to the topic(s) being covered. Prof. Bonfert-Taylor does an excellent job of both explaining AND providing concrete examples of the formulas and theorems. I actually keep coming back to some of the lectures from time to time, and learn something new or understand something in a new light each and every time.",0,2,Andrew Molboski,34863006
+75927294~COURSE!~PwuYBQZREeW5gyIACwQVNg,1613034746103,5,0,Excellent course! Thank you!,0,0,Gerda Milele,75927294
+59237125~COURSE!~PwuYBQZREeW5gyIACwQVNg,1612456375895,5,0,"This is a tough course, but extremely rewarding. I feel the need of more practice and will continue to study complex analysis. Everything very clearly presented, good slides, demanding tests and designed to stimulate mathematical thinking, not just rote learning.",0,0,Ken Lyne,59237125
+69158838~COURSE!~PwuYBQZREeW5gyIACwQVNg,1611503404025,5,0,"Derivations are generally clear and easy to follow, some are abit less intuitive but Dr Petra Bonfert-Taylor makes the effort to explain it in a way that is easy for me to understand.",0,2,Yep Yu ming,69158838
+60458531~COURSE!~PwuYBQZREeW5gyIACwQVNg,1611171861576,5,0,"A tight course that adequately covers all the introductory topics, where they take you by the hand properly for each topic. There aren't proofs of every thing seen, but there is always an attempt to promote or give a hint. It is recommended to use a book and additional content to consolidate concepts.",0,0,JUAN FELIPE PACAZUCA SANTIAGO,60458531
+10739008~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610812860658,5,0,The Course was highly informative. Its a very useful course for my academics.,0,0,RAJATH G K,10739008
+40140038~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610498851672,5,0,muy buen curso,0,0,Gerard Agramonte,40140038
+74742083~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610353111865,5,0,it clear my whole msc complex analysis...thank you,0,0,TUHIN SUBHRA MAHATO,74742083
+71365626~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610300185594,5,0,So good course I absolutely recommend it!!,0,0,Analead piña,71365626
+32072358~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610274795976,5,0,Very Useful ,0,0,Nivedhitha Chandran,32072358
+78312621~COURSE!~PwuYBQZREeW5gyIACwQVNg,1610122055555,5,0,"Is a good course , very hard exercises in the test , and  good material for study and practice , i recomended ",0,0,Santiago Castellanos,78312621
+72133221~COURSE!~PwuYBQZREeW5gyIACwQVNg,1609360691182,5,0,Interesting,0,0,Ana Maria Zarco Garcia,72133221
+74452741~COURSE!~PwuYBQZREeW5gyIACwQVNg,1607775421534,5,0,"An excellent course on complex analysis. Videos were very well presented, course slides were clear, and quizzes, assignments and final exam were all pitched at the right level.",0,0,Simon Strong,74452741
+61391801~COURSE!~PwuYBQZREeW5gyIACwQVNg,1606364319785,5,0,Very good course to grasp the basic concepts of complex analysis.,0,0,Deleted Account,61391801
+50308294~COURSE!~PwuYBQZREeW5gyIACwQVNg,1606065539204,5,0,Excellent professor It would be better to have more focus on the topology of complex planes tho. Loved the course !,0,0,Ghali Laraqui Houssaini,50308294
+51460605~COURSE!~PwuYBQZREeW5gyIACwQVNg,1605382701514,5,0,This course is superb for understanding basics of complex analysis. This is a very good introduction of the subject. ,0,0,Sai Charan Marrivada,51460605
+997121~COURSE!~PwuYBQZREeW5gyIACwQVNg,1604186586938,5,0,It was well organized and the content was very interesting.,0,0,Oliver Diaz-Espinosa,997121
+25700029~COURSE!~PwuYBQZREeW5gyIACwQVNg,1603785008988,5,0,Fabulous and challenging course! ,0,0,Xiaoyuan Chen,25700029
+21503480~COURSE!~PwuYBQZREeW5gyIACwQVNg,1602498771703,5,0,The course is very interesting and the exercises are challenging. I would be very glad to have more exercises to test my ability and to prepare myself. I would suggest to implement a series of optional exercises to test your ability. ,0,0,Alberto Bertipaglia,21503480
+2951383~COURSE!~PwuYBQZREeW5gyIACwQVNg,1602153372953,5,0,"Very thorough course. From basic to advanced concepts, Petra does an amazing job of conveying you through all the concepts in a perfectly clear and robust manner.",0,0,Alejandro Pedraza,2951383
+67904253~COURSE!~PwuYBQZREeW5gyIACwQVNg,1601353115111,5,0,The course is very useful helps to streamline certain concepts of algebra.,0,0,DANIEL ESTUARDO MUNDO DRUMMOND,67904253
+68408665~COURSE!~PwuYBQZREeW5gyIACwQVNg,1601218674310,5,0,This is my first online course. It came out really well. I liked the teaching method very much.,0,0,Midhuna V Ajith,68408665
+49170309~COURSE!~PwuYBQZREeW5gyIACwQVNg,1600795770767,5,0,"The way the contents are presented make them easy to follow along with even if you haven't worked with complex analysis at all before. The assignments (quizzes) and peer-graded assignments are a great way to apply and practice what we learned throughout the lectures. The ""bonus"" content (like the Riemann Hypothesis and interesting applications of theorems) make the content much more interesting because we can see how it's applied to arrive at important results.",0,0,Afonso Manuel Barral Caniço,49170309
+14738973~COURSE!~PwuYBQZREeW5gyIACwQVNg,1600786205578,5,0,"This is by far the best online course I have ever taken. Many years ago I took ""Functions of a Complex Variable"" as an undergraduate in Engineering. Now as a practicing applied mathematician in the quantitative finance space, I take a course from time to time in an area that interests me. Not only did I learn something new about complex analysis in this course, but also I actually enjoyed the experience and was sorry to get to the end! Professor B-T explains each concept very clearly and works through illustrative examples step by step. She also has an engaging manner and a very pleasant voice with only the smallest trace of a pan-European accent. Anyone wanting a solid introduction to complex analysis should take this course. For those who are familiar with complex analysis and its applications, the course is an entertaining experience which ties lots of things together from many specialized fields. Those with knowledge of fluid mechanics and classical electrodynamics will recognize where this foundational material can lead. Professor B-T has set a standard against which all MOOCs can be judged.",0,3,Gregory Vermeychuk,14738973
+54540326~COURSE!~PwuYBQZREeW5gyIACwQVNg,1600236682166,5,0,A truly awesome course to learn complex analysis from scratch. I loved and enjoyed the course very much and recommend everyone to enroll in this course. Thank you very much for providing this course for which I learnt a lot of new things in this area.,0,0,Debjit Pal,54540326
+58719175~COURSE!~PwuYBQZREeW5gyIACwQVNg,1599053770480,5,0,"Nice vedioes, contents of course, particularly we have to value colleagues work, there bycoming to know different ideas.",0,0,Dr. Rafiuddin,58719175
+60191627~COURSE!~PwuYBQZREeW5gyIACwQVNg,1598803010532,5,0,"It was a very great intro to the entire field. As a maths student, I found this to be a very basic yet detailed course in the subject. ",0,0,Sharang Thimmaiah,60191627
+66112744~COURSE!~PwuYBQZREeW5gyIACwQVNg,1598799355568,5,0,excelente,0,0,adauto de sousa martins,66112744
+36726504~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597831750106,5,0,Excellent course with lots of examples to work through.,0,0,Yiming Xiao,36726504
+20448496~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597532295064,5,0,I really enjoyed the course! Now I'm interested in a more proof-oriented course in Complex Analysis.,0,0,Petr,20448496
+61390586~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597312584436,5,0,Really good course for anyone who interested in complex analysis. Explanations and presentations are very clear. Thank you Dr. Taylor for this wonderful course.,0,0,Sandushan Ranaweera,61390586
+57996848~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597311092381,5,0,Excellent,0,0,Siva krishna Teki,57996848
+66452897~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597307965485,5,0,"Every lecture was clear and entertaining, and I slowly got to understand very unfamiliar concepts at my pace. This course is really useful for math majors.",0,0,Iñigo Franco,66452897
+5983835~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597226704468,5,0,Very nice and calm professor and a lot of illustrations. Although I didn't liked the last week. They've added this material later and it's covered not very deep and clear.,0,0,Shepelev Grigory M.,5983835
+63486931~COURSE!~PwuYBQZREeW5gyIACwQVNg,1597002632534,5,0,"Great course. One thing I would suggest is to have a list of prerequisites on the course page so people have an idea of what they should already know before joining this course. Other than that, the videos are of good quality, the homework is challenging yet stable, and the quizzes are at the right difficulty.",0,2,Arjun Damerla,63486931
+30904961~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596814036840,5,0,"Excelente, una temática adecuada y muy bien tratada. Totalmente recomendado para aquellos que quieran aprender mas de los número complejos, y todas sus propiedades.",0,0,Daniel Enrique Ovalle Cerquera,30904961
+58544892~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596780594860,5,0,Very Good Course,0,0,Dr. Tanmoy Chakraborty,58544892
+64612844~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596449601217,5,0,"Really good course, fascinating subject and the lectures explain things really clearly.  Great professor.",0,0,Christine Teller,64612844
+54547760~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596445956221,5,0,"Great course, helped me a lot with my undergraduate mathematics course.",0,0,PRAKHAR MISHRA,54547760
+5574414~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596294212677,5,0,"It is a really good course, for those who want to get closer to understanding complex analysis with a certain mathematical rigor and with interesting applications.",0,0,Daniel Cortes Zapata,5574414
+58383944~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596167974455,5,0,Crazy stuff! Learnt a lot from this course!,0,0,Sanath N U,58383944
+63235961~COURSE!~PwuYBQZREeW5gyIACwQVNg,1596115452748,5,0,This course was really awesome.  Especially Course instructor’s way of teaching was nice.  She explained everything so clearly.  Even the assignments are interesting and makes us to think a lot.  Thank you ma’am and the coursera team for making this learning amazing.,0,0,Shri Harine P,63235961
+59824457~COURSE!~PwuYBQZREeW5gyIACwQVNg,1595228141497,5,0,Interesting and knowledgeable course,0,0,Chivukula Suneetha,59824457
+60656373~COURSE!~PwuYBQZREeW5gyIACwQVNg,1594820006341,5,0,"Very good introductory course on complex analysis! No rigorous proofs, but the intuitions behind the main results are well explained. ",0,0,Zexiang Liu,60656373
+47106428~COURSE!~PwuYBQZREeW5gyIACwQVNg,1594645782372,5,0,Prof Bonfert-Taylor is an excellent teacher. The pacing and examples she used help to build my knowledge and confidence in tackling the material.I found the course demanding but very interesting.Don't underestimate the amount of time you'll need to finish the weekly assignments; they're not that easy.,0,0,Phillip Monk,47106428
+46094743~COURSE!~PwuYBQZREeW5gyIACwQVNg,1594241827437,5,0,"This course is a great introduction for anyone who interested in complex analysis, clear explanation of the concept, not a lot of proves. Highly recommend.",0,0,Sean Ge,46094743
+59680748~COURSE!~PwuYBQZREeW5gyIACwQVNg,1593846953259,5,0,It is hard course. But I really enjoyed it. Thank you very much .,0,0,Mr. Navnath A. Gadade,59680748
+34642912~COURSE!~PwuYBQZREeW5gyIACwQVNg,1593526687922,5,0,"Very good tempo, and a lot of exercises to solidate learning. 10/10 would recommend if you want to learn the basics of complex analasys on your own!",0,0,Jo Stokke,34642912
+44581253~COURSE!~PwuYBQZREeW5gyIACwQVNg,1593191081249,5,0,"It helps me to review my comprehensive exam for Complex, a really good class.",0,0,niki liu,44581253
+29961972~COURSE!~PwuYBQZREeW5gyIACwQVNg,1592797643093,5,0,Great Lecture in my life! Thank you Dr. Bonfert-Taylor!!!,0,0,vaswdscdas,29961972
+48099232~COURSE!~PwuYBQZREeW5gyIACwQVNg,1592199924567,5,0,Nice,0,0,GOWRISANKAR S,48099232
+57732850~COURSE!~PwuYBQZREeW5gyIACwQVNg,1592195276126,5,0,Really a very good experience. Thank you so much.,0,0,Dr.Kanimozhiraman,57732850
+59003078~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591788506001,5,0,"I really liked the course. It was extremely informative, all thanks to the brilliant professor to taught the course",0,0,Devansh Harlalka,59003078
+58383616~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591640391203,5,0,Very nice Course and all Video Lectures are effective. ,0,0,Krunal Patel,58383616
+51977545~COURSE!~PwuYBQZREeW5gyIACwQVNg,1591322642105,5,0,Great Introduction!Wish it covered the Riemann Sphere though...,0,0,Neil Makur,51977545
+54993350~COURSE!~PwuYBQZREeW5gyIACwQVNg,1590863566622,5,0,Awesome course,0,0,Ms.Shanmughapriya R,54993350
+51493314~COURSE!~PwuYBQZREeW5gyIACwQVNg,1590799214615,5,0,Very challenging and interesting course! The instructor really simplified the concepts.,0,0,Swapnil Banerjee 18BCM0136,51493314
+60289077~COURSE!~PwuYBQZREeW5gyIACwQVNg,1590758826746,5,0,-,0,0,Tanvi patel,60289077
+53378114~COURSE!~PwuYBQZREeW5gyIACwQVNg,1590529227302,5,0,"This is a really nice course if you want to revise your knowledge in complex analysis. That was my case. I think for non-mathematicians or physicists is a nice course without too rigorous proofs and details, but if you want to spread your wings a nice book about the subject will be very suitable to complement the lectures and the PDF materials. For me, that took a complex analysis course at university a few years ago, it was nice to remember some concepts and finally learn a little about how to implement residues theorem to solve improper integrals, crucial for my field of expertise. The topics about complex dynamics and conformal mappings (this last one hardly properly given in a course for physicists) are also covered in a nice way. I definitely recommended this course!",0,2,Carlene Silva de Farias,53378114
+54534456~COURSE!~PwuYBQZREeW5gyIACwQVNg,1589889045206,5,0,This course is absolutely amazing.  I am very happy to complete it  and gain so much knowledge during this course. Highly recommended to all the students and teachers to attempt the course. Its very beneficial for future also.Thank you so much to whole team of Cousera !!! ,0,0,Sushma Shrestha,54534456
+55700081~COURSE!~PwuYBQZREeW5gyIACwQVNg,1589788515725,5,0,Petra is a wonderful lecturer - her explanations are clear and very understandable. I really enjoyed this course!,0,0,Mary Griffiths,55700081
+59100255~COURSE!~PwuYBQZREeW5gyIACwQVNg,1589075268280,5,0,Excellent,0,0,CH SOMA SHEKAR,59100255
+12880332~COURSE!~PwuYBQZREeW5gyIACwQVNg,1588824512745,5,0,"It was a great experience learning over Coursera,  it has enriched my level of knowledge. I will keep learning.",0,0,Sunil Ramsharan Kushwaha,12880332
+57932581~COURSE!~PwuYBQZREeW5gyIACwQVNg,1588658617032,5,0,I wish Prof. Petra Bonfert Taylor teaches more courses. She has taught this course with lot of enthusiasm and has made this course a very interesting journey from the beginning till end. Thank you very much.,0,0,Suraj Singh Khurana,57932581
+8624829~COURSE!~PwuYBQZREeW5gyIACwQVNg,1588486567028,5,0,"This course is great! I tried to read books on complex analysis but failed on understanding that many definitions and proofs. Prof. Bonfert approached this subject from its applications, and put little emphasis on proofs, making it easy for us non-mathematicians to understand fancy subjects like Mandelbrot set. Thanks for providing such a great course.",0,2,魏寅生,8624829
+56541887~COURSE!~PwuYBQZREeW5gyIACwQVNg,1587924623955,5,0,This course is very useful.,0,0,RAMPRASAD CHEGU,56541887
+2491428~COURSE!~PwuYBQZREeW5gyIACwQVNg,1587192314076,5,0,"Great course, I really enjoyed it. Thanks for making it available to everybody.",0,0,Francesco Pedulla',2491428
+20635416~COURSE!~PwuYBQZREeW5gyIACwQVNg,1586673871670,5,0,Awesome lectures...Great...Explanation...,0,0,Christopher,20635416
+28701249~COURSE!~PwuYBQZREeW5gyIACwQVNg,1586273896935,5,0,"Petra Bonfert-Taylor did a great job constructing this course. Her video lectures are clear and easy to follow. I took this course because I had lousy instructors at the university and this course filled the gap.  There are a lot of examples and exercises where you actually have to do a lot of counting and playing with mathematical expressions. Much less focus is put on proofs, although some simple proofs are presented and sometimes the instructor outlines the main ideas behind other formal proofs. It may be beneficial to follow a standard textbook on complex analysis along with the online course. Last thing, the course is not easy. Unless you already have substantial experience with complex analysis prepare to study intensively. My experience is that it is important to re-do on your own all material covered during lectures. And indeed, without a good background on calculus and some general mathematical fluency, this course would be hard to complete.",0,2,Marcin Basiuk,28701249
+47984756~COURSE!~PwuYBQZREeW5gyIACwQVNg,1586002954733,5,0,"The course is excellent and Dr. Petra Bonfert-Taylor is an excellent instructor. This course is not rigorous but it touches on a lot of topics which are quintessential in Physics and to a smaller extent, Engineering. I would also recommend this to anyone who is interested in Math or is pursuing an undergraduate degree in Math.",0,2,Harish Madhavan,47984756
+40609719~COURSE!~PwuYBQZREeW5gyIACwQVNg,1585553195095,5,0,perfect introduction！,0,0,yangjiyou,40609719
+34695508~COURSE!~PwuYBQZREeW5gyIACwQVNg,1585161052241,5,0,Excellent course,0,0,Deleted Account,34695508
+18160241~COURSE!~PwuYBQZREeW5gyIACwQVNg,1582969552689,5,0,Thank you ma'am! You have made my understanding of Complex Calculus vastly different from what it used to be. ,0,0,Kshitij Nishan,18160241
+29573063~COURSE!~PwuYBQZREeW5gyIACwQVNg,1580516498686,5,0,Для знакомства с предметом курс очень хорош.,0,0,Иващенко Олег,29573063
+8301605~COURSE!~PwuYBQZREeW5gyIACwQVNg,1580265229542,5,0,It is a great course! I subscribed because I wanted to practice my knowledge of Complex Analysis and the course was very helpful.,0,0,Saulo Gonzalo Carmona Contreras,8301605
+21619650~COURSE!~PwuYBQZREeW5gyIACwQVNg,1579573033744,5,0,Awesome course!  It is very helpful and all the concepts are well explained. ,0,0,Miguel Florian,21619650
+619595~COURSE!~PwuYBQZREeW5gyIACwQVNg,1578808199676,5,0,"Really interesting and fun course! But not very easy to learn, it took me alot of time",0,0,Neo Jing Ci,619595
+12382634~COURSE!~PwuYBQZREeW5gyIACwQVNg,1577982057628,5,0,very good course. well explained.,0,0,Dennisio del torro,12382634
+2496031~COURSE!~PwuYBQZREeW5gyIACwQVNg,1577652258278,5,0,Fantastic course!,0,0,Michael Fisher,2496031
+18531520~COURSE!~PwuYBQZREeW5gyIACwQVNg,1577639178185,5,0,Superb course! Very underrated. best beginner/intermediate course on the web for complex analysis,0,0,Rahul Madhavan,18531520
+11107162~COURSE!~PwuYBQZREeW5gyIACwQVNg,1572285977550,5,0,"The instructor was phenomenal, and everything was exposed in a clear way. The different topics were always introduced well.",0,0,Alessandro Rigazzi,11107162
+30879823~COURSE!~PwuYBQZREeW5gyIACwQVNg,1567391042922,5,0,It is been a helpfull course for me. ,0,0,Arturo Arias Sachún,30879823
+15505982~COURSE!~PwuYBQZREeW5gyIACwQVNg,1566427068708,5,0,"Enjoyable.  There seemed to be a few math rendering errors in some of the assignments.  The homework assignments involving peer review were good.  You've got to appreciate how the originally recorded class needed more, but then the author added more!  The lesson 7, Calculus of Residues was an appropriate addition, I didn't mind it being last, but it did not go into Branch Cuts.  ",0,0,Raymond Moberly,15505982
+4669873~COURSE!~PwuYBQZREeW5gyIACwQVNg,1565606430825,5,0,Nice course. Teacher explains very well.,0,0,Alessio Elmi,4669873
+13817603~COURSE!~PwuYBQZREeW5gyIACwQVNg,1565418910661,5,0,Thoroughly enjoyed the course :),0,0,Purvaash Shankar,13817603
+42448892~COURSE!~PwuYBQZREeW5gyIACwQVNg,1564842256828,5,0,This course was very enjoyable and I feel like I learned a lot about complex analysis. I just wish it were longer!,0,0,Nobody Atall,42448892
+13933344~COURSE!~PwuYBQZREeW5gyIACwQVNg,1563888183694,5,0,Very helpful！,0,0,guofei,13933344
+42520469~COURSE!~PwuYBQZREeW5gyIACwQVNg,1563068613130,5,0," I learned a lot of new things in this course, and it's fun",0,0,Peter Kilway,42520469
+42335063~COURSE!~PwuYBQZREeW5gyIACwQVNg,1562966972821,5,0,"It wasn't too fast or slow, and the questions were nice and challenging!",0,0,Sukrith Raman,42335063
+9479793~COURSE!~PwuYBQZREeW5gyIACwQVNg,1561589045047,5,0,Excellent teacher!,0,0,Antonio Leal Inglada,9479793
+19894627~COURSE!~PwuYBQZREeW5gyIACwQVNg,1560563731989,5,0,Great course and great overall introduction to complex analysis.,0,0,Cyril Cordor,19894627
+6989440~COURSE!~PwuYBQZREeW5gyIACwQVNg,1560088869477,5,0,I loved this course! I wish there is following one with more advanced (research) topics!,0,0,Napoleon Cornejo,6989440
+28181461~COURSE!~PwuYBQZREeW5gyIACwQVNg,1557948459756,5,0,"Lots of neat math!  It's challenging and requires a substantial time commitment.  Though in CS,  my love of math was re-awakened.  If you are in CS and only want to know the basics of how to rotate objects with complex numbers and polar coordinates, then this course is way more than you need.  If you enjoy math, have had little or no complex analysis and are curious about what's up with the complex plane, I recommend this course.",0,7,James Batman,28181461
+40475309~COURSE!~PwuYBQZREeW5gyIACwQVNg,1557842753273,5,0,Good and very helpful for letting me do my best. I knew lots of the complex analysis.,0,0,Notae Kwag,40475309
+34918453~COURSE!~PwuYBQZREeW5gyIACwQVNg,1555327163374,5,0,Very good course.,0,0,Xiaoping Gu,34918453
+40152342~COURSE!~PwuYBQZREeW5gyIACwQVNg,1555046510222,5,0,Está complejo.,0,0,Ottmar Gregorio Serrano Schaub,40152342
+39968408~COURSE!~PwuYBQZREeW5gyIACwQVNg,1554965958982,5,0,VERY HELPFUL,0,0,Mohammed Faizan,39968408
+32071914~COURSE!~PwuYBQZREeW5gyIACwQVNg,1554790840831,5,0,nice course.very good lectures ,0,0,Prashant Kumar,32071914
+34564425~COURSE!~PwuYBQZREeW5gyIACwQVNg,1554582866514,5,0,A must do course!!!!,0,0,Nikhil Ravindran,34564425
+32864624~COURSE!~PwuYBQZREeW5gyIACwQVNg,1553976416726,5,0,"Very good professor, explain things in details and make me understand many concepts.",0,0,Sydney Dingxin Lu,32864624
+29101199~COURSE!~PwuYBQZREeW5gyIACwQVNg,1553296558598,5,0,Very good course. Learned many things here.,0,0,José Gabriel dos Santos Lemos,29101199
+14412233~COURSE!~PwuYBQZREeW5gyIACwQVNg,1552875706071,5,0,A comprehensive and tuitive course on complex analysis. The professor explains every detail very well and goes through the proofs step by step.,0,0,Stephen,14412233
+25601791~COURSE!~PwuYBQZREeW5gyIACwQVNg,1552693067350,5,0,EXCELENTE CURSO LO RECOMIENDO MUCHÍSIMO DE VERDAD QUE SE APRENDE MUCHO ACERCA DEL ANÁLISIS COMPLEJO ES MUY BUENO PARA AQUELLOS ESTUDIANTES DE CIENCIAS Y MATEMÁTICA ,0,0,Jorge Enrique Morales La Vita,25601791
+23611658~COURSE!~PwuYBQZREeW5gyIACwQVNg,1551560255712,5,0,"It was hard, amazing and helpful!!!",0,0,Sergey Artyukhin,23611658
+38070442~COURSE!~PwuYBQZREeW5gyIACwQVNg,1549918015014,5,0,"one word ""Awesome""",0,0,Mukul Pandey,38070442
+38530371~COURSE!~PwuYBQZREeW5gyIACwQVNg,1548827382033,5,0,Of course this is the best course with the best teachers!!! :),0,0,Ankush Banerjee,38530371
+3875309~COURSE!~PwuYBQZREeW5gyIACwQVNg,1548636359227,5,0,"This is a very nice course, suitable for beginners.",0,0,Yuchen Dong,3875309
+27070324~COURSE!~PwuYBQZREeW5gyIACwQVNg,1548510427286,5,0,"This is really good course for complex analysis. Things have discussed in details and assignents are also very good. It covers most of the topics which I felt were relevent for my work and studies. I wish it had Reimannian Optimization, but even without it the course is really well designed as well as well taught.",0,0,Ayush Thada,27070324
+37339108~COURSE!~PwuYBQZREeW5gyIACwQVNg,1547461273690,5,0,this course very good for starting  the study of complex number and most important it is designed in very good way,0,0,viren kantaria,37339108
+17400767~COURSE!~PwuYBQZREeW5gyIACwQVNg,1547290835239,5,0,"Excellent pacing of materials. The assignments strike that rare balance of enforcing key concepts that were discussed during that week's lectures and not being too difficult. And more than that, in my opinion, you can certainly tell that the instructor really cares about teaching in general. I took this class on a whim because I saw it was available and thought ""eh, why not?"", and I am delighted to say that this feels stumbling on some hidden treasure.",0,0,Peter Kim,17400767
+28736286~COURSE!~PwuYBQZREeW5gyIACwQVNg,1546533743263,5,0,"Thanks, Very much enjoyed this course, and learned a great deal from it. Thanks!",0,0,Neeti Sinha,28736286
+23304758~COURSE!~PwuYBQZREeW5gyIACwQVNg,1546161932707,5,0,Wonderful course. Learned a lot.,0,0,Nilesh khatri,23304758
+3636161~COURSE!~PwuYBQZREeW5gyIACwQVNg,1546033043747,5,0,"Very informative, very good explanation, highly recommend!",0,0,Daizhou,3636161
+431082~COURSE!~PwuYBQZREeW5gyIACwQVNg,1545485732812,5,0,"The course covers quite a wide range of topics but are very approachable. Nice lecturer, and very clear pdf slides available for read at any time. One can follow the lecture contents either by watching the videos or by walking through the reading resources provided, either way serves my need. The assessment questions are well-designed to test the learner's understandings. Good course!",0,2,Colin Young,431082
+38250553~COURSE!~PwuYBQZREeW5gyIACwQVNg,1544936828252,5,0,grateful for the opportunity to learn some complex analysis. ,0,0,Bryan Scott Vance II,38250553
+38078821~COURSE!~PwuYBQZREeW5gyIACwQVNg,1544340605486,5,0,The course is great! Everything is explained soundly well and concise.,0,0,Luis Felipe Gomes da Silva,38078821
+36982526~COURSE!~PwuYBQZREeW5gyIACwQVNg,1543718784541,5,0,Amazing! Professor Petra Bonfert-Taylor is a real master of simplifying complex conceptions. Very clear and inspiring :),0,0,Chen Ni,36982526
+32684205~COURSE!~PwuYBQZREeW5gyIACwQVNg,1543315226400,5,0,"Very helpful, focused on intuition and examples, maybe not detailed enough for a Mathematics student, but great for an Engineering student. Would be better if it could cover some material about Fourier transformation.",0,0,Zhu KaiFeng,32684205
+35663252~COURSE!~PwuYBQZREeW5gyIACwQVNg,1542251134103,5,0,"it was very challenging course , not so easy to pass the assignments but if you have gone through lectures, it will helps a lot while doing the assignments especially the final quiz",0,0,Diwakar Solanki,35663252
+29569368~COURSE!~PwuYBQZREeW5gyIACwQVNg,1542189728143,5,0,excellent,0,0,Shivam,29569368
+32650751~COURSE!~PwuYBQZREeW5gyIACwQVNg,1542050344993,5,0,very usefull course for college,0,0,ABHISHEK TIWARI,32650751
+6287402~COURSE!~PwuYBQZREeW5gyIACwQVNg,1540750322161,5,0,"This is a great course for anyone who wants to learn the fundamentals of Complex Analysis.The instructor has also included a few applications that us go ""Wow!!""Assignments are well-thought and they make sure that  the key-ideas are comprehensively gathered by the learner.",0,0,Fathima Safikaa,6287402
+33759442~COURSE!~PwuYBQZREeW5gyIACwQVNg,1540575362701,5,0,"Love this course! Was VERY challenging, but I learned a tremendous amount. I would recommend this to anyone wanting to further their knowledge in this area of mathematics. ",0,0,Joe Wilder,33759442
+36821869~COURSE!~PwuYBQZREeW5gyIACwQVNg,1538934526962,5,0,best,0,0,Biswanath Samanta,36821869
+887881~COURSE!~PwuYBQZREeW5gyIACwQVNg,1536563161384,5,0,The instructor broke down the course material really really well. Enjoyed taking this class!,0,0,Maurice Moss,887881
+35888229~COURSE!~PwuYBQZREeW5gyIACwQVNg,1536455009331,5,0,Learning a whole lot of new things. Also helps in brushing up my concepts.,0,0,Swapnil Sarkar,35888229
+22821691~COURSE!~PwuYBQZREeW5gyIACwQVNg,1535656314831,5,0,nice,0,0,Yan Yan,22821691
+9760612~COURSE!~PwuYBQZREeW5gyIACwQVNg,1535335815156,5,0,"Excellent, thorough course with a fantastic instructor.",0,0,Moez Ben-Azzouz,9760612
+12475737~COURSE!~PwuYBQZREeW5gyIACwQVNg,1534932652955,5,0,This lecture is easy to follow having all the important tools for complex analysis. ,0,0,Keedong Park,12475737
+32647101~COURSE!~PwuYBQZREeW5gyIACwQVNg,1533292203668,5,0,"This is an excellent and challenging course! A great introduction to complex analysis. I feel some materials covered in the course might lack rigorous derivations, but the proofs are really intuitive. I hope Professor can make more courses like this one on Coursera about other topics in mathematics like linear algebra, number theory, abstract algebra, topology, differential geometry and functional analysis etc.",0,0,Jerry Hsiung,32647101
+208990~COURSE!~PwuYBQZREeW5gyIACwQVNg,1529899219229,5,0,"The prof makes it easy to understand yet fascinating. I enjoyed video checkpoints, quizzes and peer reviewed assignments. This course encourages you to think and discover new things.",0,5,Natasha Sherbrooke,208990
+34098297~COURSE!~PwuYBQZREeW5gyIACwQVNg,1528878863402,5,0,Awesome,0,0,Harshil Rakesh Jain,34098297
+32617722~COURSE!~PwuYBQZREeW5gyIACwQVNg,1525750678249,5,0,"Challenging, really good course. Lectures were well presented.",0,0,Matthew Thibault,32617722
+21408029~COURSE!~PwuYBQZREeW5gyIACwQVNg,1525711857625,5,0,wonderful!!!Just wow!!,0,0,Manikant Sinha,21408029
+32040429~COURSE!~PwuYBQZREeW5gyIACwQVNg,1524215836369,5,0,loved it ,0,0,Bharti Sharma,32040429
+22465903~COURSE!~PwuYBQZREeW5gyIACwQVNg,1523875441169,5,0,"Very easy to understand, and extremely engaging. The exercises are challenging and fun to do.",0,0,Sahana Maddali,22465903
+842247~COURSE!~PwuYBQZREeW5gyIACwQVNg,1523862905999,5,0,Excellent to learn about complex analysis without burden of too much proofs; an introduction to Riemann Zeta function.,0,0,Chung Lam Chan,842247
+19956438~COURSE!~PwuYBQZREeW5gyIACwQVNg,1523006471122,5,0,"The lectures were very easy to follow and the exercises fitted these lectures well. This course was not always very rigorous, but a great introduction to complex analysis nevertheless. Thank you!",0,5,Rens Kamphuis,19956438
+9620297~COURSE!~PwuYBQZREeW5gyIACwQVNg,1522864670381,5,0,Very good teacher. Very good materials.,0,0,Seyyed Mohammad Ali Dastgheib,9620297
+16603114~COURSE!~PwuYBQZREeW5gyIACwQVNg,1522683700207,5,0,"It's the first time I join a class like this, I think it's a fantastic experience for me, Although I was busy after I came back to school, it's the course itself that encourage me to finish all kinds of work in my spare time, and I do learn something about complex analysis, which I will learn in detail in my follow college years. Thanks to the course, I could have a overview about my class. Last but not least, I think the way that let us check homework for each other is really nice, I spend a few hours to finish the first one because I really want to leave an good impression for my classmates, who are really nice because they gave me warm and nice judgement.  I think I would highly recommend this course for whoever want to have a overview and application of complex analysis.",0,1,Penkun Huang,16603114
+11934313~COURSE!~PwuYBQZREeW5gyIACwQVNg,1522443050531,5,0,"Outstanding class -- very accessible introduction for a non-math major, but covered all the topics I felt I missed in my undergraduate complex analysis class.",0,0,David A. Imel,11934313
+29997618~COURSE!~PwuYBQZREeW5gyIACwQVNg,1521819976685,5,0,"The course covers beautiful corner of mathematics and is a wonderful introduction to the topic of Complex Analysis. I would highly recommend this course for undergraduate students. In my opinion maybe it`s too tough for highschool graduates. Material was well motivated and clearly presented. The quizes and homework assignments generally may took longer than the stated time, but that`s just fine. Feedback on quizzes was excellent and useful. In the end, Prof. Petra Bonfert-Taylor, does an excellent job at explaining concepts simply. The main reason for that are her extraordinary pedagogic skills.  She made a well organized and concise course. I hope there will be an opportunity to take another course with her again Overall, I`m very satisfied and grateful!  ",0,7,Hrvoje Bunčić,29997618
+9194163~COURSE!~PwuYBQZREeW5gyIACwQVNg,1519445470310,5,0,"Superb class, explained the subject very well ",0,0,Baiju Mathew,9194163
+30974488~COURSE!~PwuYBQZREeW5gyIACwQVNg,1519291727284,5,0,"This is a beautiful area, delivered in a brilliant manner here.  It succeeds in delivering most of the material in a near-uncompromising way, even though it also targets those who remember single variable calculus and nothing more.This does not mean that the course is easy, especially if you just have the basic prerequisites, or are separated years from the last time you learned math like myself, when trying to complete tasks, you will find yourself getting back to the material and reviewing slides and videos again, and this challenge really adds to the understanding of the material.  Also, as an added bonus, if you are distant many years from the time you last learnt mathematics, it will remove a little of the rust.Brilliantly done.",0,3,Assaf Bental,30974488
+25011028~COURSE!~PwuYBQZREeW5gyIACwQVNg,1519097433834,5,0,入门看一看还是很好的,0,0,liuzhaoci,25011028
+14863118~COURSE!~PwuYBQZREeW5gyIACwQVNg,1518670025315,5,0,Amazing!,0,0,Stefan Ivanovic,14863118
+13181821~COURSE!~PwuYBQZREeW5gyIACwQVNg,1518032182975,5,0,"Nice introduction to Complex Analysis, I really enjoyed the introduction to the Riemann Zeta Function and to The Riemann Hypothesis.",0,0,Simone Comensoli,13181821
+30818024~COURSE!~PwuYBQZREeW5gyIACwQVNg,1514973354668,5,0,Awesome!,0,0,Zeinab Zeitoun,30818024
+11264764~COURSE!~PwuYBQZREeW5gyIACwQVNg,1514634662834,5,0,Very nice introduction to complex analysis. Explains a lot about interesting theorems without digging too deep into the proofs.,0,0,Pieter Van der deijl,11264764
+3554322~COURSE!~PwuYBQZREeW5gyIACwQVNg,1513028971310,5,0,Good introductory course!,0,0,George Papadopoulos,3554322
+28032661~COURSE!~PwuYBQZREeW5gyIACwQVNg,1509469415803,5,0,Very well done presentations and clear explanations. Ideal for undergraduates.,0,0,Tim Burton,28032661
+5283758~COURSE!~PwuYBQZREeW5gyIACwQVNg,1508721499698,5,0,Very didactic!,0,0,Marc Zwanziger,5283758
+266998~COURSE!~PwuYBQZREeW5gyIACwQVNg,1508204348902,5,0,"Material was well motivated and clearly presented.  Feedback on quizzes was excellent, Great course !!!",0,0,Juan P Arroyave,266998
+7958535~COURSE!~PwuYBQZREeW5gyIACwQVNg,1508031312116,5,0,"Very interesting, and challenging!",0,0,Morris Srinivasan,7958535
+10703049~COURSE!~PwuYBQZREeW5gyIACwQVNg,1507512281853,5,0,"This course is a wonderful Introduction to the topic of Complex Analysis. Many thanks to Prof Bonfert-Taylor for taking the time to put together a well-organized and concise course. The quizes and homework assignments generally took me longer than the stated time, but I was OK spending the extra time re-reviewing lectures to ensure I knew the material appropriately. ",0,1,Kevin Roche,10703049
+20007275~COURSE!~PwuYBQZREeW5gyIACwQVNg,1507092138738,5,0,"Very well explained the concepts , mainly I like Complex integration",0,0,Sachin Machindra Vyavahare,20007275
+8908448~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506944776380,5,0,Great course! Very nicely explained to someone new to the topic!,0,0,Rongge Yan,8908448
+4284842~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506944422361,5,0,"Excellent course for an introduction to complex analysis. Beginning from basic concepts, the instructor develops the basis of complex analysis. The first two weeks having to do with Julia sets and Mandelbrot sets are colorful lessons, the real analysis starts on week 3. The instructor is excellent, providing step by step instructions in the presentation and also some proofs of the theorems. Week 4 lessons 4 and 5 deal with the Riemann Zeta function and the Prime Number Theorem, very interesting and addition to the course. There is much more that could be added, perhaps a further course can be developed for the MOOC. ",0,1,Gary Upshaw,4284842
+24645719~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506575171849,5,0,"Dr. Petra Bonfert-Taylor,thank you for this interesting course. ",0,0,Zhapsarbayeva Lyailya,24645719
+22900916~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506446945133,5,0,very useful course!!,0,0,Mukunda Prasad Agaasti,22900916
+23315730~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506268301133,5,0,"Wow, great introductory course on complex analysis, was hoping for a bit more analysis and a bit more actual proofs, but it's Coursera, can't expect a full-on course here.",0,0,Wesley Robertus Strik,23315730
+27539188~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506226706767,5,0,"It's a fantastic course, the lessons was very interesting, Thank you very much Dr. Petra,i've learned a lot in this eight weeks.",0,0,Ruben Antony Lezameta Vega,27539188
+6726355~COURSE!~PwuYBQZREeW5gyIACwQVNg,1506103564728,5,0,This was a well thought out and taught course in complex analysis. A good amount of detail and examples were nicely done. A particularly attractive feature of the course is that all slides were available in a downloadable .pdf format.  The instructor was quite good and presented well prepared lectures.,0,0,Henry Price kagey,6726355
+26424132~COURSE!~PwuYBQZREeW5gyIACwQVNg,1505749520489,5,0,I enjoyed learning this course.. Learn lots of basics of complex analysis.,0,0,Rachana Desai,26424132
+5606795~COURSE!~PwuYBQZREeW5gyIACwQVNg,1504804874362,5,0,"loved this course, was exactly what i had hoped for",0,0,Alex Goguen,5606795
+3044869~COURSE!~PwuYBQZREeW5gyIACwQVNg,1504631572888,5,0,Excellent course! I really hope there is a follow-up advanced version.,0,0,Ajit Balram,3044869
+1906788~COURSE!~PwuYBQZREeW5gyIACwQVNg,1504628600201,5,0,"The course content as well as the presentation of the material by the instructor are both wonderful. The quizzes and peer-graded assignments are optimally designed. Although there are few proofs of theorems, the applications and examples are in sufficient number that the understanding of the theorems is obtained.",0,0,Brahadeesh Sankarnarayanan,1906788
+20278484~COURSE!~PwuYBQZREeW5gyIACwQVNg,1504603954678,5,0,Nice course. Used it to review for the Math GRE. ,0,0,Greg DePaul,20278484
+2600559~COURSE!~PwuYBQZREeW5gyIACwQVNg,1503514191173,5,0,"I am still doing it, but it is fantastic. It is very nice to have math courses like that on Coursera.",0,0,Vitor Curtis,2600559
+1753454~COURSE!~PwuYBQZREeW5gyIACwQVNg,1501756253027,5,0,"
+Very good Course... Given the complexity and the abstraction of complex analysis I was surprised to see I could follow perfectly well the lectures and actually learn.. Petra did a very good job explaining every step in the learning path.Contratulations Petra!",0,0,Jorge Pestana Lagunas,1753454
+4056382~COURSE!~PwuYBQZREeW5gyIACwQVNg,1501031232068,5,0,Very Good course.,0,0,Venkatraman Renganathan,4056382
+19342262~COURSE!~PwuYBQZREeW5gyIACwQVNg,1499791041961,5,0,Thank Dr. Bonfert-Taylor so much for delivering this course online at coursera. I've really learned a lot from this course. And I hope I'll take another course with her again.,0,0,Yao Xiao,19342262
+3009784~COURSE!~PwuYBQZREeW5gyIACwQVNg,1499666950384,5,0,I like it,0,0,胡梦晓,3009784
+430930~COURSE!~PwuYBQZREeW5gyIACwQVNg,1499116710964,5,0,Quite complete!,0,0,Roberto Augusto Gómez Loenzo,430930
+68180~COURSE!~PwuYBQZREeW5gyIACwQVNg,1498963830472,5,0,Fabulous course!,0,0,Ran Lin,68180
+20138272~COURSE!~PwuYBQZREeW5gyIACwQVNg,1498414710668,5,0,This course was incredible. The teacher was made the experience understandable and fun giving light onto a new world of mathematics that I had only dreamed of investigating.The lectures each week were insightful and interesting for all skill levels. (Although it may have been easier had I not had external exams to do)I would highly recommend this course which spans from A-level to Year 3 university studies as it is presented in a clever and accessible way.,0,0,Sam Gue,20138272
+15038251~COURSE!~PwuYBQZREeW5gyIACwQVNg,1496964891977,5,0,good,0,0,Deleted Account,15038251
+22343063~COURSE!~PwuYBQZREeW5gyIACwQVNg,1496941200348,5,0,"I had seen some of this material before, but I think it was a more clear presentation than I had seen.  I enjoyed the fractal topics as well.  Some of the material was really challenging, so I felt a big sense of accomplishment when I finished the course.",0,0,Doug Kennedy,22343063
+13563362~COURSE!~PwuYBQZREeW5gyIACwQVNg,1495027941625,5,0,"A good and clear introductory course for Complex Analysis! Cover the basic theory of Complex Analysis with rich examples.And it's awesome to see the fractal geometry part (Julia set, Mandelbrot set, etc.)",0,0,Changyu Gao,13563362
+9844305~COURSE!~PwuYBQZREeW5gyIACwQVNg,1495016781193,5,0,THIS COURSE IS VERY INTERESTING TO LEARN AND CAN BE WELL VISUALIZED PRACTICALLY,0,0,Sumantu Chaulagain,9844305
+1370192~COURSE!~PwuYBQZREeW5gyIACwQVNg,1494870764454,5,0,"Comprehensive coverage of topics, very clear delivery and explanations",0,0,Peter Baines,1370192
+887983~COURSE!~PwuYBQZREeW5gyIACwQVNg,1494118334424,5,0,"Really good course, covers the topics I expected and wanted and at a depth that was good for gaining understanding without getting too deep. This is exactly what I wanted for the amount of time I had each week.",0,0,Bojan Blazevic,887983
+23720226~COURSE!~PwuYBQZREeW5gyIACwQVNg,1493975735257,5,0,It´s a well structured course that gives a good glance of Complexe Analysis. The instructrice give a detaleled information aboute the themes of the course. Very good.,0,0,Luis Manuel Alonso Verde,23720226
+6688910~COURSE!~PwuYBQZREeW5gyIACwQVNg,1493615761608,5,0,Clear and understandable lectures and homework.,0,0,簡睦樺,6688910
+11583356~COURSE!~PwuYBQZREeW5gyIACwQVNg,1491750362817,5,0,Helpful introduction to complex analysis. Sketches the intuition behind fundamental theorems without becoming too difficult for amateur mathematicians to follow.,0,0,Rajesh James,11583356
+2639961~COURSE!~PwuYBQZREeW5gyIACwQVNg,1490574253453,5,0,"Doctor Petra Bonfert - Taylor is out standing scholar and she knows how to deliver her deep knowledge in mathematics to her students. I remind her as great scholar in mathematics.Sincerely,Johannse",0,0,Johannse Eshete,2639961
+28185~COURSE!~PwuYBQZREeW5gyIACwQVNg,1490114365082,5,0,"With this wonderful complex analysis course under your belt you will be ready for the joys of Digital Signal Processing, solving Partial Differential Equations and Quantum Mechanics.",0,3,Deleted Account,28185
+10322303~COURSE!~PwuYBQZREeW5gyIACwQVNg,1489925919203,5,0,good class,0,0,liruidong,10322303
+10791599~COURSE!~PwuYBQZREeW5gyIACwQVNg,1489612163022,5,0,Excelent course!,0,0,Carolina Gabriela Pozzebon,10791599
+8427548~COURSE!~PwuYBQZREeW5gyIACwQVNg,1489448395166,5,0,Muy buen curso aunque sugiero un pequeño preambulo en los videos de youtube que tiene como titulo fractales la sexta dimension para entender con mayor claridad algunos conceptos a los que no acostumbramos en ingles ,0,0,Arturo Oropeza Prieto,8427548
+700952~COURSE!~PwuYBQZREeW5gyIACwQVNg,1489284981716,5,0,Excellent introductory course to complex analysis,0,0,Felix Harvey-Rosser,700952
+24639530~COURSE!~PwuYBQZREeW5gyIACwQVNg,1488415424803,5,0,"This is an amazing course.Cant thank you enough Dr. Petra , and also thank you coursera :)",0,0,Srijan Agrawal,24639530
+11395916~COURSE!~PwuYBQZREeW5gyIACwQVNg,1488029597161,5,0,"  This course is fairly appropriate for those who have completed  high school eduaction and opt to pursue higher studies in the field of  science and engineering. This is an introductory course on complex  analysis and does not cover advanced topics like zeta function,  Manderbolt set etc in great detail. If you are doing major on  Mathematics and looking for a graduate level course, this is not for  you.This course offers an introduction to complex numbers, then  discusses briefly on function iteration. In this course, you will learn  on complex functions, complex derivative and integration, Cauchy-Riemann  equation, Residues. The topics required to pursue undergraduate science  education are covered nicely in this course.It is essential to do  the quizzes and assignments to get hold of this topic. I thought the  exercises in the course are not enough. I would recommend to do more  exercises from any standard textbook on Complex Analysis. This course  does not specifically follow any textbook. You will get some suggestions  for textbook in the discussion forum.To get a deeper understanding,  it is a great idea to follow the discussion forum. If you have any  difficulty in understanding any topic, you can share in the discussion  forum. Also following other people's questions helps you to develop an  insight on this topic. Discussion forum is an integral part of this  course. Use it wisely.To conclude, any high school graduate can take the course without any difficulty.  ",0,3,Arpon Paul,11395916
+5713300~COURSE!~PwuYBQZREeW5gyIACwQVNg,1486428046298,5,0,"A good introduction to complex analysis, well paced with good peer-assessed assignments and quizzes.",0,0,Brendan Hill,5713300
+11519490~COURSE!~PwuYBQZREeW5gyIACwQVNg,1485783305259,5,0,Excellente.This course is a great way to learn complex analysis.,0,0,Henrique Santos Lima,11519490
+20437896~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484712576633,5,0,Great teacher.  Subject matter well presented.,0,0,William baker,20437896
+6156976~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484691894127,5,0,"Excellent entry into the world of complex analysis. Dr. Petra Bonfert-Taylor carefully constructs the foundations for complex functions while constantly providing enriching examples. Complications in advanced proofs are sometimes obviated (she will mention what she chooses to skip).  If you only need to learn to use complex analysis Dr. Petra Bonfert-Taylor provides more than enough guidance. Since I enjoy understanding mathematics from the axioms up, I found myself turning to outside resources to fill in the nuanced complications. Consider doing the same if you are like me.",0,1,Meir Shachar,6156976
+731016~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484611533714,5,0,"I never took a course in complex analysis before and very much enjoyed this introductory course. I found that the material was presented in a very understandable way, with good and often illuminating examples.",0,0,Etienne Richard,731016
+639225~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484560594181,5,0,"Very nice course. It was very informative. Even though I did it in Audit mode, I am going to recommend my PhD students to do the course for improving themselves as physicists and computer science by knowing what actually goes behind the scene mathematically. I will recommend the course for all students of electronics (with strong desire to understand the mathematical basis) in general.",0,0,Sandeep Nagar,639225
+5047322~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484556114731,5,0,"While there are a plethora of MOOCs around aimed at first-year maths, Prof Bonfert-Taylor should be congratulated for being one of the few to bring a course on higher mathematics to the masses. This is a particularly valuable effort that's accessible to anyone with a grasp of first-year calculus.",0,0,Charles King,5047322
+18788870~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484544911430,5,0,very nice explanations .....thanq somuch,0,0,ashok naik,18788870
+11226387~COURSE!~PwuYBQZREeW5gyIACwQVNg,1484238952561,5,0,Perfect! Just perfect! I'm grateful!,0,0,Samir,11226387
+22972517~COURSE!~PwuYBQZREeW5gyIACwQVNg,1483002430522,5,0,I realy Love this course! thank you so much. ,0,0,Syarif Mathis,22972517
+6311587~COURSE!~PwuYBQZREeW5gyIACwQVNg,1481728998293,5,0,"It'd be awesome if the content is more rigorous, but this works too! Thanks :D",0,0,Tran Duc,6311587
+4813154~COURSE!~PwuYBQZREeW5gyIACwQVNg,1481484117711,5,0,Great course very clear and explaining well the motivations behind the results,0,0,EDOUARD LERIVEREND,4813154
+7956456~COURSE!~PwuYBQZREeW5gyIACwQVNg,1481357486136,5,0,"Enjoyable and very solid course, excellent on all aspects. Great teacher.",0,0,Jon Wicklund,7956456
+13485716~COURSE!~PwuYBQZREeW5gyIACwQVNg,1480887689507,5,0,Amazing course. Very interesting to learn about. ,0,0,Andrew Chio,13485716
+6435897~COURSE!~PwuYBQZREeW5gyIACwQVNg,1480227894922,5,0,Excellent,0,0,Jean Verdier,6435897
+12124441~COURSE!~PwuYBQZREeW5gyIACwQVNg,1478778293651,5,0,"Pedagogically insurmountable! I recommend it! I am a PhD student writing the thesis, and need to refresh old subjects. Well, this was better than any math course I took in the University. The professor serves the aim to teach, and not to feed her/his ego, really next level education!! Loved it!",0,0,Nora Salas Illanes,12124441
+15282133~COURSE!~PwuYBQZREeW5gyIACwQVNg,1478481519534,5,0,"Very nice content, easy to understand, with assessments that are challenging but do not take much time.",0,0,Ágoston Schranz,15282133
+7795608~COURSE!~PwuYBQZREeW5gyIACwQVNg,1477488124334,5,0,Materials and instructor excellent.  Got very good grounding.,0,0,Myron Karasik,7795608
+7971210~COURSE!~PwuYBQZREeW5gyIACwQVNg,1477337058328,5,0,"Great, informative introduction to complex analysis, really interesting.",0,0,Alfred Holmes,7971210
+12821560~COURSE!~PwuYBQZREeW5gyIACwQVNg,1475502867355,5,0,"Great course, I wish there were more courses like this one on Coursera",0,0,Iurii Simanovskyi,12821560
+12491981~COURSE!~PwuYBQZREeW5gyIACwQVNg,1475399261711,5,0,"A great course for beginners and engineers looking to just apply concepts of Complex Analysis without going too much into mathematical rigour. This course does not require any knowledge of ""Real Analysis"" or ""Multi-variable/Vector"" calculus as a prerequisite which is one of it's greatest strengths.This has especially helped in my preparation for a graduate-entrance exam called GATE that we have here in India. Although, I believe the course could include some more number of problems and solutions.  ",0,0,shouvik das,12491981
+21478634~COURSE!~PwuYBQZREeW5gyIACwQVNg,1475368732448,5,0,Thank you very much for you to explain step by step with diagram....,0,0,chennai36,21478634
+20574990~COURSE!~PwuYBQZREeW5gyIACwQVNg,1475161267893,5,0,Excellent ,0,0,Martín Gerardo Vega Grijalva,20574990
+20992866~COURSE!~PwuYBQZREeW5gyIACwQVNg,1475048575396,5,0,Gets from easier basics to harder ideas very fast. We gotta work very hard. But well worth it.,0,0,Nutan Nepal,20992866
+4801135~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474884503619,5,0,"This is an outstanding course; one of the gems of the Coursera platform.  It is only the launching point for my study of and fascination with complex analysis. I'd say the course covers about three-fifths of the content for an engineering mathematics treatment of functions of complex variables. I'm a student of fluid mechanics and my ignorance of advanced concepts in complex analysis has kept me from mastering some of the advanced topics in FM. I'm well on my way to go beyond those barriers, now.",0,0,Daniel Stein,4801135
+3715451~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474550254353,5,0,fantastic course for beginners,0,0,Infant Joecharles E,3715451
+3295952~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474489282959,5,0,Good overview over the material. Many thanks to the teacher.,0,0,Peter,3295952
+2978967~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474469974156,5,0,"This course has been very exciting and powerfull. The lectures are very clear and the professor use many didactic tools for improving our learning. The content of this course is completed with some other advanced topics in mathematics (for example: topology), and the course is well enriched. I recommend this course for all learners who want to learn something of advanced mathematics. ",0,2,Victor Peñaranda,2978967
+10602562~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474464489638,5,0,I hated Complex Analysis when I first encountered it. This course made me fall in love with Complex Analysis. Kudos to Prof. Taylor,0,0,Vishesh Bhat,10602562
+1744098~COURSE!~PwuYBQZREeW5gyIACwQVNg,1474439092031,5,0,Excellent.,0,0,R Fortunati,1744098
+11245953~COURSE!~PwuYBQZREeW5gyIACwQVNg,1472829977399,5,0,"Very interesting course, lectures. One of the best courser I have taken here. ",0,0,Marcin Woch,11245953
+8861796~COURSE!~PwuYBQZREeW5gyIACwQVNg,1472586437705,5,0,"Excellent course with interesting content, great self explanatory notes and a nice teacher who explains it all meticulously!",0,0,Paritosh Gupta,8861796
+8742504~COURSE!~PwuYBQZREeW5gyIACwQVNg,1472395726697,5,0,An excellent Course. Thanks Professor and thanks to her entire Team. Thanks Coursera for making this possible. ,0,0,anupam,8742504
+8771236~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471948921264,5,0,Thank you for the great course!,0,0,Marco Tombi,8771236
+1903450~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471388256263,5,0,Excellent.,0,0,Cristino Castillo,1903450
+986834~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471376387985,5,0,Very clear and well paced class.  I like the early introduction to Julia sets to introduce recent mysteries of in the subject before teaching the classical results.  The professor is a very clear speaker and was generous enough with her time to answer some of the forum questions.,0,0,George Bigham,986834
+17576616~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471246408432,5,0,outstanding.,0,0,sourav shil,17576616
+8808872~COURSE!~PwuYBQZREeW5gyIACwQVNg,1471089273900,5,0,If you could create a course Topology as good as this one it would be heavenly.Thanks,0,0,Herman Zechiel,8808872
+16445337~COURSE!~PwuYBQZREeW5gyIACwQVNg,1470893856440,5,0,The proposed material is very good. The classes are very didactic and with good examples!,0,0,David Regalado,16445337
+2999748~COURSE!~PwuYBQZREeW5gyIACwQVNg,1470693790301,5,0,Clear and useful. I´d like to thank the professor for the course.,0,0,Laura Vázquez Fernández,2999748
+78169~COURSE!~PwuYBQZREeW5gyIACwQVNg,1470684796715,5,0,Very good course. The professor introduces evey element in a careful and insightful approach,0,0,Cristóvão Rufino,78169
+5275770~COURSE!~PwuYBQZREeW5gyIACwQVNg,1470659715615,5,0,Great Course!!!,0,0,Caruso Nahuel,5275770
+7640939~COURSE!~PwuYBQZREeW5gyIACwQVNg,1470275545976,5,0,"Super completo, recomendado, util.Gracias por este curso.",0,0,pedro herrera,7640939
+4247679~COURSE!~PwuYBQZREeW5gyIACwQVNg,1469326270719,5,0,"Excellent!! A great way of introduce non-mathematics students in the wonderful world of complex numbers.
+
+",0,0,Miguel A. Díaz D.,4247679
+17582033~COURSE!~PwuYBQZREeW5gyIACwQVNg,1469293937523,5,0,The course is very well presented. Great experience for those individuals who believe in purity and virtue of the ideas enchained by the mathematical consensus.,0,0,Neringa Banyte,17582033
+11901674~COURSE!~PwuYBQZREeW5gyIACwQVNg,1468833371601,5,0,"I am really enjoying this course
+
+",0,0,Fernando López,11901674
+13175342~COURSE!~PwuYBQZREeW5gyIACwQVNg,1467171160051,5,0,"Super Great teacher, very interesting new things to learn.Highly recommended for people who love Math.",0,0,Jorge Pastrana,13175342
+18608934~COURSE!~PwuYBQZREeW5gyIACwQVNg,1466398615547,5,0,"this course is fantastic, is a good option for learn about complex analysis.",0,0,Jose Angel Padron Rodriguez,18608934
+15378796~COURSE!~PwuYBQZREeW5gyIACwQVNg,1465729015378,5,0,"Wonderful. I have been waiting for this course for some time. It begins somewhat basic, and progresses really fast, to cover some deep topics in complex analysis theory. Also, the instructor, Prof. Petra Bonfert-Taylor, does a very good job at explaining concepts simply, by not being too pedantic (e.g., with the topological preliminaries). Overall, really satisfied and grateful!",0,2,Samopriya Basu,15378796
+19671354~COURSE!~PwuYBQZREeW5gyIACwQVNg,1465202485539,5,0,Amazing Course,0,0,Shehab Emad Elzomor,19671354

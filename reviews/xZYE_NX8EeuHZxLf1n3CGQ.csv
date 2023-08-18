@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+87985671~COURSE!~xZYE_NX8EeuHZxLf1n3CGQ,1674732744557,1,0,no aws environment provided. With the given configuration the user should register to aws and pay to test this (no free-tier ec2 used).The soft versions used (kubernetes 1.20) is no longer supported by awsFor an intermediate level course to use a full-rights key pair is not normal.Also using AWS console instead of aws cli,0,0,Nathalie Barbosa,87985671
+92533439~COURSE!~xZYE_NX8EeuHZxLf1n3CGQ,1630000324682,5,0,"This course is really amazing. Containers and Kubernetes are something I need to learning, and I didn't find too many projects here in Coursera. This project helped me a lot.",0,0,Sheyla Briss,92533439

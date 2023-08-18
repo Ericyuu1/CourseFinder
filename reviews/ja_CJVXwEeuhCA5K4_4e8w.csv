@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+91188793~COURSE!~ja_CJVXwEeuhCA5K4_4e8w,1647745546983,2,0,Would've been great content but wasn't able to participate in the guided portion of the exercise because of changes in jupyter notebooks,0,0,Brandon Rolo,91188793
+47701063~COURSE!~ja_CJVXwEeuhCA5K4_4e8w,1634745211436,4,0,"Please advice me if I am wrong but isn't it true that the biggest price in that task is: 14.099999999999994 ?I use below code (which is simpler at least to me:) ) : lista = []for row in dataFinal:  change = row[2]-row[3]  lista.append(change)print(change) print('the biggest price change during the year is:',max(lista))",0,0,Bartlomiej Gajek,47701063

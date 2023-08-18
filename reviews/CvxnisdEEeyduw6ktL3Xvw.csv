@@ -1,0 +1,89 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+116211075~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1677581890100,1,0,The lab preview never works and gives a bunch of errors so you never know what's going on in your code. Robotic actors reading from a script. Terrible way to learn. ,0,0,Stephanie Ng,116211075
+37493753~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675852510870,1,0,Too much difficult. I couldn't understand this course well.,0,1,Tai a,37493753
+117598262~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672164194211,1,0,Full of bugs. SHAME !!!,0,1,Daniel Simion Pinca,117598262
+69521486~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675395654577,2,0,the lab had too many errors before,0,0,Melchor Guerrero,69521486
+119590584~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673035119655,2,0,"Course has lots of interesting material, but so much of this is overshadowed by continuous streams of various technical and content-related issues, such as...- Test questions with no right answer- Blatantly incorrect statements, usually on exams/quizzes- Lessons presented in the wrong order- Not enough depth on important topics (for example, the basic React rendering cycle, especially with respect to performance dos and don'ts and tradeoffs)- Lab code that doesn't work out of the box (bad NPM dependencies, faulty CSS)- Randomly tossing 3rd party libraries into the lab and requiring the student to learn them on the fly.  The portfolio project was more an exercise in Formik/Yup than it was in ""Advanced React""- Insufficient direction for assignment submission, resulting in various students submitting projects in different formats.  Some were submitted as .rar files, so I had to download 3rd party software in order to extract them (please just accept .zip files only), some submissions don't even work.  - Grading criteria for peer-reviewing is a little weak.  Many submissions have issues or other errors that would prevent them from ever being accepted in a professional setting, but because they pass all of the assignment's generic baked-in criteria, they are ""passing""- Ongoing plagiarism.  Many submissions are clearly and obviously plagiarized, and it seems Coursera does very little to prevent this.  This calls the entire validity of the course and its value into question, and dilutes the value of the certification.  Plagiarized submissions also don't count towards your required 3 peer reviews, so every time you find a plagiarized one, you need to spend time reporting it, and then still do 3 more anyways.  ",0,4,Jake Caithamer,119590584
+101674571~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676257173582,3,0,"Everything was good, but I wish they let me do things in the projects by myself. not with 80% of the project done already",0,0,Jhoan,101674571
+123217165~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675833757784,3,0,"Good course, but it could have been more ""Advanced"".  Some more in-depth detail around hooks (when and why to choose different hook types) and some exercises using real API endpoints would make it better. Also, the video modules can be a bit slow-paced. Feels like more of a ""mid-level"" than ""advanced"".",0,0,Andrew Bateman,123217165
+10398256~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675782152199,3,0,"Lots of useful information
+but very poorly presented.
+not enough exercises.
+too much reading.",0,0,Laya Aminosharei,10398256
+40679939~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675775162291,3,0,"The course is great overall but it is a little inconsistent at times, especially comparing it with other courses from Meta in the Front-end developer series, in some videos I felt like there was too much new information thrown for one video without covering the details, the course seemed to be geared more for getting a 'production ready' developer who can do most things rather than say a university class that is focused on pure deep understanding.",0,1,Anurag Khugshal,40679939
+25127440~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674350740063,3,0,"For a personal with no academic background in IT, the lectures' style is quite dry and academic, i.e. a lot of technical terms with a lot of technical terms at a pretty high speed in a 4-5 minute video is quite hard to grasp. Such a teaching style is probably fine for experienced developers but not for people who have just begun their journey as a developer.",0,1,Ihor Stashchuk,25127440
+113773409~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671191172558,3,0,"Not necessarily suitable for learners with little knowledge of React/programming, with constant homework covering things that were not in the videos, and those things to be mentioned the first time LATER in the course or another course. What's the point of the homework if it asks for more than you have just learned and you have to figure out by yourself or just look at the solution? It's frustrating. Peer review is also annoying when someone just takes points away without giving a reason and bad enough you still passed but with a slight worse mark on your certification. ",0,3,阿鱼,113773409
+103185017~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1669851974329,3,0,very confusing ,0,0,Michael Campagnoli,103185017
+49241815~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675681082384,4,0,Must include State Management Library such as Redux and Redux Toolkit,0,0,Muhammad Faizan Tariq,49241815
+120304197~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675429849998,4,0,I dont like the grading system/peer assignment in this course,0,0,Juntorn Thiantanukij,120304197
+88928256~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675177581048,4,0,"Really good one! explained all concept clearly and easily, one suggestion that I can give is assignments can be broke into several little challenges so that final assessment wont be harder than what we thought in the course.",0,0,Niranjana Adiga G,88928256
+5393793~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674922024609,4,0,Interesting but why extern library ? and not very progressive. Right for explanation but more labs to prepare the final will be great,0,0,vignaux,5393793
+117729533~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674884249654,4,0,Great Course,0,0,MAHMUD REZA KHANDAKAR,117729533
+85785145~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674669575914,4,0,learned a lot.. from this course,0,0,Tazheeb Shamsi,85785145
+98915774~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671823488248,4,0,This course  gives a deep insight into React programming. Be prepared that its much more difficult  than other of Meta´s courses. For new React programmers it is not a walk-though.,0,0,Jacob Simonsen,98915774
+29189007~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671289702718,4,0,"First I would like to thank the instructors for this course, it helped me a lot in learning React.
+
+But there is something that needs improving. 
+I think the course is too short to cover the concepts it presented. because we are not getting enough examples to fully understand the concepts thrown at us. so maybe make Advanced React 1 and Advanced React 2.
+
+My biggest grip is the final assignment, it required us to solve it using Formik, a form validation library that was never mentioned before, and as it appreas it's wildely used.
+
+So why not dedicate a video teaching Formik? why waste many videos about the controlled components when in general people use Formik? 
+
+At least share some links about the libraries required in the finals assignment.",0,6,Remy Jouni,29189007
+111572126~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671106323708,4,0,"Some tasks, especially the final assignment, deserve a little bit more documentation or at least should point students to where they should look for said documentation.",0,0,David de Oliveira Capó Sobral,111572126
+109196915~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1669703524104,4,0,"the course was informative, but some nuances very purely explained",0,0,Konstantine Berulava (Spieler),109196915
+110127505~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1677364104268,5,0,very good,0,0,Mohammed Nimear,110127505
+118374819~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1677361028355,5,0,good,0,0,NMILI ABDELALI,118374819
+95860872~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1677216108820,5,0,"Thanks, Meta Team for such a wonderful course. Learned many new things in this course.",0,0,Λrѕlαɴ Iꜰᴛɪᴋʜᴀʀ,95860872
+111736318~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676789381559,5,0,Good course,0,0,saman sam,111736318
+121837913~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676484241408,5,0,very good,0,0,Muhammad Daniyal Ansari,121837913
+110575595~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676438009136,5,0,Amazing course felt challanged and learned a lot. Made me feel more confident in learn front end development.,0,0,Enrique Romero-Jr,110575595
+84703892~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676136562562,5,0,Best course which consist of almost every topic covered. If your are about to learn react go for it.,0,0,Ayush Sagar,84703892
+56420207~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676129669666,5,0,overall the Advanced React Course was good ,0,0,khalid hussain,56420207
+49337014~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1676114730076,5,0,It was the best course i had ever have,0,0,Artem Kovhan,49337014
+49377738~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675788413965,5,0,"Challenging and Engaging. Don't expect to get everything in one go, but note that everything you learn is relevant to your React Future. ",0,0,Mxolisi Masuku,49377738
+80719489~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675768065839,5,0,a best course ever,0,0,Berrichi Samir,80719489
+123179175~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675676415867,5,0,Level up!,0,0,Viktorres,123179175
+103459125~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675435788206,5,0,I like it because we have do our portfolio with react ,0,0,Humud Burhan Mohamed,103459125
+102486228~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675290076571,5,0,helpful course ,0,0,Ahmed Mohammed Ahmed Odhah,102486228
+104279198~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675253126259,5,0,I personally used this for my Career Life.,0,0,Muhammad Ahmed Siddiqui,104279198
+52493561~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1675161826454,5,0,love the course,0,0,kais skander,52493561
+116905391~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674875927044,5,0,It is a great course. As the name suggests it is an advanced course so you will need some time to go through it again and again but its definitely worth it.,0,1,Denis Hallvaxhiu,116905391
+111222488~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674817949862,5,0,"Thank you Meta team, I am very appreciated",0,0,Huy Hoang Tran,111222488
+66455479~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674745755380,5,0,This is a great course,0,0,Mbadugha Chukwuebuka,66455479
+64234676~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674707566609,5,0,love this course by there teaching way ,0,0,Abhinendra Pratap Singh,64234676
+79551318~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674561852891,5,0,Perfect.,0,0,Manoel Vitor Brito Moura,79551318
+103763400~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674418327320,5,0,Good course,0,0,BONGANI NYAKU,103763400
+119817936~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674322273495,5,0,Thank to Meta to change my level from Beginner to Advance in React front-end development,0,0,Muhammad Zubair Ahmad,119817936
+118259062~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674275461703,5,0,this course  is amazing.,0,0,prince radadiya,118259062
+119349778~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1674195663124,5,0,I love the course. It was very well organized with perfect descriptions and examples to see how it actually works.,0,0,Fwd,119349778
+106781852~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673809535648,5,0,After doing the course I gained so much confidence and looking forward to learn more.,0,0,Jyotirmoy Saha,106781852
+99687672~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673801315515,5,0,"I enjoyed solving the practices and the quizzes are random, while many other courses has repetitive questions.",0,0,Nasser Ali Karimi,99687672
+119610951~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673694338169,5,0,Great for those looking for intermediate  intro to React,0,0,Megat Shamsul Nizam Bin Mohd Nazin,119610951
+87709922~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673510419993,5,0,Great Course,0,0,oyenola philip,87709922
+120136608~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1673417408341,5,0,That was a great course.,0,0,mohammad hossein shiri,120136608
+79564413~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672926692295,5,0,great course .. ,0,0,Ahmad Yaser Antariksa (Yaser),79564413
+97763879~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672901076064,5,0,GREAT COURSE!!!,0,0,Abdul Rasheed,97763879
+68666562~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672602846584,5,0,"The best thing I got from this course is knowing so many React concepts at least superficially so I know what I must study and practice to become a better React developer. The final project forces you to do research on a few libraries that were previously mentioned but I think it's worth it as you get to experience meeting requirements for a React project and iterating a few times over a project, just keep going!",0,1,Alberto Valdez Quinto,68666562
+22528534~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672472443601,5,0,Detailed and Practical.,0,0,Anthony Buamono,22528534
+117349678~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672428699652,5,0,Excellent course. Very informative and gives huge boost to learning journey,0,0,Ali Abdulrahman,117349678
+117477423~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672338924857,5,0,Course taught form Meta staff is very informative. Its a great course to to build up front-end skills,0,0,Vedant Rasote,117477423
+11925198~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672325643975,5,0,Great course! Thx!,0,0,Pinaet Poonsarakhun,11925198
+27056902~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672265648999,5,0,"Amazing course, with great details. ",0,0,Antonio Jimenez,27056902
+43342807~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1672260089768,5,0,"This was well-organized, straightforward, and easy to follow. The instructor was very knowledgeable with excellent presentation skills. Excellent rating",0,1,Timilehin Adenaike,43342807
+50939296~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671702252356,5,0,"Great course , cool tasks and nice structured information.",0,0,Melnyk Ivanna Oleksandrivna,50939296
+118671510~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671621440133,5,0,I have Learn many new things from this course.,0,0,shayan akram,118671510
+26040273~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671417330864,5,0,Cool,0,0,Lisandra Diaz,26040273
+45860321~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671414766168,5,0,I think this is a great course to review React concepts and reinforce your React knowledge for professional usage in the future.,0,0,Al Bondad,45860321
+32659874~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671386068239,5,0,This was the first course that presented me with any challenge. I learned a lot and feel confident in using React to make or contribute to websites. ,0,0,Amy Richardson Fricke,32659874
+58240808~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671378674186,5,0,Best course on React out there! Thanks coursera for providing world class education from industry experts themselves!,0,0,Harshal Devmurari,58240808
+118144524~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671357175290,5,0,Loved It,0,0,Ali Aslani,118144524
+117450141~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671173763434,5,0,"it's amazing. join to course, good luck guys.thanks meta...",0,0,mhm reza,117450141
+79604945~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1671039518288,5,0,Amazing!,0,0,Abelant Zahiri,79604945
+47634925~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1670728196753,5,0,Good one here,0,0,Daniel Becon,47634925
+83238300~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1670515832982,5,0,"Really It is a great course and I suggest every one to participate , Thanks for Instructors they do a great work and give me a big hand in React.",0,1,Mahmoud Gamil,83238300
+28881455~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1670268267448,5,0,"Great course, gives a good overview of important advanced react features with a perfect mix of practical and theoretical learning.",0,0,Luiz Carlos de Souza Almeida,28881455
+101252305~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1669960765034,5,0,Good course,0,0,Carlos Gz,101252305
+93187144~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1669757369292,5,0,Challenging!,0,0,Chopp Sueyy,93187144
+90240521~COURSE!~CvxnisdEEeyduw6ktL3Xvw,1669457165546,5,0,"Very good course, good practice exercises and a good final assignment.",0,0,Iván Zamorano,90240521

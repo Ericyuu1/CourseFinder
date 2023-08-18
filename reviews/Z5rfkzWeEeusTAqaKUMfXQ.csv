@@ -1,0 +1,336 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+24676379~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659024532794,1,0,"I finished this course with 3 weeks left in my monthly subscription, only to find out the 3rd course wouldn't be available until the day my subscription ended.  I essentially paid for a specialization that didn't exist at the time of my purchase.  ",0,4,Randall Beer,24676379
+84672811~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668214022188,2,0,"more emphasis on coding, notations etc.",0,0,Monisha,84672811
+100518958~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659147280404,2,0,I​ was really hoping more detailes on xgboost and unfortunately the course level was very elementary,0,0,Amir Koushyar Ziabari,100518958
+119279797~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672065274293,3,0,good,0,0,Pavan Netha,119279797
+79058712~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660515871113,3,0,"T​here are way too many errors on the video's subtitles - not grammatical mistakes, but words completely out of context or even incorrect formulas.",0,1,Eric Trotta,79058712
+24592048~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660238180715,3,0,"Nicely presented, however the assignement and the material was too basic. I would have liked a more rigurous introduction to the subject, that being said I feel I did get something out of this course.",0,1,Radu Woinaroski,24592048
+17641003~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676969717831,4,0,Excellent presentation that provides insights into practical problem-solving,0,0,Vusumuzi Dladla,17641003
+9479937~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676440894911,4,0,Pretty great.  I kind of wish the assignments were a little more challenging but I realize that it's a beginner level course too.,0,0,Zach Seiss,9479937
+37345520~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674814522569,4,0,"I felt the lab assignment in the Decision trees section was a little too fast to comprehend. Otherwise, it was an excellent course with just the necessary theory and intuition.",0,0,Prejith Sampath,37345520
+111244654~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673865702428,4,0,good course for machine learning,0,0,Mohsin Shah,111244654
+112236771~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672755782612,4,0,"Really good conceptual teaching of ANNs and decision trees, but it's a little lacking in the Python implementation. It teaches you how to program an ANN with any number of layers/neurons, but there is no mention of finding the ""optimal"" number of each. The last week on decision trees and ensemble models feels rushed as there is only one lab and required assignment, so it completely misses the Python implementation of XGBoost. However, it teaches the essential functions in each library, so one can easily continue his or her learning with Kaggle competitions and Stack Overflow. In the end, it's meant to introduce working professionals to the most common ML models in the world today, and it does that very well, but not much more.",0,0,Will Sheriff,112236771
+68889801~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671289895564,4,0,"Truly peaking, I used hints very often because I was not familiar with the Phyton. A optional week as a zero week should be introduce to teach basic python for the students that have no previous interaction with python. ",0,0,zia ur rehman,68889801
+111374374~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668596322588,4,0,"It was a very good and interesting course. I learned a lot about machine learning algorithms.Compared to the first course ""Supervised Machine Learning: Regression and Classification"" there were a few things missing:1- Practical exercises2- Quizzes during the videosAlthough you can learn the theoretical content very well in this course, in my opinion there is a lack of opportunities to practically apply and practice the knowledge you have learned.",0,0,Nima Jafroudi ,111374374
+113310622~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667845769096,4,0,good,0,0,ATHARV SHARMA (RA2011003010956),113310622
+113989534~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667626774276,4,0,Much Thanks,0,0,Rajeev Tyagi,113989534
+50454688~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666628188217,4,0,B​etter than the first course because of more topics,0,0,Hosein Fanai,50454688
+115672345~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666024312657,4,0, ​This course is really interesting and the lecturer explain each topic very neatly and slowly.,0,0,Bisa Venugopal,115672345
+1947248~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664628182645,4,0,"Good introductionary course to advanced learning algorithms. M​ain point of feedback: the course did not address in anyway how to actually desigining neural networks, i.e choosing layer size, number of layers, etc. I thought this was a bit odd, since this is a rather fundamental part of NNs. Now that I've finished the course, I'm still not able to build my own NNs from scratch, since I don't know how to choose my layers. I hope further courses will address this, but I think this should've been addressed in this course already.",0,0,Tiddo Langerak,1947248
+49512828~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662665322126,4,0,The course is very informative but  assignments solutions are provided. There is a lack of challenging learners to do more. ,0,0,Céléstin Nkundineza,49512828
+13723566~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661679471603,4,0,V​ery good didactical approach. The labs are straight-forward but test programming skills more than AI expertise. Editing and error checking in the notebooks is poor.,0,0,Ruedi Gygax,13723566
+11251979~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661284951766,4,0,"I​t should have more practices. There's a lot of theory, but just a little practice.",0,0,GERARDO GUZMAN MAGALLON,11251979
+10052198~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660665872013,4,0,I found the lab practice a bit simple and technical on one side but not intresting on the other.,0,0,Ofer Saphier,10052198
+8304230~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660520657554,4,0,"C​ourse material is good and flows well, but are ANNs and decision trees the only advanced algos?  Loved the parts on model bias/variance determination and how to fix the model based on the determination.",0,0,Brian Ray,8304230
+86759261~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659611495241,4,0,"The course material and instructor were very good. I just have one complaint for this course... The quizzes are too easy but sure they capture whether you have paid attention in lectures or not, so that is fine. Also a suggestion - If we could be provided with the lecture ppts it would be really helpful revising.",0,0,Jayneel Shah,86759261
+86020633~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659170520971,4,0,Good intro to some machine learning algorithms and techniques,0,0,FRANCISCO JAVIER ROMERO DE LA MONTAÑA,86020633
+108554514~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658346000935,4,0,"Just as in the other courses in the specialization, this provides solid conceptual overview, but:
+
+1) too little conceptual practice (the quizzes are short and inanely easy)
+
+2) too confusing labs (for someone with plenty of JS, particularly web-related, but no prior python/data-science experience, I struggled to understand how the data structures were being manipulated and to intuit what the helper functions were asking me to do, and plenty of numpy/python errors that I had to interrogate for too long, distracting from the core concept. On the latter point, I laud their attempt to scaffold with hints, but this needs revision).",0,3,Sawyer Altman,108554514
+27227717~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658302916922,4,0,"Beginner level course, explained simple concepts on neural network specifically Multi-Layer Perceptron & Decision Tree, nothing advanced topics covered. But the explanation is very very good.  ",0,0,Anirban Haldar,27227717
+38929433~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658211026091,4,0,"Explanation: 5 starts
+Assignments: 2.5 or 3 stars  Thus, overall 4 stars.
+
+Andrew did an excellent job in explaining the concepts. However, the assignments, in my opinion, weretoo easy (almost just running the cells or typing what was shown in lecture videos). I believe challengingassignments are an important aspect of any course which this course lacks (unfortunately).",0,0,Adnan Hashem,38929433
+2422669~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656692875227,4,0,"Slightly disappointed with the assignments to be honest, most of them are too easy to solve, and moreover can be just copypasted from the hints.Great theory which lacks some demanding practice tasks.",0,9,Yuriy Ganusyak,2422669
+75294567~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656434263122,4,0,The content is excellent but some more emphasis must be given on the discussion of the codes in the Jupyter Notebooks otherwise it'll become less appealing to the once who don't have a good grasp over Python.,0,2,Raktim Mukherjee,75294567
+1792943~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1655883642528,4,0,Seems lacking some mathematical details like how to calculate Backpropagation this time,0,8,Changlin Fu,1792943
+37955410~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677507063839,5,0,Andrew Ng.  The man. The legend.,0,0,Justin Ho,37955410
+112144469~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677432768085,5,0,Truly the best ,0,0,sagar lepcha,112144469
+116014012~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677407784371,5,0,good good,0,0,partheniac,116014012
+122511847~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677389006411,5,0,Easy and Fun!,0,0,Sam Tobia,122511847
+97904649~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677318093723,5,0,"It is a great course to whom who seek the detailed information about the inside of the famous and robust algorithm like neural networks, decision tree, random forest, and XGBOOST. Thank you so much coursera, and deeplearning.ai",0,0,Muhammad iqbal zain,97904649
+115450287~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1677208327758,5,0,Es un excelente curso para adentrarse a algoritmos avanzados de Machine Learning. Andrew Ng y su equipo son excelentes.,0,0,Israel Molina Pérez,115450287
+110033810~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676903084036,5,0,very easy and great course,0,0,Amirhasan Allahdady,110033810
+123643412~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676821977987,5,0,Super!!,0,0,davidwangca,123643412
+46303306~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676759568178,5,0,"best of the 3 courses in the specialisation but still let down a bit by the programming assignments.  The original Machine learning course was more challenging when it came to graded assignments, this one less show with the hints not being hints but full answers.",0,0,Gerry Przybyszewski,46303306
+34317697~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676757756581,5,0,Amazing course to begin to learn ML and Neural Networks!,0,0,Ignacio Benjamín Palma Arévalo,34317697
+74407346~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676718920944,5,0,"It was an excellent course to learn while completing the specialisation. But I need some statistical concepts added, such as entropy and loss difference. Please add their note for a better understanding of the different concepts.",0,0,Bhavesh Darpan,74407346
+120626775~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676656884972,5,0,Good,0,0,Ande Rishi,120626775
+113523932~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676624688271,5,0,Good course. One of the starting course if you want to learn from basics,0,0,Shivaji Chirumamilla,113523932
+107551767~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676475955598,5,0,Good theory,0,0,Aniketh Narayan Bellala,107551767
+30170904~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676416627657,5,0,"Another excellent course. Dr. Ng's presentations are super clear and easy to follow, graphics/animations are superb.What I think this course needs is a bit more time/explanation on backward propagation. Here it was touched upon only briefly and in an optional lab, and it was not clear how it tied back into neural networks algorithms. I had to learn this separately on my own by finding articles on Google.
+Thanks and looking forward to the next course!",0,0,Svetlana Verthein,30170904
+57115841~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676282677290,5,0,Greetings! A big thank you to all of you Coursera team and Scholars. My thanks to Andrew NG...,0,0,Asror Boytemirov,57115841
+46986717~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676201842416,5,0,"With this course, I learned important concepts about models such as neural networks and decision trees used in supervised learning. The course also provides some important informations about machine learning applications used in real life. I recommend this course for those who want to get started in the field of machine learning.",0,0,Yasin Atılkan,46986717
+48245363~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676120875247,5,0,"The content is very interesting and provides an excellent description of the subject matter.In terms of teaching dynamics, Andrew is an excellent teacher. Congratulations and may you continue to be successful and continue to promote courses of this level.Thank you for allowing me to have the opportunity to acquire this knowledge.",0,0,Jorge Gonzalez,48245363
+44693744~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676115316042,5,0,"Thank you very much for this course, it is really very useful and enrich of information. ",0,0,Anas Sattout,44693744
+119772467~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676026275840,5,0,Very nice course and structured content .,0,0,Harshit Shambharkar ,119772467
+49300756~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1676017181529,5,0,Excellent course about advanced learning algorithms like neural network and decision trees! You'll gain a solid understanding of how those algorithms work and learn how to implement them yourself in Python.,0,0,Sven Alexander Schnydrig,49300756
+113201594~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675990099416,5,0,"I really liked the class. There is no class out there that is going to please 100% of the students b/c everyone is at a different learning stage in life. This course is no exception... I liked the majority of things taught here, however the only thing that I didn't really like was how the course jumped back-and-forth between Scikit-learn and TensorFlow. In the end this wasn't a big deal for me... just a minor thing. Great course! ",0,0,Ed,113201594
+38202363~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675950952756,5,0,very very good,0,0,Huajie Chen,38202363
+123363637~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675813247938,5,0,It just cant be better. Much appreciated.,0,0,Лихачев Дмитрий Юрьевич,123363637
+47635395~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675810459697,5,0,Andrew's explanation is amazing!,0,0,Nada Samy Ahmed Kamal,47635395
+120534746~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675781531802,5,0,"absolutely awesome. This course and the specializatio is must to get into the mathematics of machine learning, Andrew Ng sir has a unique style of teaching and holds you right through the course. This is must to know how machine learning works.",0,0,Danish Bashir ,120534746
+53294560~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675566911685,5,0,nice,0,0,Lovish Chhura,53294560
+82094546~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675462933339,5,0,one of the best courses i 've ever seen,0,0,,82094546
+7536745~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675458203667,5,0,Highly recommended! It made complex models & algorithms simple to understand. It also helped me to realize the power of linear algebra and calculus which I thought were useless at one point of my college study.,0,0,Lei Liu,7536745
+142545~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675447285444,5,0,"When teaching is elevated to a level of art, it becomes effortless to acquire knowledge. May the world get more teachers like Andrew Ng.",0,0,Rafi Dudekula,142545
+43483684~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675349800048,5,0,"Greatly designed, especially the assignments. The assignments were such that they allowed to focus on learning the essence of the algorithm without getting bogged down by the complexity of full code implementation.",0,0,Arihant Garg,43483684
+89644780~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675276484964,5,0,Awesome content,0,0,Jananga Kalawana,89644780
+66066179~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1675241583714,5,0,"It's not hard as I imagined, with the example and lab can be learned easy",0,0,Luu Cong Thai,66066179
+109903386~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674820399390,5,0,great and simplified course,0,0,arash kishan,109903386
+114639788~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674792529846,5,0,Fantastic!,0,0,Aditya Ranganath,114639788
+99747241~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674588961567,5,0,This was an great course by Andrew NG.,0,0,Nafiz shahriar,99747241
+17657088~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674582671698,5,0,thanks,0,0,seyed mohammad seyed mahdi,17657088
+90393302~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674486732839,5,0,Excellent course!,0,0,Manoj Kumar,90393302
+116816796~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674237153135,5,0,Andrew is an excellent teacher who is capable of explaining complex things in a very simple manner.  I strongly recommend this course!,0,0,Bruno Gardel,116816796
+99510650~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1674014788496,5,0,"Explanations are very good and well structured. I am a beginner in this domain, yet I was able to understand all the lectures.",0,0,Abhijit Chakraborty,99510650
+45114072~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673947452760,5,0,One of the greatest courses on Machine Learning,0,0,Onwunyi Chisomebi,45114072
+190870~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673839341747,5,0,Good,0,0,Marlon Santiago Viñan Ludeña,190870
+57807508~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673767205855,5,0,i love andrew ng,0,0,Andrew Pan,57807508
+91515556~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673717859808,5,0,Great course. I learned a lot.,0,0,Omer Schwarz,91515556
+25173863~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673364207886,5,0,Thanks so much!It was really wonderful:),0,0,Shiva Nafari,25173863
+110035126~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673355504270,5,0,I am very glad that I accomplished this course with the best instructor in the world,0,0,ehsan rostami,110035126
+116112861~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673333927732,5,0,Very vivid lesson. And thanks for all the hints in lab.,0,0,Chen Jiaqi,116112861
+108877855~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673166207776,5,0,"Great course for everyone - even for the users who created a ML model before, this is the course that will help them improve their knowledge on every level!",0,0,Milutin Studen,108877855
+47070303~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1673032688463,5,0,"Detailed, integrity, great building block- ready for more!",0,0,Susan Martin,47070303
+106944915~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672939675727,5,0,"Seriously good but need more math content. Prof Andrew Ng, please include more math derivations and advanced math stuff.",0,0,Rani Dilipkumar Shiva Shankar,106944915
+1312749~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672860795288,5,0,"Great content, clear, concise and easy to follow.",0,0,Uilian R. F. Souza,1312749
+36971502~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672851105670,5,0,Super Good!,0,0,Kaitlyn Hu,36971502
+114584340~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672794800413,5,0,A perfect and natural introduction to advanced learning algorithms in ML.,0,0,Gregory Davis,114584340
+3050999~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672673310106,5,0,Exceptionally delivered Andrew! Thank you and your team!!,0,0,Abhijit Das,3050999
+104409383~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672667744287,5,0,Awesome course awesome mentor,0,0,Shubham Pathak,104409383
+59550538~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672664003672,5,0,thank you proff Andrew Ng,0,0,abdirisak abdirahman yusuf,59550538
+86555855~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672405215511,5,0,"Thanks to Andrew NG, other instructors, and Coursera, it was perfect.",0,0,Sajjad Rezvani Khaledi,86555855
+98834266~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672384298729,5,0,Amazing experience and the best thing is that it lifts from root level,0,0,Atarud Said,98834266
+98128117~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672326219474,5,0,"Great Course. 
+I would like to thanks to the instructor Andrew Ng for his efforts and the whole team for comping us with such a nice and up-to-date course.",0,0,SOHEL AKHTAR,98128117
+114060552~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672311417249,5,0,Simple and easy-to-understand explanations. Thank you.,0,0,adharsh cb,114060552
+118041955~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672304380404,5,0,I can't imagine this course being run any better! This was very clear and easy to understand. I look forward to the final piece of the series!,0,0,Jeffrey,118041955
+48112415~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672232408726,5,0,Great course and introduction to such an interesting field! ,0,0,Lucian Oana,48112415
+58821751~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672112821677,5,0,"Powerful learning,  most applicable matters and wonderful learning lab.  Thanks to Andrew Ng and wonderful deeplearning.ai team ",0,0,Maede Shabani,58821751
+116198119~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672088471962,5,0,exceptional course but i missed back propagation in this course,0,0,muhammad ahmed aftab,116198119
+77748987~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1672035221389,5,0,"I think for most of the time that I've learned this course, I experienced something new. Thanks to you all.",0,0,Sohrab Mortazavi,77748987
+92679548~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671887488052,5,0,The way Andrew is teaching is superb. This course helps me to learn concepts in machine learning easily. Thanks,0,0,Pasindu Sandakan,92679548
+89867945~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671883795555,5,0,The details of this course are absolutely exemplary and the curriculum is world class. I learnt a lot.,0,0,Theophilus Owiti,89867945
+25364533~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671841287156,5,0,"Andrew Ng. and team have successfully deliver another amazing course, his teaching style is very efficient and keep student/learner from getting lost in the random forest :V",0,0,Namhoang,25364533
+49590492~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671805760071,5,0,Very well laid out course from the beginner to the expert.,0,0,Arvydas Žukauskas,49590492
+96841549~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671750109930,5,0,Dr. Andrew Ng has a way to explain the complicated thing in an easy way. Really enjoyed the lesson!,0,0,Hui Chen,96841549
+51852965~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671300533044,5,0,andrew is the best. i wish he taught data analysis courses too.,0,0,Kamal Ziaie,51852965
+64150735~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671201393825,5,0,"I liked the course, I appreciate the videos and the course material by Mr Andrew Ng and his team. I have benefited to a  good extent in understanding the neural network, I hope to create some applications in future. ",0,0,Fareed Khan,64150735
+116955715~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671105756124,5,0,"That was a great course. Thank you Andrew, Thank you Coursera",0,0,hadi nazari,116955715
+34062930~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671088374600,5,0,The instructor goes straight to the point. The labs are so helpful. This course is awesome,0,0,Giancarlo Poémape,34062930
+38933530~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1671022329084,5,0,I liked the simple explanation of ML algorithms.,0,0,Ashutosh Sahu,38933530
+9438110~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670966585960,5,0,Exceptional content. The labs helped to reinforce the concepts.,0,0,Kane Gyovai,9438110
+113198870~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670593412109,5,0,Excellent course,0,0,Daniel Moss,113198870
+111921839~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670582659995,5,0,amazing approach for ML and DL thanks a lot!,0,0,uğur akyel,111921839
+110580581~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670544671403,5,0,It was a lecture that clearly organized the artificial intelligence that I had learned so far.Thank you to those who prepared it.,0,0,Chajin Oh,110580581
+102470234~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670390345922,5,0,Best Course,0,0,Vedang Bale,102470234
+119268906~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670266164974,5,0,very clear & structured / well organized,0,0,Andrei Ninu,119268906
+114728981~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670252157970,5,0,Great material - easy to follow and with everything explained. Andrew is beyond praise :),0,0,Ivan Kusturic,114728981
+79697419~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1670144462517,5,0,"Best course on internet, thanks all!",0,0,Bruno Robles,79697419
+116684156~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669810437097,5,0,.,0,0,Serge Backert,116684156
+115822860~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669711001963,5,0,"I have learned a lots from it, thank you.",0,0,Astra LIU,115822860
+112505597~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669677726735,5,0,It was tough but worth the time,0,0,Margaret Oluwadare,112505597
+107773740~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669592045129,5,0,"great course, I will make sure to revisit it anytime needed. ",0,0,Abdelbasset Omiri,107773740
+111481308~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669533045490,5,0,this course was absolutely awesome.,0,0,Arijit Goswami,111481308
+50001253~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669503744884,5,0,High clarity in the explanation and an amazing community. ,0,0,elie kazoule,50001253
+37255813~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669402789373,5,0,It was amazing course ...I take advantage a lot ,0,0,mhmd300044,37255813
+44006089~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669384042697,5,0,final graded lab was quite lengthy and dificult but it was challenging .,0,0,Niranjan B V,44006089
+71974561~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1669059447613,5,0,"I always follow with great pleasure the guru Andrew, I enjoy learning from you!",0,0,Pietro Perrone,71974561
+58731971~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668968425031,5,0,Andrew Ng is just great. I like his courses. Very informative ,0,0,Sharan S Pai,58731971
+118628199~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668721352320,5,0,老师讲解的非常清楚且易懂，非常好的入门级课程。,0,0, Ербол Елдана,118628199
+100365326~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668689714743,5,0,I loved the way the course is designed. Please include little bit details around xgboost.,0,0,Abishek S,100365326
+15523711~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668626927690,5,0,The content of the course is pretty good and interesting for someone with zero or basic knowledge in the field. Some basic level of programming is required but not that much. You get more from this course if you follow the specialization,0,0,Hamed Alexander Amani Pariamachi,15523711
+113577281~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668533442555,5,0,"Great course!
+I wish there were some optional videos on XGBoost and the math behind it",0,0,Ramzi Rd,113577281
+47126715~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668524261339,5,0,"This was a great course, Pr. Andrew Ng is a great professor",0,0,Clément Nardari,47126715
+114668707~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668522218011,5,0,"explanation ,quiz and assignments are good.",0,0,KOLLI GOPINADH,114668707
+102485582~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668254768728,5,0,"Nice and informative course on the basics of advanced machine learning. Assisted with well programmed lab assignment, I got to learn a lot of machine algorithms from diagnostic ml, bias and variance and their importance for calculation of losses and finally decision tree equipped with several tools like random forest, XGboost etc...The information gained on completion of this course is surely going to help me come a long way in doing my phd project effectively with the help of machine learning",0,0,Pradeep Kumar Rana,102485582
+54537206~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668166693089,5,0,excellent course with insights on practical implementation of machine learning,0,0,SAMPRETH S,54537206
+91300241~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668158080044,5,0,Excellent course!,0,0,Monika Lejnarová,91300241
+73690322~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1668147890136,5,0,A course just as great as the previous one in this specialization. Worth all its money!,0,0,Tudor Jinga,73690322
+4556542~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667892363194,5,0,I think many machine learning concepts from data clean to training to error analysis discussed here for both supervised classification and regression problems. Both Neural network and decision trees discussed. ,0,0,Armin Faroughi,4556542
+112920446~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667841646124,5,0,Very informative and useful course to learn Machine learning from beginner to advance.,0,0,VISHVESH BHARDWAJ (RA2011026010109),112920446
+14602204~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667788193753,5,0,"This course is a brief but thorough introduction. It has a good mixture of theory and practice.Andrew Ng explains every thing very good, understandable and in a fun way.I highly recommend this class!",0,0,Susanne Braun,14602204
+68407356~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667661819602,5,0,Nice!,0,0,Yu-Cheng Chang,68407356
+91613859~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667611989719,5,0,"It's a great introduction to advanced learning algorithms, that takes the same concepts used in the first course and expands them greatly. Would be better if they  added some more practice labs, but the course is great as it is",0,0,Juan Jose Borrero Mejia,91613859
+77902184~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667498572511,5,0,Excellent course! ,0,0,José Bonança Pedreira,77902184
+115826300~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667274031421,5,0,Excellent course!,0,0,FU Di,115826300
+78098301~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667077592304,5,0,"Fantastic Course I would recommend it to anybody, it has truly broadend my horizons 100% with regards to Deep Learning and ML",0,0,Junaid Trenor,78098301
+115071870~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667074582000,5,0,A​ndrew is the best ML teacher I have stumbled upon as of yet!,0,0,Andreas Dybdahl,115071870
+19335101~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667056977864,5,0,V​ery well explained...enjoyed the learning process. ,0,0,Asmi Ariv,19335101
+14067865~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667049573557,5,0,E​xcellent course. Amazingly simplified by Professor Andrew Ng. Couldn't ask for a better teacher. ,0,0,Sumedh Kulkarni,14067865
+97590191~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1667044408380,5,0,"Simple, complete and comprehensive",0,0,Kimia Mx,97590191
+113616187~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666874798191,5,0,"I​ really enjoyed every second of this course , thank you Dr.andrew",0,0,Amr hosni,113616187
+1826806~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666871149516,5,0,A​ very good course on ML with many good examples. Thanks a lot!,0,0,Ali Khatibi,1826806
+22444108~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666812698281,5,0,V​ery engaging course. It made neural networks accessible and understandable. The hands on labs gave a good foundation on how to use TF for creating neral nets.,0,0,Badr Tejado,22444108
+81809031~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666691740866,5,0,i​ didn't expect somthing better than this as begginer,0,0,Karim Ahmed,81809031
+62927832~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666613005324,5,0,F​aboulas course. many thanks to every person who helped to make this great course!,0,0,Ali Abdi,62927832
+768047~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666320221664,5,0,​Excellent way of teaching. Thank you!,0,0,Anupam,768047
+93775346~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666279166269,5,0,"G​reat course, thanks alooot.",0,0,Mouhamad Kasem,93775346
+93710647~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666261149567,5,0,O​ne of the best course to study,0,0,Prathamesh Khade,93710647
+2347381~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666216669192,5,0,"A​ great course ! I found that important intuitions and techniques for ""tunning"" and debugging neural networks are clearly explained. The labs and assignments are also really helpful.",0,0,Francisco Romero,2347381
+11002783~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666182311505,5,0,Excellent course!!,0,0,Ricardo Melero,11002783
+111711864~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1666002066631,5,0,V​ery nice course,0,0,Ankan Sarkar,111711864
+43528825~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665917946343,5,0,S​imply the best! Thank you Coursera,0,0,ehsan kehtari,43528825
+101832250~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665914815052,5,0,W​ell-designed courseE​xcellent teaching style of Andrew NgL​abs are also well-designed to make the students learn the new concepts and techniques,0,0,Waseem Khan,101832250
+95483454~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665741742079,5,0,"G​ood one, gain a lot of information",0,0,Shivam Vyas,95483454
+116528065~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665588722106,5,0,Excellent!! I learn a lot,0,0,Tien Huy,116528065
+114360475~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665345168214,5,0,A​ well-made course with concrete examples to go along with the theory. ,0,0,Noël Huang,114360475
+108695626~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665303531874,5,0,"Great course! Compared to the previous version, this version deletes the backpropagation in the neural network and adds the tree model, briefly introducing some knowledge.",0,0,Larry_Liu,108695626
+111910152~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665297632052,5,0,V​ery nice course,0,0,KEDUKODI BABUSHRI SRINIVAS ,111910152
+104225623~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665294666078,5,0,T​he course was well designed to give all the basic insights about the advanced learning algorithms.I​ sincerely thank Andrew Ng sir and coursera for bringing such courses.,0,0,Vaibhav C T R,104225623
+69531032~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665284462903,5,0,Heartliest regards to A​ndrew NG such a great style of developing the community.,0,0,Navin Dwivedi,69531032
+47537935~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665270019959,5,0,G​reat course for learning fudamentals of neural networks and decision trees. Andrew Ng is the best instructor I have ever had in my entire education life. I hope he keeps developing open-access classes like this in the future as well. Thank you for those who contributed to bringing this awesome class together.,0,0,Mustafa Ozcicek,47537935
+111929203~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665160157175,5,0,n​one,0,0,Piyush Jangid,111929203
+108211730~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1665051032544,5,0,G​ot a clear understanding of NNs,0,0,Balaji,108211730
+79230440~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664991187579,5,0,L​earned a lot from this course it was awesome,0,0,jason edward kyle,79230440
+115877243~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664986326964,5,0,easy to understand,0,0,阮方,115877243
+107768518~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664824771112,5,0,"T​his course is incredibly well-structured, have great exercises that are practical and go along the videos very well. Huge respect for Dr. Andrew Ng and all the participating members who contributed to the development of this course. ",0,0,Timothy Zhou,107768518
+64312481~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664775049782,5,0,Definitely best course if you want to learn the underlying patterns of machine learning algorithms,0,0,PAULO CESAR CARHUACHIN GAMBOA,64312481
+71221184~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664730846488,5,0,V​ery informative about how the model works under the hood.,0,0,Yugal Kishore,71221184
+84213594~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664729222148,5,0,b​est course for anderstanding neurol netwroks and decision tree,0,0,Rabii Zahnoune,84213594
+61432008~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664711846905,5,0,A​wesome for us beginners!,0,0,G. De Beer,61432008
+58507794~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664667403776,5,0,p​erfect course ,0,0,Eyad Nashaat,58507794
+72787232~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664663601843,5,0,I​t was well developed. The instructor focused on the main ideas and concepts that make it easy to understand the  Advanced Learning Algorithms. ,0,0,Mohammad Bakhtiari,72787232
+94093498~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664557485943,5,0,"A​ good Continuation from the first course, it uses the solid foundations gained previously and aplies them on Neural Networks, Decision Trees and Theory on when and how to improve a learning algorithm. Andrew explains difficult concepts in an easy way jus words of thank you to all the team for sharing this knowledge with us",0,0,Enrique Baron Gomez,94093498
+25364218~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664495701793,5,0,This course was highly intuitive and the lectures and practice labs allowed me to understand the concepts with great ease. I also enjoyed the short bits of humor provided by Andrew Ng during the lectures. Thank you for this experience! Highly appreciate the design of this course.,0,0,Rishabh Goel,25364218
+53052193~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664444384049,5,0,"B​est course for beginners and it helped me immensely to learn new things in Neural Networks, DecisionTree, and What is the problem related to the Model overfitting and underfitting.",0,0,Sachin Bagoriya,53052193
+112684379~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664354383076,5,0,T​he best machine learning course ever!!!!!,0,0,Santos Enoque Safrao,112684379
+67815599~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664331963532,5,0,"i​ love the way Andrew Ng teaches, i remebered a while back, i tried learning about decision tree  from the internet and i could remember , i left the tutorial more  confuse.  i love the way he presents the learning intuition of each topic. for everyone watching & taking the course, watch out for the ""intuition"" of each topic. Andrew Ng does a great job of demystifying ml concepts ( than most youtubers that dive aimlessly into jupyter notebook using libraies without explaining the concepts) and also partake in the quiz and assesment, they are great help.it was a nice experience learning, Thanks Andrew Ng, DeepLearningAi, Stanfordonline",0,0,Echekwu Elijah,67815599
+89604820~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664275655082,5,0,A​mazing course! Extremly usefull not only for beginners but for those who already know to code but want to learn about IA,0,0,Jose Chimeno,89604820
+13788744~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664209122851,5,0,"I​t was a bit tough, but thankfully the instructions and lab work helped in giving a thorough explanation and understanding",0,0,Hunain Ahmed,13788744
+101230577~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664208872318,5,0,T​hat's amazing course with exceptional materials and laboratory explanations.,0,0,yraion0,101230577
+112888444~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1664127942319,5,0,G​reat one,0,0,Sai Rohit Paturi,112888444
+94235814~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663855272591,5,0,"E​xcelente, muy buen curso! Me gustó mucho aprender las bases del funcionamiento de las redes neuronales y los árboles de decisión.",0,0,Martín Buron Brarda,94235814
+89244128~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663848253075,5,0,G​reat,0,0,Mohamed Hassan,89244128
+101837424~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663781935751,5,0,V​ery interesting course:D,0,0,Badie Tahghighi,101837424
+4686475~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663769304199,5,0,"T​his course introduced the most widely used tools in Machine Learning, explained how they work, and gave insight on how to refine their usage. ",0,0,Rick Hall,4686475
+75788476~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663551895733,5,0,A​mazing course and content! :DD​eepLearning.AI <3,0,0,Julio Alberto Larrea Crisóstomo,75788476
+97356292~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663449553295,5,0,"T​he course on decision trees, random forests and XGBoost is the perfect balance between summarizing key concepts and providing intuition of the maths behind the concepts. ",0,0,Louis STEFANUTO,97356292
+47213699~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663441844792,5,0,"I​nformative, pratical and well-structured.  Bravo !",0,0,Franck Chen,47213699
+105883237~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663439215929,5,0,G​reat Course. Larned lot of essiential concepts,0,0,Asanka Wijesinghe,105883237
+104995841~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663346611401,5,0,"D​r. Andrew Ng and his Team have created a solid ML course that is both beginners friendly and highly intuitive. The theory,just like the first course in the specialization, has been explained in a very lucid and friendly manner. They have created a course that is really good at imparting all the necessary theory to learners without bagging them down with all the complicated maths related to them, which is something I have found a very good thing.  Plus , they also touch upon all the open source ML libraries that is used by the industry and enthusiasts  alike, which is something I really appreciated.A​ll in all, this is one of the best ML course out their and a must learn for every beginner ML enthusiast.",0,0,Argha Bhattacharjee,104995841
+101461173~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663343678861,5,0,"I think the content is great as well as the teaching method. I think that anyone, with enough time can get to understand everything. Besides, experienced ones can also learn a lot from this course. This is a must-to-do course to get into the world of  Machine Learning",0,0,Javier,101461173
+69079866~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663170632774,5,0,A​mazing Course! Sir Andrew Ng explains complex algorithms like neural networks and decision trees in great depth with more intuition than math which is Awesome and makes learning easier. Learned useful machine learning advices and practises which are as important as the algorithms. I enjoyed the course very much. This specialization is the best way for you to #BreakIntoAI.,0,0,Mohamed Javeed,69079866
+92032792~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663165807289,5,0,"G​reat work, thank you!",0,0,Peter Retief,92032792
+99384794~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1663136529613,5,0,​i love the way they tought me ,0,0,Saeedanwar Mehmood,99384794
+30961524~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662985123975,5,0,W​onderful course. Prof. Andrew makes everything very easy to understand while having some fun. See you in the third course. ,0,0,Saif Ur Rehman,30961524
+10269~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662936126242,5,0,"Great course, very well presented, a didactic model !",0,0,Pascal Uriel ELINGUI,10269
+90526670~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662851652119,5,0,A​NN explaining is great!!,0,0,Ziv Mordechay,90526670
+31201452~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662849423565,5,0,"As per everything Andrew Ng, very intuitive and easy to understand.If you're wondering how the backpropagation equations came to be though, check out the videos I made working it out (my way of giving back)Link to videos (with Coursera's approval to post): https://www.youtube.com/channel/UCqvDiAJr2gRREn2tVtXFhvQ",0,0,Dahiru Ibrahim Dahiru,31201452
+106523252~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662846733362,5,0,N​ice course!,0,0,Andrew Kazuo,106523252
+76152640~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662828161036,5,0,It was a fantastic course; I learnt a lot of new things and improved techniques to using algorithms; the professor also taught ML for greater humanity.,0,0,350-41 Ranjeet Kumbhar,76152640
+59159929~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662803647177,5,0,"T​his course is well designed for a beginner who wants to get the intuition of deep learning and see what is under the hood. By taking this course you will have a better understanding of principal concepts in deep learning and artificial intelligence and deep learning does not appear as a black box. The lab assignments are well designed to teach you better the whole concept. In a nutshell, well done Andrew NG, Stanford University, Deep learning AI, and Coursera!",0,0,Yousef Golabchi,59159929
+109020243~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662626971398,5,0,"Thanks to this very helpful and useful course, I believe I have a good understanding of Neural networks and how they fonction. ",0,0,Mahdieh Emadi,109020243
+15151782~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662604140365,5,0,"T​his is a very nice course. First of all, everything is very intuitive and seems appropriately challenging. It covers some pretty sophisticated concepts but in a very accessible way. I certainly tried to learn some of the same concepts and skills elsewhere, but I never felt confident about the outcomes. I think this course and specialization is one the best places to start learning the subject. I feel like I really understand what I am doing.",0,0,Ivan Zaluzhnyy,15151782
+88339566~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662551280720,5,0,V​ery fgood for begginers ,0,0,Adithya Sampath,88339566
+2589780~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662536339122,5,0,I loved the choice of algorithms. Andrew NG never fails.,0,0,Ashish Patel,2589780
+1400528~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662494489498,5,0,"Excelent understanding, needs more programming examples, exercises",0,0,Manos Priniotakis,1400528
+13388913~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662384131388,5,0,A​mazing course that allow to understand what's going on behind the scenes of ML algorithms,0,0,Pastor Soto,13388913
+47231661~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662315621610,5,0,"T​his was a great course, teaching why my ML projects were left unfinished because I didn't fully get the Machine Learning model creation process.",0,0,Abdullah Palaz,47231661
+61744604~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662273024657,5,0,just one of the best machine learning course with a great instructor and well organized curriculum,0,0,Akshat  Bajpai,61744604
+32978512~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662224206965,5,0,The course taught me how to properly implement decision trees. I am really grateful for all the efforts behind this amazing course,0,0,Bello Ridwan,32978512
+104583249~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1662210244167,5,0,<3,0,0,Jaber,104583249
+109694479~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661869211018,5,0,Excelent contents and instructor's explanations and labs practice.,0,0,Javier Mora,109694479
+43887786~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661786839892,5,0,A well-organised course. Practice labs and quizzes were quite useful in understanding the concepts.,0,0,Krishalika Rathnayake,43887786
+47200469~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661753390227,5,0,Absolutely loved every bit of the course.,0,0,Tritam Mohanty,47200469
+24393506~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661648334295,5,0,"Excellent Teacher, Excellent Material, Excellent Evaluations and Excellent Laboratories",0,0,Jair Cardona,24393506
+87979844~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661601797212,5,0,Best course for making fundamentals strong !!,0,0,Neel Patel,87979844
+27307521~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661599915309,5,0,"This course has given very good insights into various supervised learning alogirithms like neural networks, optimization of neural networks, tensorflow adoption, How to address issues of overfitting / underfitting and Decision trees.  ",0,0,phaneendra rao m.v.m,27307521
+7772780~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661554423747,5,0,"Excellent course! Coursera content quality always exceeding expectations, which combined with the instructors' mastery of the subject, makes learning easy and at the same time motivating to always want to learn more!",0,0,Luis Carlos Wruck,7772780
+106786520~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661513470211,5,0,Very good course for getting an intuition of Neural Networks. Not so helpful for practical applications of it.The explanations are so on point it will give you great idea of working and you can by yourself master its applications,0,0,Faisal Khan,106786520
+102484181~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661469810308,5,0,It is a great course with some powerful skills learned.,0,0,Fabio,102484181
+24352984~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661454439237,5,0,i have learnt a lot.,0,0,Randheer Kumar,24352984
+110568439~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661436345297,5,0,"One of the best explanations of the backend of most advanced ML algorithms. The instructor is the best of the best. Learning new and Advanced Algorithms surely helps you to understand the newer technology and help your hunt down a good job in your future. Thanks to Coursera, Stanford, Deep Learning.AI and Andrew Ng for this very special course and for all of your hard work in making this course go smooth and easy to understand.",0,1,Abdullah Mushtaq,110568439
+47573724~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661384676155,5,0,Thanks so much,0,0,IBRAHIM QLINI,47573724
+54332646~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661230148671,5,0,"Best for people who want to get their hand on ML. Very practical but at the same time, mathematically detailed",0,0,Kim Anh,54332646
+82604864~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661176181382,5,0,The best course I have ever taken,0,0,Alireza Kamyab,82604864
+97069266~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661164474778,5,0,Andrew is so nice and cute!!,0,0,paddey zhang,97069266
+39927724~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661114245041,5,0,A​mazing course as usual,0,0,Karim Abdelhamid 201500045,39927724
+108260321~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661100258420,5,0,Its the best course. I just loved and enjoyed so much throughout the course.,0,0,Ankit Prem,108260321
+64557111~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661094433880,5,0,"R​eally good introduction to machine learning notions and algorithms such as neural network and decision tree, with many informatives details about how to improve them and examples of implementation.",0,1,Alavoine Nadege,64557111
+32402772~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661072010605,5,0,Thanks Andrew for this great education. It was so helpful and also practical,0,0,Sobhan Asasi,32402772
+5106697~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661056779953,5,0,"Liked the explanations, steady pace and examples, clearly painstakingly learned places where students learn slower are addressed. Rather few labs in this one, but seem to cover main basics. Learned quite a bit, although taking as a refresher. Good update! Thans!",0,0,Sergey Makarevich,5106697
+110846013~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1661004620972,5,0,I​t is even more better if the third week has practice labs.T​he course is very good and well detailed.,0,0,Younes SALMI,110846013
+12883675~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660988317062,5,0,​This course enhanced my knowledge of Advanced Learning Algorithms using python implementation ,0,0,Rahul Sharma,12883675
+112592666~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660977208571,5,0,Clear and concise. Lots of useful tips and tricks for hands-on  exercises.,0,0,Steven,112592666
+105545810~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660933437859,5,0,"Felt like week 4 could've used some optional labs. But other than that, an amazing course!",0,0,Rahul Ram,105545810
+96844344~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660927061386,5,0,Very well explained.,0,0,Subrata Mukherjee,96844344
+110490548~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660925881575,5,0,the best,0,0,Ramkumar,110490548
+51041176~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660868910262,5,0,Excellent Course,0,0,OLUWAFEMI AWOYERA,51041176
+112480197~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660756573544,5,0,best course,0,0,Le Ngọc Long,112480197
+96331703~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660647548851,5,0,Thank you for the simple explanation so complicated concepts!,0,0,Aleksandr Efimenko,96331703
+105064879~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660637976487,5,0,Ng is the number one!,0,0,taroballscai,105064879
+69882289~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660617047920,5,0,"Intuitive explanations to help understanding, highly recommended introductory course",0,0,Yung-Hui Hsu,69882289
+106924630~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660601157443,5,0,Very useful material. I recommend it to everyone interested in learning about practical machine learning algorithms.,0,0,Shawn Becker,106924630
+11687427~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660552389165,5,0,r​eally good and highly recommendable.,0,0,Philip Gutjahr,11687427
+85321503~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660513925823,5,0,"A very complete course but it would be necessary to also do the algorithms of trees and forests with tensorflow, the rest is excellent.  ",0,0,Pablo Klein,85321503
+2075941~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660370676809,5,0,The ideas are explained in a very practical and understandable way. No deep mathematical background is needed to complete the course. Just the high school  level and some knowledge about Python programming. Very recommendable course to get a general idea about decission trees and neural networks. ,0,0,Raul C,2075941
+71890869~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660346347985,5,0,This course provided me to learn machine learning algorithms in depth. Thanks for everyone.,0,0,Kizmaz Ersel,71890869
+11792205~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660316593158,5,0,Very informative. Dr. Ng's teaching style is wonderful!,0,0,Leland Grant,11792205
+40191812~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660312089696,5,0,The best lecturer and easy description of even the complicated concepts. Thanks a lot!!!,0,0,Michael Tamirie,40191812
+47136862~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660284400151,5,0,"Good introduction to neural networks, practical machine learning and decision trees",0,0,Reuben Praveen,47136862
+45414161~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660125279021,5,0,E​xtraordinary! With the right teacher it is astonishingly easy to learn these complex concepts!,0,0,Florence Pfammatter,45414161
+46219134~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660072781765,5,0,Thank you to all course development staff specially to Dr Andrew Ng. Fantastic course.,0,0,Daniel Aquino,46219134
+77077030~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1660062147700,5,0,great course!,0,0,kan UI,77077030
+45639791~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659952865953,5,0,"Thank you for your efforts
+thank you for this content
+thank you great instructor professor andrew ngm",0,0,Ibrahim Hamada Mosaad Ali ,45639791
+91134364~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659947507928,5,0,An amazing introduction to the subject,0,0,Jan Semik,91134364
+46899072~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659940813832,5,0,"A great course that explains and walks you through actually coding principal supervised learning algorithms. Would appreciate if the description on calculating back propagation from the original course had been included. Then again, this version of the course  I actually got through :). All in all I felt the assignments where at a level that I could quite quickly work through, and find help when I got stuck. Grateful that Andrew Ng and his team made this course  series  subject so accesible and doable.",0,0,Edward Hiscoke,46899072
+27175775~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659897388420,5,0,S​ublime! Nothing to say!,0,0,Simone Cardis,27175775
+1708467~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659890045942,5,0,Amazing experience,0,0,Sohaib Ahmed,1708467
+4860579~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659889866085,5,0,great video instruction and the labs are quite challenging but are excellent for putting theory into practice.,0,0,Roy Murphy,4860579
+104421684~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659791230387,5,0,"The course was fantastic! I really enjoyed every part, every video, every quiz, every optional lab, every assignment of the course. It was a pretty memorable ride to have come this far.",0,2,Sai Ganesh Manda,104421684
+19768820~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659764513684,5,0,T​his course is awesome. Why? Because it is very simple but at the same time is complete and to the point. Thanks Andrew.  ,0,0,Vahid Hosseinzadeh,19768820
+34505636~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659645763403,5,0,Explanations are succinct & simple. Helps greatly with grasping concepts & building intuitions.,0,0,Samuel Zhang,34505636
+76780304~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659567683237,5,0,"excellent course, for me it's the best online course you can see anywhere",0,1,Ovu Sunday,76780304
+2165741~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659494622613,5,0,No superlative is eufficient for Dr Andrew Ng's instruction.  Bravo!,0,0,Sudip Singh Chahal,2165741
+34179232~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659466252721,5,0,The course provides excellent intuition necessary for any ML practioner.,0,0,Guru Swaroop Bennabhaktula,34179232
+97796276~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659397502371,5,0,content in this course is very good,0,0,Kyhoname,97796276
+33400647~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659396168551,5,0,A Terrific update to a classic course. Andrew Ng is a fabulous teacher who can make the complex simple - without dumbing it down,0,0,Mallikarjunadas Coimbatore,33400647
+20909245~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659381802855,5,0,Great course,0,0,Hema Aggarwal,20909245
+29444327~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659366547574,5,0,Excellent and beninner friendly. Professor Andrew's explanations are easy and intuitive. I like the part he explained decision tree. Highly recommended.,0,0,马镓浚,29444327
+47122856~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659322500676,5,0,One of the best courses I have ever had. ,0,0,Tahmidul Azom Sany,47122856
+5101052~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659198539136,5,0,"T​his course is even better and more accessible in this new format. This instance is quite complicated, requires some good python/numpy knowledge but the math is not so overwhelming. ",0,0,Bruno Rafael Santos,5101052
+41818446~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659192393702,5,0,"The course is very comprehensive and all the concepts are well explained. One piece that's missing is back propagation.  other than that, the course is just amazing.",0,0,Mohammad Boustta,41818446
+8728463~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659062351168,5,0,Enjoyed thoroughly the course. The mathematics concepts we’re well explained through exercises that help us visualize the concept behind each equation. The exercises were well thought out to help the student bridge theory to practical coding. People not familiar with mathematical coding will start to understand the pattern behind and be self-sufficient. Thank you for building this wonderful course. ,0,2,Billy Vuong,8728463
+107429306~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1659030400455,5,0,A​ndrew Ng is the best ML teacher that I have seen!,0,0,Wilson Lwtan,107429306
+49309362~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658912943234,5,0,"The concepts are explained in detail without anything rushed or skipped.   It is worth it. Thank you for this course,  if it wasn't for you, this opportunity would have never reached someone like me in Africa.",0,0,Shamiso Chitongo,49309362
+572635~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658910544447,5,0,Extremely helpful in understanding the concepts and the underlying maths. Highly recommended for anyone interested in building from the basics.,0,0,ritesh das,572635
+101812898~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658907778042,5,0,LOVED THE JOKES TOO! ,0,0,Aishwarya Sam,101812898
+53381639~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658871336819,5,0,Great course! I especially like the Python examples!,0,0,Florian Ewald ,53381639
+108871674~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658859518100,5,0,"A great course to start your journey into the fields of Deep Learning , Neural Networks and Decision Trees.",0,0,Ayush Dogra,108871674
+87940361~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658530829211,5,0,"Excelente contenido, conceptualmente accesible para iniciar en el Machine Learning y en Redes Neuronales. Tambén la parte de árboles de decisión fue relativamente nuevo para mí y me gustó mucho como se explicó. Infaltables los chistes de Andrew para distraer entre las ecuaciones.",0,0,Carla Pezzone,87940361
+148667~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658473043359,5,0,A​ndrew does a brilliant job explaining complex ideas in easily understandable and digestable ways.,0,0,Anton Bouwer,148667
+108727658~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658425630637,5,0,An excellent and usable course  ,0,0,mohammadreza ghasemichimeh,108727658
+9414729~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658414909912,5,0,G​reat explanations and guided course work!,0,0,luis matute,9414729
+67123204~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658178994378,5,0,"Amazing, the explaination of the neural netowrks part is amazing wtih very good examples.The Bias and Variance and the error analyis parts are very good.I loved giving an idea about more advanced implementations like transfer learning and ensemble learning.",0,1,Usama Ahmed,67123204
+792197~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658166817489,5,0,"The elementary method such as Linear Regression Model  more meaningful than the hard method.
+Dr. Andrew Ng lectures are a very good combination of profound thought and perfect form.  Thanks! ",0,0,Jianhua Ma,792197
+9513382~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658148924926,5,0,"E​xcellent content to learn how to model, evaluate and implement your first neural network in TensorFlow. Andrew is an excellent and passionate instructor. The assignments in Jupyter Notebooks are very well-curated and effectively help to understand the nuances of the theorical concepts. Thank you!",0,0,Diego Carpintero Millan,9513382
+75668961~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658140308239,5,0,"All the concepts were simply and clearly explained, and the labs ensured that I understood everything in practice. Went from zero knowledge to being able to build my own machine learning programs win a matter of weeks. Excellent.",0,0,Arjun Sivakumar,75668961
+110366187~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658094641578,5,0,"Just amazing, ",0,0,Ahmed Rami,110366187
+49836542~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1658029677053,5,0,Great content and easily understandable explanation.PS: The jokes are a huge plus XD,0,0,Ronnel Gregorio A. Gamino,49836542
+14014891~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657988928899,5,0,Need more practice labs inbetween each week and modules .,0,0,Satyajit Nag,14014891
+4283262~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657987242306,5,0,I really enjoyed the course. Andrew is a great teacher. The examples were well chosen and it was not too complicated to follow. Good to take a look behind the scenes of what the state-of-the-art libraries are doing.Also +1 on the the dad jokes at the end ;-),0,0,Florian Witteler,4283262
+108789043~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657977416018,5,0,"This is by far the best advanced machine learning algorithm course I've ever taken. Using simple examples to convey several no so intuitive concepts. Some of the concepts that was not 100% clear prior to this course are now  crystal clear. But honestly, I would say for those who have zero experience in the field of machine learning and coding might find it hard to take in, especially the part when trying to write and understand the algorithm from scratch in the lab. ",0,0,Chien-Wei Chen,108789043
+77952469~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657965003886,5,0,excellent !!!!!!,0,0,Deleted Account,77952469
+102858521~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657897490625,5,0,zhenbucuo,0,0,zhixiang liang,102858521
+57841732~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657891519176,5,0,"This was one of the best courses I have ever experienced. There was a subtle beauty in the course's planning and Dr Andrew's teaching. The effort Andrew sir made in his teaching was quite evident, and there was a remarkable balance in the difficulty of the course - no matter whether you are a beginner or experienced with Machine learning, you will enjoy this course!",0,2,Gariman Singh,57841732
+63153634~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657865613416,5,0,"It is fascinating course! I want to thank Andrew Ng and whole team for very good explanation. Everything was clear, and especially week 3 is full of useful advices. I really enjoyed during this course. Thanks a lot. I am waiting for course 3",0,0,Diana Koldasbayeva,63153634
+21840894~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657813343798,5,0,Wonderful ,0,0,Trang Quoc Khai,21840894
+62103654~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657736036047,5,0,Great resource for learning basic concepts of neural networks and decision trees. Thanks a lot for making it available. ,0,0,Baris Bozkurt,62103654
+38001371~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657720225049,5,0,Interesting content with good programming assignments!,0,0,VISHAL V,38001371
+103942428~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657536182232,5,0,very good course with high quality lectures and materials to understand difficult concepts clearly,0,0,Vardan Mittal,103942428
+14915351~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657526604821,5,0,B​ackprop neural network would also have been nice! But great content especially on decision trees,0,0,Umang Chaudhary,14915351
+55875888~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657457313465,5,0,Good Course,0,0,Karn Tiwari,55875888
+77520630~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657441582796,5,0,Thank You for this amazing course waiting for course 3 ,0,0,Sayed Mahmoud,77520630
+2145609~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657393954897,5,0,"My favorite part was how beautifully the concepts from the first class, and more generally linear learning algorithms, are connected to neural networks.  The mentors are so helpful, you feel like you have a private tutor teaching you advanced skills.  Amazing!",0,0,Pritam Dodeja,2145609
+8280481~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657356300806,5,0,"Great course! and according to me,  the ML roadmap that best matches the one I thought to approach the ML topic based on all my experiences. So I recommend this course of Andrew to everyone. ",0,3,stephane degeye,8280481
+22397717~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657074766521,5,0,Amazing!!,0,0,Emi Loomistar,22397717
+8353962~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1657005983674,5,0,A very beginner friendly course that has great explaination on the topic. The programming assignments are really simple and I hope to see harder assignments in course 3 which would allow us to put everything we learn into practice,0,2,phang ye sheng,8353962
+34937362~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656952349277,5,0,Thank you Andrew for such a valuable resource!!,0,0,Shirshak Acharya ,34937362
+53813024~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656857965419,5,0,Watched till week2. Great Content,0,0,Hritik Akolkar,53813024
+109407705~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656698412413,5,0,I really enjoy doing this course. Thanks!,0,0,Davi Misturini,109407705
+1302326~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656696236834,5,0,Excellent course!,0,0,Fernando Arizmendi,1302326
+100614939~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656685637774,5,0,The best machine learning course!!!,0,0,RyounHeo,100614939
+7707735~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1656443761577,5,0,"Course 2 of 3 from the Machine Learning Specialization series. Whoever read my previous course comments will find this may sound repeating, but once again I need to praise Ng's way to explain the topic, which made clear some details - particularly on the decision trees videos - that were not so clear to me, even after a couple of MBA classes about the topic. I do recommend this course.",0,0,rcotta,7707735
+5575918~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1655970177355,5,0,"E​xcellent course, although it would have been good to talk more about backward propagation, after finishing this course this is the only point that is left unclear in my mind.",0,6,Mohamed Neil Mahi,5575918
+4101721~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1655758327333,5,0,Best course,0,0,Rajeev Ranjan,4101721
+59623572~COURSE!~Z5rfkzWeEeusTAqaKUMfXQ,1655673873375,5,0,An excellent update to the previous Machine Learning course. Goes into excellent detail about each algorithm and the practical notebooks are useful and easy to follow.,0,0,Will Hemsley,59623572

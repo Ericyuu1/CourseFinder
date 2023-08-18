@@ -1,0 +1,198 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+49686345~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1656311171105,1,0,講義のビデオ自体は悪くないが、課題系は全てにおいて不親切かつ説明不足で完遂困難。,0,0,Yukihiro Fujita,49686345
+81566184~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1636342191005,1,0,Very outdated course,0,2,Juan Carlos Hernández,81566184
+51028299~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1613685119614,1,0,very old ,0,1,Farah Eldeshnawy,51028299
+555746~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1604078838475,1,0,"Update of the course is largely overdue: It's not acceptable to have course materials , especially the labs, that are soooooo outdated.  We are in 2020 and the technology is moving faster than ever, hence having materials dated 2016 shouldn't be tolerated by Coursera for a paid course. It makes the onboarding very difficult for people not familiar with Android. I lost hours (if not days) in getting sample code / lab material upgraded to the current version of Android studio. So many clicks to get away from ""unsupported library"" type of errors. It's a shame as otherwise the course is well structured, and a little ""upgrade"" of the course materials which shouldn't be so difficult for the ""pro"" lecturers would simply bring it to 5 stars.  It's called  ""solution maintenance"" which is part of software lifecycle  ... ;-) ",0,7,Jean-Luc Moron,555746
+7738926~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1590468795437,1,0,looks like the course was nicely organized at time of creationhowever the content is awfully dated i would not squawk as much if this course was about some fundamental knowledge . but it's notplease pick another course for your own good :(,0,8,James ,7738926
+10794638~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1585519215703,1,0,Course is out-of-date and examples often do not work.,0,0,Todd Kelner,10794638
+3046229~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1581272802323,1,0,"The course material is very old and some is hopelessly outdated.  In week three there's a lab for permissions, but it requires using permissions that are no longer available (not since Android v5.1).  Questions have been asked about this for years, but have been ignored. It appears the only people on the forums are people taking the course, most of whom probably don't already how to beat Android Studio and Gradle into submission so that old versions of Android can be targeted.If you're after a lot of frustration, this is probably a good course.  If you're looking to learn to write apps for Android, look elsewhere.",0,3,Craig Barrett,3046229
+1547485~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1548517376796,1,0,"Paid for this course a couple of years ago and finished it with no real problems but didn't use what I'd learned nor did I continue with the next course. I decided to retake this class to brush up so I could take Part 2. However, the course material hasn't been updated to keep pace with the changes to Android and Android Studio. Assignment projects don't import properly and deprecated classes are being used instead of their replacements. I managed to update my original final project (ModernArtUI) to current standards and have decided that I'm better off (and will learn more) by continuing by myself.",0,11,Peter Chastain,1547485
+33952406~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1528924200843,1,0,poorly maintained exercises which require hours of fixing in order to submit and pass tests,0,5,Theis Nielsen,33952406
+22035870~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1506524493015,1,0,it's to bad course ,0,0,Islam Sherif  Ahmed,22035870
+9343398~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1499688717250,1,0,The content is very good and useful but way he talks it makes me fall asleep.,0,0,Deleted Account,9343398
+13710958~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1495375381570,1,0,"I don't think this course is helpful. I've end up reading a lot of documentation trying to guess what I should ""copy and paste"" in the code in order for it to work. In my opinion programming is about knowing why things work, not about having to learn that line of code 1 should come before line of code 2. ",0,2,Deleted Account,13710958
+2121397~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1492363231528,1,0,"Online grader for labs is terribly buggy. Attempted submitting labs several occasions - all fail. Local builds work fine with apps working as expected and tests pass. The online builder gives very little feedback other than ""BuidError"". £40 wasted. Will not recommend and will never fall for it again. AVOID!",0,0,Doug Bromley,2121397
+327156~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1488886684735,1,0,"Outdated and unsupported !The code for the exercises was made for Eclipse ADT and Google dropped support for Eclipse a while ago. The official IDE for Android development is Android Studio now.I could import the project for Lab1 but I'm unable to compile the tests and the program with Android Studio, I get a ton of errors. My post in the forums about this is unanswered for 3 days now.",0,1,Stephan Goldenberg,327156
+18584463~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1467028435905,1,0,"Very fast pace with no support. Be prepared to make countless online searches or to discuss solely with peers. Many drop out by the end of the course. Final Project is far too difficult for this course, because it did not prepare me at all. If you want to learn Android programming, I suggest you look elsewhere. 
+",0,0,Krizia Buck,18584463
+18285766~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1461697077995,1,0,"I was disappointed in the lack of explanation for the tools. Since everything depends on the IDE, and there was no instruction about the IDE, I found it difficult to do the labs. In the course of trying to, the IDE somehow managed to corrupt my hard drive. After that I pretty much lost interest in the course. ",0,0,Dave Menconi,18285766
+88278772~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1651841576584,2,0,"The courses lab material (Android Studio files) is years out of date. Cannot be compiled with recent Android Studio.Just making it work needs much more time than actually completing the quite simple assignments.The course is ok but if you plan to do the labs, you'd better be qute experiences in Android Studio and Maven(which probably means this course is too basic for you).Tried a few thing like older versions of android studio and converting the files using android studio but in the end resorted to creating new project files and manually setting them up based on the course material.This got me very frustrated so I gave up at about 80%.With up to date material, I would have given the the course four stars.",0,0,Volker Klein,88278772
+10080275~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1509483851174,2,0,"Course automatic notification system informed me to finish assignments until XXXXXX date. Assignments were submitted in time, but, anyway, didn't grade. Notification and checking systems needed to be revised, bugs need to be fixed.I will never buy certificates in Coursera, because from this time no trust to this service.The course is very good. But first assignments a difficult to be done, more learning materials needed.Anyway, the most important thing I got is knowledge, that is priceless",0,0,Sergey Alto,10080275
+1722542~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1490989660877,2,0,the course is a bit outdated and I am finding it hard to stay motivated knowing there are other more recent courses. The topics I think are still relevant but the tools are not.  I am looking for courses where there is hands on development that you follow with the instructor and I did not find this here. ,0,0,Ali Al,1722542
+17057084~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1474602813526,2,0,A basic course but not for the ones who don't know anything about java or android. Not made for the beginners. Also the submitting projects work is complicated and should be made more easier.Not recommended for the starter.,0,0,Anurag Desai,17057084
+17755674~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1469309630641,2,0,I found this course lacking in providing sufficient coverage of the basics in the course videos and lacking a useful and directed reading list. I spent far too much time researching command syntax and using try and error to find what worked with the provided code. Disappointing as topics covered are good.,0,0,Mick Chawner,17755674
+97993409~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1638772452902,3,0,"the course and it content is very good,the instructor accent very clear and easy to understand for me,but the assignment is out of date,the last update of the github repo since 7 years ago,can't import and make it run nowaday,how to complete the assignment if it doesn't run anymore or may be you have to build a new one from 0",0,1,Tran Phan Hoang Huy Long,97993409
+2256105~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1605489542766,3,0,"Although this helped my understanding of the Android system, once it got to the Android Studio, the lesson was about a completely outdated (pre 3.0) version and this required translating instructions to the new version (4.1.1) of the Android Studio. For example, the Dalvik Debug Monitor Server is deprecated, replaced by the Android Profiler.",0,2,Ramon Salazar,2256105
+44481281~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1572907987451,3,0,A bit outdatedbut it's okay.,0,3,Yousef Osama Khrais,44481281
+39403124~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1558636079014,3,0,"i Think it's a very good introduction to Android world, it is worh valued, only a bit old-fashioned, kind of 4-5 yeards",0,0,Daniel Sáenz de Cosca Lacalle,39403124
+11737960~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1534933556854,3,0,"not bad course, but  i think its not enough information about Android OS, need to improve.",0,0,Yuriy Shinkar (Egor Tverdokhleb),11737960
+6938912~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491920289516,3,0,"It's a good course by the standards of when it was made which, going by the overview, looks like 2014. the lectures are based on eclipse while the video teaches how to install android studio. Some of the examples are not compatible with Android studio and work only on eclipse. Being updated with the more recent material would've helped more. Having said that, the teaching style is really conducive to learning for newbies. It's a good introduction to the world of Android development.",0,0,KANDARP BHUPENDRA SUCHAK,6938912
+22609902~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1480490355621,3,0,i like this,0,0,Hoa Do,22609902
+21438069~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1473864441320,3,0,I like this programme its very helpful and encouraging for me to do programming,0,0,Manasa Ranga,21438069
+44654~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1465593797694,3,0,"I was very excited during Week 1 and Week 2 lectures. Then, the videos kept getting unclear and outdated. The assignment is not engaging. My interest dropped. The videos really need updates!",0,0,Ervi Bongso,44654
+17271181~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1464343444147,3,0,Overall I think the course was good. This course requires you to do a lot of self study and research on every single topic. It only covers the very basic and core topics. I would have liked it to have more hands on or practical examples.,0,0,Christo Pretorius,17271181
+55998106~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1609497106293,4,0,Отличный курс для начинающих. Хотел бы от себя сказать что если добавите в этот курс больше практических заданий то думаю было еще лучше. Так как на практике учиться куда легче и быстрее. ,0,0,Дил Кайрык,55998106
+63544676~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1601198158387,4,0,Good course. Some of the content is a little outmoded.,0,0,Yunpeng Luo,63544676
+28850700~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1570814317934,4,0,The course need to update.,0,0,Deleted Account,28850700
+3173572~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1566933104054,4,0,It was great experience for me.,0,0,Harish Chand Bagga,3173572
+39121990~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1566112309050,4,0,They provide conceptual material.,0,0,Sundram Singh,39121990
+30886182~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1563821011686,4,0,"Great Course,I give it 4 stars because some project uses deprecated code from old APIs",0,0,José Alejandro Pérez,30886182
+5852268~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1546920367328,4,0,"Very well presented, very hands on course. Only problem I faced was due to the examples being a bit dated, needed to tweak these to work in the latest Android Studio setup. (Did I miss out on downloading the latest examples?)",0,3,Gouri Bargi,5852268
+6188906~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1544376284971,4,0,"Este curso tiene un gran balance entre tiempo de videos, material y detalle de las explicaciones. Una vez terminado si se fue honesto a uno mismo, se adquieren conocimientos básicos suficientes para que el desarrollo sobre android no sea un misterio.",0,0,Gerardo Surchi,6188906
+36780912~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1541746939352,4,0,The course is becoming dated.  Some of the current tutorial and lab items will not work in 2019.,0,0,Robin Martin,36780912
+8688974~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1517789883701,4,0,"Learned the basics of Android Programming, will embark to the next part. Kudos!",0,0,Mary Alexis Solis,8688974
+30527170~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1516969558448,4,0,"There's a little gap between theory and practice, so you have to make a bit of research on the side, but an excelent course anyway. Learned a lot.Looking forward to start Part 2",0,0,Ruben Oliveira,30527170
+30901723~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1516899084887,4,0,The course is good. One can try it. But the last weeks assignment is horrible.,0,0,Trivedh Nani,30901723
+30619560~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1516468978340,4,0,"Classes are well explained. Course material however is not updated to changes to Android since v. 6.0, which gives problems for example with permissions. That's a bummer. What really is frustrating is the resource exhausting Android emulator, which is almost unworkable. You can use your real phone for installs but you'll run into trouble with versions > 4. So the material and assignments should be updated to version 6 or higher to make this course worthwile.",0,0,Alex Geldens,30619560
+5871458~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1513331363560,4,0,The best way to build a good foundation for programming android applications .,0,0,Faiçel Nfaiçel,5871458
+29795762~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1513252692372,4,0,"Great for Android beginners, but have a legacy environment examples",0,0,DZIANIS KRAYEU,29795762
+29865404~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1513105528146,4,0,I wish the submission process was different. ,0,0,Nigele McCoy,29865404
+25189884~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1508711733118,4,0,"The contents are great, but sometimes the instructions of the course could be confused. However, still get some skills about android development.",0,0,牛晨骁,25189884
+20436156~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1506895968606,4,0,Great introduction to he basics.,0,0,Julian Hunter,20436156
+27336455~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1503955428067,4,0,"Great course, wish more labs were available.",0,0,Ivan Dinkov,27336455
+25686996~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1502182916080,4,0,Great course. Good overview on Android ,0,0,Marthinus Maree,25686996
+18602371~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501432510046,4,0,Excellent class with generally super clear instructions and a reasonably deep presentation. Could stand to be more freshened.,0,0,Roberto Tomás,18602371
+6177579~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1500813711730,4,0,I really like this course. I have 3+ years of android development experience. But still i would love to take this course to make may i did not missed anything. :D,0,0,MD REZA,6177579
+8144754~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1499299779469,4,0,"The material is good information. But it is very dated. I understand it is hard to keep up as Android's API update sometimes twice a year. But when an API becomes completely deprecated, the course should be updated. All in all, for $50 this course is great!!! However just be sure to also check out the new API's in your spare time.",0,0,Adrian Devezin,8144754
+11138856~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491531713935,4,0,"I learnt a lot in this class. It was always something I wanted to accomplish. I learnt that you must have a lot of memory and hard drive space on your PC to run the emulator  I also think that the new studio, Android Studio is better than Eclipse. I loved the forums because they solved most of the problems I had. I would like the instructors and mentors to answer questions in a timely manner.",0,0,Miah Jn Charles,11138856
+23952712~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1489444669242,4,0,"It's a great course, really is, but there are some weeks (4th week for instance) with a overwhelming amount of content, leaving few hours to study and even fewer to conclude the exercises.",0,0,Marlon Souza,23952712
+20265822~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1483782242414,4,0,"Thank you very much , good course , i have learnt alot of things about Android programming .",0,0,ABDELAZIZ GHANEMI,20265822
+22183547~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1482535008605,4,0,"Todo correcto, solo tuve un problema con una tarea que los test no estaban acorde a una versión de API y que no esté todo en español.",0,0,Ismael Rufián Rodríguez,22183547
+21210344~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1480342243634,4,0,"This course was great for me. I was looking for a refresher course since I had some Android experience, but due to different career path I have not used in about 4 years. It was good for me. ",0,0,Cristian Ibanez,21210344
+22053304~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1479294202265,4,0,"Muy bueno, aunque los materiales estan un poco desactualizados, sirve como guia inicial para luego tomar los otros módulos u otros cursos",0,0,Derlis Zarate,22053304
+9733647~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1476326622943,4,0,Moves too fast though,0,0,Ioannis Visvikis,9733647
+9840063~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1472891578974,4,0,Nice chose to start an Android developing life.The class is very logical and interesting. All the home works are easy to finish .I am in the part 2 of this class now.,0,0,袁雪,9840063
+2274854~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1472439807317,4,0,"  O conteúdo poderia ser revisado e atualizado, visto que a plataforma como o SDK evoluem com muita rapidez, ficando assim desatualizado.  ",0,0,Filipe Bezerra,2274854
+5877799~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1471602865369,4,0,"I give 4 stars instead 5 just because the last assignments, building an app from scratch, should me more interesting and useful",0,0,Roberto Demartino,5877799
+2084098~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1466364531186,4,0,"Great Course..! but include 10000 of practice test like 3 hour of practice tests because test will prepare you and define what is your level ,  include job focus to get job  , include hackathons .Include direct apply to companies from this course.",0,0,Kamran Ali,2084098
+120570975~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1675683705261,5,0,SDFSD,0,0,Manoranjan� Singh,120570975
+74366517~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1665395486573,5,0,G​ood,0,0,Hoang Ha,74366517
+40873260~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1595341065019,5,0,It was a great course,0,0,azeem azam,40873260
+12114598~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1589468034894,5,0,I learnt a lot from this course. The way the course is presented is excellent. Please update the course for latest version of Android,0,0,Pranita Khatri,12114598
+43185749~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1587430602457,5,0,good for starter like me,0,0,Waito,43185749
+20535015~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1585915819472,5,0,"
+High level of training, clear theoretical part gives good background, which is strengthened by practice work.
+",0,0,Virgilijus Trakas,20535015
+5395062~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1581645227187,5,0,Really good. Adam Porter is a great teacher. ,0,0,Ciarán O'Driscoll-Collins,5395062
+20059605~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1580557307964,5,0,Excellent learning track and quality content.,0,0,Kiran Maniya,20059605
+38750901~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1575732694879,5,0,good course,0,0,Mohammad Sharif Shokouhi,38750901
+29484899~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1553782670072,5,0,AWESOME,0,0,Vinod Tahelyani,29484899
+37788645~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1551362618092,5,0,Genial excelente!!!,0,0,Juan Sanz,37788645
+27713057~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1547625119059,5,0,good for android students,0,0,Swastik Rath,27713057
+29211717~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1536612516418,5,0,"I've found an excellent content about Android development, the Professor Adam Porter is amazing, so I think the improvement that i had acquired is so valuable.",0,0,Mateus Rocha Pinto,29211717
+35598684~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1534930113228,5,0,"thanks very much , your great",0,0,Tal Koren,35598684
+7806802~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1533975759019,5,0,One of the best courses ever. I highly recommend it.,0,0,Jordi Grant Esteve,7806802
+34367293~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1531829593423,5,0,"Very clear explanation
+Great style in providing information
+Amazing selection of topicsThanks",0,0,Ali Hamdan A. Asiri,34367293
+10245102~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1530126849854,5,0,"Very well explained, though content could've been updated (considering code versions to keep up with new versions of Android where Permissions are required to be accepted during running the app).",0,1,Nikola Stevanović,10245102
+27025508~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1529573831608,5,0,"excellent course! but if you're a new learner, suggest not to hurry to do the 1st or 2nd programming assignment, try to go through the course first.",0,0,Shifeng Xu,27025508
+4641073~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1527873671590,5,0,best,0,0,Sajith B S,4641073
+31955416~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1522574691264,5,0,Very good and clear explanation,0,0,Anjani Prasad,31955416
+22755517~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1520812004111,5,0,"Interactive tutorials with nice assignments, 4 hours per week is minimum necessary in order to pass this course!",0,0,Chiranjeevi Ramamurthy,22755517
+23169449~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1520068390101,5,0,"little bit slow and simple, part 2 is better, but still a must!",0,0,Jayadev Haddadi,23169449
+2219646~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1516896680659,5,0,"I took this course as a quick bootstrap into Android development.  Dr. Adam Porter provides clear, informative, step-by-step videos, which I was able to comfortably enjoy at 1.5 times speed.  (He speaks clear and slow for people who may not have English as a first language.)  I chose this course over others because I already know iOS development and have been using Java for years. I wanted a course that focused primarily on the structure of beginner Android apps and not on Java or general topics in mobile development or CS. The assignments were just what I needed to exercise my new skills and really learn Android application flow and construction. In addition, I became familiar with the Android IDE.  The only small negative is that the examples are getting old since the course uses API level 18.  However, using level 18 did not impact what I was able to learn. All the examples and labs imported with only minor issues and ran fine. Reading the detailed lab assignments provided good instructions.  I'm ready to start my first Android app now, but I still have more to learn.",0,1,Bill Bunting,2219646
+28086367~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1516555682445,5,0,I think this is the most helpful course that I have taken until now. I am not that perfect at Java but this course makes me understanding both Java and Android.Thanks a lot.,0,2,Anas Zirib,28086367
+326600~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1515600816681,5,0,Great so far. I have learned a lot about the basics of android programming in this course. The lectures are very concise and to the point.,0,0,Joseph,326600
+7242910~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1513605186275,5,0,It's excellent course.,0,0,pham minh truong,7242910
+6188706~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1513203396274,5,0,Excelente curso  para el aprendizajes de programación de dispositivos Android,0,0,Jose Munoz,6188706
+29276513~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1510582111889,5,0,good course and i learn a lot from it ,0,0,Fatma Said Salim Alrubkhi,29276513
+27239420~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1508600086020,5,0,Very interesting course and a highly recommended instructor. ,0,0,Safwan Qasem,27239420
+7417361~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1507632288656,5,0,Good introduction to Android development.,0,0,Piotr Kalinowski,7417361
+17851361~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1506283745807,5,0,Really nice for fast learning basics of Android development,0,0,Шмаров Станислав Игоревич,17851361
+27861320~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1505731695226,5,0,Very good pace.,0,0,Vikas Solegaonkar,27861320
+9935389~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1505594366230,5,0,"Thanks to Dr Adams Porter. I have always look for what I can add to my CV to quite my current jobs, with this the journey has began.",0,0,ochayi ochayi owobi,9935389
+10906508~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1505035852559,5,0,This is one of the best hands-on courses on Android. Dr. Porter explains theory with examples. Lab assignments encouraged me to research the web to formulate the solutions. Project at the end of the course makes use of all concepts taught during lectures and then some more.I will be subscribing to Part 2 of this course for sure. Many thanks to Dr. Porter and team.,0,0,Kaanu Joshi,10906508
+2468590~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1505001166055,5,0,"Great course. A little bit too difficult in some parts, but still great.",0,0,Moacir Souza,2468590
+13582515~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1504007242406,5,0,a lot of challenges ,0,0,Andrius Geciauskas,13582515
+27208088~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1503374721935,5,0,It is a really nice course to learn android development from beginning with some basic java development knowledge. ,0,0,Sumit Ray,27208088
+8467061~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1503321885231,5,0,Good job! Highly recommended,0,0,Dennis Goh,8467061
+12401081~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501517074236,5,0,"Very good, helped me a lot to understand Android Programming.",0,0,Adonis Magagnin Amarante,12401081
+5849024~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501488305986,5,0,Great,0,0,Akash Chandra Baidya,5849024
+26992374~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501486655910,5,0,great,0,0,John Zavisa,26992374
+6901651~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501167630329,5,0,Excellent teacher and excellent course. Concepts are well explained as difficulty gradually increases,0,0,Diego Victor de Jesus,6901651
+7137763~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501098128171,5,0,Awesome! The only thing I hated was that the first week of part 2 happened to be same time as the last week of this course.,0,0,Yuri Kochnev,7137763
+19037870~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501074371737,5,0,good content.. ,0,0,Gopal Jee,19037870
+784784~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501030053884,5,0,a good course...,0,0,Alejandro Gómez (aldajo92),784784
+2745681~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1501028537915,5,0,"Excellent introduction to the basics of Android programming with educational, supplementary programming projects. After completing this course, I have proceeded to take Part 2.",0,2,Matthew Woods,2745681
+19946209~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1500840921238,5,0,"I really enjoyed it, and coming from a Java programming background, the contents taught matched my abilities really well.",0,0,Beñat Galdós,19946209
+7296607~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1499420086304,5,0,Excellent Course! Learned the basics as well as advance topics.Good course to gain knowledge on android.,0,0,saket acharya,7296607
+17128416~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1499306933434,5,0,"Excelente curso. Legenda muito compreensível, excelente recomendações de materiais complementares. Ótimos vídeos com um vasto conteúdo apresentado. Além de várias tarefas complementares para aprofundar ainda mais o conhecimento.",0,0,Alex Zanon,17128416
+20519253~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1498742509920,5,0,programming assignment are challengingoverall course structure is nice,0,0,Karan Bhatia,20519253
+22196085~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1498059399032,5,0,thank you for every thing,0,0,Huriya Said Salim Saif Al-Maskari,22196085
+26621121~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1496753603492,5,0,"Um ótimo curso, gostei muito dessa didática e da forma como estimula o aluno a confirmar o aprendizado através dos exercícios.",0,0,David Flavio de Lima Menezes,26621121
+25814251~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1496194211370,5,0,"Muy bueno, excelente profesor, te enseñan muy bien, al detalle. 100% recomendado para empezar con Android.",0,0,Francisco Rene Flores Fuentes,25814251
+690381~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1496172484311,5,0,A great training course for beginners.Maybe a bit academicFor those who are not English native language - strongly recommended.,0,0,Вячеслав Бадиков,690381
+11606282~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1496093554906,5,0,Amazing course. The professor maintains a very succinct yet informative style of teaching. The assignments are pleasantly challenging. Overall it is a very good learning experience.,0,0,Mingjing Zhang,11606282
+25507010~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1493637770336,5,0,This course is very helpful for me. Thanks Professor so much !,0,0,Le Mong Thuy,25507010
+25538036~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1493621418654,5,0,I have moved from zero to building my first App for operations in my office just after week one. I advice that you go through the labs. It will cement your understanding and bring all to practical  and implementation terms. Good luck. ,0,0,Ejakhegbe Abumere,25538036
+18020205~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1493385849819,5,0,thank you,0,0,Abdelhakim EL KHOLF,18020205
+97987~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491552969728,5,0,i liked the materiel that was discussed in this course. really good !!,0,0,Said Korchi,97987
+461273~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491361663911,5,0,Excellent Course!,0,0,Phan Thành,461273
+24816246~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491316536011,5,0,Good Course,0,0,Wilson Ng,24816246
+22148921~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1491162631825,5,0,Well done for newcomers,0,0,Tomasz Kolbusz,22148921
+14333385~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1490260140677,5,0,Good introduction to Android programming.,0,0,Fabrice THIROUX,14333385
+2313910~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1489480233236,5,0,"Excellent course, excellent teacher. Enjoyed the course.",0,0,Madhav Ghatole,2313910
+24954665~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1489303147984,5,0,so nice,0,0,Jae Been Sim,24954665
+12738882~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1488825600984,5,0,Very nice and well organised. Enjoyed a lot. Thanks a lot. Very Helpful.,0,0,Vamshik B D,12738882
+10949014~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1488629203881,5,0,Cool,0,0,Штурнєв Олександр,10949014
+3137374~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1488483616850,5,0,Excellente course,0,0,Hernan Morales,3137374
+9830551~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1487870518876,5,0,"Easy to follow, good beginners' Android course without wasting time explaining how to add 2+2.",0,0,Tamas Csillag,9830551
+4002865~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1487524146153,5,0,Excellent course,0,0,Cherifi Nadir,4002865
+1399953~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1486413874715,5,0,Very high quality content and very challenging exercises. ,0,0,Marc Andreu Fernandez,1399953
+23047796~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1486082571306,5,0,"Great course, but it requires personal work to keep the pace, especially for person who are not familiar with Java development. But while challenging it is d",0,0,Thierry TROPEE,23047796
+2069225~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1485981959858,5,0,Excellent content as an introduction to Android programming. The videos are paced nicely. Assignments are designed well.,0,0,weigang zhou,2069225
+1930690~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1483483354228,5,0,"Very informative, concise course. Without prior experience in adroid I have learned a lot about android itself and android programming.",0,0,Aleksander Kosowski,1930690
+5555328~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1483098525230,5,0,Good course that goes over the material,0,0,Eran Rossmann,5555328
+11048149~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1481303153339,5,0,Very good course of basics of Android Development! Thanks a lot!,0,0,baki goal,11048149
+23083296~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1481198606928,5,0,good intro creating interest to learn,0,0,arjun,23083296
+22439811~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1481184173009,5,0,Very good and interesting course for beginning programming Mobile Applications. ,0,0,Lazar Avramović,22439811
+22437667~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1481031246180,5,0,Great course!  Good refresher on Java.,0,0,Brandon Werst,22437667
+15756385~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1480941001299,5,0,"Thank you for the course, simply and effectively!",0,0,Игорь Бондаренко,15756385
+13356495~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1479799919405,5,0,Very good course! Easy to understand and practice for new bie who beginer with Android development,0,0,Hoang Tran Thanh Tu,13356495
+21684088~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1479160250665,5,0,it is very well.,0,0,Elias Rondon,21684088
+153071~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1479030932100,5,0,Very good and easy to understand course for Android beginners.,0,0,Yuriy Ozhyrko,153071
+2080867~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1478663560723,5,0,"Makes you find a solution by thinking, not just copying course materials.",0,0,Alexander Filonenko,2080867
+3863847~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1478527009480,5,0,must for everyone who ever wants to learn android in great depth ,0,0,Waleed Zia,3863847
+51416~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1477910714149,5,0,Very good course. Very helpful. ,0,0,Yanwen Chen,51416
+20319200~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1476799171486,5,0,"Un excelente curso, 100% recomendado.",0,0,Andrea Contreras,20319200
+21302503~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1475945945352,5,0,Very useful introduction of android fundamentals!!! ,0,0,jonatan anriquez,21302503
+9705090~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1475868762624,5,0,That´s great!,0,0,Alvaro Petrovich Cid Contreras,9705090
+7952373~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1475687929820,5,0,"Learnt a lot! Very challenging and hands-on course for students with passion :)Taught with lots of examples, and equips you with a lot of resources for future use.",0,0,Sai Haritha Devarakonda,7952373
+20441259~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1475582888016,5,0,I really enjoyed this course and found it very enjoyable. The content itself is a bit old but still perfectly relevant. Looking forward to Part 2.,0,0,Daniel,20441259
+19608307~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1475232791999,5,0,"Great course, extremely useful material and on point.",0,0,Ahmed Elshafey,19608307
+1882771~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1474206564852,5,0,"In depth, but very well explained, leaving very little uncertainty. Great course, explaining the basics needed to build a solid app with (some) previous java experience!",0,0,Szymon Kazmierczak,1882771
+602868~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1473171487600,5,0,Easy to understand and the course is very well made.,0,0,Jo Se (Name Unknown),602868
+4606728~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1473139927823,5,0,Very nice content and very well explained. Examples are good too.,0,0,krishna kumar mandal,4606728
+10709037~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1473110593453,5,0,A great course to take because the useful and simple explanations made by prof. Porter. The course gives us the first steps to be android developers in a fun an simple way. Excellent Course.,0,0,David Alejandro Salazar Sarmiento,10709037
+10170147~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1472511725298,5,0,Very good Course,0,0,Pedro Luna Freire Neto,10170147
+21039661~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1471856540207,5,0,Very good course.,0,0,Максим Шилов,21039661
+9590850~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1471822683282,5,0,Outstanding course!,0,0,Philip Newby,9590850
+12479899~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1470743247776,5,0,Well structuring matherial.,0,0,Sergey Bondarenko,12479899
+9012586~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1470705057069,5,0,"Curso com excelente didática, bem elaborado, e com fácil entendimento do conteúdo!",0,0,Rudinei Felipetto,9012586
+380757~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1469814332784,5,0,"
+I found this course to be very helpful. As someone who has used graphical frameworks in the past, I found the course's pace to be just right. Ideas were explained thoroughly, from the ground up, without getting bogged down.
+",0,0,Chuck Messenger,380757
+19771937~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1469729854095,5,0,"You can really learn a lot from this course. Do give some effort on the labs, and try to understand the way the instructors want you to complete the tasks. It may be a better way to do it.Then, go on to part 2!
+
+",0,0,André Felipe de Oliveira Soeiro,19771937
+14619001~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1469050753856,5,0,Very Nice Course,0,0,Abd El Rahman Abbas,14619001
+14104810~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1468519236110,5,0,"love it)
+",0,0,Mykhailo Ivanov,14104810
+8852991~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1467188575487,5,0,"very good content.
+
+",0,0,rajesh kusuma,8852991
+8707989~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1466968376522,5,0,"A concise and informative introduction to Android. Had fun learning this course. :)
+
+",0,0,Akshay Deshmukh,8707989
+18590239~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1465561626842,5,0,Very Good Course.,0,0,Thomas,18590239
+8486193~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1464427263460,5,0,Probably the best and most useful Coursera MOOC on Android,0,0,Alberto Torin,8486193
+5732345~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1464058388799,5,0,Excellent but a little bit intense and high-required course! Like it!,0,0,Zhihang,5732345
+10908936~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1462202438231,5,0,Fantastic,0,0,Roger,10908936
+17093454~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1462055916928,5,0,Awesome course..should take!,0,0,Pratik Kamath,17093454
+9363047~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1461937552570,5,0,"Very good material, very good professor!",0,0,Federico Alejandro Garcia Calabria,9363047
+9954403~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1460828271379,5,0,A nice course for everyone who wants to start programming Android.,0,0,Renad Kaitmazov,9954403
+8254945~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1460554494900,5,0,I joined this course and after two weeks I fell behind because of my final college exam and again I re join this course. This course is superb course. After join this you will no need to go any institution for android course. Thanks University of Maryland and Professor.,0,0,Shekhar Pandey,8254945
+5880114~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1460191229386,5,0,"One of the most valuable an interesting courses I have ever joined.The contents are precise and accurate.It forces students to practice what they learned in an effective way.It's very clear from the beginning to whom this course if for. In other words, it does not claim that it target all users just to gain popularity.Objectives are very clear and honest.In conclusion, for those who meet the course requirements and search for what this course is teaching, this course is AWESOME. ",0,0,Mostafa Mohammed Kashwaa,5880114
+15091481~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1460118113840,5,0,Good,0,0,Bruno Alves Agrizzi,15091481
+17563520~COURSE!~ofcUj5MCEeWI6BJRAK7IKQ,1459760219750,5,0,very nicely explian,0,0,vijay kushwah,17563520

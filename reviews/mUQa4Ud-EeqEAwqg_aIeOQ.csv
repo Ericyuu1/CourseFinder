@@ -1,0 +1,9 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+82805856~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1658758652987,3,0,"I thought the course was addressed to either GIS experts wanting to use python and distributed computing resources or data scientists wanting to move to the geospatial domain (my case).In both cases I was expecting more focus on GIS-type analysis and data representation performed with Python in the form of notebooks with geopandas manipulation and folium visualization of geodata samples, for example.
+I understand that Hadoop plays an important role for CyberGIS (or is it still the case now that we can easily have autoscaling clusters in the cloud ?). However it's a too large topic in my opinion to be addressed in this course. I would have appreciated much more some notebooks with spatial analysis and results visualizations instead.",0,1,Francesco Tamborra,82805856
+82249382~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1631104133804,3,0,"It is so much basic. It takes a long time just in theoretical issues, and do not reach the practical ones in a good way.",0,1,Deleted Account,82249382
+39166069~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1671389505195,4,0,Course covers very exciting and modern GIS topic on integrating advanced computing infrastructure with spatial data and problems. Does not include all text/articles discussed in lectures and also fails to include the exercises.,0,0,carl zimmerman,39166069
+77541133~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1631776584991,4,0,More information could be added.,0,1,Fyeqa Akram,77541133
+80773281~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1672069860076,5,0,.,0,0,Mohamed Ismael,80773281
+97151730~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1647174477104,5,0,Very good,0,0,Shadi fadel jabari,97151730
+1686330~COURSE!~mUQa4Ud-EeqEAwqg_aIeOQ,1645312220503,5,0,"Very interesting, it goes hand in hand with cyber-geoint, which is enormous for business.",0,0,Enrique Rodriguez Leon,1686330

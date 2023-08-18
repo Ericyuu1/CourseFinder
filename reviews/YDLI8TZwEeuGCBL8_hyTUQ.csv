@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+51188653~COURSE!~YDLI8TZwEeuGCBL8_hyTUQ,1622557304129,1,0,"The Course was not what I expected, the code didn't work and I had to search in stack overflow over and over again. UNPLEASENT EXPERIENCE!!!!!",0,0,Lasal Jayawardena,51188653
+17568469~COURSE!~YDLI8TZwEeuGCBL8_hyTUQ,1621681543355,5,0,"An extended example of how to preprocess data for a CNN, and then build the CNN or use transfer learning to create an image classification model. The complete notebooks are in the project resource section - so you can concentrate on listening to the lecturer and on annotating the code.",0,0,Yaron Klein,17568469

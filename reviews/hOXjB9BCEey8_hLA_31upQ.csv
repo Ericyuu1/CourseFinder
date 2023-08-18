@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+98915774~COURSE!~hOXjB9BCEey8_hLA_31upQ,1673441321768,5,0,"This was indeed a great course! Here we learned how to get external data into react native, and how to handle it with sqlite.",0,0,Jacob Simonsen,98915774
+120053374~COURSE!~hOXjB9BCEey8_hLA_31upQ,1672813737663,5,0,Good Teaching Methodology For Beginners,0,0,Qasim Zulfiqar,120053374

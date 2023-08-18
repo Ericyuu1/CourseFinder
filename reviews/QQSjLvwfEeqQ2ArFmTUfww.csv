@@ -1,0 +1,11 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+79766451~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1620097445482,1,0,"It is a course that goes over a code project. It does not explain what it is doing and why, nor does it teach how to employ the knowledge in different contexts or with different data. It really is an ""example"" video rather than an instructional one.",0,5,Vicente Constantino Kripka,79766451
+103818808~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1675094668708,5,0,"Valuable information  about imbalanced dataset , recall and precision, SMOTE, caret package.
+",0,0,christophe poujol,103818808
+71164556~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1648309284707,5,0,good course,0,0,kuo jason1,71164556
+47574137~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1639084175440,5,0,"Great, very helpful. Made a difficult project seem easy. ",0,0,Charles Slavik,47574137
+84164653~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1617926530841,5,0,Very knowledgeable instructor.  Excellent information.,0,0,Gary Moore,84164653
+6259196~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1617820857638,5,0,Very thorough and enlightening demonstration of the classification on unbalanced data sets. ,0,0,Jason McAfee,6259196
+83723662~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1617409709056,5,0,Very intriguing course and example application.  Very informative and practical approaches to addressing imbalances in data.  Excellent instructor and great course.  ,0,1,James Banks,83723662
+71716987~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1612453359065,5,0,It is best guided project which helps to learn caret library and this helped me to increase my r programming skills ,0,0,Ramachandra Anirudh Vemulapalli,71716987
+47143482~COURSE!~QQSjLvwfEeqQ2ArFmTUfww,1605186072371,5,0,"Great course for learning data imbalance techniques and ML algorithms in R!Although I wish they would allow us to write the last 3 ggplot and data frame codes (where we had to compare the precision, recall and F1 scores through a graph) by ourselves instead of just running the pre-written codes, it was truly a wholesome experience.",0,1,RASHIKA DUTTA,47143482

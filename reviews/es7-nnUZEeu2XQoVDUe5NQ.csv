@@ -1,0 +1,2 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+40949672~COURSE!~es7-nnUZEeu2XQoVDUe5NQ,1634032931029,4,0,"G​ood with mathematical explaination of activation functions but I expected the implementation to be with Tensorflow and not with Numpy as the title said ""Tensorflow Activation Functions"".",0,0,Kevin Söderberg,40949672

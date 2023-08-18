@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+69322583~COURSE!~EyIVywsOEeqAyhJ_0dX92w,1613705846325,4,0,"Pretty decent course that goes through the crucial aspects of the tidymodels workflow. Good for anyone who wants to transition from caret to tidymodels for machine learning. This seems like a relatively new course though, so you might have to wait awhile for enough peers to review.",0,1,Glenn,69322583
+30950472~COURSE!~EyIVywsOEeqAyhJ_0dX92w,1633166243357,5,0,Well presented and clearly understandable course.,0,0,Stefan Mohr,30950472

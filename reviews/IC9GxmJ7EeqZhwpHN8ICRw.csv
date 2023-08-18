@@ -1,0 +1,140 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+86442744~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1621700373404,1,0,the instructor should have explained how to run the code in one's own pc at the end because one wants to have his hard work with himself. I did the whole course and at the end when tried to replicate in my pc . i was unable to do it . because there were lot of libraries that needed to be installed and I was getting many error in my pc. whereas I didn't get any error  in their console at the end couldn't figure out the problem and felt bad about spending my time on this project,0,0,Roshini singh,86442744
+74034804~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1602020706632,1,0,All the course is copy and page code. Don't buy it.,0,0,William Sanz Vivanco,74034804
+25040652~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1601682590149,1,0,"Very disappointed, if i can give Zero stars i would. the cloud sucks, also instructor did not give all the steps to run the project on your computer. Don't waist your money",0,0,Franck D,25040652
+14408309~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591535734954,1,0,"This is the worst course I've ever seen anywhere (and I've seen a lot),  an absolute useless waste of time and money. No explanations related to the subject whatsoever: nothing about the model architecture, hyperparameters, or even general approach. Just we use X because we use X, and more details are ""beyond the scope..."". References to Flask and OpenCV are ridiculous (imagine trying to learn a foreign language in 20 minutes). ...And this is not mentioning all the mistakes and errors from the author during the actual explanation.The ONLY thing you can practice here is typing on your keyboard.",0,0,Stanislav Molleker,14408309
+54379243~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591347623896,1,0,not for someone with no background in programming/python etc. They should have mentioned this! Disappointed,0,0,Rachita Pant,54379243
+22679034~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1589524548501,1,0,i cant use it again and finding difficulty in running the code on my system. worst course ever,0,0,Pranav Shil,22679034
+8494110~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1623906291671,2,0,The m​ajority of the questions are not answered. ,0,0,David Lin,8494110
+1383791~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599249727655,2,0,Still much to improve,0,0,Simon Sebastian Rittel,1383791
+41475004~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595227540319,2,0,Rhyme software is too much slow and it is very boaring to work on that and also font is too much small.,0,0,Keyur  Rasikbhai Senjaliya,41475004
+14140031~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595190986798,2,0,Course is a basic one. Take this project only if you are looking for a beginner level introduction into CNN with Keras. Not for people who have already done a course or has decent knowledge/hands on with CNN and Keras.,0,0,Deepak Y V,14140031
+32184506~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591304592942,2,0,"the course is not explainatory as expected.material provided is just to complete a formality of doing a project and not learning implementation.if you are an intermediate , i will recommend you to take course until and unless you know about concepts of data vizualisation, opencv, flask, basic of html,CNN using keras.",0,0,yashika Mittal,32184506
+1647659~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1589013004329,2,0,"Thanks for the content, I browsed this course to know how the instructor would deal with class imbalance problem, but he didn't handle it, and dealt with the problem as if the classes were balanced.Also I noticed when he made the validation generator, he enabled shuffling which I think is wrong as you don't want to shuffle the validation set and each epoch have a different subset of validation set to evaluate your model, you need to make to make sure that the validation set doesn't change per epoch to serve its purpose of had the model improved during this epoch?",0,1,Omar Mohamed Amin,1647659
+7132371~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1586773069563,2,0,"Interesting, but at best, I'd say it's still in beta testing. Shouldn't have been released to ""paying"" customers:1) I was never able to access the cloud notebook. Kept asking for a token or password. Incidentally, I prefer being able to run stuff locally on my computer, which brings me to (2):2) The notebooks and auxiliary files were missing the videos and the utils, further making things difficult to reproduce on one's own computer.3) The presenter makes several mistakes/typos and corrects them in real time or even later. Seriously? You can't check this stuff and re-record it without mistakes? And, is it worth really watching the presenter type the code on the fly?In conclusion, you get what you pay for. Not even worth asking for my money back.",0,0,Ali Erdengiz,7132371
+38087327~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596993255107,3,0,"This could be better, the accuracy achieved is not appreciable.Also, the user interface was bad, rhyme  cloud desktop was causing too much of lag collab could be a better option",0,0,Ayush Goyal,38087327
+30288040~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592347166573,3,0,"The content is good but the platform it still not comfortable to use. We have to code in a tiny screen, flexibility is needed. From a developer point of view, nice job Rhyme people, still work to do.",0,0,Estefania Tealdo,30288040
+29613658~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591769662245,3,0,Good one for very beginners in computer vision. Not for intermediate or advanced audience,0,0,Dunna SuryaNarayana,29613658
+38348337~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591264336486,3,0,Not enough detail,0,0,Mukul Agarwal,38348337
+44235834~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591037084566,3,0,I didn't get the dataset . Sir If You give me the proper link to download the dataset then it is very helpful for me .,0,0,Ankit Podder,44235834
+24588373~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1615923080840,4,0,well explained,0,0,daniel sac,24588373
+45257764~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599059250117,4,0,good,0,0,Nelson Raj,45257764
+67594600~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1598625102260,4,0,"Has some mistakes in the code, that could be rectified.",0,0,Satyam Ankur,67594600
+35558764~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1597875703464,4,0,The plataform has some problems to disabled block mayus,0,0,Andres Gonzalez,35558764
+45297058~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1597580845465,4,0,It's a good guided project. This project will help you to understand many things.,0,0,RAHUL BAIRWA,45297058
+27797289~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595523613936,4,0,this is an amazing guide project for beginners .,0,0,EL HOUCINE ES-SANHAJI,27797289
+61404732~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595132415381,4,0,Informative course,0,0,Moresh Mukhedkar,61404732
+54709507~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593857213599,4,0,Good course ,0,0,Sattenapally sai chandana,54709507
+59473295~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593331202942,4,0,Good for beginners.,0,0,ARAVAPALLI PRAVEEN BULLI VEERA MANIKANTA,59473295
+43518290~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592916664637,4,0,Good course for new learner's in a short time.,0,0,Padmini K,43518290
+26354803~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592827129409,4,0,The coding part can be left out for the students.,0,0,Pramay Singhvi,26354803
+62937244~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592145011475,4,0,Thank you,0,0,Matapathi Shashanka,62937244
+19481611~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592044347198,4,0,Good project for applying the concepts of CNN .,0,0,Shivam Saini,19481611
+20569325~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591987665063,4,0,"The code of the complet project is not available, over all the flash and the flow of all project",0,0,Edgar Isusquiza,20569325
+63580678~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591929398425,4,0,VERY NICE PROJECT,0,0,sanjay pal,63580678
+36605888~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591630025280,4,0,It is nice,0,0,Ankit Kumar,36605888
+62905635~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591432244158,4,0,So much to learn from this course but it was very challenging to understand and implement as a beginner.,0,0,Nirbhay Kr,62905635
+22974670~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591387312896,4,0,Loved the project and the hands-on experience. Quick response to doubts !,0,0,Harla,22974670
+40654521~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591272462102,4,0,It's very helpful to learn how to implement CNN using keras,0,0,Belcy Baby,40654521
+56737403~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1589980366189,4,0,good one. learned a lot,0,0,Md.Shamiul Islam Shifat,56737403
+36236097~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1587589515314,4,0,Nice course for those who have prior knowledge of the basics of the related topics.,0,0,Pragya Sharma ,36236097
+34538605~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1587479830610,4,0,need a bit more explanation and more projects its not enough to get on....but for beginners its the best,0,0,gajjala subash reddy,34538605
+29274244~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1586596382048,4,0,"The course in itself was good, but the rhyme interface kept wasting time by freezing either the videos or the cloud computer",0,0,Prakhar Dhakar,29274244
+121392172~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1675264385006,5,0,It is great example for coding a convolutional neural network. The explanation is excellent. ,0,0,S2023-1 ING GARCIA CASALES JOSE LUIS,121392172
+98192136~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1674998084281,5,0,eeeee,0,0,Mikołaj Naderza,98192136
+103766843~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1674050613107,5,0,Elegant and complete end-to-end project,0,0,Shadi Qulaghasi,103766843
+10582611~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1650994017689,5,0,Had fun exploring and optimizing the parameters. This project takes it to the next level while deploying to flask. Loved to work side by side. ,0,0,Nilesh Arnaiya,10582611
+40528095~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1641487255761,5,0,Thank you for providing such a wonderful course.Enjoyed working on this project thoroughly.,0,0,Shreya Srivastava,40528095
+54550005~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1613365917722,5,0,excellent!!,0,0,Trishna Niraula,54550005
+53812276~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1612733867297,5,0,Great Course. Highly recommend it to practice your machine learning skill and understanding.,0,0,Suhaimi Chan,53812276
+771535~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1611170380597,5,0,If you have appropriate prerequisites you will really enjoy this introduction.,0,0,"Ruthie D. Lyle-Cannon, PhD",771535
+78511721~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1611062968318,5,0,Thumbs Up!,0,0,Gregory Gray Jr,78511721
+63519130~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1602083647125,5,0,"This is a great hands-on project ! It is very well designed, and the instructor guides you to do it step by step. I enjoy this learning and practicing process a lot. Thank you !",0,0,Feng John,63519130
+60051616~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1601114106403,5,0,Great Instructor. Lots of things got covered in this course. Recommended.,0,0,Ragib Arefin Aaraf,60051616
+47837365~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1601016957262,5,0,I am satisfied with this course,0,0,AGUS PURNAWAN,47837365
+60844594~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1600895156776,5,0,"Very exciting project and instructor is also very good,and explained very well everything.",0,0,AARUSH KUMAR 19SCSE1120003,60844594
+24446779~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1600723296019,5,0,The explanation provided by the mentor is really good! I like the way the project was compiled. Thank you so much for your time and efforts!,0,0,Murtuza Boriwala,24446779
+64576714~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1600346609365,5,0,It was a good course. I was looking for something like this from a long time,0,0,BHAVYA VASHISHTHA,64576714
+59470791~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599995449414,5,0,The best project I have done till now,0,0,MOHAMMED KAMRANUDDIN,59470791
+48577378~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599772648597,5,0,Excellent content,0,0,Utkarsh Srivastava,48577378
+41599339~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599556333093,5,0,Interesting Project helped to gain a new skill.,0,0,Kevlin,41599339
+32486628~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1599258742081,5,0,Nice project! but the code in camera.py and the main.py file which is used to create a flask app to serve predictions should be explained in more detail.,0,0,TUSHAR SINGH,32486628
+8728769~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1598893969945,5,0,ok,0,0,Md. Ashifur Rahman,8728769
+67596502~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1598190553977,5,0,Very good,0,0,Aracatla sruthi,67596502
+59720235~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1598095973831,5,0,"A very nice project, although you need some understanding of the topic at hand before starting. Even though I did not know about deep learning before this project, I watched 3 Blue 1 Brown's first 2 videos about neural network, referred to some medium posts at Towards Data Science and read the Keras documentation when I did not understand something, and I found the project manageable.",0,1,Tee RJ,59720235
+55851485~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1597848204426,5,0,"Great, better than most of the hand-on-projects.",0,0,Rohit Roy Chowdhury,55851485
+62636713~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1597317712001,5,0,EXCELLENT,0,0,RAMKUMAR. G,62636713
+63991436~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1597107535409,5,0,Thanks coursera!,0,0,José Manuel Olmedo Martinez,63991436
+37366410~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596941582555,5,0,I really learned a lot from this project. I would like to join in more project-based courses like this.,0,0,SHIBU MEHER,37366410
+27646031~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596816941517,5,0,great jon,0,0,Noor khokhar,27646031
+54256734~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596367397233,5,0,Good project based learning,0,0,PAVITHRA BALACHANDRAN,54256734
+60260551~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596298372880,5,0,Self-sufficient if you have background knowledge,0,0,bhavesh sonwani,60260551
+10252326~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1596213513840,5,0,Good project to know the pipeline and simple deployment. however basic understanding of the machine learning terminology is needed.,0,0,Jiwan,10252326
+61391616~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595448735630,5,0,perfect tutor for this kind of interactive course. Thank you for having this.,0,0,Sandeepa Devin Kariyawasam,61391616
+24375387~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1595028250028,5,0,Great ressource to start practicing emotion recognition with famous domain's dataset FER. I also appreciate the using of web interface to display results.,0,0,Jordan Gonzalez,24375387
+41234933~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594808267746,5,0,I really enjoyed this Project ...,0,0,SHIVANGI JOSHI,41234933
+22408289~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594397492031,5,0,nice,0,0,sunil kumar,22408289
+55699126~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594349946775,5,0,EXCELLENT,0,0,Anitha Vippadapu,55699126
+55027060~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594295126705,5,0,A really good practical course if you'd like to learn how to implement a live Facial Recognition System.,0,0,Koustubh Phalak,55027060
+43029663~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594228201593,5,0,"The course was straightforward into the main idea, but seems that the VM is a bit slow",0,0,Salman Al Farisi,43029663
+59977647~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594055230093,5,0,EXCELLENT,0,0,SASI VARDHAN THOTA,59977647
+45931782~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1594006166997,5,0,Thanks,0,0,Kamlesh Chhipa,45931782
+47363583~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593983889355,5,0,Great Course Thank a Lot!!!,0,0,Kartik Kumar Srivastava,47363583
+58254080~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593975526390,5,0,nice,0,0,Anisha Viola Menezes,58254080
+43680885~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593860889027,5,0,All the concepts are well explained. The project gives a nice insight about how we can  integrate different ML frameworks to build a project and also how to deploy the model as a web app by Flask.,0,0,RUDRA PRASAD DASH,43680885
+60675224~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593522351797,5,0,Very well guided,0,0,RION L. GHOSH SVNIT,60675224
+36433238~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593401872855,5,0,This project gave me complete knowledge for implementiing the face recognition in future.This help me to built an app using FLASK.Its a good project to start with.,0,0,Shivam Ramdas Deshmukh,36433238
+33107670~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593348055545,5,0,i love the course,0,0,gaurav kalota,33107670
+63802059~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593329212772,5,0,good,0,0,PREETHI G,63802059
+61463319~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1593178023384,5,0,It was a useful and practical demonstration of CNN application on human expressions. Kudos. ,0,0,Ling Zhi Peng,61463319
+48209413~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592717129700,5,0,hands on project is awesome,0,0,Ritika savita,48209413
+62707280~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592625642373,5,0,Great,0,0,Uppalapati. Sai Sowmya,62707280
+62498054~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592444688918,5,0,Nice,0,0,p sandhya,62498054
+60422034~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592424609943,5,0,Excellent project and excellent delivery.Instructor has been fantastic.,0,0,Ravi Paul Bansal,60422034
+36086599~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592412552786,5,0,It was great.,0,0,Sharmin  Sultana,36086599
+52685494~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592359116064,5,0,Best course for learning how to human emotions recognize using keras. Thank you very much. ,0,0,Ranushka Lakmal Sankalpa,52685494
+62996789~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592297003004,5,0,Very Good for a person who is starting Machine Learning/Deep Learning. Seeing your project into action gives you motivation.,0,0,Tarek Al Zihad,62996789
+18818271~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592094691764,5,0,Very good!,0,0,Yu-Chen Lu,18818271
+62401342~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592068374276,5,0,very useful course,0,0,Gangone Riha,62401342
+62517980~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1592058490829,5,0,good ,0,0,tale preethi,62517980
+34148189~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591989248837,5,0,"Very easy to follow and the instructor was very informative throughout the project. As a beginner myself, it was easy for me to follow along and understand the project",0,0,Gayathri Pulagam,34148189
+62486234~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591887684035,5,0,Excellent,0,0,Saliganti Anusha,62486234
+62240185~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591869513886,5,0,nice,0,0,Vajinepalli suma sri,62240185
+59490100~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591711962317,5,0,Good,0,0,SIVAGURU M SIT,59490100
+50024212~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591685844883,5,0,This project is good but I don't understand about to download the material what I have done,0,0,Aastha Agarwal,50024212
+60565597~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591684024785,5,0,The course was so amazing.I learned alot from this course and all things are really well-explained by our instructor.,0,0,PRIYANKA NIGAM,60565597
+28973946~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591621570960,5,0,these type of guided projects boosts the interest in certain skill.,0,0,Satheesh gajula,28973946
+54914461~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591620851736,5,0,EXCELLENT HANDS ON SESSION,0,0,lakshika pareek,54914461
+33636166~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591618137504,5,0,Awesome,0,0,Rifat Rahman,33636166
+59108101~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591592746026,5,0,"its a good course to know about ""Reading between Lines""",0,0,MRS. HELEN ROSELIN GRACY.S,59108101
+59471753~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591408981482,5,0,very interesting,0,0,JAYANTHI V SIT,59471753
+62337020~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591376111989,5,0,Very useful,0,0,sarithanakkala,62337020
+44244432~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591328918685,5,0,This guided project is Great !,0,0,JH BRO,44244432
+62021169~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591300803821,5,0,Great experience. ,0,0,ANKIT AGARWALLA,62021169
+62691579~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591287663442,5,0,i just loved it,0,0,SANJANA REDDY JADA,62691579
+3323888~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591214695844,5,0,"It was fun to read and learn form this course. I am very happy with the infra that was provided in this course - it was very smooth experience.Also, kudos to the instructor for having a very precise even pace all throughout and teaching a very useful thing, and i hope i will build further on it.",0,1,Ashok Tripathi,3323888
+55482940~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591195577233,5,0,Awesome experience,0,0,KAZI ZUNNUN AHMED,55482940
+60898616~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591169962730,5,0,good,0,0,vivek dayanand chavan,60898616
+59575442~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591113357905,5,0,Good course. ,0,0,Md Polash Ali,59575442
+40553240~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591105482760,5,0,"A very good course on how
+to put on theoretical knowledge into actual world.",0,0,Dr.Kranti Zakde,40553240
+34832361~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591104142349,5,0,Facial Expression Recognition with Keras for projects  ,0,0,Abhishek Prakash Gavali,34832361
+16870058~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591064982794,5,0,perfect course for beginners. step by step explanation makes it easier for learners.,0,0,Akib Jayed Islam,16870058
+50795797~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591053132551,5,0,Amazing start with having such types of the project by Coursera.There is a lot to learnThis method of Teaching + Practical work simultaneously-----Amazing,0,0,AVINASH KUMAR YADAV,50795797
+40609070~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1591023137818,5,0,A great to put your skills under a project,0,0,Deepak Velmurugan,40609070
+28086375~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590840382291,5,0,"Amazing Course as it provides learners, a facility of infrastructure as well as practise.Great Experience, i learned a lot. !!!",0,0,Sumit Kumawat,28086375
+60283634~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590783869109,5,0,It is really good and easy to understand.,0,0,Deepanshu Malhotra,60283634
+50354402~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590777251983,5,0,"very good lesson , learnt very well ",0,0,Ashutosh Kumar Sah,50354402
+31219045~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590763774531,5,0,Great course! It is fully on practical way! Virtual desktop is easy to use.,0,0,Ákos Kovács,31219045
+54233368~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590762933987,5,0,"GREAT EXPERIENCE, LEARNING BY DOING PROJECT - ONLINE TRAINING!",0,0,LEELAVATHY N,54233368
+46608914~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590745240383,5,0,It's a very good hand's on course,0,0,Ashutosh Pandey,46608914
+59089627~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590304965530,5,0,Nice,0,0,GURUSUBRAMANI. S,59089627
+58598397~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590253882666,5,0,"Learned a lot of new things. Instructor also explained deeply every thing. Overall, a comprehensive course of FER.",0,0,Faizan Atif Butt FastNU,58598397
+61375159~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590076335820,5,0,A really good course on how to apply theoretical knowledge into real world.Course instructor was great!,0,0,Adarsh Srivastav,61375159
+59089895~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1590074196210,5,0,GAINED KNOWLEDGE ABOUT FACIAL RECOGNITION,0,0,MRS. SANGEERANI DEVI A,59089895
+42291932~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1589806947465,5,0,Exceptional way to guide.,0,0,Neeraj Saini,42291932
+33351294~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1589543514874,5,0,Good project for those who previously have an idea about CNN.,0,0,Shaswata Das,33351294
+58556931~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1588323264085,5,0,nice classification project,0,0,Hamza Ali Imran,58556931
+53584672~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1588266726314,5,0,very good,0,0,Raman Singh,53584672
+57866798~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1587750747395,5,0,Quite Tough but its absolutely perfect,0,0,Anisetti Sai Kumar,57866798
+52443477~COURSE!~IC9GxmJ7EeqZhwpHN8ICRw,1586461488713,5,0,very useful,0,0,Partheepan,52443477

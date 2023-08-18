@@ -1,0 +1,33 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+74425275~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1665626812510,3,0,first course = issue with the environnement,0,0,Fabrice MULOTTI,74425275
+59525265~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1664480196374,3,0,B​asic contents,0,0,Dan William,59525265
+47637346~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1675778136434,4,0,"A bit outdated, but good for starters. Not needed for anyone who is already using docker, as this really is an essentials short course.",0,0,Oliver Rudolph,47637346
+100235256~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1644862501001,4,0,Relevant course material and instrucion set for beginner level. ,0,0,Diptayan Datta,100235256
+89711519~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1628090084515,4,0,"Great introduction to Docker and how it can facilitate you to build a containerized web application. A little short on the theoretical side, but great practical value. ",0,0,Vince Demortier,89711519
+23414252~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1615041606578,4,0,"Overall, very well explained. However, I faced a lot of issues in the first video itself. Kindly have a relook on the suggested steps and also solutions for some common problems like ubuntu upgrade. Please also correct the resource link ",0,0,Gaurav Gupta,23414252
+227561~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1612653837180,4,0,It is an overview but I would have liked to see a small software project in detail.,0,1,Karl Stroetmann,227561
+47499286~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1611646182143,4,0,static:Website is NOT getting launched for practice.,0,0,Devendrababu Inturi,47499286
+80090961~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1611526957354,4,0,Nice course for beginners of docker basics,0,0,Dhula Kachare,80090961
+71132157~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1603905994898,4,0,Thanks for education,0,2,Adam Knight,71132157
+90752786~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1672343042903,5,0,Excellent and easy to do guided project in parallel,0,0,Manimaran K,90752786
+110451189~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1670303556237,5,0,good,0,0,Swetasunandita Nayak,110451189
+110883461~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1658364795649,5,0,"N​ice and short. You'll need to debug a tiny bit to make it work, but expected in the field.",0,0,Nicolas Corthorn,110883461
+36899032~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1648766262414,5,0,Good course.,0,0,Fernando Mestre,36899032
+81062227~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1634720585724,5,0,Great course to learn docker. Thanks Prasanjit to teach docker in very simple and easy way.,0,0,Shailesh Singh,81062227
+73773180~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1630930767720,5,0,good,0,0,Palaniappan Annamalai,73773180
+84863483~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1622369742072,5,0,Nice introduction and implementation examples. Although there's a little problem when installing docker. I need to apt update and upgrade first,0,0,Richard Dwi Olympus Augustinus,84863483
+83996612~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1620473457614,5,0,Great,0,0,Amol Chandrashekhar Patwardhan,83996612
+84125229~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1617877008274,5,0,"This is an excellent, well-balanced beginner course to docker, and is far more useful and informative than some other docker beginner courses I can think of. The instructor was very clear and explained everything very well. The only minor comment I have is that he should have emphasized that the docker run command will automatically perform a pull if the image is not already loaded, so you can either pull and then run, or just directly run, and the result will be the same. ",0,0,COWARD ROBERT ANTONY,84125229
+70472143~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1617187214424,5,0,Nice,0,0,Dmitriy,70472143
+64374708~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1614234258053,5,0,Very Helpful for beginners,0,0,Anurag Sanagapalli,64374708
+24849405~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1612573519980,5,0,"Great course for those who have no idea of what docker is, it literally teaches the essentials",0,0,Mateus Simas Hadlich,24849405
+67208675~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1611064470722,5,0,Great course!,0,0,Julio Heitor Silva Nóbrega,67208675
+3072181~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1610655797196,5,0,Ideal course to have a first look on docker.,0,0,Alejandro Caputto,3072181
+54675622~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1609583879319,5,0,Good,0,0,Gaveen Ranabahu,54675622
+42843209~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1609529222516,5,0,Simply amazing !,0,0,Ansari Youssef,42843209
+67637245~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1609527421973,5,0,All topics were covered completely through learn-and-do methdology. Receive my appreciation for perfectly made guided project!,0,0,Sam,67637245
+69499622~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1603670267577,5,0,"""sudo apt-get install"" to install docker. Good course, but fairly short.",0,2,Robert Sandiford,69499622
+70715626~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1602946413669,5,0,Very informative.,0,2,Shipra Shilpi,70715626
+62193737~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1602364414056,5,0,The course was very dinamic and like much. Thanks!,0,2,NICOLAS DAVID PASTRAN ZAMORA,62193737
+37066307~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1602097806919,5,0,a well done guided project ,0,2,Nadhir,37066307
+39241777~COURSE!~TDRT6No5EeqYvRK-OhoMLQ,1600555808772,5,0,"This is a very good start point course. It delivers what is promoted and walks the participant through the woods, testing the commands and explaining each line. Highly recommended as your first course to learn about Dockers.",0,3,Victor David Ramirez Luna,39241777

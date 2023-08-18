@@ -1,0 +1,9 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+65632288~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1593955248752,4,0,Good to knowledge,0,0,gowthaman,65632288
+787527~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1606385592459,5,0,Superb. Answers to a real need !,0,0,olivier croissant,787527
+66100831~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1596397570786,5,0,Good explanation based upon in class to show how we can use keras,0,0,Anderson José Silva de Oliveira,66100831
+45931782~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1593644581523,5,0,thanks,0,0,Kamlesh Chhipa,45931782
+62517980~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1593359768277,5,0,good ,0,0,tale preethi,62517980
+62498054~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1592977598494,5,0,Nice,0,0,p sandhya,62498054
+58548306~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1592152035757,5,0,Thank you very much ,0,0,Doss D,58548306
+28842503~COURSE!~G4EHx1eBEeq4PAotb3Mojw,1588520911652,5,0,"You learn how to update learning rate and plot validation and train accuracy dynamically in jupyter notebook. This is a very targeted course so if you don't know how to train ML models on keras or don't know ML at all this course is not for you.The code needs to be slightly modified for newer version of keras and tensorflow but works perfectly in the Rhyme VM. Thanks for the code template, I can easily incorporate this bit in my future ML projects. ",0,0,Atulya Kumar,28842503

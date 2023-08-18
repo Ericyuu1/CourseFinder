@@ -1,0 +1,43 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+88012560~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1644418243294,2,0,Not as relevant and updated anymore.,0,1,Nejc Feguš,88012560
+38065272~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1612974746884,2,0,The project doesn't have the correct version of the chrome driver. So an exception is always thrown in Eclipse IDE.,0,4,Комаров Владислав Михайлович ,38065272
+3633268~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1637376823549,3,0,"The google chrome driver in the exercises needs to be updated, it throws errors and the tests get skipped.  The content of the course is good.",0,0,sonali,3633268
+30988216~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1612169092483,3,0,"Setup was missing required driver, therefore none of the written code got executed as expected",0,0,Mahua Mukherjee,30988216
+74538198~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1603814690181,3,0,Good Course,0,0,Kim Toledo,74538198
+50008581~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1602632852959,3,0,Overall the course was good for beginners with some knowledge on the selenium knowledge. Would have been better if there was more explanation done on the TestNG priority settings of the methods and how they can be avoided to get looped execution. Good explanation on finding xPath for the  webelements.User working window had poor resolution.,0,0,Suma P Chinnikatti,50008581
+60516495~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1597101221758,3,0,"The course itself (or project) is actually pretty cool and lets you understand more about automation in tests. But the platform is horrible. It's slow, hard to view the local machine and video at the same time, and also very buggy. ",0,2,Alexa Brito,60516495
+66945662~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1596698148291,3,0,I WOULD LIKE TO PRACTICE MORE ON THIS TOPIC .THANKS FOR THE EXCELLENT GUIDELINES YOU PROVIDED,0,0,Rintu Harries,66945662
+106752827~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1655135012858,4,0,I do like the cloud workspace and writing the code along with the instructor however the chromedriver.exe that is on the workspace does not match the version of chrome being used so it will not execute the tests the same way as the instructor is. It will fail if there is not a newer chromedriver.exe installed to match the chrome browser version.,0,0,Kevin Granville,106752827
+92638086~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1635447033607,4,0,overall a good course for beginner,0,0,Vishakha Vijay Toggi,92638086
+78780338~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1622720294633,4,0,It is good information and useful,0,0,Pallavi .,78780338
+73466837~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1615995206280,4,0,it is really a good course ,0,0,Swathi Talari,73466837
+66512567~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1595512982250,4,0,Overall good course.,0,0,Meelis Somelar,66512567
+32911784~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1595006971055,4,0,very basic and easy to get it...didn't take much time!!!!,0,0,Vinay Teja Bhende,32911784
+118290987~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1674979033756,5,0,nice course,0,0,Chanchal Sunil Bhosale,118290987
+114473242~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1668505823060,5,0,"Excellent Course for a beginner.I personally would definitely recommend this course to everyone, those who are new to Selenium and have good knowledge of Java.Project Network by Coursera is definitely the best platform, as we can sit and learn practically. We get hands-on training here.A big thanks to Coursera.",0,0,Amod Avinash Phalke,114473242
+90476178~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1661834432789,5,0,wonderful course,0,0,Pankaj Kumar,90476178
+103858123~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1658474789507,5,0,good,0,0,Beeram Srilakshmi Srilakshmi,103858123
+96454059~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1658401902122,5,0,good course,0,0,Nikhil Chowdary Pamidi,96454059
+106594598~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1654056320908,5,0,All good,0,0,Bhagyashree Chhualsingh,106594598
+68170764~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1651484287489,5,0,good,0,0,Naga Jyothi Nandipati,68170764
+95792084~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1650732916491,5,0,Excellent,0,0,Aditi Rashmi,95792084
+5440316~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1647206662378,5,0,Great experience work on this project.,0,0,Beus,5440316
+97304866~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1645008555642,5,0,very good and help full,0,0,Hemanth A P,97304866
+100779369~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1643997128074,5,0,Very informative session with easy undersating of basic concepts by Instructor. ,0,0,Ushmaben Mehta,100779369
+33301170~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1630384692195,5,0,B​ueno! y repido,0,0,Mauricio Moreno,33301170
+71894368~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1628823814825,5,0,Well designed course for learning the basics of the Selenium WebDriver,0,0,Deepak Kumar,71894368
+33069644~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1625569152839,5,0,loved it!,0,0,Mphonyane Motsoene,33069644
+13948103~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1620203455899,5,0,It was very useful course. Thank youu!!,0,0,Mert Koldamca,13948103
+83805506~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1619939501202,5,0,dffdfd,0,0,Tanzeb Shaikh,83805506
+67526211~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1619450985032,5,0,Excellent Cousre,0,0,Priya Thakur,67526211
+72888913~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1617951195713,5,0,good course.,0,0,Dilan nadeesha,72888913
+77851785~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1611523827232,5,0,It was great course with a great instructor. Detailed explanation and practicing slenium testing. Thanks to everybody who made the opportunity for me to take this course. ,0,0,Ziya Mammadov,77851785
+74850352~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1606253243280,5,0,"i like it , directly tells you what to do to start testing today!!!",0,0,Habib Antoine Moutran Barroso,74850352
+73608190~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1604552925624,5,0,Very good course for creating scripts,0,0,Jim Mack,73608190
+74605821~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1604318533695,5,0,  Very clear and detailed explanation by the instructor.,0,0,Reina Mariela Ibardolasa,74605821
+67032739~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1603804972091,5,0,excellent course for gain knowledge for start your career path,0,0,Vaishnavi pandiyan,67032739
+5094507~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1602010284866,5,0,Great introduction to learn Selenium using Java & Eclipse!,0,0,Javier Sorella,5094507
+56374677~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1598632613577,5,0,Very Good curse ever seen,0,0,Ketan Shantaram Patil,56374677
+61901784~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1595440693081,5,0,very good project to understand the very basics of selenium with java,0,0,Madhur Agrawal,61901784
+48209413~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1595417274496,5,0,A good course for beginners to understand the basic of selenium. ,0,0,Ritika savita,48209413
+62603490~COURSE!~tLoyCL4lEeq8_w5yEZMREw,1594745301004,5,0,"awesome instructor! clearly explanation and teaching for step by stepThis project is very useful for me.greate for learner who havn't create automated script before.Please release other project network about automated test, the topic is barely found in Courser project network. so I am waiting to learn with you again.",0,0,Walailak Phusarn,62603490

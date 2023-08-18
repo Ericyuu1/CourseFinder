@@ -1,0 +1,12 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+105370157~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1669726733244,1,0,Can't unenroll,0,0,Account,105370157
+108597971~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1663165254695,1,0,"The inference part of the code doesn't work. The instructor doesn't respond to queries in the discussion forum either. After spending the whole time, I realised that it didn't work. Disappointed.
+""​AttributeError: module 'helper' has no attribute 'show_image' "" (I tried installing the modules, but it is still not working).",0,2,Karthik K,108597971
+110012468~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1658037441468,1,0,As a course it didnot explain professionally.  ,0,0,Mohammed Al-soswa,110012468
+104657351~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1648908860508,2,0,good,0,0,vaghani ruchi devendrabhai,104657351
+77767966~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1672331022333,3,0,code was facing error,0,0,Aarti,77767966
+97917879~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1659009774152,3,0,.,0,0,Abdelkader Miladi,97917879
+1760042~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1649004366361,3,0,"it is too much step by step follow. it does not explain the why about what is happening within the project.being said that, it is good for just getting started.",0,0,Halil Uysal,1760042
+68238917~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1672441046622,4,0,hello,0,0,CHRISTOPHER WILLIAM SANCHEZ RODRIGUEZ,68238917
+63376624~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1637509131848,4,0,"Pretty good overall. Some work needed with this projects to make them easier to debug, such as making source code available with a diff tool so people can more easily pick out stupid types.Because this is python, not cpp or java or similar, it can actually be pretty hard to catch a lot of typos, due to lack of compile time checks, scope control, and abundance of global variables.",0,0,Shane Murray,63376624
+27149047~COURSE!~04kQ_is8EeyavRI3rIvGvQ,1645452528384,5,0,Great instructor and very practical hands-on approach. I would prefer more explanation on other encoder and weight presets as that will be important for transferring the knowledge learned here!,0,0,Ye Yuan,27149047

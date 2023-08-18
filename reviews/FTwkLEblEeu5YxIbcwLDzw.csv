@@ -1,0 +1,4 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+7102334~COURSE!~FTwkLEblEeu5YxIbcwLDzw,1610531796454,1,0,Very poor course!,0,0,Paul John Hicks,7102334
+79213291~COURSE!~FTwkLEblEeu5YxIbcwLDzw,1636114517034,5,0,Good experience that course and i will learn lots of things about mysql and sql.,0,0,RajKumar Gahane ,79213291
+7572921~COURSE!~FTwkLEblEeu5YxIbcwLDzw,1610817696807,5,0,"The course is great and this is my first guided project. I will definetely try other projects. At the same time, this course was a very good demostration of mysql but it was too basic, I think. I would like to have similar course but for 3-4 hours more with more examples and more difficult situations (for example, many data types hadn't been shown and we didn't worked with 3 or more table at the same time with joins). But the course is great for me as a begginer. ",0,0,Dmytro Diachkov,7572921

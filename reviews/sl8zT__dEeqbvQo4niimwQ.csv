@@ -1,0 +1,16 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+1458323~COURSE!~sl8zT__dEeqbvQo4niimwQ,1662942466190,1,0,N​ever could complete the project. The kernel never started.,0,0,Ashwin Pingali,1458323
+7841632~COURSE!~sl8zT__dEeqbvQo4niimwQ,1639303619863,2,0,"The content itself is quite good, as newcomer to Julia, I learnt new things. Hovewer I was experiecing many technical issues with videos which required me to close my browser and re-run the class again (simple page reload did not work). Hence only 2 stars.",0,0,Tomas,7841632
+13470302~COURSE!~sl8zT__dEeqbvQo4niimwQ,1622482337381,2,0,"M​ethods used are not explained. Deprecation warnings with a simple instruction are not followed. Code is hard to read (no spaces between args, etc.).",0,1,F S,13470302
+1109041~COURSE!~sl8zT__dEeqbvQo4niimwQ,1607299409650,2,0,"The online tool didn't work at first, then I ran out of the limited time alloted to me so I had to do the exercises on my own computer. Some of the ""correct"" quiz answers are not actually correct. The section on ""joins"" shows four different types of joins, but due to datasets used all four produced the same output - not ideal for learning the differences.",0,2,Paul O'Donnell,1109041
+88873881~COURSE!~sl8zT__dEeqbvQo4niimwQ,1627471543861,4,0,i like the content flow,0,0,Priyanka Sethi,88873881
+72856310~COURSE!~sl8zT__dEeqbvQo4niimwQ,1604891081197,4,0,"Good exposition, but I didn't understand how to use the tool. Thank you!!!",0,1,RITA AZAHAR HAMDEN VILLALOBOS,72856310
+77351735~COURSE!~sl8zT__dEeqbvQo4niimwQ,1630089461914,5,0,This is a very good introductory course to understand the Data Science capabilities of Julia packages.,0,0,Madhavi Paruchuri,77351735
+44887685~COURSE!~sl8zT__dEeqbvQo4niimwQ,1621812048400,5,0,Very good for beginners,0,0,Anuva Math,44887685
+34768860~COURSE!~sl8zT__dEeqbvQo4niimwQ,1617481837811,5,0,Perfect!,0,0,Pris A.,34768860
+74970019~COURSE!~sl8zT__dEeqbvQo4niimwQ,1608452731370,5,0,Thank you so much!,0,0,Analyn Beck,74970019
+75025678~COURSE!~sl8zT__dEeqbvQo4niimwQ,1607773898530,5,0,Very fun and helpful,0,0,Hadi Kheder,75025678
+75299492~COURSE!~sl8zT__dEeqbvQo4niimwQ,1605711836212,5,0,Very helpful.,0,0,Paul Dustin Bellen Dimaculangan,75299492
+68804971~COURSE!~sl8zT__dEeqbvQo4niimwQ,1604806649486,5,0,"es un gran project para aprende de manera rapida y sencilla sobre Julia, así mismo explica algunos conceptos basicos de la ciencia de datos y como se realizan con Julia",0,0,manuela montes,68804971
+60026202~COURSE!~sl8zT__dEeqbvQo4niimwQ,1602825102949,5,0,Excellent project.,0,0,Hugo Ricardo Tapia Garza,60026202
+16689769~COURSE!~sl8zT__dEeqbvQo4niimwQ,1601851771160,5,0,Very handson course. With some knowledge in DScience it was easy to learn about the characteristics of why Julia is beign used.,0,1,Julio Sanchez,16689769

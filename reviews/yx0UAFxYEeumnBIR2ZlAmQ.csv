@@ -1,0 +1,62 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+83624809~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1669200212512,1,0,"I do not recomment this course because it is truly not worth spending money on it. The way the course is structured is extremely basic, contains mistakes (it seems as if it has not been reviewed before posting it), uses a platform which is not really user friendly, but, most importantly, the same knowledge can be aquired FOR FREE by watching any kind of tutorial on the internet or having a quick look at the basic documentation for NumPy and Pandas. ",0,0,Amanda Bello,83624809
+8388403~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1654180705858,1,0,At task 10 out of 12 my workspace has been unassigned to me and I couldn't use it anymore. I was only able to watch videos without the ability to practice,0,3,Olga Katz,8388403
+88648549~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1651528219613,1,0,"I am typing character for character the Instructor is and I'm getting tracebacks repeatedly.
+
+Something is wrong here. I'm not learning I'm slowly troubleshooting.",0,0,Joshua,88648549
+80249261~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1647592601233,1,0,I can't redo the video course,0,0,Cristian Monti,80249261
+10400300~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1623271989357,1,0,"Sorry. I have really tried to do my best to go through the project, since I appreciate the efforts of the instructor. He really tries to do a good job introducing a complicated topic in as simple fashion as possible. But...
+
+I have managed to finish just 3 steps of... how many? 12? Why so? Stay tuned guys (c)
+
+At step 1, I have noticed that the instructor does not follow the PEP8 guidelines in the code formatting. Ok, we'll live with this (even though it is stated that basic Python knowledge is required for the project. and PEP8 is among the first topics to be introduced...) I am not an expert in Python, just trying it as hobby, but even I see that the spacing in the code is ugly.
+
+In step 2 (mini-challenge) - the task says to generate the random numbers starting at 0, yet the answer given by the instructor puts 1 instead of 0. Well, the idea is still understandable, let us go on and excuse this glitch (this is not a typo, since it is also being said). 
+By the way, ""the basic knowledge of Python is required"" - why not show here how to treat incorrect/erroneous user input? Would be just elegant, in my view. 
+
+Then, in step 3 the instructor uses ""sum"" as a variable name. What the hell is this? Even the IDE showed in color that something strange was going on... By the way, the sum function should have been used just a few lines later (but it was not used - see the next item) - I am excited to see how surprised the instructor would be by the traceback to appear.
+
+Finally, in mini challenge 3 the ""distance between two vectors"" is calculated as the square root of element-wise sum of the vectors squared. Uffffff... Just before this task the instructor has encouraged us to go google what is the distance. I would love to see the definition which he has finally used for the 'official solution'. Basically this means that a distance between two vectors is a vector (???), and if the vectors are equal, the distance in nonzero (???).
+
+Sorry again, but I have had to stop at this point. At the end, this guided project is paid for - do I pay for killing my brain? 
+
+Ah, and by the way, having passed 3 steps of 12 with the instructor, I have managed to answer the final quiz questions using a single attempt and about 3 minutes. Nope, I am not a pro - just yesterday I installed pandas and numpy on my PC. So, even the final quiz is so poorly planned that it required nothing from the guided project to cope with it.
+
+Once again, thank you for the attempt, but so far I would grade it with negative mark if it is possible. Hope this can be corrected - or otherwise I personally find this project unacceptable, and Coursera just loses its face by allowing it in without proper testing.",0,16,Evgeny Karpushkin,10400300
+76161966~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1642987139855,2,0,"It wouldn't work. I would input data, same as the instructional video and the code wouldn't run. ",0,0,Kari Berrey,76161966
+94517165~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1660470106799,3,0,"The course is really good and its crisply desgined. Once we have completed the project, why cannot we have access to the project for lifetime ? Why do we have to pay each and every time to review the already submitted assignment ? ",0,0,Abhishek Pattjoshi,94517165
+102717661~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1646113406235,3,0,ts ,0,0,PUSHPAK JANGELA,102717661
+26213153~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1631620859308,3,0,Good way to be introduced to pandas,0,1,Karan Sunil,26213153
+97297627~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1645940640821,4,0,it is really good experience.,0,0,Sourabh Sahu,97297627
+14824332~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1644533361244,4,0, good fundamental course,0,0,Long Cheng,14824332
+94607968~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1642409589812,4,0,good,0,0,Anilkumar,94607968
+91267988~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1630143463860,4,0,Just the right course to begin learning about Numpy arrays & Pandas,0,1,Vibhor Lohani,91267988
+114893310~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1675272308065,5,0,excellent platform for enthusiastic staters. ,0,0,SAMA MANASWINI,114893310
+115062653~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1671623065391,5,0,.,0,0,Chirag Khandelwal,115062653
+77240167~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1670949450021,5,0,..,0,0,tetala sahithya 122010305059,77240167
+33031812~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1668900328635,5,0,Thank for your time ,0,0,Antonio Beltran,33031812
+97754600~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1668620600011,5,0,supb,0,0,MCA_3_B_22_Ashish Thakar,97754600
+90333725~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1667364744343,5,0,Good,0,0,SRINIVAS SUNKARA,90333725
+114547366~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1663172780473,5,0,g​ood,0,0,2111CS020526 - NIMMA SINDHU,114547366
+90395924~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1655275036924,5,0,"This project was very useful in getting skilled at using pandas and numpy throuh hands on learning. The instructor explained everything clearly and the coding platform is glitch-free. Even if you have base level understanding in python , you can go ahead with this course. Will totally recommend this !  ",0,0,George Joseph,90395924
+84047977~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1654138254419,5,0,Muy bueno reforce muchas cosas ,0,0,Rolando Medina,84047977
+106207575~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1651604588911,5,0,​easy to learn in it,0,0,RAMKUMAR. M,106207575
+67698338~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1649686202544,5,0,You will gwt to learn so many new things.,0,0,Anushka B,67698338
+95957245~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1648394173450,5,0,Good,0,0,Gokilavani,95957245
+55328995~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1644092102292,5,0,It was very good especially for a person like me with no prior experience in Python Libraries,0,0,Tania Gerari,55328995
+61874046~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1638424105806,5,0,very useful and helpful,0,0,vaibhavi mahajan,61874046
+85999403~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1633329420974,5,0,Great for beginners!,0,0,Suparat Sukpradit,85999403
+14103918~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1631116126833,5,0,"nice course, only one point I have somme pbm to work on the coursera idle, so I do all the needed task on my own jupyter idle. But nice course, and nice teacher",0,0,Dominique Cancel,14103918
+91133047~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1630415115164,5,0,Very effective!,0,0,Fabio Pinna,91133047
+37564853~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1628389006175,5,0,Great explanations. Great work environment. I have had sections on Numpy and Pandas in Python classes. But I learned more in this class than all the others combined.  A great experience.,0,0,Lorraine Magrath,37564853
+84458328~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1627627396714,5,0,Was very good!,0,0,Georgi Smilyanov,84458328
+40919890~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1627437659927,5,0,Good Guided Project,0,0,goodtomforever,40919890
+8569163~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1627322607883,5,0,"Thank you! I've got stuck in Pandas and NumPy for some time, but this course helps me a lot.",0,0,Mundhir AbdulRahman,8569163
+42192410~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1626359909744,5,0,Ryan is awesome. Thank You very much for explaining every steps! Look forward to more advanced ML projects from Ryan.,0,0,Sujit Kumar Kandar,42192410
+48757538~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1624466877165,5,0,Amazing to understand basic concepts,0,0,Anubhav krishna,48757538
+84433329~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1624440709555,5,0,I've doe a few Python specialisations on COursera but this was only my second guided project. This was excellent and way better than the other guided project. The instructor was excellent and the material covered would have almost endless applications an a wide variety of fields. Thank you!,0,0,Wayne Katz,84433329
+83042708~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1623380784599,5,0,"Good Project, I like the inclusion of the tasks hat allowed us to try out the things we learned. The only thing I would change is for the instructor to have gone more into the reason behind the fucntions used as well as the syntax. Good Project",0,0,Samantha Menyah,83042708
+52735732~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1621792530938,5,0,Great to start learning. Great price/quality!,0,0,Mario Carceller del Arco,52735732
+67106801~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1619629121813,5,0,Great introduction! ,0,0,Marc Larock,67106801
+82789058~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1618398991548,5,0,very nice,0,0,JAGANNADHAM DULIPALA,82789058
+37793486~COURSE!~yx0UAFxYEeumnBIR2ZlAmQ,1614002409384,5,0,One of the best projects I've done on Coursera. A MUST COMPLETE for anyone getting started with python! If you did this project three times over a few days you would have enough skills to start working on your own datasets.,0,1,Nicholas Shaffer,37793486

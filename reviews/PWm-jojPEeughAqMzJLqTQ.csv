@@ -1,0 +1,7 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+8090466~COURSE!~PWm-jojPEeughAqMzJLqTQ,1638122973051,1,0,"The material didn't work, the workspace was stuck after 3 seconds of video :( ",0,0,Ana Isabel ,8090466
+40253877~COURSE!~PWm-jojPEeughAqMzJLqTQ,1623223777172,2,0," Some useful discussion and a bit of example use of seaborn, but overall explained little. Descriptions of pitfalls were lacking, mostly either:
+1) not well-motivated: ""don't make these specific assumption about predicting growth or quality of life in cities"" or
+2) lacking solution: ""if you know two things are not causally related, don't trust correlation""
+
+Much of the video showed (slow) typing of code without explaining what it did or why",0,0,Ran Brynn Reiff,40253877

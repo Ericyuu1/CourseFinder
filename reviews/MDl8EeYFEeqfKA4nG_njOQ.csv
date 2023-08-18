@@ -1,0 +1,13 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+3010219~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1655669115846,1,0,"needless course:  extremly hard to follow long lectures , unclear tasks, no manuals on how to complete assignemnts, leck of examples. I wasted my time, 7 weeks is too much",0,0,Oleksiy Prosyanko,3010219
+11150587~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1640986317762,1,0,"T​his course falls short in a few areas:
+
+1. Course questions/comments are not responded to by the instructor(s). So, if the student has any questions or needs clarification regarding the content or assignments, the student will have to look elsewhere for help. 
+2. This course would more appropriately be titled ""Use of Akka Libraries"", or something similar, as instruction frequently gets lost in the details of Akka libraries, and the student is left wondering how the content relates to ""Programming Reactive Systems"".
+3. The instructions for the homework assignments are incomplete, and will leave the student perpetually wondering what is actually expected from the exercise.
+",0,1,D Meyer,11150587
+59765~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1666004479842,2,0,I​ want to it will be more reactive and less actors model. ,0,0,Pablo Emanuel Goette,59765
+28332440~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1654468150067,2,0,"I​nteresting course but the assignments are a mess. Very poorly expained and unorganized. The author assumes we master the material. Currently unmaintained, no one will respond to a question ever. This defeats the purpose of learning. This course could be a lot better",0,1,f “Blade” B,28332440
+3089003~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1659369238721,3,0,"On the positive side, the topic and course videos are great.  Unfortunately, I found most of the programming assignments to be way too time consuming and unforgiving.  What's more, there's little to no community activity or support from the instructors.  Meaning you need to ""go it alone"" with the difficult assignments.  (Completed August 1st with 95% grade).",0,0,Ian Lucas,3089003
+1598287~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1625033723849,3,0,"Great assignments, sleep inducing lectures",0,1,Amol Nayak,1598287
+28622964~COURSE!~MDl8EeYFEeqfKA4nG_njOQ,1635315208551,4,0,"V​ery interesting concepts. Good slides, presentation, and examples. The practice exercises can be demanding. Indeed, the akka API is quite sophisticated and powerful it thus requires time and patience to understand. I am wondering how widespread their use is and how easy it is to onboard engineers in concrete projects using akka actors & streams.",0,0,Joël Vallone,28622964

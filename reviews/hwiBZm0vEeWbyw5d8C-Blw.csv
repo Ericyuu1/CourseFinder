@@ -1,0 +1,882 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+39474621~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1588437741636,1,0,Not great course. ,0,1,Dr. Jnaneshwar Pai Maroor,39474621
+6310571~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509923542244,1,0,"I can't help but feel lied to. The FAQ for the specialization says the following: ""We also suggest a working knowledge of mathematics up to algebra (neither calculus or linear algebra are required). "" If no linear algebra background is required, then why do you assume that I know what a singular value decomposition is? Or principal components analysis? Terrible course.",0,2,Josh Hilton,6310571
+15992587~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507627144475,1,0,limited and monotonous explanation ,0,2,omar kahil,15992587
+26149201~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503620128848,1,0,How can you have a course on Graphic Devices and not show one screen shot of a graphic or open R to show how to perform the ideas around this topic?,0,1,Christy Platz,26149201
+25669527~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497092550177,1,0,"The videos were merely repeating the content from swirl, with absolutely no added values. ",0,12,Luca Rigovacca,25669527
+18257005~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475270383750,1,0,NEEEEEED TO EDIT MY PEER REVIEW FROM OTHERS,0,0,Nicholas,18257005
+19600909~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474342221806,1,0,"When it comes down to it, there's simply not the support to assist a student that has a really hard problem, ""hacker mentality"" seems to equate to ""figure it out on your own cuz nobody's going to help you"". If things do not work perfectly for you then you are likely never to be able to finish because your ""peers"" don't know any better either. The way this class is set up makes me angry every time I have to deal with it. I would probably be just as well served doing just the swirl() exercises. I would quit if I hadn't paid all the way through in advance. I can't believe this is the type of school John Hopkins is to produce a course of this quality, but I guess I have to.",0,8,Beverly Andrews,19600909
+3452138~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462889437486,1,0,  This course mostly about how to use plotting libraries in R.  ,0,2,Sergey Kaptur,3452138
+1964115~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456859569462,1,0,Material is to basic for an entire course.,0,0,Carsten Jørgensen,1964115
+16675180~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1623829632112,2,0,S​VD should be better explained. I found diffucilut to understand. Some backgroeund matrices and it's operations should be explained.,0,0,Rahul Rachamadugu,16675180
+2343110~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1610672502301,2,0,"These courses need to be updated. At least one of the Swirl packages references a retired command, gather.The use of Swirl is nice but it can get very tiring when the computer picks up spaces and makes correct small details over and over.I believe that all of these courses need to share some practice questions before the quizzes. This allows people to discuss the problems they have without feeling like you are cheating when discussing quiz questions.Six years is a long time to have course material for teaching. I suggest it is getting too OLD.",0,3,M CC,2343110
+2818283~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1595303598329,2,0,"More than Exploratory data analysis, the course is only focused on how to make graphs in R. That is actually fine, but the name of the course is not suited to the content. In addition, the lectures were too boring. The lack of pedagogy is stunning. The most useful part of the course was the swirl exercises that were the same examples shown in the lectures. That is why it seems that watching video lectures is an incredible waste of time.  ",0,0,Jesus Alberto Perez Guerrero,2818283
+57562254~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591095685888,2,0,Not upto expectations,0,0,Vineet Palkar,57562254
+40515519~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1566461605052,2,0,"Too weak regarding the clustering methods, very disappointed. ",0,0,Esther Laske,40515519
+32379510~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1559872890064,2,0,"Just an extended course on using R. There was little strategies for Exploratory Data Analysis, infact the example jumped from a high level view of the data to then start looking at individual counties. There are multiple tools in the market that will deliver in a better and faster way for exploratory data analysis. This course should be more targeted at developing a skill set that is tool agnostic. ",0,0,Jamie Rowlandson,32379510
+25907597~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1557767390712,2,0,"Provides a solid overview of the base plotting system and a discussion (better elsewhere) of others. Introduces some higher level exploratory methods, without much information on either the theory or application (simply walks through the recipe). Assessments do not match the lecture material, so the credential is essentially meaningless. Read the associated book, watch the video lectures if you'd like. Don't bother with paying for the certificate.",0,7,Dan Hall,25907597
+18413285~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1556506950952,2,0,"Absolutely No technical help, like insane amounts of homework for each week. People have jobs and businesses to run. Incredibly short duration. Like literally this should have been spread out several more weeks. I would have dropped the class but I can’t. It’s so difficult to get i to the first set of practice assignments and these several sets. Honestly, I am literally getting no help on it and probably won’t pass because I am missing the deadline. I finished 5  coursera courses working on them for 24 none stop. I’ve literally been at this class all day. Besides all the insane amounts of assignments there’s tons of videos to watch and uploads to do. Go buy some books or take another class unless you are unemployed or have nothing better to do. ",0,0,Lidiya Nikolayev,18413285
+12192900~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1535646899603,2,0,"Cons:# Too much focus on hopelessly outdated R functions.# Lectures are mostly powerpoint karaoke along the lines of ""You can do that thing. And you can also do that other thing. And also you do this third thing"" without much real-world application.# ggplot2 is the only modern viz package that gets mentioned Pros:# The swirl exercises are great (but very buggy on Mac)",0,12,Roman,12192900
+17912026~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1518455136352,2,0,"This is the worst of the Data Science courses so far (they've all been pretty good up to this point).It's called Exploratory Data Analysis, but is actually all about the graphics systems in R. And it does a botched job on those as well.All quizzes and assignments are about the graphics systems. The only portion of the course that deviates from that is Week 3 (for which there is no quiz or project) where we ""learn"" about clustering and dimension reduction. However, that material is presented really poorly: not enough depth for someone who is already familiar with the subject matter; and not nearly well enough explained for newbies.On the graphics side, none of the systems is explored in great depth. The lattice system is essentially just mentioned in passing. To cap it all off, the brief for the last assignment is really ambiguous, which often causes  perfectly valid work to be graded poorly by peers. (Just look at the forums, if you need proof.)",0,9,Dilyan Damyanov,17912026
+13335554~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496270782993,2,0,"didnt get much useful-- a whole ""course"" on plotting?  meh. ",0,0,ewa borucki,13335554
+17693089~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491389045452,2,0,"Quite repetitious in covering basic graphing, and very shallow in regards of clustering, SVD and PCA.",0,0,Freddie Karlbom,17693089
+23900726~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485896723188,2,0,"Clustering topic is covered superficially, too much time spend on employing ggplot graphs, not very useful since making graphs is straightforward on other software, like excel, once you aggregate datasets correctly. I had not found it very enriching as a course. I would merge this class within R-Programming section and call it Part 2 rather than categorizing into ""Exploratory Data Analysis"".",0,0,Joseph M. Kamt,23900726
+828774~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481688498861,2,0,Course content and assignments were difficult to follow. Loads of statistical content along with high-level R content means it was probably the toughest of the 4 I have taken so far in the Coursetrack.,0,0,Rohith Jyothish,828774
+11163357~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476901384763,2,0,About plotting in R. Not about generating real insights from EDA.,0,0,Desmond Wang,11163357
+1635590~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466486041392,2,0,Veyr boring,0,0,Piyush Verma,1635590
+819027~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465088349228,2,0,"Alas, after only 10 minutes of the first video, I am reminded that this instructor does not gear his lectures to the true Beginners among us.  He speaks much more for an audience of grad students.  I do want to complete this Specialization, so I will try again perhaps after learning more - about statistics and R and who knows what else.    I fought my way through the first three courses, but now I'm going to work smarter by finding other ways to acquire this knowledge. Then return to him; maybe.  This course should be labelled Intermediate and Statistics should be listed as a prerequisite.  (I think; since I don't know what it is that I don't know, I am making a guess as to the missing piece of the puzzle.)",0,3,Pamela Monaghan,819027
+5442395~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462889143776,2,0,too superficial,0,0,Michal Kovac,5442395
+3074823~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459890047021,2,0,"Very unprofessional, compared to other courses. It wasn't well organized.",0,0,Tamaz Lezhava,3074823
+15138452~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459010236433,2,0,The final project did not require use of the material in the course beyond the first week and a half. I did not take any quizzes or otherwise have my knowledge tested on the material in the second half of the course.,0,0,David Infortunio,15138452
+8199622~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454793356005,2,0,"Some parts of material is good quality, but some is bad - also some show bad practices in R. Extensively use swirl as assignments over self work. It is better to go through good tutorial over R base plotting system and ggplot2.  ",0,0,Bartek W,8199622
+16684515~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454780286671,2,0,"some swirl tests (4,5) don't work because of parameter method in qplot function. This parameter is not realy existed in this function now",0,0,Дмитрий Регент,16684515
+3122121~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1641332360705,3,0,"The swirl labs failed, I never could load the ""field"" module.",0,0,Victor Manuel Campos Toledo,3122121
+14718889~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1634927489869,3,0,"The course only provide how to use the tools technically, but not statistically. also the only hands-on complete project is peer-reviewed, which means we don't get to know what we need to improve, etc. ",0,0,Shorouk Anwar,14718889
+48979089~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1600385450576,3,0,It's necessary for more examples!!!!,0,0,Oscar Pablo Gamonal Pajares,48979089
+61831195~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1595089994191,3,0,"Course hasn't been updated in a long time, some of the data needed for the projects has migrated.",0,0,Stuart Akeson,61831195
+59632422~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1594787612476,3,0,pretty brief and basic. no assessment on clustering.,0,0,Kevin Fong,59632422
+24645256~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593364365301,3,0,There seems to be some outdated info in several tests.,0,0,Eduardo V. Kuri,24645256
+25950229~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1575832505056,3,0,"I've learned plotting in R. I expect to learn more in four weeks of ""Data Science"" specialization. ",0,0,Daniel Pelisek,25950229
+8668958~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1567287980607,3,0,did not like the swirl-tutorials. they were very tedious and sometimes labelled correct commands as false (e.g. when you typed = instead of <- for assigning a value to a variable)also I was surprised that for a beginner programming course in R you had to apply specific functions such as grepl without the function being introduced in the course,0,0,Arne Schoch,8668958
+6829666~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1566786407354,3,0,"The course was overall ok, but I wish discussions about k-means, PCA and SVD were divided into two courses.",0,0,Mehrdad Pourfathi,6829666
+40353176~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1557949955165,3,0,"This course is basically plotting with R and clustering/dimensionality reduction. There's is not enough emphasis on the later in my opinion. The final assignment focuses only on plotting, which is a shame.",0,3,Rok Bohinc,40353176
+36278501~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1552349603862,3,0,"This course covers plotting (base, lattice, ggplot) then takes a confusing tour into heavy topics of clustering and dimension reduction, then flips back to coloring in charts.  The order of the lectures is confusing and PCA/SVD needs more background, clearer explanation and treatment (gets covered a bit more later under regression).  Assignments are good and swirl courses helped solidify the lectures.",0,4,Paul Ringsted,36278501
+33097287~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1552307116558,3,0,"It was a very useful course with some meaningful homework. My only criticism is that sometimes the theory and the practice are not well connected. Particularly the discussion of PCA, hierarchical clustering, k-means clustering and others. It would be benefit by providing more meaningful reading for those interesting in better connecting the two",0,0,Mohammad Amir Aghaee,33097287
+23285308~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1546990809316,3,0,"The third and fourth week were a big leap in knowledge and not really well explained, for me.",0,0,Francisco Miguel Rivas Ortega,23285308
+28493946~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531323581172,3,0,Once it got to the clustering section the lessons were inscrutable. Extremely difficult to understand and not explained well.,0,12,JM,28493946
+30518926~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1526184635880,3,0,I would have liked an assignment to focus on the clustering methods and I think dimension reduction was reviewed way too quick.  ,0,0,Dylan Pudwill,30518926
+4212979~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1525495756020,3,0,"Great introduction to the plotting libraries in R and visualization of data. However the introduction to hierarchical clustering, and Principle component analysis was extremely vague. ",0,0,Ashish Tayal,4212979
+21786537~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1522413043540,3,0,It's pity that the final assignment doesn't involve the clustering and the principal component analysis. It was quite a demanding topic and I was looking forward to practicing it through solving tasks.,0,0,Samer Alwan,21786537
+13300339~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520675724659,3,0,Excercises are very good. But I believe lecture could be more interesting and easily taught.,0,0,sandeep dhankhar,13300339
+12037859~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520360810583,3,0,"In general was good, but there were some lectures and exercises which were disorganized (""plots with colors"")",0,0,Johnny Cusicanqui,12037859
+12411058~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516216683805,3,0,It focus too much on the tools and a little bit on the analysis,0,0,Alex sanchez,12411058
+24135377~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507116049580,3,0,"Important and interesting stuff - but lots of it is repeated too much, which make it seem like 4 weeks is too much for the material.",0,0,Andreas Schmidt Jensen,24135377
+22671592~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506762099963,3,0,faced many technical difficluties in pratcice exerices in swirl,0,0,Amit Ojha,22671592
+23806436~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503861945066,3,0,unfortunately this course was not in the same class as earlier coursescases presented were not interesting or self explained.concepts were wage and the lectures were boring i think i need to take parallel course for the same knowledge targets i want to really understand this ,0,0,Haggai Zohar,23806436
+22188332~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490277358407,3,0,First two weeks are too repetitive with other courses,0,0,Rafael Alonso,22188332
+13840557~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486331833694,3,0,"Course is good in general but ""HIERACHICAL CLUSTERING"" part is hard to understand and is not clear, should be explained more.",0,0,ozan bulum,13840557
+2141400~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483008356145,3,0,The first two weeks were good. The third was a bit confusing and the 4th one just felt like padding. A more in depth study of ggplot would probably be more beneficial as I felt like we were only scratching the surface with it,0,0,Ray O' Connor,2141400
+3933063~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476347105182,3,0,"A nice introduction to the three plotting systems in R. The second part is devoted to clustering, but it is not detailed enough to be really useful.",0,0,Gianluca Micchi,3933063
+8858253~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1472070213669,3,0,"The course is quite good and informative in the first two weeks covering a lot of information and a lot of exercises.Week 3 is very unrelated and hard the videos and exercises are bad, and I had to do this part by myself again.Also when we get to the final course project doesn't cover any of these techniques.In my opinion, week 3 should be replaced with something more related to plotting systems and distributions, also one project would be enough.",0,0,Ahmed Moatasem,8858253
+1191225~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466793483711,3,0,I wish there several comprehensive examples of exploring some real data as guided by the course instructors.,0,0,Erkan ER,1191225
+19165986~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466687648618,3,0,"Course feels somewhat abandoned by instructors. Content is okay, but can't help the feeling that it's basically a cash cow - students would benefit a lot if instructors were move involved.",0,0,Fabiana Glenn,19165986
+326594~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465584603880,3,0,The course covers very limited subset of plots and mostly oriented to R-specific technical routines rather than overall approaches. Case-study example is helpful and contrary to the most comments I do appreciate the final course project: this how most problems are stated in real life. If you would like to cover more fundamental concepts behind exploratory analysis I would recommend other sources.,0,0,Andrew Voshchevoz,326594
+18472714~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463061386974,3,0,Good class - links and slides have not been updated recently. Frustrating to finish without the exact linkts to the data.,0,0,Casey Brust,18472714
+17307374~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462298099168,3,0,"Good course, but the SWIRL exercises (and a few quiz questions) needed to be updated for the latest version of ggplot2.",0,0,Katharine Rovinsky,17307374
+15652724~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1461685520881,3,0,"A lot of broken swirl(), which wouldn't be so bad except *a lot* of this course is based entirely on swirl().  Also the swirl() text was almost verbatim of the lectures one has just watched.All in all, good information, but the swirl() badly needs an update.",0,0,Thomas Grace,15652724
+11711405~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458996545120,3,0,It misses an assignment which will allow to practice the clustering skills.,0,0,Guy Pozner,11711405
+14389167~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457817071633,3,0,"Interesting stuff, but not a lot of detail",0,0,Erwin Vorwerk,14389167
+1045043~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457646840418,3,0,The course content applies to R. The teachers focused on the programming language rather than the application of the existing graphs to explore data.,0,0,Asier,1045043
+16433869~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457485796480,3,0,"Good course overall.  There tends to be many lectures that are just lists of commands.  Also, they don't seem to be updating the material.  Many lectures are several years old and still have typos in them.",0,0,Ralph Mastromonaco,16433869
+7411675~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456853923842,3,0,"Excellent overview of plotting and clustering.  However, there were a few bits that were required for good completion of the projects that weren't covered in detail.  Overall an excellent course and specialization.",0,0,Toby Kraft,7411675
+6496338~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455228311612,3,0,"Insights delivered by the course were great. However, I think it emphasizes too much the lattice and basic plot systems to the point it is redundant with functionality on ggplot. It should focus more on concepts and techniques for delivering richer and meaningful graphics using ggplot rather than talking that much about technicalities on the basic plot and lattice systems. Assignments were too basic and don't reflect all the concepts learned in the lessons e.g. clustering, which I think are of great interest for researchers.",0,0,Jose Ortiz,6496338
+32185~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1664782174620,4,0,c​omplete overview,0,0,Seyed Ali Sadeghi Aghili,32185
+111045554~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1663509944240,4,0,i​ts good,0,0,mounika narra,111045554
+23255578~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1663020207020,4,0,"Good overall, I've been looking forward to learning about plotting in R, and this course is good for that. I'm not sure what the statistics module was in aid of - it wasn't assessed anywhere, and it was quite baffling.",0,0,Brett Chapman-Richards,23255578
+91102942~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1636709167096,4,0,More lecture on ggplot is required. ,0,0,Snehangshu Roy,91102942
+64050403~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1636277849296,4,0,"Very informative and useful course for data analyzers and scientists. It presented plotting systems, data reduction / normalizing, and many other different modules in analysis. I advise others to undertake it. ",0,1,Amir hossein Farokh Niaei,64050403
+46934194~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1632670210739,4,0,nice but requires bit more demonstration ,0,0,Saad Ur Rehman,46934194
+70932504~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1629470088235,4,0,Nice course but it would have been better if more theory was covered.,0,0,Sarfaraz Uddin Ansari,70932504
+80143289~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1622524166767,4,0,Only the 3rd week was confusing but the confusion was revoked by swirl package,0,0,KAMAL DOBRIYAL,80143289
+18038613~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1618826546388,4,0,"We learn very useful things. However, there is little emphasis on the statistical part (singular value decomposition) which I think deserved more exercises. ",0,0,DESIREE PETRILLI,18038613
+59256047~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1613615218531,4,0,It was a great experience to complete such a good course. ,0,0,Rajeev Das,59256047
+16139197~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1613306325244,4,0,"Learned a lot, the cluster and kmeans could have been more explained though",0,0,Jan Willem van der Lichte,16139197
+3675466~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1611549521288,4,0,Best course of  the 4 taken so far in this specialization ,0,0,Sahil Shah,3675466
+74463980~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1609726578960,4,0,"I like the case study part which provides you an overview of the practical applications of the skills learned in this course. Learned to use the different types of plotting systems in R which got me to use my 'hacking' skills to experiment and I find it fun. The least I like about the course is the clustering part, mainly because the topic is too advanced for my current level. But I am interested to learn more about it in the future. The swirl lessons were also really helpful to strengthen my understanding of the concepts.",0,0,Joseph Figuracion,74463980
+38811173~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1609061310026,4,0,"It was fun and interesting learning how to explore the data. For the final project I missed a assignment  about clustering, PCA and SVD. It could be useful for a better understanding of the concepts.",0,0,Ben Kooi,38811173
+3684769~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1608230732538,4,0,Enjoyed this course a lot. This course allowed me to experiment with and practice various plotting techniques while analyzing the data in the initial stages.  SVD and PCA were totally new concepts to me. It would have been better to see some real examples from the field with interpretations instead of understanding these concepts using random numbers' examples.,0,0,naghma qureshi,3684769
+66037883~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1605450575624,4,0,"PCA and SVD are not included in any assignment, it will be great if they are in the future",0,0,Gerardo Martín Fumagal Gómez,66037883
+27749411~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1603054879089,4,0,Very good course,0,0,sourabh chouhan,27749411
+55643243~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601643292019,4,0,Sum issues with SWIRL package,0,0,Jeffrey Hamilton,55643243
+61524617~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601483518569,4,0,"sorry, but I didn't understood much from 3rd and 4th week..",0,0,YOGESH RAJGURE,61524617
+43667093~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1600617810636,4,0,Nice!!,0,0,Rohit Kumar Singh,43667093
+41887951~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1600440331423,4,0,Great course!,0,0,Irenee Vunabandi,41887951
+2516827~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599976919195,4,0,"Course material, lectures, exercises are excellent.  There was not enough theory, and there was too much specific to R and graphing packages covered.",0,0,Hank Coffin,2516827
+63547655~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599387374661,4,0,"I enjoyed the course and learned a good deal.  However, the level of challenge of the projects is much higher than the scant explanation provided by Dr. Peng.",0,0,Carlos Gabriel Wong-Martinez,63547655
+34589936~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593793773758,4,0,Really nice course! Great instructor and good case studies!,0,0,Sakshat Rao,34589936
+19696276~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593778558338,4,0,"though presentation was good ,felt it should have been better in small sessions , lost interest half way through , continued later to complete ",0,0,Ramakumar Adavakkad,19696276
+13427862~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593732421847,4,0,Very good course ,0,0,Abdou kamal allayeh,13427862
+3969932~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592857482401,4,0,A very well organized course with video lessons that inspire to further exploration of the data analysis topic.,0,0,Olav Nyvold,3969932
+9703398~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592319402207,4,0,"The course was really good, thanks for that; however the part of single value decomposition and principal components analysis was not explained in a gradual fashion and even though I researched outside of the course I still have some confused concepts there.",0,0,Jacques Kerguelen,9703398
+29866971~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592139181711,4,0,Great in-depth content about techniques related to exploratory data analysis and implementation in R language using R Studio. Definitely recommend this course to any aspiring data scientist!,0,0,Jukka Hilvonen,29866971
+36642327~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591940698048,4,0,assignments were good,0,0,Divyam Mittal,36642327
+1725673~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591722385453,4,0,Plotting is very usefulIt would be great to have a step by step breakdown of PCA and SVD.,0,0,Huang-Hsiang Cheng,1725673
+58676053~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591146199341,4,0,A useful course ,0,0,K Aruna Kumari,58676053
+41332105~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1590543032828,4,0,Good Course to understand Data Analysis,0,0,K VENKATA SUBBAIAH,41332105
+43525436~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1589799655240,4,0,Little tough,0,0,Er Jayesh Soni _ Dom,43525436
+5557922~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1589623558955,4,0,My favorite course so far,0,0,Mhd Anas Al Saidi,5557922
+24353941~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587565110751,4,0,Nice but the projects are way harder than the lessons and quizzes;,0,0,Caio Hofmann Francisco Alves,24353941
+47993141~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1586971461935,4,0,"Once again the teacher was really knowledgeable and engaging. The content was really helpful for my career. The part about clustering was challenging but still manageable. The pacing was good, not too slow (so not boring) but also not too fast (so still easy to understand). The case studies, especially the one about activity measured by smartphones, was one of the best parts of the course.I didn't particularly enjoy some of the swirl practices. I found some of them to be very very similar (if not the same) as the examples in the lectures, so I only enjoyed the few where there was some new content.Overall I really enjoyed the course and I would recommend it :)",0,0,Miguel Couto,47993141
+43431425~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1586184491471,4,0,Clustering Should be explained in detail,0,0,Yash Anil Gupta,43431425
+36275845~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1582035724393,4,0,"I'm glad for completing this course, it added a value for me.I wish the videos about (SVD and PCA) in week 3 was more clear but it was difficult for understand and i feel lost , I think you need to update this videos to have more a satisfied materials.Thanks for your effort and for what i have learned for this course ",0,0,Doaa Elbana,36275845
+36253872~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1576426161982,4,0,Decent overview of the graphing fundamentals in R,0,0,AJSC Technology Videos,36253872
+41032879~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1575525183640,4,0,Good,0,0,Edward Arul Sureshkumar M,41032879
+41590515~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1574812657013,4,0,Really good if you do not have any background in the field. But even if you do it is a great review,0,0,Marcela Quiros-Lepiz,41590515
+37571386~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1574020119056,4,0,Excelente,0,0,Johnnery Aldana,37571386
+17217223~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1572571063000,4,0,Good introduction. The swirl exercises kind of reproduce the lectures though- felt like it might not have been the most efficient use of time to go over the exact same example again. ,0,0,Luke Schoen,17217223
+6626004~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570436898777,4,0,This is a good introduction to do EDA using R.,0,0,Nilrey Jim D. Cornites,6626004
+14809951~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570129533153,4,0,Exploratory data analysis is a very important skill and it is a very good course to learn it. ,0,0,Kajal Singh,14809951
+13622631~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570113347682,4,0,"I would rate 5 if the course wasn´t so focused on graphic analysis. But, even Like that it´s a very good experience.",0,0,Luiz Eduardo Bergo Junior,13622631
+42475014~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1569571381566,4,0,It is a good course but in my opinion it is basically support with the R swirl() guide,0,0,Manuel Mariscal Muñoz,42475014
+25076294~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1568101129762,4,0,"Course gives thorough introduction to basic tools for exploratory data analysis, including visualisation, PCA and clustering. Good mix of lectures, practical in swirl and programming assignment. Swirl practice are mostly a repetition of the examples in the presentations, which is a bit of a pity...and I missed a programming assignment on cluster analysis/PCA",0,0,claire boucon,25076294
+27971764~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1567609033018,4,0,Was a little perplexed that we did not address clustering at all in the assignments.,0,0,Ross Donohue,27971764
+35018982~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1563235574036,4,0,"this course is more about creating chart for EDA, need more material for reading/interpreting the charts",0,0,Anang Syarifudin Aminsyah,35018982
+8906765~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1560655194674,4,0,More practical exercises using ggplot2 and clustering would be beneficial. Maybe need to be a 8 weeks module.,0,0,Jean-Philippe Maillard,8906765
+39208003~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1559131127458,4,0,Best of your courses yet.  Doesn't suffer from difficulty spikes when you hit the projects.,0,0,Eric J Sullivan,39208003
+39638656~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1558282210452,4,0,"Some of the links in the lectures are out of date, the forums usually have an updated link though. ",0,0,Joe DiNoto,39638656
+12338129~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1557906247340,4,0,Awesome course ! It reaches  you the crux of exploration of data . Although the SVD section could have been more thorough and detailed.,0,0,Piyush Danej,12338129
+38614367~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1555393868462,4,0,"A great course to begin with Exploratory Data Analysis. It teaches you how to analyse data and generate visual reports. However, to actually become efficient at Data Visualization one needs to dig deep and make use of other resources apart from this course. Also K means clustering and other types are explained well in this course but it would have been useful if there were exercises to help implement it in some real problem. Overall this course leaves you confident and enthusiastic about Data Visualization.",0,0,Shreya Shukla,38614367
+37815202~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554077438727,4,0,Great introduction!  I am eagerly awaiting the opportunity to apply clustering and dimension reduction on real data in future courses.,0,0,Marc Torrey,37815202
+38382450~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1551534625902,4,0,I really enjoyed this course.  I was a good reminder of what analysts need to do when looking at a new dataset.   Dr. Peng does a great job walking through the steps and there is enough information given to enable the student to effectively explore on their own.,0,0,Glenn Walters,38382450
+30336413~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1550736558421,4,0,End assignement was relatively easy compared to the examples in the lectures,0,0,RobinGeurts,30336413
+31987637~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1549323134511,4,0,"This lesson could have been significantly improved if there was at least one assignment on clustering/dimensional reduction. Those are probably the hardest concepts thought thus far, so it would have been extremely useful to have at least one challenge to work through. ",0,3,Faben Wogayehu,31987637
+6229388~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1546200926860,4,0,Good course,0,0,Anand Prakash,6229388
+11504050~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1541173335080,4,0,good ,0,0,木槿,11504050
+23572698~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1539898638190,4,0,"Seems this would type of course in an online learning MOOC would be better if it was more direct hands on ""how to"" and less focused on explanatory fluff (academic style) .",0,0,Terry L Jones,23572698
+28893286~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1538474806847,4,0,Nice course,0,0,Praveen kumar,28893286
+33428929~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1538217430175,4,0,Good Place to learn,0,0,Soma Sekhar Kunapareddy,33428929
+3741713~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1538058949297,4,0,good,0,0,Anup Kumar Mishra,3741713
+35358817~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537417161860,4,0,More instructions on SVD/PCA would be welcome,0,0,LIWANGZHI,35358817
+4623124~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537188064893,4,0,Good beginners course with helpful tools to take a first glance to your data ,0,0,Mario Simon Pinilla Gallego,4623124
+32307153~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1536599359813,4,0,"NIce course, but the lectures are a little tedious",0,0,Dan Berdikulov,32307153
+3196641~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1533788223669,4,0,Improvement should be done to the materials of Week 3.,0,0,Yang Dai,3196641
+34936821~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532336416630,4,0,Great content for beginners to get familiar with various graphic tools in R,0,0,Gao Qiangsheng,34936821
+20706282~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531469443966,4,0,"A good start for data analysis, this course covers the basics of plotting with the three most common packages (base R, lattice, and ggplot2).I liked the assignment which difficulty is nicely measured (it is not just applying the videos concept, you have to look around the web to find tools and documentation about what functions to use).On a less positive aspects:- I am not sure this course was the best place to introduce kmean and PCA sections...- a lot of content is outdated (wrong links, old R command parameters, ...), look likes a quick freshup update would not do harm given the number of people that keeps registering...",0,0,Julien Nabonne,20706282
+5378679~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531155727766,4,0,Week 3 content is difficult to understand without background knowledge in clustering and component analysis. Hope the instructor can provide some materials or web links for cluster and component analysis at the beginning of Week 3. Other weeks' contents are good and helpful!,0,0,Zhang Shuxian,5378679
+23191733~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530730902544,4,0,"You'll learn some cool things like K-means clustering and creating dendrograms, as well as dimension-reduction techniques. The assignments are very easy if you have basic familiarity with R's base plotting system and the ""ggplot2"" package. I will say I'm very happy with this course in the overviews of R's major plotting systems (though no ""ggvis"" package), as well as working with color palettes. However, I wish there was more hands-on or peer-graded practice with K-means, heatmaps, dendrograms, and dimension reduction techniques like Singular Value Decomposition (SVD). If these are new to you (they were to me!), you'll certainly walk away from the course more knowledgeable.",0,0,Jamison Crawford,23191733
+28919984~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1528493295813,4,0,Interesting course to know plotting systems and to have a first view on clustering and dimensions reduction. This part should be however more developed !,0,0,Guillaume Soufflet,28919984
+23015724~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1527078086990,4,0,"High quality course, but the order of lectures is not perfect",0,0,Frederik Cruyt,23015724
+631968~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524663732155,4,0,"Good, but the lack of assignment in week 3 seemed to screw up the UI, prompting me continually to do the Swirl exercises, which were non-compulsory (and, given I hadn't completed any of the other Swirl exercises, something I didn't want to take on.) ",0,0,Ryan Bateman,631968
+1865746~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524648199622,4,0,"Nice course, very useful. I wish the links were updated more often, however.",0,0,Polina,1865746
+30445738~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524168554814,4,0,very good to understand . ,0,0,ayush jha,30445738
+30407110~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1523952258443,4,0,Great lecture. I hope there were more assignments. (1 per a week maybe).I learned many statistical concepts and rcodes by taking this course.Thank you:),0,0,Hyun Joo Kim,30407110
+4250072~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1523330463847,4,0,You should give more datasets for independent practice! Something we can play with.,0,0,Migdonio González,4250072
+2873443~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1522182746583,4,0,"The course was great, I'm not sure if I'd really consider using the base plotting package in reality as the plots are just too ugly, and the API is harder to learn. I think a stronger on ggplot would help to keep it relevant.",0,0,Morbo,2873443
+8629103~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521570423708,4,0,"Good stuff just as I have come to expect from this University and the courses that are part of this Signature Track.A great deal of the lectures and work on assignments/quizzes/projects was learning and using the various plotting systems in R.  Certainly this is important, but to put it into perspective, I spent four hours creating six plots for the final project, when I was able to use Tableau Desktop to create all six plots in under five minutes.So formally learning the data exploration techniques was good, but expect much of this course to be about learning the R plotting systems.That said, there is a point in this course (and the first time for all the courses to this point) where the topic suddenly got very, very technical.  When clustering techniques were introduced it felt as if you were turned on your head as the focus suddenly went from various ways of plotting data in R to being neck deep in the explanation of clustering techniques that require a great degree of Linear Algebra knowledge.Don't panic though.  While there are questions in the guided assignments that are difficult, you don't really need to recall all of your Linear Algebra courses from college to pass this course.  After all, R ""has a package for that.""",0,0,Phillip Kesling,8629103
+21050705~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521495282559,4,0,Challenging but great fun and really helped me to get more familiar with R,0,0,Andrew Wihler,21050705
+2618139~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520370149473,4,0,"I learned a lot on this course, it helped me to understand and identify some of the situations I experience at work. Totally recommended if you want to apply it right away.",0,0,Hernan Solano,2618139
+4205186~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520195562895,4,0,The plotting aspects of this course appealed to my visual sense.,0,0,Jeff Brindle,4205186
+26719112~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1519331129402,4,0,"This is a very good course, at times it felt like the instruction was to do things mechanically without understanding the motivation.  Perhaps this should come after or in conjunction with Statistical Inference",0,0,Greg Agamalian,26719112
+24643414~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1518442434305,4,0,"ok, but could be better",0,0,Carlos Alberto Castro Zuluaga,24643414
+28068504~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516449013915,4,0,I suggest to shift a little more the focus on svd and clustering techniques,0,0,Mario Previdi,28068504
+1415224~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1515360366671,4,0,"It's a very good course. Week 3 was a little bit more challenging than expected, as well as assignment 2, but you get a good idea of how to use all the different plotting systems",0,0,Diego Prato,1415224
+5006131~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1514484741446,4,0,A,0,0,Adur Pandya,5006131
+1082236~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1514015857008,4,0,good for building basic foundation,0,0,Saruul Altanbagana,1082236
+9468666~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1513068208949,4,0,ggplot should have been given more emphasis. It warrants a course on its own!,0,0,Subramanya Narasandra,9468666
+10866139~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512695135522,4,0,"Great practical course on exploring big datasets in R. The main part, plotting, is very clearly and thoroughly explained and framed. Only 'single value decomposition' and 'principal components analysis' was somewhat hard te grab and need a lot of extra research and study. ",0,0,STEVEN VAN DORPE,10866139
+19907831~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511797242203,4,0,"Very good. Great videos but perhaps the most learning was obtained through seing different apparoches taken during the peer review. The course could be even better if more smaller peer reviewed tasks where to be completed where extra points where rewarded for not just displaying correct data, but also visualising it more efficiently. ",0,0,Kalle Hartwig,19907831
+23790134~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511216701467,4,0,"It would be of the best interest to all that the content of the course be reviewed. Seeing references to data from 2012-2015 gives the idea that there's been no recent content review. Although not being the same as taking the full course at the university, this is still a paid training and a certain level of accuracy is expected.Another note goes to the forums which should be cleansed or handled differently. It's not very helpful to check a forum to see that most of the threads are requiring reviews to the assignments, some from years back.",0,0,Ricardo Marques,23790134
+13933563~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510924423896,4,0,Interesting. But I would prefer the differences between comparison plots. What do they are useful and why is it better to plot with bars rather than lines.,0,0,Diego Trujillo Bedoya,13933563
+10383393~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510642627588,4,0,"  Thank you, i learnt a lot and will continue on my journey.  ",0,0,Vebashini Naidoo,10383393
+14276568~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509275814910,4,0,good course ,0,0,Divvya T,14276568
+27683738~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509025340908,4,0,Thjis one of the best courses gives a great idea about plotting and exploratory data analysis !,0,0,SUDIPTO MITRA,27683738
+12886123~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506077772037,4,0,"Good course, would have likes more practice & testing on the clustering stu",0,0,Olga Hartoog,12886123
+7026468~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505374935956,4,0,Good One to start with,0,0,Praveen Kumar B,7026468
+23029446~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505191065177,4,0,Nice one to understand EDA.,0,0,Mehul Patel,23029446
+16006920~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504539579555,4,0,Nice examples and material,0,0,Fernando Mele,16006920
+25446553~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503950164852,4,0,"The Swirl activities followed along with the lectures, which allowed us (as learners) to better understand core concepts.  The lecture videos continue to end while the professor is still speaking, but this is not a major issue.    ",0,0,Rashaad Jones,25446553
+27255752~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502732082726,4,0,"I enjoyed the course and learned important graphing concepts for R/RStudio. I just wish the assessments had been a little more rigorous, as it felt like I could have done better but still passed the projects anyway.",0,0,Connor Gooding,27255752
+26664829~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1501639441575,4,0,Good course. Mostly focuses on how to visualize statistics from the data quickly.,0,0,Sawyer Welden,26664829
+23146765~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1501412486826,4,0,"Quantitatively assignments were less with no assignment for Week 3, however, the swirl exercises were good ",0,0,Saurabh Maheshwari,23146765
+18201851~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500861916649,4,0,great intro to the plotting system. could be better with a dimension reduction assignment or quiz. this is very important!,0,0,Christopher Leeds,18201851
+16384358~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500829358474,4,0,great course...though I would have preferred less focus on cluster and k means analysis.,0,0,Irmgard Teschke,16384358
+24617370~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500446247730,4,0,Nice course! Assignments could have been a little more challenging,0,0,Anirban Chakraborty,24617370
+24453787~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500281432484,4,0,Good material ,0,0,Filipe Rigueiro,24453787
+17629485~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499630596288,4,0,SVD & PCA videos need improvement in terms of background knowledge and understanding,0,0,Prathamesh,17629485
+26882568~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499256614853,4,0,SVD could be explained a little better i think. I am still not exactly sure how it works.,0,0,Mark Ferris,26882568
+25746723~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499152430311,4,0,Very helpful,0,0,Sabawoon Shafaq,25746723
+66317~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498790636047,4,0,Very good Introductory Course. Thank you!,0,0,Freddy Martin Coronel Flores,66317
+13383884~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498631159556,4,0,"The pacing of this course was somewhat better than the ones that came before it.  I felt that the depth of information covered and the questions asked in the projects and quizzes were a better match than previously.  I still let myself take an extra two weeks to complete the final project because I was still learning and playing around with the plots and selection of data, but that was because I wanted to, not because I had to.",0,0,Janet Kino,13383884
+363094~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498068646479,4,0,"The course on Exploratory Data Analysis was highly enjoyable. I used to do a lot of this sort of thing in my job, but now spend more of my time managing people. It is fun to get ""hands-on"" again.",0,0,Bill Seely,363094
+3767604~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497561611344,4,0,"Useful for learning how to make plots, but not too detailed.  Further analysis would have been helpful.",0,0,Ankush Khullar,3767604
+25035379~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497269488001,4,0,"Great overview, especially the parts on dimension reduction.",0,0,Richard Davis,25035379
+24996360~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496366619997,4,0,very good!,0,0,Colin Qin,24996360
+23628574~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496193934904,4,0,good course,0,0,Abhishek Sunkara,23628574
+23784985~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496129518973,4,0,Good analysis study case.,0,0,BIBHUTI BHUSAN PRAHARAJ,23784985
+4993264~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496020815628,4,0,"I love the course. However, the treatment of PCA, SVD, and colors seems to me very long and slow. Maybe a more direct and quick overview would be better. Even with that expection I really enjoy the course.",0,0,caramirezal,4993264
+5730551~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495905659672,4,0,Clustering is overwhelming field of knowledge.,0,0,Ratnikov Yury,5730551
+20470009~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495762466848,4,0,"It was a lot of material in a short time frame, but I feel like I really have a good grasp of creating graphs in R. ",0,0,David Barakat,20470009
+23402518~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495334803184,4,0,Good course,0,0,Ussama Naal,23402518
+24037399~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493273794511,4,0,G,0,0,Saurabh Kesarwani,24037399
+19963279~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1492570842572,4,0,Nice,0,0,Isaac Francisco Villatoro Navarro,19963279
+16725087~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491094168828,4,0,"It was awesome to learn visualization. SVD and PCA part of the course could have been elaborated better, and a pilot project on that would have cleared the basic concept. As usual Prof. Roger is a engaging and amazing teacher.",0,0,Ashish Sahu,16725087
+22899491~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491015940661,4,0,Good!,0,0,Tae Jun Yoon,22899491
+19736794~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490237856663,4,0,"Well crafted, carefully designed learning materials!",0,0,Murugesan Annamalai,19736794
+7928235~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490084665181,4,0,Would have needed a litle more in depth explanation of the clustering analysis,0,0,Philip Wikman,7928235
+20168717~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1489554567399,4,0,"Good course on plotting libraries and useful plots in R. Wished there was more coverage of ggplot and less on lattice, but overall a useful course.",0,0,Steven Chen,20168717
+16730978~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1489113336452,4,0,excellent!,0,0,Jeremy Ooi,16730978
+7033755~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1489046430209,4,0,"When it comes to hierarchical and K-means clustering, the theory wasn't explained clearly. When do we use U and V for what purpose? How does D come in? I'm left confused after this.",0,0,Bo Lin Ng,7033755
+17207724~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488261430687,4,0,The course was fantastic. It was very challenging. I could do with some additional opportunities for exploratory analysis to reinforce some concepts.,0,0,Robin Smith,17207724
+8511281~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487727090351,4,0,Really helpful. I really enjoyed getting familiar with plotting systems and also increasing my abilities dealing with data frames,0,0,Andres Ustariz,8511281
+7096131~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487042051594,4,0,"Nice course, but too much focus on ""R"" as a tool.... Industries don't use R as much... The course must be made more generic and independent of R - understand it is not easy to do but ....",0,0,Raviprakash R Salagame,7096131
+15261602~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486447244998,4,0,It delves into many important topics. I would advice to explore the topics in much more depth on your own. Overall a good breadth of topics.,0,0,Ashutosh Kumar Singh,15261602
+22593873~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485788906476,4,0,Good introduction to patterns recognition. I found principal components analysis technique very useful. It would be great to provide more lectures about this topic.,0,0,Igor Taranenko,22593873
+20144444~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483025960593,4,0,good intro,0,0,Tim Bowler,20144444
+18646178~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481891346056,4,0,"The exploratory part was very good. But, PCA was a waste of time.",0,0,Ankit Agarwal,18646178
+14697038~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481701389034,4,0,Assignments were really good!,0,0,Aditya Gupta,14697038
+21026882~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481473285931,4,0,The course is interesting and the content is relevant. I do think that there are some issues with project 2 though. I did provide feedback on that to the course administrators.,0,0,Christian Butzlaff,21026882
+18382224~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481419261064,4,0,good overview of how to make graphs! ,0,0,Kathy Klafter,18382224
+15533109~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480266408321,4,0,Great course,0,0,Sunil Jacob,15533109
+1026555~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1479977277643,4,0,"Interesting learning more about ggplot and base plotting system, as well as clustering techniques.",0,0,Lindy Woodburn,1026555
+16295684~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477693488609,4,0,Like the clustering,0,0,Liang Yi,16295684
+14081313~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477582458851,4,0,"Very good course. I liked the clustering examples. They were a little bit detached from the rest, but they were also great.",0,0,Nils Matzner,14081313
+8452056~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475403677191,4,0,d,0,0,deepak raja,8452056
+18171001~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474586213277,4,0,Overall a good course!,0,0,Stephen Gailliot,18171001
+18781329~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1473938129198,4,0,Very detailed. Like the case study by Dr. Peng.,0,0,Mohammad Farooq Hussain,18781329
+3037681~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1472317340293,4,0,Hopefully it could be clearer on dimension reduction.,0,0,jishuenkam,3037681
+16880792~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466573219050,4,0,swirl is very used in this course. It is one of the best tools to learn R,0,0,Carlos Laguna,16880792
+17375740~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466532550244,4,0,"Very interesting and insightful course. I enjoyed it. Assignment was okay, could have provided more challenge and depth though.",0,0,Tony Wang,17375740
+15086786~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466490948300,4,0,"Great and Excellent thoughts and course material.
+
+
+",0,0,Shivanand R Koppalkar,15086786
+17948723~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465721224455,4,0,"A nice coursera, but I was a bit lost SVD.",0,0,Christoph Grund,17948723
+380800~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465621932117,4,0,great course but wish to have more materials or explanation on svd and PCA part. ,0,0,Shuwen Yu,380800
+3180252~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465496785195,4,0,"The only missing point I would say about this course is how to deal with skew data and/or outliers. Although it is not specific to ""cleaning data"", I think there is a good opportunity there to at least give some hints on this subject",0,0,Guilherme Botelho Diniz Junqueira,3180252
+12332825~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464844094156,4,0,Very good introduction to the various graphing systems.,0,0,Paul Mitchell,12332825
+11691877~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464656017187,4,0,Pretty good course.  Nice content.  Middle section on clustering felt random.,0,0,Greg Rogers,11691877
+18663142~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464192196892,4,0,More real data example is even better!!!,0,0,"Kai Chung, Ying",18663142
+12199737~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463982653488,4,0,还不错的R语言绘图入门,0,0,贝叶斯统计,12199737
+19172888~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463585809474,4,0,  Excellent  ,0,0,Khobindra Narayan Chaudhary,19172888
+19366666~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463508545526,4,0,This would be very effective for my personal skill enhancement.,0,0,Ashish Shrestha,19366666
+5134382~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1460925451193,4,0,I found it very useful.Some space for improvement are better coding skills (naming variables) andsome more complex topics like SVD / PCA should be explained in a more intuitive way.,0,0,Štefan Šimík,5134382
+17674012~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458649597611,4,0,nice,0,0,Chan Eric,17674012
+16166893~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456971144584,4,0,Really Enjoyable!,0,0,Daniel Rosquete,16166893
+8066341~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456787856057,4,0,"My congratulations to all those people who worked to create this course although I have to pick up something I've found a bit annoying:1- there were two video where the audio were nearly unintelligible2- I would link the link proposed by the video to be possible to be clicked3- Some exposition imperfection (even if they make these video more ""real and human"")4- Since quiz are not so difficult to be evaluated automatically I found it a bit annoying to notice them locked by not-purchsing, even if I understand there have to be something which would make the customer to purchase.I've found the swirl experience great although a bit annoying sometimes but I've no clue on how to possibly improve it so.Keep up with this great work! Bye ",0,0,Ruggero Bonanno,8066341
+5376605~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456173102227,4,0,"The course did a good overview of the different plotting systems in R, but it rushed through clustering. I had to watch the videos of k-means and hierarchical clustering at least 3 times to sort of understand it. The matrix concepts went completely over my head. Otherwise, the projects were very interesting, and I would highly recommend this course to other people. ",0,0,Harshitha Holmes,5376605
+595991~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455814319917,4,0,I like the course and it was helpful in understanding how graphics work in R.,0,0,Pavel Balada,595991
+13975309~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455801919784,4,0,The need update the homeworks,0,0,Andres Martinez,13975309
+12193262~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455619142783,4,0,Excellent course with great didactic. Congratulations!,0,0,Giovanni Melo Carvalho Viglioni,12193262
+14341270~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455465069977,4,0,A quiz or project question on k-means clustering or PCA would be nice. Overall the course provided solid coverage of the three main plotting systems in R. ,0,0,Robert W Smith,14341270
+9830276~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454499020334,4,0,"More challenging Problem sets, as in the R Programming course !",0,0,Pierre Delarroqua,9830276
+16395657~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454171251420,4,0,"The course is useful with a lot of learning.The second half needs more of improvement, I think the pace is quite fast compared to others.",0,0,Bijan Seyednasrollah,16395657
+9572033~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1449118993226,4,0,"I have taken the course earlier, so am somewhat familiar with the layout and the materials. Overall it is a very good course and covers a wide range of subject matters. Roger has done a very good job explaining the concepts. I certainly would recommend this course to all who's interested in the subject.I realize that there's limitation on the time people suppose to spend each week, however, I would like to suggest adding homework, in addition to quizzes.Several video clips have some audio issues, not sure if that's fixable.",0,0,Chuxing Chen,9572033
+76598809~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1668538459029,5,0,Very nice and Hard Evaluations,0,0,Asiri Ileperuma,76598809
+86388264~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1666685826716,5,0,G​reat course!,0,0,Ariel Christian Felices,86388264
+84743017~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1663557976512,5,0,Super cool course,0,0,SHAIK HANIYA,84743017
+14051592~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1661351663256,5,0,"Escelente curso, aprendi mucho y entendi muchas cosas.",0,0,Gregorio Jesus Duran Henriquez,14051592
+45251352~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1658030517069,5,0,The content of this course is enough to create a great exploratory data analysis. It teaches some interesting tools and techniques to analyze data. Clustering section was my favorite part.,0,0,Luis Talavera,45251352
+38310933~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1648532780477,5,0,"The dimension reduction technique was so robust, typically,  this course detailed the critical parts regarding the data pre-processing. It is pivotal for the downstream analysis. ",0,0,Maulid Bwabo,38310933
+74517902~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1647596543650,5,0,An excellent course and very informative. I have learnt a lot of new things from this,0,0,Mumbi Mumbi,74517902
+2675338~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1643567743396,5,0,good course,0,0,Vinayak Neupane,2675338
+87967054~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1638622918842,5,0,"Good course, very extensive with swirl exercises.",0,0,Allyson Dias de Lima,87967054
+94236810~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1638515837148,5,0,-,0,0,Meidani Pamungkas,94236810
+92860218~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1635233980139,5,0,Very nice course with interesting case examples. I recommend this course ,0,0,Damian Strzelec,92860218
+54449148~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1634324322472,5,0,Thanks ,0,0,Kazi Shamim Shaharear Islam,54449148
+80068867~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1634228196755,5,0,enjoyed it,0,0,Sara Alamri,80068867
+92023022~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1632630749635,5,0,I have leraned a a  lot on basic plotting systems. very helpful for a beiginer ,0,0,Nipuni Dineesha,92023022
+29118508~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1631853628163,5,0,"Excelente curso, si deseas aprender a exlporar tus datos este es el curso que debes tomar. Muchas gracias por la oporrtunidad.",0,0,Juan Herrera,29118508
+59901071~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1628535657997,5,0,"G​reat course that unpackes difficulties in learning data analysis with R. The Swirl system is just ""Great"".",0,0,Youcef Mokrane,59901071
+15361649~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1628170459688,5,0,"good course to get started on the topic of information exploration, as they say it is basic that we understand that to carry out an analysis we must first know the information. 
+
+",0,0,Eduardo Chavez,15361649
+63824197~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1626979464195,5,0,Excelente curso ,0,0,DERECK ADNHEY RODRIGUEZ VALENZUELA,63824197
+19037308~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1622156251161,5,0,"This is essential for every posterior course, take care of understanding the concepts.",0,0,Andrés Durán C.,19037308
+55118423~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1620795624387,5,0,good,0,0,Sameeksha ,55118423
+30207362~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1620700163268,5,0,"This is a great course from Johns Hopkins University. I learn a lot through this course, from creating better color palettes to clustering data. The last project is interesting, in which I have to apply my R programming skills, data visualizations, and explore some other features in ggplot2 to solve the questions. Thank you Coursera and John Hopkins University.",0,0,Nguyen Nguyet Han,30207362
+24401320~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1620326561379,5,0,Really love swirl practice ,0,0,Alex Giacomello,24401320
+78251477~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1620146522669,5,0,Great course to learn graphs in R,0,0,Vivek Ranjan Pandey,78251477
+62676346~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1619118308850,5,0,Great course with important lessons. Thanks for the lessons and the information provided.,0,0,MIGUEL ALFONSO SALAMANCA RODRIGUEZ,62676346
+42725122~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1618664780942,5,0,It was a great time for me to learn more about data and eda,0,0,Thomas Jo,42725122
+77095818~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1617577209839,5,0,Excelent !,0,0,Oscar Zamora,77095818
+19059526~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1615923729754,5,0,Muy buen curso para comenzar a utilizar las herramientas de R para explorar y analizar datos.,0,0,Jose Luis Santana Verduzco,19059526
+78366525~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1614926327755,5,0,Gives a clear approach on how to explore data,0,0,kipchumba Brian,78366525
+53595120~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1613550139872,5,0,"Graet cource, thanks you for this opportunity",0,0,Mendyk Nikita Igorevich,53595120
+76994203~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1610697384048,5,0,Learnt much and achieved my goals.,0,0,Roy Maingi Kinoti,76994203
+37671~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1608565475262,5,0,"Gracias a la Universidad de Johns Hopkins y a los profesores Roger D. Peng PhD,
+Jeff Leek, PhD, Brian Caffo, PhD por la generosidad en compartir su conocimiento.
+Apreciados estudiantes, Mantenganse activos, mantenganse vigentes y motivados por su aprendizajeGracias Coursera por esa gran labor con la humanidad",0,0,Nelson Sánchez Sánchez,37671
+74289608~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1607319491109,5,0,Well taught and comprehensive. Exercises are great,0,0,Doris Muriungi,74289608
+37363857~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1607129765881,5,0,"Love this course, this is also useful to our Business.. ",0,0,Alvin Ballesteros,37363857
+73716187~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1606412497690,5,0,This is a great course. The basics are explained very clearly and very easy to understand. I highly recommend this course for those who wish to start in Data Analyst / Data Science track.,0,0,Imran Sahabdeen,73716187
+65458179~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1605924193312,5,0,Excelente curso!...muy buen material.,0,0,ESTEBAN ALONSO DONOSO ABARCA,65458179
+65473669~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1605073278668,5,0,Focused course. Liked it very much.,0,0,Shishir S Poojary,65473669
+64193422~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1604791779751,5,0,"Excelente, here i learned how explore and extract insights from my data.",0,0,Thiago Yuki,64193422
+57572742~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1603993719687,5,0,Great course! ,0,0,Long Trần,57572742
+15197559~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1603483859624,5,0,"An excellent course, with a well-balanced mix of videolectures, labs, quizzes, and assignments.",0,0,Marco Mello,15197559
+55907689~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1603097712155,5,0,The course content is hard but the lecture provides complete concept for this course. Thank you very much,0,0,Jeff Domingo,55907689
+39640382~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1602903270371,5,0,"Excellent course, it has allowed me to learn the bases to explore and analyze data.Dear teachers thank you for sharing your knowledge",0,0,Donald Montoya,39640382
+63592461~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1602856300987,5,0,Very interesting course!,0,0,MAISSAE HADDOUCHI,63592461
+47070303~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1602520293916,5,0,Sound practicum with challenging and comprehensive projects to solidify skill set.,0,0,Susan Martin,47070303
+54159879~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1602276714331,5,0,Great,0,0,Medha Bahukhandi,54159879
+27897893~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601648922009,5,0,Excellent!,0,0,José Castillo,27897893
+69419404~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601566556244,5,0,It was wonderful. Thanks..!!,0,0,ABHILASHA SRIVASTAVA,69419404
+64668678~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601414347018,5,0,"Great learning, Thank you!",0,0,Monica Solorzano Rodriguez,64668678
+62992054~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601321366259,5,0,"Me encantó el curso, fue muy fluido con muy buenos ejemplos y las actividades prácticas fueron realmente un aporte y un desafío para complementar los contenidos entregados",0,0,VÍCTOR MANUEL   GONZÁLEZ PIÑA,62992054
+62834926~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1601265271860,5,0,Excellent,0,0,DIPAYAN SARKAR,62834926
+70049616~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1600881431831,5,0,Excellent Course,0,0,NARENDRA OKTE,70049616
+25554355~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1600349391004,5,0,Challenging course but I enjoined it ,0,0,Luz Miriam Sarmiento Garcia,25554355
+60206177~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599519947984,5,0,The skills learnt are highly applicable.,0,0,Xinyun Chen,60206177
+59874641~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599448790424,5,0,"Excellent course for Exploratory Data Analysis. The focus on plots with the three systems R handles was great. The lecture are great overall, along with the assignments. It is really an enjoyable course.",0,0,Juan Pablo Loaiza Ramirez,59874641
+27989255~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599362131612,5,0,Great course,0,0,Jesus Maria Zabaleta Franco,27989255
+39559171~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599090804387,5,0,very useful,0,0,Mario Andres Cardozo Arias,39559171
+68182219~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1599080118573,5,0,I loved the explanations and the swirl course. It was amazing ,0,0,Robert Muendo,68182219
+55289827~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1598147452294,5,0,"basic and importan for data analyst.. just try it, it is worth",0,0,MOCHAMMAD NAFI' DZAKWAN,55289827
+10755429~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1598033442547,5,0,"If you want to know how to use plotting systems like ggplot2 and how to explore your raw data, this course is really Useful!!",0,0,Oscar Alvarado,10755429
+65802900~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1597284789376,5,0,Very good course. I found hierarchical clustering to be very simple and yet so useful. Assignments are also very good because they are based on real data which is often messy and we have to clean and identify keywords/patterns for our analysis.,0,0,Sajal Jain,65802900
+61370302~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1597057221652,5,0,learn a lot on various technique to explore data,0,0,Nurul Haszeli Ahmad,61370302
+58421699~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596951872052,5,0,Great course! :),0,0,Himanshu Vasant Patil,58421699
+63995831~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596909116209,5,0,Excellent course!!!!!,0,0,Fabiola Corral,63995831
+61889750~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596776379452,5,0,Interesting course,0,0,Teoh Gei San,61889750
+62930251~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596612752912,5,0,good,0,0,Souvik Paul,62930251
+38950797~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596103819453,5,0,"Would have preferred a more technical explanation of the dimension reduction techniques, but great overall",0,0,Nicholas Philo,38950797
+50159337~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1596051362000,5,0,"This course is really essential for any beginner in the field of data analysis as it is not only wokring with the tools, but also it gives you the mechanism of tackling the problems with the right technique of thinking and formulating the right questions.",0,0,Hesham Sami Saad Emara,50159337
+62185784~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1595570112117,5,0,"I encourage to read the book ,and learn the unsupervised machine learning algortihm better ",0,0,Pratama Azmi Atmajaya,62185784
+11261432~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1595090210511,5,0,La información que se vio en el curso es relevante y está bien explicada.,0,0,samuel cuevas juarez,11261432
+44652770~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1594556473500,5,0,So usefull,0,0,Mónica Cabrera,44652770
+47129176~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1594369864020,5,0,very good,0,0,David  Marulanda,47129176
+30871455~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1594260067157,5,0,I really learnt a lot from this course on the plotting.,0,0,Zhao Zheng,30871455
+3835216~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1594056355965,5,0,Excellent!!,0,0,vignesh iyer,3835216
+13409351~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593997061424,5,0,An awesome course providing skills from basics to sophisticated. ,0,0,Lam Lai Dung,13409351
+56900082~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593515008570,5,0,Enjoyed completing it ! Very nice course to learn EDA,0,0,Amrita Kulshreshtha,56900082
+64074445~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593098419972,5,0,an excellent course that allowed me to expand my knowledge and learn new things.,0,0,Jairo Alberto Villamizar Gelvez,64074445
+54383416~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1593077097809,5,0,Great course! The swirl courses in particular helped me to learn more,0,0,NEVIN THOMAS KOCHUPURAKAL,54383416
+58561554~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592846643516,5,0,Great course. ,0,0,Hassan Raza Bukhari,58561554
+27875735~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592654293693,5,0,Great course by RD Peng !,0,0,Ritayan Ganguly,27875735
+8089902~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592269292122,5,0,💯 ,0,0,丁雪松,8089902
+35507263~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592149965542,5,0,Such a fun part of Data Analysis!,0,0,Julien Forthomme,35507263
+38649691~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1592128722126,5,0,"less easy, less fun, very rewarding",0,0,Josef Natanael,38649691
+56604103~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591803853678,5,0,"Very Nice methodology, I enjoyed learns in this program",0,0,César Arce,56604103
+1086741~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591709691174,5,0,Very much enjoyed the discussions about how to initially analyze data before leaping into modeling. I feel I need to continue to look at PCA and SVD and understand them better. They seem very helpful but I feel like I still don't fully grok how to use them.,0,0,Keith Hughes,1086741
+57477860~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591636382634,5,0,The skills I acquired thanks to this course are really useful. I'm eager to dive deep into Data Science.,0,0,Johan Vásquez Mazo,57477860
+1869686~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591627537202,5,0,"Genuinely enjoyed this course.  Will be practicing and using what I learned for some time!😊😊😊If there were anything I would add to the course is maybe a short lecture on how to create 3-Dimensional graphs.  Regards, JT  -- See you in the next class!",0,0,John Rogard Tabori,1869686
+37596860~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591466149167,5,0,Explained in a simple and clear way for folks like me who are new to the course,0,0,Gayathri Nagarajan,37596860
+61570009~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591454760882,5,0,Awesome course that expands on your R knowledge. Only nitpick is that some of the links don't work and the videos need an overhaul as there seem to be little to no updates since 2015/2016.,0,2,Eswara Kosaraju,61570009
+126163~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591183631533,5,0,Great introduction to exploratory data analysis. Would've been great if more advanced material was covered.,0,0,Ramesh Gunaratna,126163
+56850487~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1591104816591,5,0,"Was hard for me, but it was very instructive Thank you !!",0,0,Jorge Luis Pérez de la Torre,56850487
+6327327~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1590681044192,5,0,"Great course, I learned a lot",0,0,Marely Ruiz,6327327
+54487618~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1590169454278,5,0,Learned how to look at data and get some first impressions using exploratory data analysis techniques. I wish the second course project was more involved by including hierarchical clustering methods in the analysis. ,0,0,Garrett Farley,54487618
+41426041~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1589778572583,5,0,good course,0,0,SHIVA PATHAK,41426041
+35178615~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1589101137491,5,0,definitely worth it ,0,0,Nirajan Khadka,35178615
+27416706~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1588830841560,5,0,Excellent,0,0,puttaswamy B S,27416706
+21402774~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1588624528576,5,0,Very excellent  course structure. Gives you all the bases you need to get you started in exploring your data.,0,0,James Addo,21402774
+55791506~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1588515200793,5,0,It was a great learning experience!,0,0,ROMANI BANERJEE-DM,55791506
+11458336~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587708790125,5,0,Very useful course conceptually as well as with excercises and projects,0,0,manuel solans garcia,11458336
+27578963~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587622084474,5,0,"I strongly recommend this course to anyone who needs clearer understanding of data using Visualizations.  The course is well structured and each lecture delivers new concepts in concise format with a very detailed swirl lessons to understand the working of each functions.  At the end of the course, I got a completely different view of handling the data and how to extract maximum information from the data to gain meaningful insights. ",0,0,Monisha Damodaran,27578963
+14548033~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587450431277,5,0,"  If you really want to learn, Coursera is the best option. There is a myriad of options and sources this specialization provide.  ",0,0,ZAMI KHAN,14548033
+12336108~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587314828905,5,0,Very useful!,0,0,Marta Montes,12336108
+52451189~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1587242867542,5,0,Great interactive course!,0,0,Lin Hedehus,52451189
+25044958~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1586439441812,5,0,very rice content! I like it. help me understand PCA SVD throughly. ,0,0,YUCHEN ZHOU,25044958
+16653938~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1586121550492,5,0,"One of the most fulfilling courses I've taken. Already used what I've learned to analyse the COVID 19 data and get more information from it, learning at the same time. ",0,0,Vasco Alberto Filipe Ribeiro Belo Pereira,16653938
+11167734~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1586023044675,5,0,This is was a great course. ,0,0,Amanda Kiannejad,11167734
+46332997~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1584179491757,5,0,Nice course,0,0,abdelrhman amin,46332997
+46117288~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1583077036971,5,0,Great course!,0,0,Marlen Doskarin,46117288
+26172225~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1582114905370,5,0,Good Course I learn all good concepts Thank you R.D.Peng,0,0,Neha Pandya,26172225
+44576776~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1581106020092,5,0,Learned a great deal. Especially on clustering.The second project could be a little more challenging; I overestimated the answers requested. ,0,0,Fenneken Kalff-Zweers,44576776
+8848086~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1580757107010,5,0,"Me encanto el curso! Buenos profesores, el curso estuvo modulado de la manera interesante y el ingles estuvo fácil de entender. La parte practica me motivo a poder continuar con los siguientes cursos de la especialización.",0,0,Rosa Cueto Vega,8848086
+35894193~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1580575244321,5,0,this course was very good. Helped me a lot.,0,0,Vishal,35894193
+1779168~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1580571508532,5,0,Little time consuming but a great course. ,0,0,Kunal Patel,1779168
+46400964~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1579635140430,5,0,"Very good resume of the previous lessons, you lear plotting, charts, working with big matrices, create a good practical workflow to understand your first analyses",0,0,Rob Sleurs,46400964
+5294835~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1579278125637,5,0,Awesome Course!,0,0,Rui Wang,5294835
+10413699~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1579148223854,5,0,"As an auditor, this course taught me to see things more clearly from different angle.",0,0,ONG POH SOON,10413699
+42118048~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578908882538,5,0,"Very exciting, Did you Know that just by exploring your data can help you reduce the list of models you want to try out",0,0,Amanyiraho Robinson,42118048
+40730424~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578526825933,5,0,This was an excellent class.,0,0,Deleted Account,40730424
+40897337~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578506234769,5,0,Excelent! Very useful course,0,0,Ricardo León,40897337
+45684871~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578243109019,5,0,"Great course providing a good overview into the various plotting systems in R. I enjoyed the introduction to principal components analysis and singular value decomposition, but could have used more material to practise these methods",0,0,Dev Parmar,45684871
+44287901~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578059538610,5,0,Awesome!,0,0,Rahul Pal,44287901
+41042925~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1578010293985,5,0,Excellent!  Very challenging and enjoyable.,0,0,Sean,41042925
+23778876~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1577644301332,5,0,"Great intro to plotting and related tools in R. Will say that the coverage of heatmaps and PCA felt a little out of left field, with very little intuition. However, overall quite good.",0,0,Mathew Knudson,23778876
+1398072~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1575842194356,5,0,I think this was a great intro course to graphing and exploring data!,0,0,Elaine Ellerton,1398072
+44538032~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1575252799099,5,0,Very good,0,0,JiapengSun,44538032
+32771281~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1573262706970,5,0,Great course for learning the plotting mechanisms of R,0,0,Trevor Gribble,32771281
+8203170~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1572896233580,5,0,i very much like the course book.  The course book helped me most in really learning the material and how to build plots.,0,0,Alexander Donders,8203170
+34111432~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1572458787277,5,0,It was indeed a nice learning through out the course,0,0,Robin Ahmed,34111432
+44018706~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1571868908108,5,0,Roger is the man!,0,0,Tristan Ficarro,44018706
+9298179~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1571285325030,5,0,"Very useful class, I have already started using the learnings. Its easy and quick to understand.",0,0,Nikhil Joshi,9298179
+29076033~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570444697044,5,0,"Thank you so much instructors, the learning curve till now has been great for me.",0,0,Shubham Sharma,29076033
+41149095~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570427979054,5,0,Good course for beginners,0,0,Nayankumar G Pandya,41149095
+38744955~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570208682427,5,0,Good,0,0,Pitak Puangpila,38744955
+40596456~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1570072343142,5,0,I am pleased with the success. In completing the course,0,0,Ratanaporn,40596456
+41743508~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1569786509881,5,0,Excellent Course  detailing graphics in R,0,0,David Wagner,41743508
+37934602~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1569654598592,5,0,Really good Course!,0,0,Leonie Rottenbach,37934602
+8169728~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1569026661272,5,0,Excelent course!!!! Congratulations!!!,0,0,Onédio Siqueira Seabra Junior,8169728
+43550038~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1568545824045,5,0,Learnt a lot,0,0,Muhammad Zunnurain Hussain,43550038
+43793522~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1568129209281,5,0,Perfect and thank you,0,0,Jakub Komorný,43793522
+32526664~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1568077839247,5,0,The BEST course in the series by far. You finally get your hands on some data.,0,0,Angela Crist,32526664
+24425088~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1567061304740,5,0,The course is very useful,0,0,FAIZAN DANISH,24425088
+303728~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1566966785071,5,0,"I enjoyed taking this course specially the projects and swirl practice. If the clustering were a bit detailed, it would be useful. Also we could do a project using the 3 different approaches, it would be interesting. Nevertheless, it was fantastic with the amazing professors.",0,1,Farah Nazifa,303728
+41317671~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1566411760525,5,0,Thank you for opportunity to improve each day.,0,0,Henrique Raymundo Gioia,41317671
+3198068~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1566310316079,5,0,"I learned a lot, this course more than others, really expanded my competence and appreciate for the capabilities of R, especially is visualization toolbox.",0,0,Gary Thomas,3198068
+29066935~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1565684574055,5,0,very good course,0,0,amir saleem,29066935
+7800254~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1565615789525,5,0,  Course material and projects help a lot in learning and improving data analysis techniques  ,0,0,Thiago Madeira,7800254
+42062219~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1564384093183,5,0,Good Course. Would've like a bit more about more advanced plotting and less about clustering techniques but that is probably mainly down to what data each is intending on handling after this course. ,0,0,Felix Evers,42062219
+37621715~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1564133541241,5,0,Good Course with proper explanations and lot of practices. ,0,0,Lalita Mophapatra,37621715
+10361128~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1564052328744,5,0,Good.,0,0,Robert Jeenchen Chen,10361128
+31905660~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1563822690510,5,0,I liked both the course content  as well as the assignments. Great course to learn exploratory analysis in R.,0,0,Ishwarya Murugan,31905660
+7384643~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1562977751642,5,0,This series has been life changing for me. Thank you.,0,0,Alex Borges,7384643
+30652785~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1562538234670,5,0,"This course teaches how to use three different plotting systems in R. Given the dominance of the tidyverse/ggplot2 paradigm, I really appreciate the opportunity to learn the base plotting system and the lattice plot system. ",0,1,Deleted Account,30652785
+10849304~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1562195139770,5,0,That's  a  great  and  very  usefull  course! ,0,0,Elimane  NDOYE,10849304
+41173824~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1561719362143,5,0,"Really good course, with amazing videos and examples. I have learned a lot and I think the projects were really interesting.",0,0,Marta Redondo,41173824
+8942745~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1561375061105,5,0,Great content!,0,0,Amelia Pessoa,8942745
+2213583~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1560869401980,5,0,Very well formed course. Enjoyed the course and projects.,0,0,Amy Binny Philip,2213583
+21594153~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1560860871140,5,0,"Great course, it teaches you a lot about how to create plots, charts and other tools using R code. This course is focused on ""get to know your data"" by using all this tools during a research process. It is like the previous step you have to do before going into any analytics.    ",0,1,Diego Angulo Q,21594153
+40001104~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1560371857222,5,0,Excellent course and applicable in my work right now,0,0,William Brent Bruffett,40001104
+37088954~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1560304335674,5,0,Good course ,0,0,Santi Mailoungkard,37088954
+41156481~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1559039504621,5,0,Very useful course with interesting contents.,0,0,Jorge Bretones Santamarina,41156481
+32304535~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1558689587568,5,0,Amazing! Learing so much how to explore the data for the first time. This is a must do for anyone who wants to be a data scientist. Now I can use ggplot without any trouble. Thanks!,0,0,Nino Požar,32304535
+5629100~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1557762316142,5,0,great cousre,0,0,Giorgos Anastasakos,5629100
+2900360~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1556668118025,5,0,"Great course! I'm learning a lot with this course, i recommend.",0,0,Patrícia Alves Fernandes,2900360
+7073747~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1555935886845,5,0,Great Course. Lectures did diverge from Quizes and projects but still was good practice of looking at a set of data and reporting out from it.,0,0,David Searl,7073747
+39353517~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554834003367,5,0,Good practice.,0,0,Manuel Esteban-Infantes ,39353517
+20461731~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554559046140,5,0,It was a good and a useful lecture for R beginner  !,0,0,Tae Wook Oh,20461731
+31450279~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554555150273,5,0,amazing course,0,0,Vishal Kasaudhan,31450279
+21350506~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554491628650,5,0,I am truly enjoying this course and the process.,0,0,carlos j martinez,21350506
+38523244~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554237934182,5,0,"Fun, and I enjoyed what I learned, which was a lot.",0,0,Crystal Zhong,38523244
+27686624~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1554155101926,5,0,Excellent course! ,0,0,Scott Artmann,27686624
+8642202~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1553400007830,5,0,Very good content !,0,0,Faylene Therese Gilles,8642202
+6954503~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1552569514890,5,0,thank you,0,0,Janet Aguayo Reyes,6954503
+30164623~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1551459432841,5,0,please provide some practical problems with answers to practise before attempting the assignments,0,0,Rizwan Mohamed,30164623
+37678450~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1551024216607,5,0,awesome....,0,0,Abhay Srivastava,37678450
+37615058~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1550715183008,5,0,I learned so much in this course. ,0,0,Cynthia Mcgowan Poole,37615058
+22599992~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1550294092605,5,0,I learned a lot from this course. Content which the course covers was a third of what I learnt from this course. the best thing about it is learning the pattern of thinking about exploring a whole new dataset.,0,0,Rouholamin Rasouli,22599992
+37314380~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1550149813016,5,0,Thank you for this course. I really learn a lot!,0,0,Justin Angelo Bantang,37314380
+37758712~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1549710524060,5,0,The course is definitely useful for my job. I learned new skills and had fun!,0,0,Hathairat Wittayapusagul,37758712
+30094536~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1549332038868,5,0,This has been very exciting!,0,0,Parker Oakes,30094536
+34675231~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548909837421,5,0,A very good course describing commonly used graphical techniques with good examples.,0,0,Avizit Chandra Adhikary,34675231
+240002~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548858183139,5,0,"Great course to learn how to play with data - a good intro to things like Kmeans and hierarchical clustering, as well.",0,0,"James E Harris, Jr.",240002
+26671665~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548844170396,5,0,Fabulous ,0,0,Aman Ullah,26671665
+34906902~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548566420064,5,0,I really liked this course. I felt like a learnt a lot especially with all of the projects ,0,0,Gat Tholbok,34906902
+37796801~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548405959900,5,0,Fantastic way to learn graphing systems in R and exploratory analysis,0,0,Natalie Rebeiz,37796801
+23016116~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1548254505180,5,0,This is a great course on plotting data as well as finding underlying patterns in it.,0,0,Сетдеков Кирилл Раильевич,23016116
+37911885~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1547872750602,5,0,Excellent course. Love the case studies,0,0,Charbel Lahoud,37911885
+32502958~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1547661517619,5,0,really interesting,0,0,MEKIE YOUDOU RALPH KEVIN,32502958
+5101052~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1547459550596,5,0,An excellent introduction to R' basic processing and graphing functionalities.,0,0,Bruno Rafael Santos,5101052
+34981576~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1547002995446,5,0,great course,0,0,Rodolfo Rojas,34981576
+13266026~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1545241731251,5,0,Excellent course!,0,0,Yoselin Arvelaiz,13266026
+32927916~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1545129363307,5,0,good,0,0,Razib Ahamed Khan,32927916
+34895430~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1544579324414,5,0,The data used for training are too big to be processed on my computer....It is a real burden for my laptop when I use Rstudio to view some big files.....,0,0,王昊辰,34895430
+10440442~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1543791633820,5,0,Very useful course,0,0,Jessica Roland,10440442
+6982419~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1543390530966,5,0,Excellent and thank you very much!,0,0,Anitha Guruprasad,6982419
+9856750~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1542315825184,5,0,"Great knowledge and instructor, as usual.",0,0,Gustavo Castilhos Garcia,9856750
+36108946~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1541616967493,5,0,Some real stuff,0,0,Qingchuan Cui,36108946
+33340248~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1540209145632,5,0,"An extremely interesting course, with many practical applications many of which I've applied in my day to day work already. ",0,0,David Robinson,33340248
+11707386~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1539715094970,5,0,"This has been a challenging course for me, for whatever reasons. I have devoted a great deal of time in reading Dr. Peng's books as well as reviewing work product of other students to get a better grasp of the logic and methodology. I have enjoyed this course more than any of the preceding courses. And, the struggle I believe will be worth the effort and facilitate my completion of the data science specialization program.",0,1,Dale Ossip Johnson,11707386
+27591223~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1539503057744,5,0,Great course with great materials. Easy to understand and to learn.,0,0,Bojan Brajkovic,27591223
+7890191~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1539277496621,5,0,awesome course to learn exploratory data analysis using R programming language.,0,0,Raunak Shakya,7890191
+26438054~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1539050243685,5,0,All of the quizes and assignments we're able to be completed with the material provided in the course videos.,0,0,Nathan Heng,26438054
+35371042~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537969176120,5,0,"Good course, the subject is starting to get more interesting at this point of the specialization...",0,0,Gustavo Peconick,35371042
+36028965~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537865144950,5,0,it helps a lot!,0,0,Kidpea LAU,36028965
+18938623~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537648122754,5,0,The exploratory data analysis is a very important part of the elaboration of a data product because this period helps to understand the most important variables and the elements to construct models and visualize an early result.,0,0,John Bedoya,18938623
+30534797~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1537091700974,5,0,"Loved it , the K means was pretty difficult for me but others was a breeze as i had experince in ggplots before the course",0,0,Gaurav Bhosale,30534797
+27662626~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1536790882010,5,0,Very interesting and useful for its applicability to a lot of different professional areas.,0,0,Alberto Gerardi,27662626
+34875619~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1536552587408,5,0,Best course to move in the field of Data Science and those who are starting on this field to move towards data science and Machine Learning this is gone help them so much. As the assignment part and the lectures are guided to you this gonna make you feel like best to have this course.,0,0,Savitri,34875619
+26555899~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1536338179007,5,0,good course,0,0,shashwat khare,26555899
+27078269~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1536026846507,5,0,Short course for understanding the subject.,0,0,Ajendra Sharma,27078269
+35536585~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1535686399973,5,0,"I loved it, it improved my R skills in plotting and also gave me nice insights!!!",0,0,Pooia Lalbakhsh,35536585
+32685999~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1534755136659,5,0,Da best,0,0,Longrio Platil,32685999
+2215850~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1533915748639,5,0,Work thru the Swirl exercises definitely helped. Great course.,0,0,Michael Segura,2215850
+28525550~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1533911432202,5,0,Amazing! Thanks for you efforts. ,0,0,Dr. Mohammed Hassan A. Jawad ,28525550
+9979294~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1533872069668,5,0,"Loved it! It took me longer than expected due to work and family issues, but I went so many times to the materials and even use some ggplot2 for work that ended being quite fulfilling.",0,0,Marco Antonio ILLESCAS ECHENIQUE,9979294
+1306758~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1533129921848,5,0,"Great course, I have improved my skill plotting in R and organizing files.",0,0,Sandra Guauque-Olarte,1306758
+9528100~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532800501934,5,0,Concise and useful.,0,0,William Wei,9528100
+32672295~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532798053529,5,0,Thoroughly enjoyable with an excellent method of measuring the learning outcomes at the end.,0,0,Jamie McLaughlin,32672295
+22637686~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532433036931,5,0,Great hands on course that will help me with a problem I needed to solve at work today. I’m very excited to start getting into the more real data analysis stuff. All the foundation work in this certificate is awesome  and necessary but now the real fun is beginning,0,0,Jeff Anderson,22637686
+23542834~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532378510886,5,0,Excellent course!Congratulations and thanks to the teachers of this course for sharing their knowledge on such an engaging subject that is Data Science.,0,0,Deleted Account,23542834
+7644037~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1532013258138,5,0,Fun and full of information :),0,0,Andrew Gray,7644037
+34549301~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531795791460,5,0,"Very good class. Of the four I've taken so far, this one has given me the most confidence that I could be successful as a data scientist/analyst.",0,0,Athanasios Stamatoukos,34549301
+28851329~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531632211014,5,0,Best Course i have taken ... THANKS Roger,0,0,Qaiser ijaz,28851329
+27562823~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531140564074,5,0,Very good course!,0,0,Sam Mallisetti,27562823
+33726782~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1531130055473,5,0,"Clear slides, inspiring lectures.",0,0,Junxue Zhang,33726782
+25657643~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530858243267,5,0,It's a great course. Thanks to mentors for their efforts.,0,0,Alzum Shahadat Miazee,25657643
+32874909~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530684940847,5,0,"Excellent explanation and adding very good skills on the way of data science specialization.For some slides they should be updated to have working URLs , some seems old and absolute now",0,0,Mohammad Abuarar,32874909
+27515159~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530442209938,5,0,Great Course !,0,0,"T, Karthik",27515159
+30439172~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530290879795,5,0,very well explained .,0,0,Abhishek Patra,30439172
+3207183~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1530045811163,5,0,Feels like things are starting to come together. Good class.,0,0,carl wilburn,3207183
+20038781~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1529719949176,5,0,"A great course I had to do research on the side to get some ideas and concepts that were presented in this course.... if this was my first course i would have found that not a good thing . However, every time i search i get better as a data science student and i know what to search for and how to find it and i think this is essential if you want to be a data scientist :)",0,0,reem zurnaji,20038781
+24438198~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1529303641555,5,0,"Well organised course for Exploratory Data Analysis. After this course you will be thorough with the basics of the Exploratory Data Analysis. The peer graded assignment is one level higher than the concepts thought in the lectures is what I felt. Overall, it is worth taking this course. Thanks a lot, Coursera.",0,1,Chandrakanth Chittappa,24438198
+24707832~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1528107445157,5,0,Course materials and video are really good and easy to understand.,0,0,Md Golam Murtuja,24707832
+11158455~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1527701848120,5,0,Great course!,0,0,Fernanda Hernandes Paysan Gomes,11158455
+27290184~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1527483205597,5,0,Found this course very impressive and challenging. Looking forward for the next.,0,0,Admet Zhakupov,27290184
+23663893~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1527267012802,5,0,"This course is the first real step from using R for basic data manipulation/stats, to using it for advanced stats. However, the videos on PCA (principal component analysis) and SVD (singular value decomposition) were difficult to understand, and I had to view several videos on YouTube (e.g., StateQuest or Standord U) that do a far better job of explaining. Once I did that, the course videos seemed to make more sense.",0,0,Tejus Maduskar,23663893
+27940477~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1526976493297,5,0,Week 3 - clustering concepts appear hard to comprehend initially. This week should first start with a practical example/use of clustering and then move on to technical ,0,0,Sanjay Lonkar,27940477
+27091458~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1526293096929,5,0,"Very informative course, enhance dat",0,0,Anil Gouniyal,27091458
+27892713~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1525139348704,5,0,Nice,0,0,Ganapathi Nayak K,27892713
+13432274~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1525107173515,5,0,Great course to learn the basics of exploratory analysis using R,0,0,Vijay Mahajanam,13432274
+23668869~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1525022201735,5,0,Very good course. I learn how to do the exploratory analysis,0,0,吴昊,23668869
+169329~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524591485228,5,0,Great!,0,0,Olawunmi George,169329
+24719929~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524448233606,5,0,非常好的课程！,0,0,陈颐欢,24719929
+17598378~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524323178307,5,0,Great course. Most helpful was the swirl exercises.,0,0,Bivas Maiti,17598378
+22347473~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1524191064796,5,0,Great!,0,0,Kathleen,22347473
+29981919~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1523918222767,5,0,Great course.  The case studies are extremely helpful as well as the SWIRL exercises.,0,0,Nannette Spear,29981919
+29448067~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1523755233280,5,0,like this course,0,0,卢君,29448067
+27035651~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1522856670637,5,0,Effective and very different. ,0,0,Keidzh Sergei,27035651
+31616268~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1522648584869,5,0,This course really helps you to learn the fundamental exploration techniques. The assignments and the examples are really helpful.,0,0,Bhargava Bokka,31616268
+2324904~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521957283400,5,0,recommended course,0,0,Saqib Ali,2324904
+19881951~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521885976761,5,0,"Clear, demanding, and sharp !",0,0,Arnaud Aubert,19881951
+2123419~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521716848905,5,0,The right amount of theory and practical. This course will take you through the process on how do you ascertain what's important? and how to find that needle in the haystack? . Absolutely recommend to take this up. ,0,0,Varun Bhandary,2123419
+31236203~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521129000453,5,0,The case studies were so helpful.,0,0,Melanie Butler,31236203
+7327853~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1521013892391,5,0,"Great Insights to graphs, plots . histograms",0,0,Sanjeev Rohilla,7327853
+32095760~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520848598217,5,0,"Im really learning because of the exercises, they are very efficient!!congratz coursera",0,0,Isaac Campos,32095760
+23033793~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520776686351,5,0,good course of learn,0,0,Saurabh Singla,23033793
+9480848~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520675753224,5,0,"That's a wonderful course, especially if you take it with the specialization, and also better if used with the recommended books. I highly recommend, but once you finish it, you should continue to work on your own ;)",0,0,BOUZENNOUNE Zine Eddine,9480848
+28852369~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520231660688,5,0,Excellent course!,0,0,Djafer Tadjine,28852369
+20519253~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1520181458263,5,0,Excellent course Swirl lesson makes learning data science much easier,0,0,Karan Bhatia,20519253
+22365826~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1519612619076,5,0,Excelente curso. ,0,0,Eliomar Franco,22365826
+949157~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1519535133161,5,0,I learnt a lot about plotting system and about exploratory research.,0,0,Sandhya Avasthi,949157
+2991972~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1519108386229,5,0,Amazing course content & assignments! Thanks.,0,0,Tanuj,2991972
+3442091~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1518923611375,5,0,Highly recommended course for budding data scientist. I loved the John Hopkins univ pedagogy and peer review system. The content is great.,0,0,Ishwar Nagwani,3442091
+1482585~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1518865552004,5,0,Useful. very clear and easy to review and learn ggplot and other useful things,0,0,Antonio Maurandi López,1482585
+22349005~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1518204247514,5,0,Overall good course! Though I hope there is more exercise in SVD/PCA part,0,0,Stefan Putra Lionar,22349005
+4611141~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1517948948005,5,0,"This was a great course. I learned how to use several graphic systems within R, and to imagine how to make clear answers to questions using plots.",0,0,Alfredo Ascanio,4611141
+2486316~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1517729972840,5,0,Enjoyed this course. The course content and projects are very relevant to the field.,0,0,Jacques du Plessis,2486316
+21517433~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1517224140172,5,0,It helps lerner to know whether the capture data can help him to get answer to his question.,0,0,Atul Gunjal,21517433
+10141351~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1517070414680,5,0,Great tools and insight to start exploring Data. Also great stuff to practice previous training on Data Science.,0,0,Mauricio Chacon,10141351
+8565761~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516645807116,5,0,It was very useful!,0,0,Tina Hang,8565761
+29284530~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516577134089,5,0,very good.Congratulations!,0,0,Luis Manuel Murillo Reyna,29284530
+21119559~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516513745783,5,0,Very useful subject on churning data to derive meaningful and actionable insights,0,0,Pradeep Senapati,21119559
+29578396~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516214206105,5,0,"Great course for plotting basics.  Also really enjoyed the sections on SVD, PCA and Clustering.",0,0,Kyle Hayes,29578396
+21752711~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516210425063,5,0,Good Course!!! Didn't know anything about R Exploratory Data Analysis before but now it seems easy..,0,0,Rahul Priyadarshi,21752711
+28634362~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1516129056377,5,0,the best course ever to understand gg plot,0,0,sneha,28634362
+8791677~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1515141915355,5,0,"A very good and concise course, with useful tools to explore data visually!",0,0,Lee Yen Leng Ruth,8791677
+29076335~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1515141029631,5,0,This course is nice but ggplot should have been given more emphasis probably. I really enjoyed the sections on SVD and PCA as these really require mathematical maturity. Other than that solid introduction to the plotting systems in R which is a must have. This course coupled with Applied Charting with Python will complete my skillset. Looking forward to the rest of the specialization. ,0,0,Yusuf Ertas,29076335
+7416419~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1514617615811,5,0,"very good course, a fast and robust was to learn data analysis using R, thanks",0,0,antonio quintieri,7416419
+19548413~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1513891739419,5,0,Great work on graphing & charting,0,0,Abhishek Bhakuni,19548413
+18383926~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1513662262325,5,0,"For plotting methods, one of the best courses out there",0,0,Vinicio De Sola,18383926
+8827777~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1513376522329,5,0,Excellent!!,0,0,Sam Jacob Julian,8827777
+25742127~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512969938230,5,0,"Great Course. Week 3 requires a bit of mathematical savvy (google SVD/PCA), but since there is no quiz, it won't affect your ability to finish the course, just your ability to fully understand what you are doing. The last project was a bit challenging, which is always good, but most of the information to complete it and earn full marks is in the discussion forums as usual. ",0,0,Marcelo Sanches,25742127
+1638230~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512695771718,5,0,Examples and lectures were excellent.,0,0,Robert M Michaels,1638230
+12273783~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512435423793,5,0,Well organized contents and great instructors.,0,0,Frank Sheng,12273783
+21750031~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512221730513,5,0,"Very good introduction to Exploratory data analysis for beginners, the material is structural, lectures are interesting and useful",0,0,Marat Kasakin,21750031
+11532986~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1512032250643,5,0,"A good, informative course, thanks a lot for the teaching.",0,0,Himanshu Raj,11532986
+28471258~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511920860464,5,0,V,0,0,Ganesh Prabhupatkar,28471258
+27232646~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511717308266,5,0,I learned a Lot over the last several weeks.,0,0,Erich F Gruhn,27232646
+27513496~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511593967522,5,0,Superb!,0,0,Roland Pfeifer,27513496
+3546013~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511589076911,5,0,Amazing course content and assignment :),0,0,Arushi Agarwal,3546013
+13962067~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511460897708,5,0,"Este é um ótimo curso, com referencias muito boas e o Swirl ajuda muito a treinar os conceitos. ",0,0,Alessandro Silva,13962067
+26833366~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511255763179,5,0,"Excelent course! I learned to make plots with the base plotting system and with the lattice and ggplot2 packages. Challenging assignments. It was great to learn about clustering, dimensionality reduction, SVD and PCA since they play a very important role in Data Science.",0,0,João Freire,26833366
+28510653~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511250823216,5,0,ok,0,0,Amit Kumar Rai,28510653
+9975312~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511144130820,5,0,very good course,0,0,Emily,9975312
+2466646~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1511113028432,5,0,This course along with swirl exercise is really helpful.,0,0,pranshu sharma,2466646
+15169777~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510662840446,5,0,Very nice course. good material. Not easy nor boring at all. Really learned here,0,0,santiago Ramirez,15169777
+28164837~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510525697714,5,0,Brilliant dive into the basics of exploratory data plotting. A very useful course for data science beginners.,0,0,Andrew Michael Telford,28164837
+855343~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510504230568,5,0,"I enjoy a lot this course, but I was waiting for more assignments with plots",0,0,Yadder Aceituno,855343
+16184992~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1510017451176,5,0,"
+
+Excellent course. I learned more than I expected. A technique that was always at hand but never used: perform analysis through graphics exploring countless variables at a single time. ",0,0,Leonardo Mendes de Oliveira,16184992
+12005797~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509990022459,5,0,It helped me a lot!,0,0,Nikolai Klassen,12005797
+26835984~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509975200280,5,0,Good Course,0,0,Sumeet Mishra,26835984
+13428491~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509864980672,5,0,Recommended course for Beginners!!!!!,0,0,Jaganath Babu,13428491
+3083860~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509571982500,5,0,Very helpful!,0,0,Xiaozhou SHEN,3083860
+4026729~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509493025298,5,0,Learning how to make plots and play with the data is where data science finally started to get fun!,0,0,Kristin Abkemeier,4026729
+23197197~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509439753565,5,0,Very useful !,0,0,WANG Haiyun,23197197
+6279618~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509402744143,5,0,Informative and really fun to do.,0,0,Allister Grant Alambra,6279618
+11276388~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1509272571227,5,0,Great! Really useful course!,0,0,Craig Staples,11276388
+500728~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1508949412745,5,0,Curso excelente,0,0,Amarante Geraldo,500728
+5057180~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1508837310145,5,0,Great course,0,0,Anna Bellido Rivas,5057180
+18465764~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1508784729851,5,0,Great ideas around exploring data quickly and efficiently!,0,0,Fernando Rodríguez Alvarado,18465764
+9325006~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1508396134642,5,0,Excellent course. ,0,0,Dario Oviedo,9325006
+29055503~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1508203633020,5,0,The peer review takes so long..................................................................................... which costs me extra money even though I have finished all the stuff 1.5days before the last day.,0,0,Runhao Zhao,29055503
+29136706~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507538526708,5,0,Course is very good.,0,0,JEEWESH KUMAR JHA,29136706
+26658682~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507348425361,5,0,IN depth Explanation,0,0,Apoorva Shetti,26658682
+23462899~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507217861816,5,0,Good!,0,0,Adán Hernández,23462899
+19279874~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507204973398,5,0,"Very insightful course!!!The swirl packages and course projects in ""Exploratory
+Data Analysis"" course have really helped me to understand the power of R
+in performing introductory graphical analyses towards initial inferences. It
+has good hands-on exercises to really put to action various sophisticated
+graphs and plots for boardroom conversations on how to go deeper into the data
+analysis in order to find meaningful business insights or build powerful
+predictive models. As I advance through the specialization, I am getting to
+realize how powerful Statistical Learning through R is for quick business
+action and automation.",0,1,NISHANT PANIGRAHI,19279874
+24454029~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507082542129,5,0,Good lecture about R graphics!,0,0,李俊宏,24454029
+26587563~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1507065604619,5,0,"I had a lot of experience with graphing data before this class in Mathematica and Excell, however, graphing in R seems so much easier and a lot more fun. This class did a great job of explaining the process, and the assignments felt more like games than homework.",0,0,Nicholas Alexander,26587563
+1095998~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506826886644,5,0,Very insightful,0,0,Sai Prasad,1095998
+3208505~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506552932391,5,0,I was able to learn the material presented over the time of the course. It's a lot of material to cover in the time I could commit to it but I feel confident using the tools and methods presented. The projects were very valuable both from getting to practice the methods and tooling and also from seeing how other students approached the solutions. I really helped put all the options into context and highlighted the value of using the different tools and where to use them. Only knock would be sometimes the background noises in the videos were distracting.,0,0,Anthony Craig Cunningham,3208505
+3299890~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506540452120,5,0,Very fun and challenging course. ,0,0,Maurice Edwards,3299890
+27263511~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506489913510,5,0,非常好. 学到很多实用东西,0,0,杜冈桃,27263511
+93248~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506359859830,5,0,Great course to learn how to build nice graphics and do exploratory data analysis,0,0,Juliana Clemente,93248
+24844361~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506292408745,5,0,"Very good course! It provide me the foundation in learning how to plot and interpret data. This will definitely strengthen my ""R programming"" to generate publication type figure for my genomics data! ",0,0,Yang Fong (Richard),24844361
+28063899~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1506172722657,5,0,This course is quite helpful. Especially the part which we learned to use ggplot. ,0,0,Zhiming,28063899
+25236273~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505732278790,5,0,Perfect,0,0,Mohamed Azar,25236273
+11598995~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505643843489,5,0,The graph tools presented in this course are very powerful,0,0,Luiz Cunha,11598995
+8029256~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505636989082,5,0,great course,0,0,Raju Gupta,8029256
+25464653~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505144240267,5,0,C,0,0,Wei Wu,25464653
+25766800~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505143532474,5,0,Quite Happy! for Crediting the Course,0,0,sagar srinivas,25766800
+11610815~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505097533660,5,0,  Very good for anyone wanting to get into the field of Data Science using R  ,0,0,SATHYANARAYANAN SHANMUGAVELU,11610815
+26389528~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505094808257,5,0,This course is very important for beginners and it is also simple to understand.,0,0,Ravi Shankar Ram,26389528
+13677582~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1505081892950,5,0,Great overview on explonatory data analysis and preparing graphs in R. I could apply the now knowledge directly to my current work.,0,0,Roman Othmar Braun,13677582
+15338752~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504963852461,5,0,EDA is essential part of data analysis and in this course the concept is well covered especially through the assignements.,0,0,Mehrdad Taheri,15338752
+1902436~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504884866511,5,0,A very challenging experience!,0,0,Carlos Barco-Blanco,1902436
+21667259~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504751729621,5,0,Excelente!!!,0,0,Guillermo Romero Pomareda,21667259
+3842402~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504658952755,5,0,Excellent course!,0,0,Nicolas Borchers,3842402
+26412827~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504495031088,5,0,The project was fun!,0,0,Michael Madsen,26412827
+19168025~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504274531171,5,0,great luv ggplot,0,0,Greg Bennett Gibb,19168025
+25746391~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504083876746,5,0,Nice content. Make sure to take the SWIRL course offered. That really helps to get a hold on the course. Recommended!,0,0,Avinash Anand,25746391
+20725842~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1504049488865,5,0,Extremely useful for me when doing my analytic works and few workaround on the programming level.,0,0,MUZAFFAR BIN HAMZAH -,20725842
+2225227~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503952431460,5,0,Excelente curso e instructores!,0,0,BJesús Rodriguez,2225227
+22933734~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503923097607,5,0,"Great course, very useful exercise and case study.",0,0,Massimo Malandra,22933734
+25487003~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503800163486,5,0,Excellent course. The teachers are great.,0,0,Marildo Guerini Filho,25487003
+7299803~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503478645751,5,0,The course is interesting and values practicality. The exercises and the projects really helped me a lot in grasping the knowledge!,0,0,Diqing Fei,7299803
+18448548~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503437305715,5,0,I found Prof. Roger Peng to be the best instructor in this specialization. This course just proves my point further. He teaches different concepts in a lucid manner. These concepts were presented in a way that could be applied to real world data sets right away. Awesome course!,0,1,Rishabh Joshi,18448548
+1447296~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503328613008,5,0,Good one... thanks,0,0,Channaveer Patil,1447296
+25610394~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503289948881,5,0,clustering and svd are quite c,0,0,Maggie Lu,25610394
+25071636~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503255461777,5,0,Probably one of the most fun courses I have taken so far. It is an important step in every analysis.,0,0,George G. Aguilera,25071636
+16288655~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1503184357869,5,0,Good Course.,0,0,박기중,16288655
+13575372~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502999759628,5,0,The plotting system in R chapter is very useful.,0,0,Xun Yu,13575372
+27365555~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502776932890,5,0,good,0,0,Jay Bhatt,27365555
+24798412~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502776819033,5,0,Awesome and very tough course,0,0,Raja Jayaraman,24798412
+2933526~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502477727243,5,0,This was an important class because in future classes in the certification peer reviewed projects require some sort of exploratory data analysis.,0,0,Alexis Carnegie-Dunham,2933526
+20898232~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502430962253,5,0,Peer reviews of other people's work extremely helpful. Learned more from that than any other part of the course. Thanks.,0,0,Sherrod Blankner,20898232
+277988~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502401827313,5,0,"Excelente curso, gran aprendizaje!!!",0,0,Francisco Jesus Perez Pimienta,277988
+4921384~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1502324714424,5,0,Very helpful course. It is the type of class that gets you excited for the new things you can do. ,0,0,Kristin Kerr,4921384
+23710925~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1501084349508,5,0,Awesome !!! ,0,0,Mohammad Saifuddin,23710925
+23054018~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500710969406,5,0,Very informative,0,0,Bhagya Lakshmi Prasanna Reddy,23054018
+24520563~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500590565925,5,0,"I am using exploratory data analysis almost every time when loading raw data.
+",0,0,Vitalii Shevchuk,24520563
+26099521~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500336257994,5,0,the basic class of data analysis. ,0,0,Changkeun Kang,26099521
+23803962~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500254258020,5,0,I really appreciate this course.,0,0,Choo EihShin,23803962
+21440244~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1500032156477,5,0,Nice course,0,0,Nataliia Matvieienko,21440244
+16177722~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499875339286,5,0,Great first step towards data science,0,0,Sourav Biswas,16177722
+7686067~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499801945785,5,0,Very good material and structure of course! Thanks a lot.,0,0,Nitika Sharma,7686067
+22512048~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499770172846,5,0,Excellent Course,0,0,swetha,22512048
+1798011~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499696983808,5,0,Nice Course ,0,0,Michell Rojo,1798011
+3487811~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499428670785,5,0,Good info.  But I would like to have reminder emails for the due dates.,0,0,Laura Bolaños,3487811
+26414366~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499376453690,5,0,Great course.  Really does a good job of describing the goal of EDA and getting people excited about what questions you might be able to answer with data.,0,0,Jeffrey Grady,26414366
+10209011~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499364354682,5,0,"Dr R D Peng is clear, concise and teaches quite systematically so that data visualization and exploration is broken down into its constituent pieces and explained in a way I am yet to come across elsewhere in other MOOCs on the subject. I'm really impressed and happy to have taken up this course.",0,0,Anirudh Jayaraman,10209011
+544214~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499347498094,5,0,Extremely useful,0,0,Ned Cartmell,544214
+23532645~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499198978711,5,0,Good course!,0,0,Silvia Yarim Benitez Villalpando,23532645
+25038198~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499109370933,5,0,very good and insightful course delivered at the right level with good examples and excersises,0,0,Vincent Gombe,25038198
+25507073~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1499080481135,5,0,I enjoyed it a lot. Thanks to the teachers.,0,0,A. Rosa Castillo,25507073
+22687420~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498961328882,5,0,Taught useful things!,0,0,Ryan Chng Yan Hao,22687420
+4464266~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498885953477,5,0,Very interesting way of representing data in pictorial form using R as tool,0,0,Venkatesh,4464266
+21153383~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498466113807,5,0,Great course! I learned a lot!,0,0,Jay Sabido,21153383
+9380595~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1498121770698,5,0,Excellent course!,0,0,Viktor Sandner,9380595
+14596757~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497986621434,5,0,"Great course,  an excellent instructor who makes the videos easy to watch and listen. Assignments were very important to me, as I learned a lot while doing it. ",0,0,Araks Stepanyan,14596757
+4698759~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497672055328,5,0,"Great course.  This course required us to create multiple plots using different R libraries created for the purpose.  Although ggplot2 seems to be very popular, the base plot system and the lattice plot system provide compelling alternatives.  ",0,0,Rodney James,4698759
+3905004~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497528471260,5,0,Very enjoyable course although I think the workload could be more evenly distributed. ,0,0,Warwick Taylor,3905004
+23477502~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497483172430,5,0,good learning experience,0,0,Aboobacker,23477502
+25524057~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497475194888,5,0,This course is most recommended for Data science practitioner.,0,0,Shashikesh Mishra,25524057
+12835453~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497455221396,5,0,Nice to know more about the graphing systems. ,0,0,Caroline Seiler,12835453
+8580610~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497337500021,5,0,There should be more content devoted to SVD . more theory and quiz questions and workouts to emphasize the methodology.,0,0,Erdem YILMAZ,8580610
+10063323~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497289701205,5,0,Very useful! ,0,0,Robert Kimble,10063323
+22990160~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497247150373,5,0,excellent,0,0,Sai Pavan Gadde,22990160
+5925603~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497138766369,5,0,"great course for fundamental exploratory data analysis, good starting point for using R to do basic analysis",0,0,ooi shau ming,5925603
+24729935~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1497132464341,5,0,This was the course that I've enjoyed it the most. Especially  the data visualization part,0,0,Damian,24729935
+10327129~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496749738733,5,0,very nice course,0,0,Dorian Pinaud,10327129
+18239999~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496742593888,5,0,great,0,0,Rafael Llopis Garijo,18239999
+14612875~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496731023865,5,0,This was incredibly useful because it gives you a feel for the datasets and tools with which to explore them. I really wasn't aware of the base and lattice plotting systems until now. ,0,0,Yudhanjaya Wijeratne,14612875
+5052991~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496177346423,5,0,Amazing course. challenging and you learn a LOT (particularly about graphics tools in R).  ,0,0,Anusha Verankki,5052991
+8585668~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1496130248666,5,0,Very useful and excellent course,0,0,FARZAD RAVARI,8585668
+22052865~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495961684148,5,0,"Graphs and plotting is at the heart of data analysis and data science, and without it you would have difficulty conveying ideas, and having graphs to explain numerical/statistical data is always handy. Visual representation of a data set, and using visual cues to gain an understanding of data, can save a lot of time, and can help you gain additional insights into the data. This course teaches you key techniques on how to apply some graphing and plotting methods to visually explore data, and it does so really well and in great detail, and also provides some good demos. ",0,0,Johann Raath,22052865
+4231301~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495687401787,5,0,very nice,0,0,Wassim Katerji,4231301
+19777297~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1495439966648,5,0,This was a really useful module. I keep referring back to it.,0,0,Philippine Reimpell,19777297
+22451476~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1494392788406,5,0,Useful course but it is quite intense,0,0,Tan Siao Lin,22451476
+6287262~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1494271973101,5,0,Loved the course!,0,0,Christian,6287262
+21279219~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493766157624,5,0,its one of the most powerful and skillful course for data scientist,0,0,Satendra Pratap Singh Parihar,21279219
+2641506~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493628878332,5,0,"good course with example and assignment, we get the real feel of doing things.",0,0,Ranjith Chacko Kurian,2641506
+9964318~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493566706630,5,0,This course if very helpful. Lectures and assignments provide a great opportunity to gain hands on experience. ,0,0,Dhananjay Mani,9964318
+3205071~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493480722023,5,0,"I really appreciate the course design. Even if somebody doesn't have
+much background in R, she/he can comfortably learn from the videos and
+understand the concepts. The exercises and project assignments are challenging
+and actually help you practice and re-visit the lectures and explore further.
+Though I had already known and used Clustering, PCA and SVD in my work before,
+I really liked the way these concepts were explained here. I would strongly
+recommend this course to anybody who is keen to see R in action!",0,0,Tarun Shrivas,3205071
+20648884~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493129003038,5,0,Very instructive!,0,0,Berthold Jaeck,20648884
+22089332~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493089720570,5,0,Very helpful!,0,0,Zhang Mengqi,22089332
+18854405~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1493048381041,5,0,Very helpful class.,0,0,Eric Thompson,18854405
+12518827~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1492979619977,5,0,"Excellent course, extremely practical and useful",0,0,Rajlakshmi Purkayastha,12518827
+23263071~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1492745051301,5,0,A good one,0,0,Shreya Singh,23263071
+6194851~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1492424793762,5,0,Good course.,0,0,Yang Lu,6194851
+21519426~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1492139975111,5,0,nice,0,0,Saurabh Gupta,21519426
+24133453~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491960203161,5,0,Great course!,0,0,Tim Davison,24133453
+15022109~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491832471560,5,0,Help to Better understanding of R-programming graphical ,0,0,Mohankumar Subbiah,15022109
+18358693~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491288583851,5,0,Great course!,0,0,Jishan Hossain,18358693
+7379879~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1491147385098,5,0,Good Content,0,0,Krishna CV,7379879
+2373512~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490693811986,5,0,"Very useful experience
+
+",0,0,Valery Mikhaylov,2373512
+2235144~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490385594952,5,0,Really good. ,0,0,Michel P Neville,2235144
+5383501~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490092326504,5,0,"Great course, really gives an insight on how you can get a set of data and actually make some sense from it.",0,0,Dimitrios Gkiokas,5383501
+3367104~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1490008425702,5,0,Very fruitful course on how to approach issues and use plots to deal with it,0,0,Luong Minh Quan,3367104
+16765261~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1489784993803,5,0,Favorite course until now in this track. The visualization is very helpful for both academics and career. ,0,0,Yi-Yang Lin,16765261
+2696374~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1489446949664,5,0,Nice course!  Workload was just about right. clear lectures and well-designed projects.,0,0,niki afshartous,2696374
+290250~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488885506564,5,0,Great to understand clustering analysis and create beautiful graphs,0,0,Sebastian Robledo,290250
+1873774~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488853175597,5,0,"Excellent Course, really enjoyed it and learnt a lot!!!",0,0,Pablo Martinez,1873774
+21210989~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488549534835,5,0,Good introduction to graphics systems and principles.  Practical exercises are well conceived.,0,0,Wayne Heller,21210989
+19877570~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488449737348,5,0,useful course for me . thanks to my tutor,0,0,Saravanan,19877570
+10633321~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488370312193,5,0,Excellent course!,0,0,Camilo Alejandro Aguilar,10633321
+5383094~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488306046866,5,0,Great Projects!,0,0,Shams M. Shahadat,5383094
+13059848~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1488107350972,5,0,Great course! It have been very useful for my job as data scientist! Thank u very much!,0,0,Gabriella Jacoel,13059848
+22977832~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487870409305,5,0,very good,0,0,Mingming Qiu,22977832
+16753540~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487118308223,5,0,"A nice introduction to operating on Data sets. Clear examples, interesting projects.",0,0,Sean Nixon,16753540
+448226~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487068402790,5,0,I really learned a lot in this class. I plan on going over the materials as well as taking one of the next courses,0,0,Anthony Sellu,448226
+91280~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1487006966636,5,0,"Great Course, that require to use all the topics you have learned in the previous courses of the specialization.",0,0,Jorge Barrientos,91280
+20881479~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486969205409,5,0,Thank you very much. I enjoyed the course a lot. I recommend it!,0,0,Hawk Gunner,20881479
+21112986~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486641367738,5,0,2 thumbs up,0,0,Khairul Izhar Khalid,21112986
+694273~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486477812741,5,0,Nice,0,0,Larry Gonzalez,694273
+21917403~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486465441472,5,0,Excellent course,0,0,Ismelda Medina,21917403
+1502594~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486124632840,5,0,Nice but basic course. ,0,0,Karel Šafr,1502594
+20940536~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486110278090,5,0,nice experience,0,0,Vineet Jaiswal,20940536
+21227136~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486104611021,5,0,good course!,0,0,刘博,21227136
+3987996~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486089325392,5,0,I love these courses,0,0,Jean Paul Laclau,3987996
+19222517~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1486055091988,5,0,Useful :D,0,0,Pratik Purkayastha,19222517
+21474975~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485996561778,5,0,"Well Structured Course, Learnt a lot from it",0,0,Ajinkya Deore,21474975
+1646764~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485833526737,5,0,Able to learn and understand the way of doing exploratory analysis.the way of teaching is very good.,0,0,Vijay Prasad Sripragada,1646764
+3716958~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485742194609,5,0,"Awesome course, with a very detailed step by step approach",0,0,Iphigenia-Danae Kapoulea,3716958
+20058300~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485599907900,5,0,It was an amazing ride,0,0,Bharadwaj Duggaraju,20058300
+21655815~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485242680631,5,0,Very interesting course on plotting with R and much more! I've enjoyed it.,0,0,Jordi Aceiton Cardona,21655815
+22671018~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1485016481948,5,0,"It starts to get a little more technical and complicated when I reach Week 3. A lot of things about Dimension Reduction and K-means method. I would love to have some assignments or exercises on that.Other than that, I love this module.",0,0,Adi Tya,22671018
+3723506~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1484895053466,5,0,"This is a great course! I really enjoy the pace. Plus, the real world application isn't a bad thing at all either!",0,0,William G Caughey,3723506
+10557~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1484790534201,5,0,awesome!,0,0,Fernando Augusto Fernandes Braz,10557
+5613008~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1484499184590,5,0,I love this course!,0,0,Marco Biella,5613008
+18565197~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1484251115687,5,0,I did learn more about putting together a set of graphs that help to explore the data.  I did see how subsetting  and aggregating data helps to give a better understanding of the data.,0,0,Chris Bowman,18565197
+5757779~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483984994114,5,0,Excellent introduction to various graphics packages in R. I've already been able to apply these skills in my job. ,0,0,Emmet Clarke,5757779
+8066534~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483866566407,5,0,What a wonderful course to undertake. On my way to take all 10 courses :D,0,0,Ahmed Mohamed Sayed Kamel,8066534
+10083823~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483676348518,5,0,A great course. I was hoping to get some more hands on the actual case study though. It was mentioned that Exploratory Analysis is some times intertwined with modeling - and I think in later course it might get covered. But just a glimpse of the relation in the case study would have been helpful.,0,0,Arindam Majumdar,10083823
+20267599~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483662048335,5,0,It was a wonderful experience to read the structure of data before delving into the  advanced statistical levels of data analysis.The need for inclusion or exclusion of dependent variables or dimension reduction in regression analysis can  be  intuitively understood and visualized using Data Exploratory techniques and then we have the clue as what to do in the next level.It is like putting the whole characteristic of the data under full control.,0,0,Amanuel Ghebreab,20267599
+8256349~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483586406333,5,0,"Excelente curso, requer bastante empenho, mas para quem é entusiasta do assunto como eu é um excelente ponto de partida.",0,0,Herson P. C. de Melo,8256349
+20604465~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483473392193,5,0,A nice overview of data exploration techniques.,0,0,Christopher Boyd,20604465
+12124169~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1483406415793,5,0,Excellent training! Lectures are easy to understand and let you focus on the subject.,0,0,Gioachino Bartolotta,12124169
+66824~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1482792045108,5,0,Excellent course to develop and understand the technique of data visualization.,0,0,Luiz Antonio Marques Ferreira,66824
+15348141~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1482769463728,5,0,Very Nice!,0,0,Carlos Reyes,15348141
+22042816~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1482577055465,5,0,This course is very helpful. Thanks for the teachers of this course.,0,0,PEIPEI QIU,22042816
+22670866~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1482261776696,5,0,"This course is excellent in that it gave a great introduction to the plotting functions in R. They also introduced singular value decomposition, which is a concept that is interested but wish the course went deeper into. ",0,0,Lloyd Narciso,22670866
+22219411~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1482162482188,5,0,Very well designed and delivered course.Glad to be associated with Coursera.,0,0,Sachin Raje,22219411
+781471~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481746814500,5,0,One of the best parts is the introduction of Singular Value Decomposition and Principal Component Analysis. Also does K-means and other clustering.I would recommend reading the handouts to you get the math behind the technique.,0,0,Omar,781471
+21344546~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1481499762744,5,0,T,0,0,Balinda Strosnider,21344546
+19513401~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480943772641,5,0,Engaging main instructor and structured lecture notes ,0,0,Na Kai Lun,19513401
+21192217~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480860009483,5,0,"Excellent course, I really enjoy it",0,0,赵东昱,21192217
+2514241~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480800721970,5,0,Excellent review of various visualization techniques. ,0,0,Paweł Daniluk,2514241
+20924884~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480506241682,5,0,Good course worth taking,0,0,Kumaraguru,20924884
+18038182~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480432377847,5,0,Excellent class! I totally recommend it,0,0,Javier Rios,18038182
+1863679~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480358446657,5,0,Very good course that provides handy tools for data manipulation and representation,0,0,Lluis Gasso,1863679
+21146046~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1480343983193,5,0,"GREAT TEACHING IN GRAPH, I LOVE THAT PART",0,0,xuanru shen,21146046
+5881852~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1479769107712,5,0,This class gave me insight on how to better analyze questions. My faults arose when trying to present to much information which may have caused confusion or even disinterest. The main point is to convey results in a simple and understandable manner. Good class lots of practice.,0,0,Roberto Diaz,5881852
+20601700~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1479598658883,5,0,Fenomenal,0,0,Mauricio Codesso,20601700
+6906300~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1479394423168,5,0,An interesting course,0,0,Jerry Varghese,6906300
+6679373~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1479238867765,5,0,Fun and good approach on exploratory data analysis,0,0,Ivan Gimenez,6679373
+12146885~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1478689645611,5,0,Awesome and must take course!!,0,0,Danish Khan,12146885
+762631~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1478288124701,5,0,Interesting. endless plotting possibilities,0,0,B Raquel,762631
+21211453~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1478272886366,5,0,Excellent course but would have helped better if there would have been assignment related to clustering.,0,0,Ravi Kumar,21211453
+3735906~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477983131797,5,0,good.,0,0,Zhao Mingli,3735906
+20624208~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477968515106,5,0,Great intro to R plotting,0,0,Amelia Longo,20624208
+19733194~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477961404523,5,0,Great course,0,0,Bauyrjan Jyenis,19733194
+14014076~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477552048908,5,0,Thanks,0,0,Xiao Wang,14014076
+14426039~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477482940309,5,0,Wonderful primer on how to get thinking creatively about data.,0,0,Qasim Zafar,14426039
+15269394~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477345157526,5,0,"Excelent course! Very direct and informative, leaving many doors open to individual quests.",0,0,Ricardo Rezende,15269394
+20677762~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477227254023,5,0,"Thank you very much, it was very interesting !!",0,0,Samir Ghoudrani,20677762
+189542~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477227041549,5,0,Very interesting course. the week 3 is the most challenging and the practical case of week 4 is quite cool also !,0,0,José Gustavo Zagato rosa,189542
+15077401~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477221956345,5,0,Material teached in this course is must have for everybody who wants to use R for Data Science. Exploratory Data Analysis is one of first steps in every project.,0,0,Piotr Kalański,15077401
+19365939~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477206257708,5,0,It's extremely useful to learn how to make plot using R,0,0,Kevin Zhang,19365939
+1424215~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1477112569232,5,0,Graphical Methods are taught in a very good way.,0,0,Mikit Kanakia,1424215
+322723~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476963307568,5,0,"My name is Jose Antonio from Brazil. I am looking for a new Data Scientist career.Please, take a look at my LinkedIn profile: https://www.linkedin.com/in/joseantonio11 I did this course to get new knowledge about Data Science and better understand the technology and your practical applications. The course was excellent and the classes well taught by teachers.Congratulations to Coursera team and Instructors.",0,0,José Antonio Ribeiro Neto,322723
+10036741~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476888573905,5,0,Great!!,0,0,Jhon Alexander Mora Lopez,10036741
+1654756~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476839302468,5,0,Very solid class in terms of R's base plotting system. I wish Coursera offered an advanced class focusing on ggplot2 and the wider world of dat viz.,0,0,Nathan Day,1654756
+1924974~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476533339643,5,0,Prof. Peng teaches you not only how to use the r base plotting system but also how to make wonderful graphs using the lattice and ggplot2 packages.  Awesome course!,0,0,Giovanna Andrea Gomez,1924974
+11107997~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476175239544,5,0,"Great Course, Swirl is really where the value comes from",0,0,Jonathan Sinclair,11107997
+10037284~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1476108109919,5,0,"There is a lot you can learn during this course, I enjoyed it!",0,0,Dennis Atzenhofer,10037284
+84506~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475858981224,5,0,Excellent course!,0,0,Joaquin Marques,84506
+8788981~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475758591060,5,0,Well structured and very informative ,0,0,rishav jindal,8788981
+9281513~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475703868461,5,0,The lectures in this course included theory and examples on PCA and SVD - however this was missing from the practical materials,0,0,Ted Markam,9281513
+10944124~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475463343927,5,0,Great course,0,0,Sylvio Campos Neto,10944124
+17709483~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475454182105,5,0,"I love all those courses, I have learned so much and I'm planning to complete all 10 units.",0,0,Ghazouan Sabh,17709483
+20683821~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1475088350336,5,0,Excellent Course!,0,0,Erik Pinter,20683821
+17931045~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474993317536,5,0,Really great and useful stuff,0,0,Leopoldo Sanchez,17931045
+18472055~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474906460289,5,0,"If you get data, take this course! You will love the course and your data!",0,0,Nils Niehues,18472055
+14805025~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474678350734,5,0,I really enjoyed all of the data visualization techniques and packages that were covered in this course.,0,0,glenn melton,14805025
+6313393~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474549672769,5,0,very useful course,0,0,xuwei. l,6313393
+17558767~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1474058347929,5,0,Excellent,0,0,Satya Narayana Chandu,17558767
+5934543~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1473745921343,5,0,Nice lectures. Projects are very interesting.,0,0,Samiul Azam,5934543
+4732867~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1473261824175,5,0,helpful.,0,0,Mengyin Bian,4732867
+17191297~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1473234236604,5,0,"Really nicely explained, learned so many useful methods for data analysis in R. The dimensionr reduction and principal component analyses walkthroughs were a little tricky for a newbie in those areas though.",0,0,James Wolman,17191297
+19502262~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1472845651616,5,0,Great Course,0,0,Albert C Grover,19502262
+14970189~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1472659363831,5,0,Excellent course with in depth analysis. A must for anyone who sees his/her future in data analysis.,0,0,Nitesh Kumar Singh,14970189
+9080412~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1471958125951,5,0,Well designed!,0,0,Meng Qiu,9080412
+1872190~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1471594727729,5,0,very handy and saves a lot of time for making plot with R,0,0,Thomas GARGOT,1872190
+17984824~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1471409478535,5,0,Very interesting content- going to be useful in my career ,0,0,Christopher Garrett,17984824
+2070864~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1470981554463,5,0,"Loved the course! Super useful tutorial of the different plotting systems, and basic exploratory data analysis.  Very practical and hands-on, which is what is needed for this kind of work.  Assignments were relatively simple, but I think they got the key points across.",0,0,Daniel Castro Johanning,2070864
+19431241~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1470807795115,5,0,Good course,0,0,Dr. Govind Nidigattu Ph.D,19431241
+4843430~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1470645691020,5,0,Nice course,0,0,Gaurav Sharma,4843430
+13659903~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1470582851758,5,0,"It is powerful and useful, In particularly for students!",0,0,Light0617,13659903
+17710217~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1470325631944,5,0,This course was very important for my work. I learned so much and I want to say thanks to the professors.,0,0,Yasel Garces,17710217
+721926~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1469815850771,5,0,"This is the second course I have taken from Roger Peng and both were outstanding. I have a strong math background, but not much of a background in stats, but this course was very approachable for me.",0,0,Craig,721926
+17076732~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1469090742394,5,0,"A very good introduction to the exploratory analysis and the R's plotting systems. The most advanced exploratory techniques (singular values decomposition, etc.) are not explained in depth but the overall role that these kinds of statistical learning techniques plays in the exploratory analysis is firmly established.Great work with the course! ",0,0,Jorge Esteban Mendoza Ortiz,17076732
+17738609~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1468804154914,5,0,"good
+
+",0,0,刘治,17738609
+6185240~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1467301935837,5,0,This course served as a great introduction to R and helped me to get ease with R,0,0,Saikiran Kancharla,6185240
+12763220~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1467226737355,5,0,Great!! I highly recommend this course.,0,0,Rodrigo de Carvalho,12763220
+10878299~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466493562411,5,0,Good hand-on class,0,0,Tan Woei Ming,10878299
+11484395~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466173920466,5,0,The course projects are interesting and challenging!,0,0,Jay Shankar,11484395
+1351691~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1466013808985,5,0,Excellent course. Nice lectures to guide to graphics use in data presentation.,0,0,Alberto Manuel Torreblanca Villavicencio,1351691
+4153400~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465789916606,5,0,Amazing experience. Great job Prof. Peng!,0,0,Ashvath Singh Kunadi,4153400
+15990566~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465656982032,5,0,Nice introduction to graphics in R!,0,0,Nathan Moore,15990566
+19214312~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465567983752,5,0,  Don't wait!!! just enroll  ,0,0,Abhinav Kumar,19214312
+15649985~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1465261160191,5,0,Excelent course.,0,0,Edgar Hernán Rodríguez López,15649985
+2453252~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464831158467,5,0,Great,0,0,Marco Antonio Prado Nunes,2453252
+16899230~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464795392543,5,0,I enjoyed this course.,0,0,kathy0305,16899230
+18487755~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464312248197,5,0,Awesome course.,0,0,Ganesh Shrestha,18487755
+16236650~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1464079345553,5,0,Good,0,0,Prakash Man Singh G C,16236650
+7014297~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463969347254,5,0,Excellent course. Very accessible yet an extensive overview of techniques in exploratory data analysis.,0,0,Paul Adamson,7014297
+16247421~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463930063031,5,0,"Very useful !Teacher is awesome, statement is clear and simple.love this course!",0,0,danxu,16247421
+18253121~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463712560936,5,0,great,0,0,Yusuf Shamim,18253121
+15854114~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463590925455,5,0,This course is really awesome! Highly recommend. You'll learn all the data visualization techniques in this course.,0,0,Huynh Long Do,15854114
+17891813~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463586831890,5,0,dplyr !,0,0,Nestor Sulikowski,17891813
+14791225~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463507317169,5,0,"Material de muy buena calidad y a pesar que en ocasiones solo cumple un rol introductorio, el curso no deja de lograr con una simpleza reveladora la construcción de una base solida que luego sirve para profundizar en las herramientas presentadas.Recomendado 100% y acorde a lo que propone.",0,0,Cristóbal Alcázar,14791225
+3792376~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463475995343,5,0,Some functions are so tough to remember but general ideas that i received is wonder full.,0,0,Nishchal Shrestha,3792376
+13304916~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463412821375,5,0,Great course!  ,0,0,Steve Cooper,13304916
+19169927~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1463198643961,5,0,i like it,0,0,saroj ranabhat,19169927
+12486546~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462457480627,5,0,Great course.,0,0,Roel Peters,12486546
+8419847~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462363687623,5,0,"Its one of the most important steps in learning data science. Before even jumping into the real thing, it is worthwhile to explore a little bit the data set at hand.",0,0,Asif M Adnan,8419847
+16384367~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1462333018108,5,0,Nice Course,0,0,UDBODH,16384367
+3152527~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1461716526401,5,0,Very well explained and didatical! Thanks for the course!,0,0,Jeronimo Barbosa da Costa Jr,3152527
+5423928~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1461028161854,5,0,"For someone new to data analytics, this was another great, rewarding course. But as with the others, it demands exploration beyond the lectures and course materials.",0,0,Deleted Account,5423928
+4125958~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1460928400226,5,0,Really useful and easy to understand,0,0,Dandy Handoko,4125958
+1130752~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1460686384333,5,0,Good Course,0,0,NAMAN JAIN,1130752
+15651628~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1460436586829,5,0,"Great course, lots of good things to explore!",0,0,Selcuk Fidan,15651628
+11426293~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1460061311916,5,0,Good course,0,0,Billy Jackson,11426293
+17085351~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459782255981,5,0,Great practical lessons on using plotting in R to analyze the data.,0,0,Denise Olson,17085351
+2549904~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459311658590,5,0,Great fun class I would highly recommend it.,0,0,Martin Martinez,2549904
+16512418~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459303379735,5,0,Very good course! It's the hardest yet on the Specalization,0,0,Rodrigo Rivera,16512418
+11545096~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459223954245,5,0,"This was an excellent course full of useful exercises, assignments and lectures.  I took these classes for the data analysis ",0,0,Kevin Conway,11545096
+15852589~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459208412264,5,0,"Excellent course, Rogers enthusiasm shows truly through to his speed-talk :-) ",0,0,Dan Kjeldstrøm Hansen,15852589
+17498071~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459170855162,5,0,"Love it, very helpful course for graphs and clustering!",0,0,Benjamin Schleich,17498071
+4375329~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1459079295193,5,0,This is a great introductory course on the topic and on R language.You will get acquainted with basic R functions which are most useful for initial statistical analysis.,0,0,Manuel A. Alonso Tarajano,4375329
+6156017~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458767522334,5,0,Great course!,0,0,Calypso Fugit,6156017
+13466816~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458604754732,5,0,Really nice course. Good to put the graphics functions in R to use. I think it would be helpful to have a summary page somewhere that compares the format of how to generate simple plots using each of the 3 packages - just for reference. ,0,1,Clare Shepherd,13466816
+11561405~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458580183315,5,0,Excellent,0,0,Jean Machado,11561405
+5765291~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458171591977,5,0,very very useful,0,0,hyunwoo jeong,5765291
+3556025~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1458130313210,5,0,"I strongly suggest for future Data scientist, if you know R language with making Plots, you can be a good analytic",0,0,Yergali B,3556025
+16832910~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457801360792,5,0,Great course,0,0,Predrag Mihailović,16832910
+5985372~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457542547555,5,0,good,0,0,朱荣荣,5985372
+15229836~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457429641573,5,0,Very important course towards th specialization and well done!,0,0,Emanuele Melegari,15229836
+14902612~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457390572998,5,0,I loved this course!!  All of the classes taken in the specialization all come together for practical use.  Course 2 is where it really kicked in.  Students will learn how to use R to explore data sets that send you down interesting paths.  ,0,1,Linwood Creekmore III,14902612
+11592128~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457355351393,5,0,Kick-started me into using graphs in R!,0,0,Melissa Holland,11592128
+11824791~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457207416330,5,0,Very good. I enjoyed and learned a lot. ,0,0,Utku Kalkancı,11824791
+5104002~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1457002953961,5,0,a great course,0,0,陈睿,5104002
+8260223~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456791564326,5,0,This course is definitely helpful in data manipulation. ,0,0,Fangfang Wang,8260223
+17645727~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456770952678,5,0,"Muito bom,.",0,0,Tan Kin Tat,17645727
+10569539~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456757771535,5,0,Great course!,0,0,Davi Carvalho,10569539
+16194828~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456668163009,5,0,Very good,0,0,Marcelo Gonçalves Miranda,16194828
+16212967~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456427628605,5,0,Very good course for doing practical data analysis. ,0,0,Samir Yelne,16212967
+5183844~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456165835569,5,0,Pretty useful introduction to various plotting tools and some deep down insights as well.  ,0,0,Ray W,5183844
+16863904~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1456163131148,5,0,perfect,0,0,Sinan Jasim Hadi,16863904
+10491514~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455648135190,5,0,Very good course. Explains some very peculiar concepts of PCA and SVD very clearly.,0,0,Pratyush Dwivedi,10491514
+7593697~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455328260306,5,0,"basic plotting and getting the feel of data, this course really helped tackling that and seeing perspective in data analysis",0,0,Andaru Pramudito,7593697
+1942955~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455325250132,5,0,"Extremely practical, yet challenging for a R starter.",0,0,KK Yong,1942955
+3510281~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455167123212,5,0,"Thank you son much!!!!
+I really like the course.
+It help me in my job =)",0,0,Diana Sánchez-Partida,3510281
+11279524~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455148112055,5,0,Really great class that teaches tools you can put to use right away.,0,0,Bill Kayser,11279524
+7908318~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455038444443,5,0,A Must have course for beginners in Data Exploration and Analysis. The best part is that exposure to these amazing concepts in R. ,0,0,Amith c.s,7908318
+10918767~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1455009793570,5,0,"This has been a great course. Accompanies by a book, it constitutes a great piece of material about exploring and visualizing data.",0,0,Nikodem Lacki,10918767
+15504693~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454900088830,5,0,So nice,0,0,Vivek Reddy,15504693
+15297927~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454768139778,5,0,I learned a lot and the assignments were the right kind of challenging.,0,0,Erika Garcia-Boliou,15297927
+13793880~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454736337098,5,0,Covers all the basics of visualization in R. Well structured and there is plenty of opportunity to practice your newly acquired skills.,0,0,Charles Kelley,13793880
+2276547~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454560961165,5,0,pretty good starter course. I liked 40 min Case Study video at the end. It was very helpful to watch the instructor do the analysis from start to finish.,0,0,Dmytro Kovalchuk,2276547
+11454509~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454540576534,5,0,I think this is a great course. I learned a lot about data plotting and some multivariate techniques for understanding underlaying patterns of the data. ,0,0,David Jiménez González,11454509
+597019~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454397338380,5,0,Great course! ,0,0,Edith,597019
+3301610~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454390792603,5,0,Wonderful course with lot of graphical representation of the data. Dimensional reduction and Clustering analysis needs a bit more detailed explanation.,0,0,Sandeep Patil,3301610
+13093956~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454387035097,5,0,Very good course. Clear instructions.,0,0,Samuel Chan,13093956
+256495~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454386131982,5,0,Muito bom o curso com abordagem das formas de exploração dos dados via gráficos. Não achei um curso pesado e denso mas substancial para o aprimoramento na linguagem R e na ciência de dados.,0,0,André Valente do Couto,256495
+1853466~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454343947293,5,0,Swirl is really great!,0,0,Francisco García,1853466
+10947697~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1454319617994,5,0,"If you know some R programming and want to learn how to generate plots for your data analysis, this course will give you a good start. I highly suggest doing swirl exercises after watching the lecture videos to reinforce your understanding of the course materials. ",0,0,Tad Shimada,10947697
+14968986~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1453762893942,5,0,A worthwhile course that breaks down methods for doing initial data analysis to get a rough feel of the data.  It provides enough useful information about the 3 plotting systems in R and how they differ to allow the student to do sufficient exploration on his or her own.,0,0,Travis McBride,14968986
+1773327~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1453659340454,5,0,Excellent class with easy-to-understand videos. The quizzes and homework really help me master the topics.,0,0,Anne Mason,1773327
+89323~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1453112127765,5,0,"Very nice course, plotting data to explore and understand various features and their relationship is the key in any research domain, and this course teaches the skill required to achieve this. ",0,0,Imran Ali,89323
+16246019~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1452821652182,5,0,much better presentation,0,0,Pramod Nair,16246019
+11544401~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1452770679266,5,0,"Very helpful and great lectures!best regards,Kasia",0,0,Katarzyna Pienczk,11544401
+13846883~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1452607837401,5,0,"Practical, applicable, best instructors",0,0,Juan Paulo Salvador,13846883
+4422526~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1452288077375,5,0,ggplot2 module was extremely helpful,0,0,Michael Ruan,4422526
+1922106~COURSE!~hwiBZm0vEeWbyw5d8C-Blw,1452287293529,5,0,Great knowledge! ,0,0,Anya Mityushina,1922106

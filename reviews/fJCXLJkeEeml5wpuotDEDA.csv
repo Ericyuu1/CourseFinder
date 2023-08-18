@@ -1,0 +1,253 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+100491536~COURSE!~fJCXLJkeEeml5wpuotDEDA,1643689427540,1,0,"PLEASE CHANGE THE INSRUCTOR,WE NEED MORE DETAILS DISCUSSION",0,0,Biswarup Dutta,100491536
+44295771~COURSE!~fJCXLJkeEeml5wpuotDEDA,1583721399264,1,0,j,0,0,Julio Trujillo,44295771
+76442860~COURSE!~fJCXLJkeEeml5wpuotDEDA,1605520344110,2,0,The title is not right. It is more a general presentation of deep learning then a présentation with KERAS. ,0,2,Serge FILIPPI,76442860
+13588575~COURSE!~fJCXLJkeEeml5wpuotDEDA,1604209440265,2,0,"The course does not cover using following concepts with keras - Dropouts, maxpooling, CNN, RNN, padding.They have been covered in the pytorch course using PyTorch, which is entirely different from how we would use with Keras. It makes this course highly incomplete in terms of examples and assessments and I don't think I have learnt much here. There are way better free courses on youtube by regular data scientists (not from IBM) that include detailed concepts and examples on these left-out important content.",0,2,Bhrigu Chadha,13588575
+70708941~COURSE!~fJCXLJkeEeml5wpuotDEDA,1602087879289,2,0,"Too basic and simple, especially for the different popular models. Not as good as I expected. ",0,0,Xing Lu,70708941
+35874260~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587331964299,2,0,"The course is OK in the overall. But it has two main drawbacks from my point of view: 1) The final assignments asks for solving the task making use of routines NOT shown along the course: i.e. it's shown in the labs to solve issues  in a way, and in the assignment it has to be done in a different one.2) It was IMPOSSIBLE for me to get feedback from the Staff at any question. I ended up solving the issues by my own and through try and error, which is fine from a self-study approach, but when it comes to technical issues, it can get quite complicated...",0,3,ANGEL GABRIEL CIOCOLETTO,35874260
+16457740~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585744640259,2,0,Very Basic,0,0,Jbene Mourad,16457740
+1155054~COURSE!~fJCXLJkeEeml5wpuotDEDA,1673202788602,3,0,"A very light introduction into training Neural Networks with Keras. Content is of good quality, but there is not enough of it to qualify as a course. Some weeks contain ~20 min worth of videos and a quiz. I bet all the material could have been condensed into just 1 week of video lectures and a final project week.Final project is good, but it would be way better begin auto-graded instead of peer-graded.",0,0,Alexey Konanykhin,1155054
+17479434~COURSE!~fJCXLJkeEeml5wpuotDEDA,1647011198891,3,0,The course materials need to be updated to clearly show how to get to the labs. The video talks of one way but the real method is different. Although one is supposed to use the IBM Labs the staff gives direction to use google colabs. I downloaded the files to local machine and discovered the dependencies by accident. One should not expect to learn much about Keras here. It is a basic introduction to DL and NN.,0,0,Gopal Iyer,17479434
+42120919~COURSE!~fJCXLJkeEeml5wpuotDEDA,1644659395566,3,0,"The course should have discuss either deeplearning or keras library more deeply. As it is not discussed, at least other resources or courses should be mentioned for interesting strudent who is prone to advanced learning.",0,0,Rubel Mozumder,42120919
+32564095~COURSE!~fJCXLJkeEeml5wpuotDEDA,1644244175522,3,0,"The content is for new comer of tf.keras OK.When you have been in this area for a long time but still want to finish the whole specilization, pls go ahead and finish the final exam directly.The week 2 of describing the back propagation is pretty nice, not too much detail but somehow it is using an example which is even clear at some points comparing to Prof.Ng 's course, however, wont let them competet  each other ",0,0,Xinyue Zhao,32564095
+80685169~COURSE!~fJCXLJkeEeml5wpuotDEDA,1629617266230,3,0,"This course is too shallow in terms of content and too light in terms of workload, it can only serve as a stepping stone towards a more advanced course. It does accomplish its stated goal of offering an introduction to many Deep Learning concepts and Keras, but nothing beyond that.",0,0,Vasileios David Sakellarakis,80685169
+77232749~COURSE!~fJCXLJkeEeml5wpuotDEDA,1607940185520,3,0,"Course is too easy... And some guy copied my work for the final assignment after he reviewed it. IMO it should not be possible to review someone else's work, when you haven't passed the course yourself yet.",0,0,Rogier Wachters,77232749
+62671261~COURSE!~fJCXLJkeEeml5wpuotDEDA,1596041235485,3,0,"Very light. The current material requires much less time to finish than annoucned at the beginning of the course. The teacher could have hence taken some time to go more into details, even though it's an introduction course
+
+",0,0,Tony Daher,62671261
+27745220~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593050367295,3,0,The topic explanations are pretty rushed for beginners. The assignment has been unnecessarily added with lots of iterations that created issues with debugging and testing.  ,0,0,Somak Chatterjee,27745220
+11838649~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587392807275,3,0,"Good introductory course, just scratches the surface. What I did not like is that the instructor just reads the content for you. Could be improved.",0,0,Jorge Rafael Contreras Rodriguez,11838649
+48000837~COURSE!~fJCXLJkeEeml5wpuotDEDA,1583213947184,3,0,The course content is very brief not much for getting a better understanding of topics. It can be a good starting course for someone but if you are interested in getting details of topics I recommend taking the courses of deeplearning.ai,0,0,Hamza Ali Imran,48000837
+46802793~COURSE!~fJCXLJkeEeml5wpuotDEDA,1578060685525,3,0,The course was very elementary and brief but well organized. Week 4 (supervised and unsupervised models) is definitely too short to grasp the ideas behind the different designs.,0,0,Pietro Danzi,46802793
+32617566~COURSE!~fJCXLJkeEeml5wpuotDEDA,1572968634118,3,0,These course is just for Introduction in Neural Network and Keras,0,0,Suresh Chaudhary,32617566
+31968243~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570133325496,3,0,It seems more a review of concepts that you need to have already have studied on other courses/books than a real introduction.,0,0,Simone Pongiglione,31968243
+96633749~COURSE!~fJCXLJkeEeml5wpuotDEDA,1677536471044,4,0,A nice very short introduction to Deep learning. The contents itself is very limited but give the learner some taste of DL.,0,0,Jaeoh Shin,96633749
+104622503~COURSE!~fJCXLJkeEeml5wpuotDEDA,1668903807241,4,0,"Very good course. If we could have the answers to the projects after submission, that would help a lot. Please see if same if possible. Thanks,Danen",0,0,Arulen Danen Padiachy,104622503
+82263731~COURSE!~fJCXLJkeEeml5wpuotDEDA,1662008440375,4,0,"Clear and direct introduction to building neural networks, highly recommend for getting the basics fast.",0,0,Xavier Ramirez,82263731
+3947789~COURSE!~fJCXLJkeEeml5wpuotDEDA,1654068396194,4,0,"Nice overview. The coding exercises could be deeper, and in the second half of the course lose any depth at all.
+Understandable for such a short course, but still felt like a missed opportunity.",0,0,Deleted Account,3947789
+103333315~COURSE!~fJCXLJkeEeml5wpuotDEDA,1651936337859,4,0,Excellent,0,0,ANAND M,103333315
+104362021~COURSE!~fJCXLJkeEeml5wpuotDEDA,1651563394631,4,0,It provides g​ood basic understing of deep learning using Keras! ,0,0,Nehal Bhagat,104362021
+79715476~COURSE!~fJCXLJkeEeml5wpuotDEDA,1641209533008,4,0,good,0,0,SUSEENDRAN s,79715476
+17520891~COURSE!~fJCXLJkeEeml5wpuotDEDA,1635938200558,4,0,"Very good course which gives a good introduction to the field. Don't get intimidated by the math you will see and make sure you understand the workflow. Once you do that you will basically repeat it in which one of the neural network types presented at the course. In a negative not, I missed the intructor elaboring how to identity problems that could be approached by applying DL. But I complemented studies on other documents in the internet and that's ok.",0,0,Rafael Guedes,17520891
+77621617~COURSE!~fJCXLJkeEeml5wpuotDEDA,1629174235464,4,0,good,0,0,rebwar karimi,77621617
+7461267~COURSE!~fJCXLJkeEeml5wpuotDEDA,1623741121409,4,0,"I​ have experience of Deep Learning, so I am able to walk through this Lession quickly. The main focus is on Capstone Project, and I have learned something on it. To be honest, this lession is very elementary. I suggest to introduce more Deep Learning models and approachs in this lesson.",0,0,lonnie,7461267
+10641273~COURSE!~fJCXLJkeEeml5wpuotDEDA,1620552552266,4,0,Good course which provides practical exposure,0,0,Udaykumar Angadi,10641273
+26594380~COURSE!~fJCXLJkeEeml5wpuotDEDA,1614943455189,4,0,Not too bad a course and the pace was right.,0,0,Vincent Hui,26594380
+70322022~COURSE!~fJCXLJkeEeml5wpuotDEDA,1612311781849,4,0,"Muy basico, pero contenido estuve bien, los temas fueron bien explicados",0,0,Emanuel Nicolas,70322022
+77765940~COURSE!~fJCXLJkeEeml5wpuotDEDA,1609926145827,4,0,Very good. I found this course very usefull to start learning more deeping in this technology. For sure I'll recomend it!,0,0,PaluMalu,77765940
+1491485~COURSE!~fJCXLJkeEeml5wpuotDEDA,1603454002527,4,0,The Course is basic but interesting. I missed an exercise on backpropagation with the same explanatory level that it had for forward propagation.  The last activity needs to be reviewed because it is confusing.  ,0,0,Adriano Santos,1491485
+37487156~COURSE!~fJCXLJkeEeml5wpuotDEDA,1601207987138,4,0,A course which gives basic understanding of concepts.,0,0,Sarah Tariq,37487156
+23810894~COURSE!~fJCXLJkeEeml5wpuotDEDA,1599744450682,4,0,Good intro to the subject. The instructor could have done examples using other neural networks like RNN and autoencoders. It was a fantastic intro,0,0,Lete Nwibasi,23810894
+58835204~COURSE!~fJCXLJkeEeml5wpuotDEDA,1596099179593,4,0,Seems very easy course.  Good for beginners.,0,0,Medet Madalimov,58835204
+48046560~COURSE!~fJCXLJkeEeml5wpuotDEDA,1594020347262,4,0,This course gives intro to the beginner who start learning the concept of deep learning.... It a good and content are good as well   ,0,0,Julius Mboto,48046560
+64321201~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593490319851,4,0,"The course contents are not in-depth enough. The server for Jupyter notebook running is way too slow. Besides, the peer review homework is not that good, because some people didn't read through the questions carefully enough, and they misunderstood the questions themselves and could not give fair enough grades to peers. If the final assignment can be made to auto-grading one, it  would be much better (we can set the same random seed)",0,0,Xiaoer Hu,64321201
+37064886~COURSE!~fJCXLJkeEeml5wpuotDEDA,1592941985548,4,0,"A good introductory course, well suited for beginners looking for general information about neural networks and deep learning, with good practice exercises.",0,0,Mohamed Ait Ahmed,37064886
+47054985~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591459297292,4,0,Basic course but best to start for Keras,0,0,UNMILON PAL,47054985
+48900910~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589480240269,4,0,It is a good insight for someone to know and understand Deep learning. And exams and projects make sure students learn and practice new concepts. ,0,0,Rashmin Dave,48900910
+34717396~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589367892084,4,0,Fantastic,0,0,suman kumar suman,34717396
+44135300~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589207542542,4,0,Good course for absolute beginners.  Would have liked an extra week or two to 'manually build' some of the key neural network concepts from scratch as in the first week.,0,1,Alex Segarra,44135300
+28167131~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587956672337,4,0,excellent course and but need some advanced content,0,0,J K,28167131
+32730876~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587831150313,4,0,In-depth concept-analysis is required. Good for people who know the theory and want to learn and revise its implementation in Python.,0,0,Utkarsh,32730876
+1174572~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587608254552,4,0,"Good Assignments, ",0,0,Sarath Chandra Gupta Kedarisetty,1174572
+1955334~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586911508394,4,0,"It was a pretty good brief, rapid intro. I frankly was expecting more content on options and explanations, but it covered the very essential basics. The final exercise did ask for students to use tools not gone over in class (a bit of scikit-learn). Since I've used scikit-learn before, this wasn't hard for me, but it may be for a newcomer, and actually isn't needed to meet the goals of the assignment, so I'm not sure why it was there. ",0,0,Michael McGurrin,1955334
+47946011~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586832977029,4,0,Very nice and concise introduction to Keras and Deep Learning. ,0,0,Vishwanathan Chandran,47946011
+47467967~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586085101144,4,0,some interdisciplinary data set examples should be included  ,0,0,Vijander Singh,47467967
+29337704~COURSE!~fJCXLJkeEeml5wpuotDEDA,1584719805576,4,0,A good course. Could be better if it was explained how to select the optimal number of layers and nodes. This was not covered and explained anywhere. Overall it was good.,0,0,A Şhah,29337704
+850062~COURSE!~fJCXLJkeEeml5wpuotDEDA,1584216296734,4,0,"This is a great course. The lectures are boiled down to the essence of neural networks using Keras.  I give four stars instead of five stars, because the IBM labs environment that the course uses was quite slow and buggy, so I ended up doing the exercises in Google Colab.",0,0,Sander van den Oord,850062
+38653990~COURSE!~fJCXLJkeEeml5wpuotDEDA,1583903214680,4,0,try to add more case study problems and solve it on lectures so that we can understand how to start (initialize) the coding part when we receive any real world problem.,0,1,Sameer uddin,38653990
+42077849~COURSE!~fJCXLJkeEeml5wpuotDEDA,1582284292766,4,0,I took this course for understanding the TensorFlow properly. Now I am in the situation to understand all the frameworks. Thanks a lot for providing me this free course,0,0,Rohit Singhal,42077849
+3115143~COURSE!~fJCXLJkeEeml5wpuotDEDA,1582192736431,4,0,"Clear, easy to follow",0,0,Cristina Aledo González,3115143
+12199522~COURSE!~fJCXLJkeEeml5wpuotDEDA,1581063700741,4,0,a bit easy but well put together material,0,0,Peter Niall Patrick Brennan,12199522
+20338628~COURSE!~fJCXLJkeEeml5wpuotDEDA,1578766033740,4,0,Great starter.  Could do with more practice labs.,0,0,TJ Griesenbrock,20338628
+43776241~COURSE!~fJCXLJkeEeml5wpuotDEDA,1576523526092,4,0,The final assignment needs to be more user friendly.,0,2,Jered Willoughby,43776241
+41721811~COURSE!~fJCXLJkeEeml5wpuotDEDA,1576489258266,4,0,"Queries are not getting resolved in the discussion forum. So, instructors should participate in the discussion forum to resolve such queries.",0,3,Aniket Sharma,41721811
+5572652~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570743634025,4,0,Good practical examples for ANN. It could be improved the theoretical part and compare better  the architecture of the networks with the algorithms and code for Keras,0,0,Benhur Ortiz Jaramillo,5572652
+27867324~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570500196052,4,0,"Very Good Course to begin, explanations are clear on most of topics",0,0,mallesh v s,27867324
+44474905~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570300144704,4,0,Excellent course that is very well done. Final project was super hard.,0,0,Jay Pimprikar,44474905
+66066179~COURSE!~fJCXLJkeEeml5wpuotDEDA,1677419722813,5,0,Very good course,0,0,Luu Cong Thai,66066179
+60282631~COURSE!~fJCXLJkeEeml5wpuotDEDA,1676995681817,5,0,Very well paced course,0,0,Adeer Khan,60282631
+56934939~COURSE!~fJCXLJkeEeml5wpuotDEDA,1676384879714,5,0,"wonderful course, nice content enjoyed it.",0,0,Tejas Yuvraj Kamble,56934939
+35650615~COURSE!~fJCXLJkeEeml5wpuotDEDA,1675474044080,5,0,Very good for beginner.,0,0,ZHOU Hongting,35650615
+119434569~COURSE!~fJCXLJkeEeml5wpuotDEDA,1675066872695,5,0," Everything depends on AI & ML now. Before enrolling in Coursera’s IBM AI Engineering Professional Certificate Course, I had zero knowledge about Neural Networks  & Deep learning. After completing the course, I am able to use these applications properly. It proved to be a total career game-changer.Coursera has proven to be a wonderful experience. I have taken classes from other organizations, but there’s no comparison to  Coursera.Highly relevant examples were given which made me get a clear idea of the concepts explained. Deeply appreciate Coursera & IBM for designing this course very well. Kudos to Instructor Alex Aklson, Ph.D., Data Scientist  for providing such a wonderful learning Journey.",0,0,Ilayaperumal K,119434569
+85021536~COURSE!~fJCXLJkeEeml5wpuotDEDA,1672448981046,5,0,Great if you are not familiared with neural network concepts,0,0,Alejandro Bueno,85021536
+32426863~COURSE!~fJCXLJkeEeml5wpuotDEDA,1670239671129,5,0,I have gained valuable knowledge on building a deep neural networks.,0,0,Habtamu Wolde,32426863
+36401249~COURSE!~fJCXLJkeEeml5wpuotDEDA,1668875290422,5,0,"I learned a lot from this course, it introduced deep learning with Keras very well. It motivated me to continue this filed. Thank You.",0,0,Arefe ehyaee,36401249
+99240727~COURSE!~fJCXLJkeEeml5wpuotDEDA,1668352963786,5,0,Well structured. ,0,0,Marcin Wilczewski,99240727
+85704572~COURSE!~fJCXLJkeEeml5wpuotDEDA,1668007127990,5,0,great,0,0,Parisa zeynaly,85704572
+108114400~COURSE!~fJCXLJkeEeml5wpuotDEDA,1666583900137,5,0,V​ery Clear and Precise knowledge which started from the grass-root level to help newbies come up to the level of understanding deep learning models and algorithms.T​humbs up!!,0,0,Priyansh Mathur,108114400
+113879459~COURSE!~fJCXLJkeEeml5wpuotDEDA,1666525661619,5,0,"I really like this course as it has only provided me with the tools that I need to understand neural networks without overhelming myself with abstract mathematics or theories. It is indeed good to be equipped with foundational theories and mathematics, but they do not build much intuition without direct practice. I believe that theories can be learned along the process rather than being stagnant because you cannot grasp them initially. With this course, I have become proactive because this is more concept-based and the mathematics has a good visualization to it. I like the way it is designed and how the final requirement aids you while allowing flexibility.T​his course is highly recommended to those who have a background in Python programming, and interested in the basics of neural networks without the exhaustive mathematics.",0,0,Marc Arvie Talavera,113879459
+34358902~COURSE!~fJCXLJkeEeml5wpuotDEDA,1666267658894,5,0,"T​he course is organized in a clear way. Together with the practice, I feel more confident to write my own codes with keras. I believe it is a good start for more advanced deep learning models with keras.",0,0,surina Bai,34358902
+114766437~COURSE!~fJCXLJkeEeml5wpuotDEDA,1665398447254,5,0,"V​ery, very well done course!",0,0,Roman Szewczyk,114766437
+13808146~COURSE!~fJCXLJkeEeml5wpuotDEDA,1665276859291,5,0,v​ery good course!,0,0,wonseok kim,13808146
+33508618~COURSE!~fJCXLJkeEeml5wpuotDEDA,1664897885180,5,0,"I had some information about the subject, but the content on the course was very good in terms of filling some voids in my knowledge
+Thanks for the great content",0,0,Amir Hossein Jazayeri,33508618
+108873394~COURSE!~fJCXLJkeEeml5wpuotDEDA,1660136751889,5,0,Well Explained and The best part of this course is labs and quiz,0,0,Abdullah Khan,108873394
+105467267~COURSE!~fJCXLJkeEeml5wpuotDEDA,1659957532632,5,0,great,0,0,Francisco Manuel López López,105467267
+102399816~COURSE!~fJCXLJkeEeml5wpuotDEDA,1657827125382,5,0,Good coverage of the Keras basics.,0,0,Steven Welch,102399816
+45358508~COURSE!~fJCXLJkeEeml5wpuotDEDA,1657637744801,5,0,"Project instructions should be a little more clear in the descriptions, other than that everything was amazing!",0,0,Shayne Issurdatt,45358508
+38411419~COURSE!~fJCXLJkeEeml5wpuotDEDA,1656677181519,5,0,"Excellent introduction to the mechanics of Neural Networks in general, and the Keras application specifically.  Alec is an outstanding teacher, I always appreciate his knowledge and enthusiasm.",0,0,Marcus L Porter,38411419
+5180307~COURSE!~fJCXLJkeEeml5wpuotDEDA,1656482438389,5,0,"The course is very good, the content of the explanation is very concise, there is no superfluous stuff",0,0,江浩,5180307
+87709922~COURSE!~fJCXLJkeEeml5wpuotDEDA,1655450784905,5,0,W​ell this is a great course,0,0,oyenola philip,87709922
+104572396~COURSE!~fJCXLJkeEeml5wpuotDEDA,1655302048850,5,0,It's  a very well paced course and very concise explanation. I enjoyed working on the labs. ,0,0,Reetika Sarkar,104572396
+62984871~COURSE!~fJCXLJkeEeml5wpuotDEDA,1654549839007,5,0,Most recommended course for AI Praticals.,0,0,Muhammad Yaseen,62984871
+12872138~COURSE!~fJCXLJkeEeml5wpuotDEDA,1654225570859,5,0,Excellent course. The instructor was clearly passaionate about the topics covered and very knowledeable. A well designed course that was easy to understand and follow.,0,0,Alok Bhardwaj,12872138
+103711049~COURSE!~fJCXLJkeEeml5wpuotDEDA,1653730932393,5,0,excellent but need more practical examples with solve and more details in keras,0,0,reham metwally,103711049
+7912222~COURSE!~fJCXLJkeEeml5wpuotDEDA,1653689737587,5,0,N​ice brief course with a final homework that is reviewed by other students. Very concise.,0,0,Benjamin Jaramillo,7912222
+71838493~COURSE!~fJCXLJkeEeml5wpuotDEDA,1652165450653,5,0,"Buen curso para inicializarte en el Deep Learning con Keras, si ya tienes conocimientos previos sobre el tema, quizás sea demasiado básico, aunque siempre está bien reforzar algunos conceptos. Algo que debes tener claro es que hay que tener conocimiento previo de Python para poder entender los diversos códigos que se ven durante el curso.",0,0,Fulgencio Blazquez,71838493
+59863976~COURSE!~fJCXLJkeEeml5wpuotDEDA,1649861764274,5,0,very Nice videos and details are given ,0,0,Bharat Panchbhai,59863976
+93533915~COURSE!~fJCXLJkeEeml5wpuotDEDA,1648194756926,5,0,for me as a beginner it was wonderful. thank you,0,0,somayeh shami,93533915
+99752575~COURSE!~fJCXLJkeEeml5wpuotDEDA,1646951547983,5,0,Excellent,0,0,Abul Bashar,99752575
+94658416~COURSE!~fJCXLJkeEeml5wpuotDEDA,1646623096830,5,0,Exceptional restraint in the course scope. It truely gives an overview without extra details.,0,0,John Michael Nehls,94658416
+80732754~COURSE!~fJCXLJkeEeml5wpuotDEDA,1645799839557,5,0,"The good professor was awesome, broke down concepts and made them easy to understand.",0,0,Matthew Ashton,80732754
+65567615~COURSE!~fJCXLJkeEeml5wpuotDEDA,1645332997992,5,0,Excellent Course... Lot of resources to learn,0,0,Arpan Ghosh,65567615
+96686274~COURSE!~fJCXLJkeEeml5wpuotDEDA,1644612108506,5,0,good one,0,0,Ridha Ouni,96686274
+88601780~COURSE!~fJCXLJkeEeml5wpuotDEDA,1643860385117,5,0,Good course to know about neural networks with Keras,0,0,Shivam Kumar,88601780
+99702358~COURSE!~fJCXLJkeEeml5wpuotDEDA,1642595574591,5,0,Great course with deep content and intersting problems.,0,0,Utkarsh Anant,99702358
+86647091~COURSE!~fJCXLJkeEeml5wpuotDEDA,1641821340607,5,0,Very useful and clear. I learn a lot. Thank you so much! ,0,0,Amore Hui-Yi Huang,86647091
+82472806~COURSE!~fJCXLJkeEeml5wpuotDEDA,1641636476797,5,0,Excellent course for starting with Convolutional neural network with keras.,0,0,KAMAL RAJ SINGH,82472806
+86153039~COURSE!~fJCXLJkeEeml5wpuotDEDA,1639415504632,5,0,W​ow! Neural networks easy to understand.,0,0,Daniele Michetti,86153039
+49846124~COURSE!~fJCXLJkeEeml5wpuotDEDA,1638866992238,5,0,R​ight to the pint ! very efficient ! ,0,0,Thierry Leiber,49846124
+92846185~COURSE!~fJCXLJkeEeml5wpuotDEDA,1637619834224,5,0,"This was a good course and well paced.  But I have a comment about the final project.  It was not clear to me if the same model was being re-trained and improved upon in 50 trials - or if the idea was to do 50 trials to capture just how good a model it is, using different splits of the data.  Since we were asked to find the mean and sigma of 50 trials - I assumed those trials would be independent and each one performed with a fresh model - otherwise it is odd to find a mean and sigma of a system that is converging to a final result.  In that case it's only the final mean and sigma of the final trial that matters.  So I think some clarity would help there - without giving it all away with regard to how to do the project.",0,0,Frank Suits,92846185
+74711695~COURSE!~fJCXLJkeEeml5wpuotDEDA,1633062070027,5,0,Through the course I learn the basic rule of the neural network,0,0,Ziyuan Wang,74711695
+83301741~COURSE!~fJCXLJkeEeml5wpuotDEDA,1632492632941,5,0,A concise and informative course on deep learning and neural network in Python. Thank you for the great course.,0,0,Amir Abbas Babasafari,83301741
+9430565~COURSE!~fJCXLJkeEeml5wpuotDEDA,1630673236839,5,0,Excellent course! ,0,0,Diego García Olivares,9430565
+43893520~COURSE!~fJCXLJkeEeml5wpuotDEDA,1630621496704,5,0,Perfect to know fundamentals of Deep Learning with Keras! Full recommended.,0,0,george saavedra,43893520
+91353378~COURSE!~fJCXLJkeEeml5wpuotDEDA,1630492503045,5,0,very good,0,0,Sambit Satpathy,91353378
+64101206~COURSE!~fJCXLJkeEeml5wpuotDEDA,1630262245729,5,0,Great classes,0,0,Gabriela Alves Neves,64101206
+86387044~COURSE!~fJCXLJkeEeml5wpuotDEDA,1629877476400,5,0,It was a excellent course for beginner who don't have any knowledge about deep learning. I am very impressed and got some knowledge about deep learning. The way he taught the lesson was excellent. Theory as well as practical session was very informative and easily understandable.,0,0,Hamsavardhini Arumugam,86387044
+67380435~COURSE!~fJCXLJkeEeml5wpuotDEDA,1629634478248,5,0,Excellent,0,0,Dr Chandra Shekhar Yadav,67380435
+90348595~COURSE!~fJCXLJkeEeml5wpuotDEDA,1629294871273,5,0,A​ssignment was great to dig deeper in the knowledge and self testing,0,0, Nabiz Rahpoe,90348595
+79117102~COURSE!~fJCXLJkeEeml5wpuotDEDA,1628270106401,5,0,Its fantastic,0,0,Pedro Gasparine Dubiela,79117102
+88997037~COURSE!~fJCXLJkeEeml5wpuotDEDA,1627586801520,5,0,The teaching of this course is clear and complete,0,0,林靖翰,88997037
+10567404~COURSE!~fJCXLJkeEeml5wpuotDEDA,1627579919996,5,0,V​ery Good!,0,0,Sima Qafiti,10567404
+9530715~COURSE!~fJCXLJkeEeml5wpuotDEDA,1627399195737,5,0,Just great!,0,0,Muhammad Jawad Bashir,9530715
+59776228~COURSE!~fJCXLJkeEeml5wpuotDEDA,1626503036977,5,0,This course is a good introduction to understand deep learning models,0,0,Prannov Jamadagni,59776228
+54324022~COURSE!~fJCXLJkeEeml5wpuotDEDA,1625885477421,5,0,I learned a lot with this course and enjoyed the lessons and labs. The course is very well organised and easy to follow. It is just nice for me for I am just a beginner in Python and in Data handling.  Thank you IBM. ,0,0,Dragonfly_19,54324022
+60691223~COURSE!~fJCXLJkeEeml5wpuotDEDA,1624942449805,5,0,Excellent course  for  learning Deep learning and Neural networks with keras.,0,0,NITESH PANDIT,60691223
+74846489~COURSE!~fJCXLJkeEeml5wpuotDEDA,1621448741248,5,0,"It is a very interesting and useful course. Forward propagation, gradient descent, backward propagation, disappearing gradient problem, (+ Regression, Classification and CNN with Keras) is clearly explained. Highly recommended.",0,0,Walter contacto,74846489
+84091595~COURSE!~fJCXLJkeEeml5wpuotDEDA,1621284501610,5,0,Great introductory course for deep learning!,0,0,Anastasios KOULOGIANNIS,84091595
+76231169~COURSE!~fJCXLJkeEeml5wpuotDEDA,1620549877689,5,0,It would be better if more codes can be discussed during the lecture. ,0,0,邱尧,76231169
+57806971~COURSE!~fJCXLJkeEeml5wpuotDEDA,1618185675880,5,0,Good lecture with actual coding projects,0,0,신상문 신상문,57806971
+74357797~COURSE!~fJCXLJkeEeml5wpuotDEDA,1617070064172,5,0,Very helpful,0,0,Abdullaev Sherzod,74357797
+42106299~COURSE!~fJCXLJkeEeml5wpuotDEDA,1614636539843,5,0,"good lecture, which can help to get fundamentals for deep learning.",0,0,BAIK KWANG HO,42106299
+43666046~COURSE!~fJCXLJkeEeml5wpuotDEDA,1613958110279,5,0,An excellent course to know the basics of Deep Learning & Neural networks with Keras.,0,0,Arijit Bose,43666046
+27953360~COURSE!~fJCXLJkeEeml5wpuotDEDA,1611255600892,5,0,"Excellent course some how challenging exam, a great introduction",0,0,Brice SCHNEIDER,27953360
+78350366~COURSE!~fJCXLJkeEeml5wpuotDEDA,1610282280728,5,0,Nice course,0,0,THOMONT Billy,78350366
+46223878~COURSE!~fJCXLJkeEeml5wpuotDEDA,1608795169769,5,0,"Very straightforward course! If you are new to deep learning, this cause is absolutely suitable for you to understand all the fundamental knowledges you need. Of course, you should understand most of the concepts in ML before taking this course.",0,0,drygrass,46223878
+59329394~COURSE!~fJCXLJkeEeml5wpuotDEDA,1608032000547,5,0,Very good Introduction course. Really useful for people like me who is the first time facing deep learning and neural networks,0,0,Carlo Ettore Cerutti,59329394
+29336981~COURSE!~fJCXLJkeEeml5wpuotDEDA,1607623831832,5,0,Excellent. Now I feel much more confidence working with Keras. This course goes straight to the point,0,0,Gustavo Eduardo Zamboni,29336981
+60353169~COURSE!~fJCXLJkeEeml5wpuotDEDA,1607503537193,5,0,"Excellent short, quick-start course to act as a stepping stone into more advanced studies.",0,0,Rainer Baers,60353169
+38045398~COURSE!~fJCXLJkeEeml5wpuotDEDA,1606900231939,5,0,Good Course,0,0,Aditya Mohan Patnaik,38045398
+74759088~COURSE!~fJCXLJkeEeml5wpuotDEDA,1605375168345,5,0,Excellent Course!,0,0,Vaibhav Yogesh Tiwari,74759088
+38930609~COURSE!~fJCXLJkeEeml5wpuotDEDA,1604471773832,5,0,This is a great short introductory course. I really enjoyed it.,0,0,Aniket Atram,38930609
+66077330~COURSE!~fJCXLJkeEeml5wpuotDEDA,1601971179366,5,0,"Really enjoyed it. Very clear lectures and examples. The assignment really stretched me - but that was good. Thank you, Alex.",0,0,Edward Jackson,66077330
+40179723~COURSE!~fJCXLJkeEeml5wpuotDEDA,1601030726307,5,0,Amazing course to get me started on the right track to becoming a deep learning expert.,0,0,Anish,40179723
+26011154~COURSE!~fJCXLJkeEeml5wpuotDEDA,1600260678763,5,0,Amazing course with amazing content.This course helps me understanding the foundations of Neural Network & Convolutional Neural Networks.If anyone waana learn the basics of Deep Learning & Neural Networks then this course is better for them.,0,0,Tanmaya Chaudhary,26011154
+49961723~COURSE!~fJCXLJkeEeml5wpuotDEDA,1599722655071,5,0,Great explanation how neuronal networks works. Ideal for beginners in this field,0,0,federico blanco cardona,49961723
+9329601~COURSE!~fJCXLJkeEeml5wpuotDEDA,1599276054029,5,0,Really introductory course and easy to understand. Hope there could be more some recommnended reading materials.,0,0,Hacker BF,9329601
+66305745~COURSE!~fJCXLJkeEeml5wpuotDEDA,1598638767160,5,0,Very good course. The instructor is very didactic and clear. Great introduction course to Deep Learning.,0,0,Rodrigo Tavares,66305745
+3176823~COURSE!~fJCXLJkeEeml5wpuotDEDA,1598626429738,5,0,Awesome Course.Very nice introduction to course by instructor.,0,0,CHALLA K S N M SANKAR,3176823
+56343767~COURSE!~fJCXLJkeEeml5wpuotDEDA,1598538433586,5,0,I really enjoy it by a practical point of view. Probably a little hard for who has never seen neural network and python. I was interested in Keras without all the AI specialization and I really appreciate it. ,0,0,Gian Marco Corradini,56343767
+21508724~COURSE!~fJCXLJkeEeml5wpuotDEDA,1598454712600,5,0,Perfect high-level overview of neural networks and it shows how easy Keras is to use!,0,0,Jasper van Halewyck,21508724
+56600799~COURSE!~fJCXLJkeEeml5wpuotDEDA,1598162304650,5,0,A great course. ,0,0,MD. Safayet Islam,56600799
+51390945~COURSE!~fJCXLJkeEeml5wpuotDEDA,1597668105365,5,0,perfect course,0,0,Edson José Montanhini,51390945
+61077334~COURSE!~fJCXLJkeEeml5wpuotDEDA,1597494877312,5,0,Fantastic course which gives the intro to Deep Learning. High recommended to the beginners who are gonna start to learn,0,0,Hemanth Reddy,61077334
+68812841~COURSE!~fJCXLJkeEeml5wpuotDEDA,1597254326089,5,0,"Very nice, smoth explanations and most importantly a hands-on approach",0,0,Juan González,68812841
+46326390~COURSE!~fJCXLJkeEeml5wpuotDEDA,1596969791805,5,0,Very good course content for the learners,0,0,Ramesh Kumar Sunkara,46326390
+24593274~COURSE!~fJCXLJkeEeml5wpuotDEDA,1596570836990,5,0,Very clear and effective,0,0,Shiva p,24593274
+44235729~COURSE!~fJCXLJkeEeml5wpuotDEDA,1596058225668,5,0,Helpful to improve skills,0,0,121710306015 GONNABATHULA V S VAMSY,44235729
+57574901~COURSE!~fJCXLJkeEeml5wpuotDEDA,1595996382700,5,0,Perfect Introductory Course in Deep Learning !! If your seeking for starting deep learning !! Start from here,0,0,Pravin Kumar,57574901
+66208339~COURSE!~fJCXLJkeEeml5wpuotDEDA,1595946942348,5,0,Very well structured course that provided a good overview of the covered topics. ,0,0,Sascha Back,66208339
+6740727~COURSE!~fJCXLJkeEeml5wpuotDEDA,1595088348343,5,0,"This course is truly one of a kind. Am a matured student planning to go 
+back to study. Trying to navigate and prepare myself for the academic 
+world. This course gave me the necessary tools and insights on what is 
+needed to search. Highly recommend!Best course , ",0,0,RODRIGO AFFONSO GUARINHO SILVA,6740727
+35313792~COURSE!~fJCXLJkeEeml5wpuotDEDA,1594571596923,5,0,The instructor was great. Very knowledgeable and explained everything in a clear manner. The material was also very useful along with the labs.  ,0,0,Friscian Viales Cespedes,35313792
+52578833~COURSE!~fJCXLJkeEeml5wpuotDEDA,1594566639876,5,0,This course highly recommended to an ai beginer.,0,0,Saurav kumar,52578833
+64856654~COURSE!~fJCXLJkeEeml5wpuotDEDA,1594542713938,5,0,Excellence Plat form to work,0,0,Ahsaan Gul Hassan,64856654
+58943875~COURSE!~fJCXLJkeEeml5wpuotDEDA,1594407068744,5,0,very good way to learn ,0,0,Alok Misra,58943875
+33494593~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593609088170,5,0,Excellent instructor and course design . ,0,0,Sapna Tare,33494593
+61361434~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593505133249,5,0,Such a wonderful and high tech course in the world and it is provided by ibm and coursera.Thank you ibm and coursera for such a opportunity.I'm glad and proud to be a part of this organization.,0,0,shiam s,61361434
+50639201~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593269545013,5,0,Great Course! ,0,0,Mitchell Henschel,50639201
+2102767~COURSE!~fJCXLJkeEeml5wpuotDEDA,1593120434658,5,0,"Good course. It is a very direct approach. It is a basic introduction to keras. Doing the labs is recommended, and also previous knowledge about machine learning is encouraged.",0,0,Antonio Herrera Martín,2102767
+50028193~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591884086738,5,0,"Simply Brilliant course I have across. Special thanks to IBM, Coursera and all my mentors.",0,0,Zaheer Ur Rahman,50028193
+32145547~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591710000346,5,0,Great source to begin with Deep Learning.,0,0,Prateek Chitpur,32145547
+47061241~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591602616780,5,0,Amazing sessions!,0,0,Vivian Lobo,47061241
+1925681~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591360312086,5,0,Very good introduction to neural networks,0,0,Pedro Damas,1925681
+57570314~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591278196869,5,0,Objetivo e Simples,0,0,Maurício Cavalcante Bráz,57570314
+6280494~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591163827299,5,0,Great course !,0,0,Julien VALLET,6280494
+34640813~COURSE!~fJCXLJkeEeml5wpuotDEDA,1591060303196,5,0,Very good course for beginner,0,0,Nhật Trường Bùi,34640813
+27267586~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590559412413,5,0,Great intro to deep learning,0,0,Abrar Jahin,27267586
+48976235~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590543773968,5,0,A nice introduction to Keras and artificial neural networks overall,0,0,Daniel Jesus Baeza Olvera,48976235
+46417104~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590512673166,5,0,"Best course yet of the IBM professional certification courses. Everything was clear and to the point. The final assignment lab was presented with clear instructions. I learned a lot and more importantly found a new favorite focus! Although instructors never responded to questions I posted on the forum (usual), with a search was able to get clarity on details of the assignment. I enjoyed the lab. ",0,0,Mary Ann Peterman,46417104
+37313440~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590428560640,5,0,"Beginner Friendly , but important advanced concepts are missing",0,0,Ayushman Srivastava,37313440
+21390498~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590337391147,5,0,Very good content if you're a beginner to deep learning. Helped me a lot to start exploring Keras.,0,0,Ali Levent Başak,21390498
+48243228~COURSE!~fJCXLJkeEeml5wpuotDEDA,1590232363971,5,0,Excellent leaning material! Very interesting lectures and exercises and project! Really nice presentation styles and very nice lab functioning with no glitch whatsoever. Really rapid responses from course teachers. I am really taking this coursera IBM specialisation! ,0,0,Salvish Goomanee,48243228
+40338415~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589506305718,5,0,Very nice..!!,0,0,Branly F. Lugo,40338415
+6776078~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589442870797,5,0,A great introductory course for applying Deep Learning algorithm using Keras.,0,0,Tarmizi Izzuddin,6776078
+45256424~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589397791485,5,0,"A very nice way to get introduced to amazing field of Deep Learning and get your hands dirty with Keras library.Although this is not a very in-depth course but a nice place to start.Alex Sir has been really brilliant with his short ,simple and easy to understand explanations.",0,0,Ravi Paul Bansal,45256424
+49192757~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589149889606,5,0,"Excellent content quality, learned a lot.Could use better transcripts for notes",0,0,Karim Faizal Ussene,49192757
+18880559~COURSE!~fJCXLJkeEeml5wpuotDEDA,1589149880982,5,0,Sehr interssant!,0,0,Carlos A Parra Murillo,18880559
+45437394~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588830364566,5,0,It was a good course with beginner level understanding of deep learning and neural network. The quiz are related to course material and project is a good practice of understanding how parameter tuning works in model training. Overall an awesome course. Thank you.,0,0,Kamal Kant,45437394
+16901541~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588411950061,5,0,Awesome course! Very informative with useful exercises and project,0,0,Maximilian Pinaroc,16901541
+42583101~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588344147476,5,0,Excellent for beginners,0,0,Prodipta Golder,42583101
+5426616~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588150604069,5,0,"Wonderfully explained the topics, undoubtedly a great introduction!",0,0,Ankan Ghosh Dastider,5426616
+9844845~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588141211272,5,0,good,0,0,Krishna Harish,9844845
+37872145~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588084511948,5,0,"A very good introduction to Deep Learning. The course is done very weel, the explanations are clear and good",0,0,Claudio Calamita,37872145
+16784346~COURSE!~fJCXLJkeEeml5wpuotDEDA,1588022285715,5,0,Good introduction to Deep Learning. Final assignment feels a little basic and unrelated with deep learning.,0,0,Daniel Palomera,16784346
+37682528~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587909154449,5,0,Great course for understanding the basics of deep learning,0,0,Ahmet Arif Sarioglu,37682528
+37082729~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587897995241,5,0,Very good for beginners in deep learning. Easy to understand!,0,0,Oneil Ambion,37082729
+31799512~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587457080669,5,0,Well Explained.I would refer this course for beginners,0,0,Ashish Bokaria,31799512
+1220105~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587449378252,5,0,Excellent,0,0,Souvik Majumdar,1220105
+14373259~COURSE!~fJCXLJkeEeml5wpuotDEDA,1587036673997,5,0,Could be more detailed but still it was a good introductory course.,0,0,Alpay Sedat Durukan,14373259
+29936903~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586594859935,5,0,Loved it. To the point and easy to learn,0,0,Kabila Haile,29936903
+31631354~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586559852340,5,0,Excellent course!,0,0,Jhonny Jose Calvo Rondon,31631354
+29588729~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586556539311,5,0,Very well explained tutorials and challenging exercise,0,0,Nakul Sharma,29588729
+39686711~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586460207088,5,0,"Alex, thank you for putting together such a fantastic course and making Keras so approachable. I'll be sure to get back take a deeper dive.",0,0,Murali Behara,39686711
+27557205~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586187031662,5,0,Lab assignments are really good as they help in building the concepts nicely. IBM has really put together the best instructors. The videos were also very easy to understand. One more thing I would like to add is that previously I have tried learning Deep Learning from other places too but this course is the best.,0,1,Sadabrata Konar,27557205
+24342335~COURSE!~fJCXLJkeEeml5wpuotDEDA,1586005563905,5,0,Simple and straightforward,0,0,Bhaskar N Subramanian,24342335
+53302471~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585944668844,5,0,Trainer is FINOMINAL,0,0,YERRAMOTHU GOPI SRINIVAS,53302471
+49545113~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585841921327,5,0,Well structure Deep learning fundamental with keras ,0,0,Babatunde Kassim,49545113
+5670266~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585841467223,5,0,Best course taken on Coursera thus far.,0,0,Bo Twardus,5670266
+9287576~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585720237279,5,0,"Good course, rather simple and comprehensive. ",0,0,Andrey Zakharoff,9287576
+44271945~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585510504182,5,0,super,0,0,said flissi,44271945
+49658459~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585204246394,5,0,Really nice!,0,0,Sunny Dial,49658459
+29821887~COURSE!~fJCXLJkeEeml5wpuotDEDA,1585147060028,5,0,"It is a really good course.The labs could have had more for us to do, much of the labs was already implemented.Still, great introduction to the proposed subjects.",0,0,Francisco Braga,29821887
+49574387~COURSE!~fJCXLJkeEeml5wpuotDEDA,1584351666835,5,0,"Interesting course. Forward propagation, gradient descent, backward propagation, the vanishing gradient problem, (+ Regression, Classification, and CNN with Keras) explained clearly. ",0,1,Amitayu Banerjee,49574387
+39773260~COURSE!~fJCXLJkeEeml5wpuotDEDA,1583837181837,5,0,I found this course to be very beneficial. The explanation was consice and straight to the point without wasting any unnecessary time on explanations of concepts that a student couldn't readily put into practice. I found the labs to be equally as concise and to the point. It allowed me to understand fundamentals and build programs quickly. I would suggest this course to anyone wanting to get up to speed quickly regarding Deep Learning and Keras in particular,0,0,Brandon Copeland,39773260
+40840264~COURSE!~fJCXLJkeEeml5wpuotDEDA,1583316753339,5,0,excellent course for beginner,0,0,Sumit Jha,40840264
+36059641~COURSE!~fJCXLJkeEeml5wpuotDEDA,1582731242646,5,0,The course contents and labs are very informative and explains the basic concepts throughly. ,0,0,Vedant Pathak,36059641
+45024782~COURSE!~fJCXLJkeEeml5wpuotDEDA,1582686811026,5,0,This course was great because first it covered theory then goes to code. And the algorithms are taught by the teacher so well. ,0,0,Kamran Hosain,45024782
+44027840~COURSE!~fJCXLJkeEeml5wpuotDEDA,1582179951352,5,0,"Best suited for beginner in Deep learning with Keras. Good content, hands on experience with Jupiter notebook with IBM Developer tool. Worked Exercise code for CNN & RNN.",0,0,Mahesh Chauhan,44027840
+47568109~COURSE!~fJCXLJkeEeml5wpuotDEDA,1581235290167,5,0,It makes me know a brief knowledge of deep learning by keras,0,0,Lee Yik Yeung,47568109
+25305041~COURSE!~fJCXLJkeEeml5wpuotDEDA,1581233257723,5,0,Great course. I loved the presentation and material.,0,0,Rorisang Sitoboli,25305041
+43570877~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580957662768,5,0,super useful and neat class,0,0,Wei Jian (Thomas) Tang,43570877
+28284135~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580910991773,5,0,It is a good course that provides a general background of Deep Learning with Keras. ,0,0,DORA MARIA BALLESTEROS,28284135
+35244005~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580661061102,5,0,Very nice course,0,0,kanishk awadhiya,35244005
+41805658~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580637546792,5,0,This course is a piece of art. I see how carefully and precise course was build and recorded. Thank you for awesome experience!,0,0,Vladimir Generalov,41805658
+47021471~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580360419140,5,0,Really good course,0,0,Esteban Elia,47021471
+40885010~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580292287706,5,0,Great Course on how to use Keras for Deep Learning,0,0,Dohyoung Chung,40885010
+47702629~COURSE!~fJCXLJkeEeml5wpuotDEDA,1580161673816,5,0,Very good course giving a simple and concise introduction to deep learning with Keras.,0,0,Christopher Gordon,47702629
+52990~COURSE!~fJCXLJkeEeml5wpuotDEDA,1579688942525,5,0,Nice starter to deep learning ,0,0,Jochen Gerhard,52990
+33882851~COURSE!~fJCXLJkeEeml5wpuotDEDA,1579511736197,5,0,Quite good course on Nerual Networks. I would only welcome even more practical examples with practice coding but I was happy with this setup.,0,1,Petr Jaškovský,33882851
+16482999~COURSE!~fJCXLJkeEeml5wpuotDEDA,1579164828382,5,0,Very good course to start with Neural Networks & Keral lib. Recommend for beginners. ,0,1,Denis Uspenskiy,16482999
+44195359~COURSE!~fJCXLJkeEeml5wpuotDEDA,1578203776684,5,0,Very good course,0,0,PARITOSH PRAMANIK,44195359
+11246889~COURSE!~fJCXLJkeEeml5wpuotDEDA,1577477359426,5,0,Excellent course coverage for beginners..,0,0,Nidhi Singla,11246889
+43601552~COURSE!~fJCXLJkeEeml5wpuotDEDA,1575988483894,5,0,"Really enjoyed the class, felt that the level of challenge was appropriate. Thanks for making this class available!",0,1,Chuck Hernandez,43601552
+43941739~COURSE!~fJCXLJkeEeml5wpuotDEDA,1575309666832,5,0,Excellent i understood the main principles of neural networks and the recomendations were very usefull ,0,1,Andres Herrera,43941739
+5192518~COURSE!~fJCXLJkeEeml5wpuotDEDA,1575285635514,5,0,Nice intro into deep learning!,0,0,Alexander Pantyukhin,5192518
+15056747~COURSE!~fJCXLJkeEeml5wpuotDEDA,1574063957714,5,0,Good Course on Deep Learning,0,0,Farrukh,15056747
+508217~COURSE!~fJCXLJkeEeml5wpuotDEDA,1574019489790,5,0,Nicely packed in a small course. And the examples are pretty good as well,0,1,Ramiro Rego Álvarez,508217
+38093171~COURSE!~fJCXLJkeEeml5wpuotDEDA,1573419881832,5,0,"I really enjoyed this course, specially for all the labs and assignments. Thanks much!",0,1,Rose Condon,38093171
+46100127~COURSE!~fJCXLJkeEeml5wpuotDEDA,1573355185489,5,0,exellent course,0,0,RuoxinLi,46100127
+34643612~COURSE!~fJCXLJkeEeml5wpuotDEDA,1573034349555,5,0,"It,s a very good course to get grip on keras and artificial neural networks.",0,1,Pokala Anirudh,34643612
+21953301~COURSE!~fJCXLJkeEeml5wpuotDEDA,1571226759130,5,0,Nice for start point,0,1,Saeed Alam,21953301
+1995469~COURSE!~fJCXLJkeEeml5wpuotDEDA,1571056529894,5,0,Fast and constructive,0,0,Oles Matsyshyn,1995469
+12836419~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570634643071,5,0,"Loved the way the instructor has clearly set the expectations of the scope and breadth of coverage of topics in this course. However, if the course was a bit more deeper into intermediate level concepts, it would have given me more confidence to face interviews. Nevertheless, I would love to learn more from this instructor as he kept me motivated (and not bored) all through the course from start to the end.",0,3,deepthi locanindi,12836419
+39545729~COURSE!~fJCXLJkeEeml5wpuotDEDA,1570097920836,5,0,Very intractive and benificial course for me .Thank you coursera and IBM for this course,0,1,GAUTAM  KUMAR,39545729
+11732402~COURSE!~fJCXLJkeEeml5wpuotDEDA,1569689140725,5,0,Details very well covered. I found it very much interesting and well explained.,0,2,Amit Teli,11732402
+31142329~COURSE!~fJCXLJkeEeml5wpuotDEDA,1569517626065,5,0,Super Class course ever I see. Thanks for give such best production.,0,1,Laeeq Khan,31142329
+44370497~COURSE!~fJCXLJkeEeml5wpuotDEDA,1569420051210,5,0,wonderful,0,0,Saman Siadati,44370497
+39658797~COURSE!~fJCXLJkeEeml5wpuotDEDA,1568867575552,5,0,It is a good Introduction course on Deep Learning using Keras.,0,2,Suhas Shirbavikar,39658797
+43829434~COURSE!~fJCXLJkeEeml5wpuotDEDA,1567931253176,5,0,"The teaching is not deep enough to solve the Week 5 assignment, please take note you need to plumb in other Keras courses.",0,2,Lam Chou Vun Dennis,43829434

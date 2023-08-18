@@ -1,0 +1,2 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+39506896~COURSE!~AA5myt96Eeu-EQpycSBBow,1657915062983,5,0,"Awesome course. I was interested in it for lyric generation and although this was just text generation based on .txt file, I see the capability of using web scraping on lyric websites for particular artists, which I can then utilize to create a basic lyric generator bot. Its also just cool seeing a computer produce sentences.",0,0,Taylor Littleton,39506896

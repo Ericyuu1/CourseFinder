@@ -1,0 +1,7 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+3325587~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1643904512290,2,0,Good match between lecture/example and tests. It would be better if there were more real world examples and the course included use of applying Causal Inference to time-series data.,0,0,seyed reza mirkhani,3325587
+38068194~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1663605917024,3,0,D​elivering the promised essential with adequate value. ,0,0,Sasmito Yudha Husada,38068194
+10550363~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1660926749413,3,0,n​o reading material and can't revise the concepts,0,0,Nersu Ashish,10550363
+30217104~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1618577382545,3,0,"it's a neat format, but there's not a huge amount of material in the course, unless you can keep the code. A lot of these models would be better as glms not linear models, but that isn't really discussed. it would also be useful to see more on the causal forest, which is the area which interested me in particular",0,2,Tom Bratcher,30217104
+4905894~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1646913087420,4,0,"For someone who's unfamiliar with R and causal inference, this helped a lot with familiarizing but it's too short to go fully in-depth. Would like to have discussed more practical ways to apply these methods to machine learning and when-to-use-which technique",0,0,Chiara Ledesma,4905894
+56904983~COURSE!~5fF5KOwUEeqljQqJ9PwJ1w,1612099635634,5,0,Decent start to Causal Inference Techniques with sufficient theory for a project. ,0,1,Keerat Kaur Guliani,56904983

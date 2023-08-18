@@ -1,0 +1,74 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+7299694~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1675612778273,1,0,"I quit the courseproject prematurely. The instructor has a heavy accent and I had to turn on closed captioning to understand what he said. The explanation about several topics, like R factors, was inadequate.
+Sorry Coursera, but this is not the quality and level I'm used to in your courses. ",0,0,Roy Grant,7299694
+4440460~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1666706884074,1,0,Very difficult to follow because of the accustic and communication skills. ,0,0,Eriselda Mino,4440460
+4576601~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1645695189235,1,0,"The english of the instructor is very difficult to understand, and also I didn't like the flow  and couldn't really follow. I left the session before it ends.",0,1,Fatima Zahra Ouazzani,4576601
+13569487~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1619949331894,1,0,so complicated ,0,0,Abdi Aden,13569487
+2513504~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1602484762812,1,0,This is not worth the money.,0,4,Mahfuza Islam,2513504
+106375734~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1652643798326,2,0,I did not get enough time to practice on icloude space. And the reason I was slow because of the accent of the instructor.,0,0,Farhana Ayub,106375734
+7916144~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1648119866158,2,0,There are tons of better courses in Youtube for free. I was frankly exticting much more..,0,0,Armando Falcucci,7916144
+24902311~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1614281919874,2,0,"The accent of the instructor was bad and sometimes he was making minor mistakes during the lectures, making the course very difficult to attend properly. I lost my patience half way and couldn't keep up. It's a pity though, because it's a good introductory course for R (I especially liked the side-by-side video with the interface were I could code in real-time).",0,6,Vasileios-Orestis Stoilas,24902311
+16170136~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1610968384203,2,0,"While the ""walk-through"" software used to facilitate learning is pretty cool, I found the instructor's spoken English difficult to understand and his teaching style rather dull. He simply worked through a long list of tasks with no narrative to explain why each skill might be useful in practice. The course was somewhat useful for learning to navigate the R Studio platform but it was not useful for actually using it in practice. For that, I have found far more success using self-guided work-throughs of online resources or exercises in Andy Field's Discovering Statistics Using R textbook.",0,14,Thomas Solomon,16170136
+13557192~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1606666640649,2,0,"Unfortunately, the lecturer's accent is very distracting and I couldn't focus... If I had a chance to listen to his English prior to the enrolment, I wouldn't pay for the course.",0,10,Alina Kovalchuk,13557192
+33054608~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1676203301183,3,0,Very low quality,0,0,Rowan Swan,33054608
+117006457~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1666107943950,3,0,P​resenter speaks with a heavy accent,0,0,Kåre Moberg,117006457
+31849288~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1639721977690,3,0,"The guy explains very well each task, but i​t is unfair that you can access just 3 times to the Rhyme platform. Please change this to have an unlimited access and an unlimited time too.",0,0,Leonel Pinillos,31849288
+37460450~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1635966408929,3,0,"A​ good introduction to the very basics of R. The course itself is (I find) a little bit boring as it consists of just repeating what is shown in the video. A case study would maybe make it more fascinating! However, still a good project for total R beginners. ",0,0,Joanna Sitarz,37460450
+7109221~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1627227221532,3,0,G​ood informations but there is no read along option and I am wasting time trying to understand his accent. Dropping class for another option.,0,1,Robyn Johnson,7109221
+402471~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1617496561884,3,0,Good class - very hard to understand the instructor,0,1,Stacey Williams,402471
+12677589~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1612525415227,3,0,"Thank you for the Course! As in some R courses I know, it starts at a good pace and then quickly becomes too fast for beginners. It would be important to give an example of what you can do with it to get away from the abstract level. Also it would be helpful to know where to store and retrieve the scripts. Where can you get an overview of the r commands? Hints on the correct spelling would be important! Space, Ctrl Enter... etc.",0,1,Karin Gröschner,12677589
+118766671~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1670937897926,4,0,"This is a useful tutorial, but it was hard to understand the lecturer. ",0,0,Nadezhda Cheban,118766671
+102898332~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1653402042077,4,0,Great project and fantastic resources associated with the project.  I learned a lot.,0,0,Andrew Bond,102898332
+16980347~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1652961279199,4,0,M​aterial for the course is good for beginner to R. ,0,0,Nguyen Duong,16980347
+65047216~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1647614017543,4,0,D​efinitly a great primer if you are beginning with R and Data science... I can't speak for everyone but I need to get hands on with something if I am going to truley understand what I am doing and this course helps you do that.,0,0,Stanley Guinn,65047216
+53723578~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1641484408526,4,0,"Had done some R before, this was a good refresher to the basics. The instructor makes a few mistakes during the course but corrects them as he goes but sometimes you need to watch out for the pop-up message to see the correction, which you might miss if you are typing in the RStudio console. ",0,0,Alan D Penkert,53723578
+92459594~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1636181684496,4,0,"NICE, LEARN NEW THINGS",0,0,jagdish masuram,92459594
+72854074~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1626950028227,4,0,Good one,0,0,Dr. Gondi Lakshmeeswari,72854074
+21105974~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1624069501851,4,0,A very great start up course for beginners who have no prior knowledge on R programming,0,0,Sodunke Temitayo,21105974
+79952513~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1622211240049,4,0,"The length of the course and the content was good.  However, it was very hard to understand the instructor and I had to pause the video many times just to catch up as he seemed to move quickly.  ",0,1,Lorelle Benetti,79952513
+82510032~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1616946989236,4,0,good,0,0,charlenedeng,82510032
+82504992~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1616903722367,4,0,good explanations,0,0,vijayalaxmi Angadi,82504992
+50941736~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1615155665940,4,0,"This course is very good for beginners who don't have any experience in R programming. The instructor taught steps by steps with very clear instructions. However, it is impossible to demonstrate everything in R programming in this course. So if you would like to know more than the basic steps or require studying statistic calculation of data, this course might not be suitable for you.",0,0,Weerawong Sangphosuk,50941736
+49316243~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1614049963484,4,0,Good for basics of starting R. Only discuss very elementary level.,0,0,Youngjune Lee,49316243
+70031011~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1611833821497,4,0,Pretty good lightweight introduction to R. Final quiz very good.,0,0,�Kurt Schmidt�,70031011
+45762280~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1607267978024,4,0,This course has helped me in understanding the basics of R programming. I'm grateful to the instructor.Thanks,0,0,Sadhana Chaudhary,45762280
+21927609~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1600190357768,4,0,Excelente curso,0,1,Ronald Urizar,21927609
+121798363~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1675648571339,5,0,Great learning experience with in-depth knowledge of basic R Commands. ,0,0,Sumandeep Kaur,121798363
+73623048~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1669863181587,5,0,Very good for beginner. Explains very well!,0,0,Amali Fernando,73623048
+76282679~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1666673855936,5,0,​Excllent ,0,0,BOJANKI THARUNI 122010307011,76282679
+108606768~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1665380278859,5,0,"T​he module instructors has explained very well the basic of R however, the material provided in GitHub is not accessible. It will be good if material that is data or reading material be email or provided to other accessible plateforms",0,0,Fiza Qureshi,108606768
+108007448~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1656065783396,5,0,very nice and useful content,0,0,Megha Dabas,108007448
+103758186~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1647509278521,5,0,It is very nice Project.,0,0,Mayuri Yadav,103758186
+14719324~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1644505710828,5,0,Very good introduction to R programming!,0,0,Dimitrije Vasic,14719324
+69347712~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1643707907329,5,0,Easy to understand for beginners.,0,0,Hui-Wen Hsiao,69347712
+2291010~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1640177300758,5,0,"Exceptional course, the instructor is amazing and very encouraging. This is a very nice introduction to R coding.",0,0,Gavriilidis George,2291010
+12760058~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1639098119469,5,0,Great start for beginners in grasping the R basic language. ,0,0,Icinic,12760058
+95987637~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1635187603598,5,0,Muy buena,0,0,Masheli Lizbeth Pila Jacho,95987637
+73825132~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1628498751193,5,0,good,0,0,VIJAYAPURAM VAMSI,73825132
+18033665~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1628431836792,5,0,"Very simple and concise, effective at the same time. This is exactly what I hoped for in this lecture.",0,0,Smart Humanism,18033665
+72348649~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1627286544354,5,0,good,0,0,221910302059 D Tejaswini,72348649
+62376298~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1626867943252,5,0,doone,0,0,SYED SAADH,62376298
+27519269~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1624046572182,5,0,"A​ basic, but useful, introuction to R",0,0,Luis Solis García-Barbón,27519269
+59072276~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1622972564904,5,0,It's very helpful to people who are new to R. Thank you for offering this project!,0,0,Shirly Li,59072276
+85355911~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1619622259602,5,0,Muy funcional,0,0,Katy Anabel Moreno Vaca,85355911
+85231601~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1619470111818,5,0,Me Pareció un curso un poco complejo pero que ayuda mucho en el ámbito laborar,0,0,Carlos Paredes,85231601
+68033235~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1618906789282,5,0,This is awesome. Provide basic knowledge about the R programming. ,0,0,Hewa Marambage Ravindu Priyashan Perera,68033235
+67928354~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1617134565151,5,0,"I didn't where to start learning R, this is such a great way to start R course for super beginners like me",0,0,Elisa Choi,67928354
+13962357~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1616985268535,5,0,"Excellent course for complete beginners, from scratch.",0,0,Ulises Martínez González,13962357
+79930949~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1616015469425,5,0,"Good introduction to R, I learned all the basics necessary to get started. Instructor was very clear",0,0,Nathan Siegrist,79930949
+1866423~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1614528262149,5,0,"This is a perfect first step in R. The basics are explained clearly, something that some other courses, that focus on more advanced features, lack. Good pace and convenient to use technology. Recommended for any beginner (even if you know a little about R but still struggle with concepts).",0,1,Igor Starinskij,1866423
+81578184~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1613923891623,5,0,Thank you for this short beginner's course. I loved the way you have explained it in detail as being very new and had very little knowledge about R programming. Thank you for sharing your knowledge.,0,0,Supatra Chokkua,81578184
+73473136~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1613129134802,5,0,It was very interesting and easy to learn. The was he explained was very good,0,0,Faheem Mohammad,73473136
+66521446~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1611806090140,5,0,The name of the course does justice to its content.,0,0,Alejandro De Los Santos,66521446
+52951572~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1611086952630,5,0,"Good class, you have to try if you are beginner in R!!",0,0,Li-Jing Chen,52951572
+78510171~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1611052822488,5,0,"In this course,have learnt about how R works,the data types,data structures and it uses",0,0,Sherif Atanda,78510171
+78748375~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1609860966913,5,0,"This a short and sweet course that provides a great primer for R. It focuses strictly on the essentials/basics, such as how to create objects, subset data frames and import files. The instructor approaches the course as if you've never used R before, and even though I have some R experience, I still found myself learning quite a few useful tricks and some new functions. Thanks for the great course!",0,0,Michael Hines,78748375
+77131877~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1608521502064,5,0,Easy intro very beginner friendly. Had great experience.,0,0,Neo Yin,77131877
+67354733~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1607086471731,5,0,The best  R tutorial i've come across so far. The course structure is sequencially well structured and the hands on practice platform and video tutorials are  excellent ,0,1,Alexander Kofi Kwapong Yirenkyi,67354733
+18308077~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1606942788924,5,0,Awesome course. I appreciate your explanation everything by details and I advise everyone who has just started learning the R language.,0,0,Enver,18308077
+69336911~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1606295657387,5,0,yeah,0,0,Aimy Nurliyana Binti Md Yusof,69336911
+27952346~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1605764148881,5,0,its was good enough to teach principles of R platform ,0,0,Ali Hussein,27952346
+31006812~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1604515779783,5,0,I am now equipped with the foundational knowledge to start using R in my work as a researcher in a university. Thank you!,0,0,Marvin Louie Orbeta,31006812
+73119134~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1602909609578,5,0,A good start in learning R,0,1,Jorybell Masallo,73119134
+1383208~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1602687630262,5,0,Easy to follow and covers the basic of the basics. Also serves as a good refresher for those who haven't worked with R in a long time.,0,3,Karlo Angelo Lazaro,1383208
+73117812~COURSE!~ANHuAuhaEeq21RLhMRw7SQ,1601923830374,5,0,I really enjoy this course,0,1,Surbhi Kaushik,73117812

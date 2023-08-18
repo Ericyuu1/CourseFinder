@@ -1,0 +1,249 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+39583483~COURSE!~yEurgmOREei16BIJfVb6WA,1655575324522,1,0,"The course should teach you how to use the commands. This course only gives an example, and then test you expecting that one example to be enough. A HUGE WAIST OF TIME! AVOID AT ALL COST!",0,0,Adam Hall,39583483
+104426685~COURSE!~yEurgmOREei16BIJfVb6WA,1653924404686,1,0,"Fehlende Zusammenhänge - es wird überhaupt nicht erklärt warum etwas gemacht wird, sondern einfach wahllos irgendwelche Befehle aufgelistet. Die Folien sind komplett überladen mit Prosatext, der nichts mit den Aufgaben zu tun hat, die in den Kapiteln danach folgen. Der Dozent wirkt lustlos und demotivierend.  Alles in allem überhaupt nicht empfehlenswert. ",0,1,Christina Frick,104426685
+86020504~COURSE!~yEurgmOREei16BIJfVb6WA,1620676417004,1,0,certificate not available,0,0,Anushree verma,86020504
+66822339~COURSE!~yEurgmOREei16BIJfVb6WA,1617285552010,1,0,Some practical exercises would have been nice. This way it was not very helpful.,0,0,j h,66822339
+41346617~COURSE!~yEurgmOREei16BIJfVb6WA,1613748566049,1,0,"This course was pretty disappointing, I was excited to start learning Linux and Bash but for some reason, the concepts that were introduced in this course were horribly sorted. For example, for all weeks we used `yum` until week 5 where it was introduced. As well as choosing and installing a Linux distro, which was discussed in week 5 (last week of the course). I had to do a lot of googling for this course which I don't tend to on a normal Coursera course.I just think that a little bit of planning and organizing would've made the course far more helpful.",0,4,Naser Dakhel,41346617
+24184981~COURSE!~yEurgmOREei16BIJfVb6WA,1590090237025,1,0,"The course falls tragically short of where it could be. The order of the lessons appears to be random (with installation and usage information provided at the end rather than the beginning), and this is complicated by information being provided for outdated packages and commands-- many of which have been completely phased out on some Linux kernels. Following along with an AWS RHEL instance was impossible for all but the most basic functions.It appears that the information in this class was valid as of 2015-2016, and hasn't been updated since. Because most commands are provided in a written table format without context, I learned the most by Googling the topics being covered and going from there.I don't know who the intended audience for this class is, but it isn't amateur Python developers.",0,2,Walter Boles,24184981
+57586741~COURSE!~yEurgmOREei16BIJfVb6WA,1588149454615,1,0,Muy complicado de entender y las prácticas mal explicadas.,0,1,Borja Hernando de Larramendi Campoy,57586741
+27227802~COURSE!~yEurgmOREei16BIJfVb6WA,1581947276725,1,0,"Unclear and not suited for absolute beginners. Get a good book like The Linux Bible, and learn through that.",0,4,Luca Mancusi,27227802
+1302843~COURSE!~yEurgmOREei16BIJfVb6WA,1577915722049,1,0,"If you do not know LINUX, then do not take this course.  This is a course that could have been good for beginners.  But it not. The order of the course is haphazard.  For example early on in the course you are required to install packages - but the explanation of how to install packages is only at the end of the course.  The explanations given, in places, assume that your day job is as a network administrator or similar - so if you day job is not, again don't take this course.Some of the lessons consist of a sheet detailing 20 or so commands - which for me at least, was not an easy way to learn something new.I would say though that the course lecturer is clearly an expert in the field and that the material could be re-purposed with only some effort in order to make it beginner friendly (if they ever wanted to) . In the meantime - if you are a beginner, try somewhere else.",0,18,Alan Chalk,1302843
+6990695~COURSE!~yEurgmOREei16BIJfVb6WA,1574028822644,1,0,"too basic, fuzzy, doesn't really teach or provide any valuable hands on in linux",0,4,Ian Demender,6990695
+35388200~COURSE!~yEurgmOREei16BIJfVb6WA,1572959903872,1,0,you just read the slide.,0,5,HXQ,35388200
+39612367~COURSE!~yEurgmOREei16BIJfVb6WA,1550524211881,1,0,"a lot of bugs on site, lol i couldnt finish his course for hour because site didnt see my results",0,2,Roman Ostash,39612367
+10757131~COURSE!~yEurgmOREei16BIJfVb6WA,1604792274664,2,0,This course ranges in offering very basic Linux education to detailed and obscure OS system information all at random and written so poorly it confuses even a native English speaker with 15 years of casual Linux experience. This course was a pain in the kernel to complete.,0,0,Frank Esposito,10757131
+47325607~COURSE!~yEurgmOREei16BIJfVb6WA,1601668522468,2,0,Not very good for who has a good background in Linux distros. It's super-easy.,0,0,Gökhan Koçmarlı,47325607
+62424966~COURSE!~yEurgmOREei16BIJfVb6WA,1598805046113,2,0,this course is more and more theory based ,0,0,harsh laddha,62424966
+62777248~COURSE!~yEurgmOREei16BIJfVb6WA,1592341684470,2,0,instructor didnt make understand well the commands,0,0,Abhishek Bhowmick,62777248
+49436948~COURSE!~yEurgmOREei16BIJfVb6WA,1591269460670,2,0,"I am experienced Unix administrator and this course is directed for developers, but it should covers the fundamentals. I think that one should not focus on the Linux history or who is managing Linux development etc. and it was most difficult quiz for me. The other ones have also inadequate or inaccurate questions or answers, like for updating system: if there is 'sudo yum update' one can assume that user is not 'root', so the answer 'dnf update' should not be correct, because regular user cannot update the system. The same for performance monitoring: vmstat is not dedicated to measure I/O and the uptime command shows only load averages (once), so it should not be qualified as performance monitoring utility.",0,0,Piotr Tarnowski,49436948
+22137967~COURSE!~yEurgmOREei16BIJfVb6WA,1589663267427,2,0,"As a beginner with no prior knowledge of Linux, I found the course very confusing. Also, the instructor just reading the slides. What kind of teaching is that? ",0,0,Nazi ,22137967
+94130986~COURSE!~yEurgmOREei16BIJfVb6WA,1634360142595,3,0,"not in depth, topics are barely touched on the surface without going into much details. the reading materials are not well articulated as well, often require googling to get a better grasp at the content.",0,0,Yi Xuan Tiew,94130986
+68765167~COURSE!~yEurgmOREei16BIJfVb6WA,1623565822023,3,0,good,0,0,Deleted Account,68765167
+52266783~COURSE!~yEurgmOREei16BIJfVb6WA,1614519366317,3,0,"I like that this course provides the foundation and introduction to Linux and gives a compilation of what I need to know in order to start learning Linux. Its good that its from the Linux Foundation itself - so I feel that I am learning it the proper way. But saying that, the quizzes and labs are not hands on enough - perhaps its an extra cost to them to provide some sort of virtual environment for us to do the lab and test on it and perhaps base some assignments of it. so they don't do that. I'm on Coursera Plus so its fine, but I will pay for something with not enough hands on epxerience. Saying that, I did learn in parrallel with some other courses that gave better hands on and labs and I think that helped me a lot to understand the content in this subject. As long as you supplement your learning with various other sources, this course is ok.",0,1,Sarah Hani,52266783
+35935352~COURSE!~yEurgmOREei16BIJfVb6WA,1612239189066,3,0,too little practice homework,0,0,蒲政衡,35935352
+74537584~COURSE!~yEurgmOREei16BIJfVb6WA,1609067441425,3,0,not good for beginner ,0,0,Manoj Hande,74537584
+45418223~COURSE!~yEurgmOREei16BIJfVb6WA,1598983067083,3,0,"Nice instructor. Course materials are not very invigorating, however. ",0,0,Ian Muehlenhaus,45418223
+65922831~COURSE!~yEurgmOREei16BIJfVb6WA,1598799562570,3,0,"Good course with a lot of knowledge. A variety of subjects is explained.  It would be even better if it gave more details and hands-on exercices about the basics (input output, pipes, basic bash commands), instead of giving complete information about dozens of apps that one will seldom use.Also the structure is sometimes a bit chaotic: sudo appears at the very beginning but we only learn how it acctually works at the end of the course.",0,0,Antoni Heba,65922831
+67508721~COURSE!~yEurgmOREei16BIJfVb6WA,1597218829524,3,0,A bit advanced for begginers,0,0,KARUPAKULA DHANUSH,67508721
+53062745~COURSE!~yEurgmOREei16BIJfVb6WA,1595969184735,3,0,More practice should be given,0,0,milon ami,53062745
+9296567~COURSE!~yEurgmOREei16BIJfVb6WA,1594654612927,3,0,I think it's good for someone who need to enter Linux but should make options for different distribution thanks,0,0,Mohammed Eltyar (PiloT),9296567
+39879207~COURSE!~yEurgmOREei16BIJfVb6WA,1593867526001,3,0,Need more video demonstrations,0,0,Vijesh N K,39879207
+62545075~COURSE!~yEurgmOREei16BIJfVb6WA,1593581759561,3,0,It is a great course although it lacks a lot from exercises,0,0,Jaime Bastida,62545075
+54607687~COURSE!~yEurgmOREei16BIJfVb6WA,1588065317688,3,0,"Is good, when you already knew about linux  role.",0,0,GOUTHAM REDDY  KASIREDDY,54607687
+45502079~COURSE!~yEurgmOREei16BIJfVb6WA,1575276896085,3,0,"more of a theoretical session, didnt find anything practical",0,1,Arjun kashyap,45502079
+3355373~COURSE!~yEurgmOREei16BIJfVb6WA,1551548834590,3,0,"Not very organised in terms of studying order, and some of the examples are a bit too simple and skimming the surface.  ",0,6,Qin Wang ,3355373
+76923901~COURSE!~yEurgmOREei16BIJfVb6WA,1672516570631,4,0,"I really appreciate this course, the instructor, and the Linux Foundation for offering it.The course takes a middle ground between high and low level information.  Sometimes, you wish there was more detail, sometimes maybe less.  Overall, it is a good mix.I often found some questions on the exams are not intuitively correct and often differ from the information provided.  For example, lumping /tmp, /var and /home together as directories which ""change"" (or something similar) was in contrast to the given information in the course (naming only the first two) and seems counter-intuitive given the rapidly changing and temporary nature of the first two.  Under no circumstances would one treat /home like the former two directories, which are fleeting and fast-paced.However, overall, a good review for one in the field, with a nice touch of the folklore.",0,0,newyork10023,76923901
+40614469~COURSE!~yEurgmOREei16BIJfVb6WA,1655452446369,4,0,P​retty good course to get a complex general view of Linux systems work. But it is 4 out of 5 beacause on assignments there are questions about things which were not covered in theory part.,0,0,Andrii Nyvchyk,40614469
+25948374~COURSE!~yEurgmOREei16BIJfVb6WA,1649511310038,4,0,Nice detailed but could have been made easier to introduce topics to newcomers.,0,0,Satwik Das,25948374
+98195632~COURSE!~yEurgmOREei16BIJfVb6WA,1644075176907,4,0,Learners can practice tests.,0,0,凃偉義,98195632
+62019838~COURSE!~yEurgmOREei16BIJfVb6WA,1642881519067,4,0,I​t was conceptual course. I enjoyed how professor taught important stuff only. Those who want to learn deeply this course is not for them but for basic knowledge its very good. ,0,0,Gaurav Kumar,62019838
+82216692~COURSE!~yEurgmOREei16BIJfVb6WA,1637950328682,4,0,"Если вообще нет представления как работаю системы на базе Linux, то вам вполне подойдёт данный курс. Есть некоторые ошибки в практических задания. Задания выполнял на CentOS 8.",0,0,Гребеньков Александр,82216692
+73563157~COURSE!~yEurgmOREei16BIJfVb6WA,1630686933761,4,0,"I​t's a great course to get your hands on linux, the only caviate is that its not in much depth and you need to do a lot of googling to understand stuff.",0,0,Abhay Tomer,73563157
+74454486~COURSE!~yEurgmOREei16BIJfVb6WA,1630117654141,4,0,Very Good course.,0,0,LUIS VICENTE ROJAS ROJAS,74454486
+46742843~COURSE!~yEurgmOREei16BIJfVb6WA,1629110928721,4,0,very good.,0,0,Takahide Maruoka,46742843
+76155641~COURSE!~yEurgmOREei16BIJfVb6WA,1624274900929,4,0,v​ery good course and pratice for beginners,0,0,KOUASSI KOFIE ISMAEL,76155641
+62219235~COURSE!~yEurgmOREei16BIJfVb6WA,1622882575622,4,0,The course really dives deep into the various Linux distros and commands. Also there's a lot of reading work to be done in this course. So be prepared for that. The Demo videos were great !! Some of the course contents could be updated. Overall I really enjoyed doing this course. Very much greatfull for coursera and the LINUX foundation for bringing out this course.,0,0,Prajwal Reddy,62219235
+14794921~COURSE!~yEurgmOREei16BIJfVb6WA,1617006286113,4,0,"very informative but ,it would be nice if the LAB examples be more interactive and explained better",0,0,Chris de jager,14794921
+47607450~COURSE!~yEurgmOREei16BIJfVb6WA,1614689334873,4,0,Nice Course For beginners.,0,0,Pramodh reddy,47607450
+79154073~COURSE!~yEurgmOREei16BIJfVb6WA,1613225969573,4,0,I would like a certificate with my date of birth,0,0,Claudia Cavallaro,79154073
+69384465~COURSE!~yEurgmOREei16BIJfVb6WA,1609774444037,4,0,good courseinformative,0,0,harry sidhu,69384465
+925552~COURSE!~yEurgmOREei16BIJfVb6WA,1607193812595,4,0,Was a good introduction!,0,0,Xujia Zhou,925552
+63745991~COURSE!~yEurgmOREei16BIJfVb6WA,1606740034021,4,0,Very useful for someone who wants to understand the basic of Linux. Very informative for beginners . Happy learning.,0,0,Amit Kale,63745991
+69529647~COURSE!~yEurgmOREei16BIJfVb6WA,1602330296643,4,0,Very Good Course for beginners and for developers,0,0,nirbhay singh,69529647
+61369632~COURSE!~yEurgmOREei16BIJfVb6WA,1601010654700,4,0,covers almost all topicslinux user can understand easily,0,0,FALIH PANGAT,61369632
+56141532~COURSE!~yEurgmOREei16BIJfVb6WA,1600535266613,4,0,well linux heros,0,0,Babasaheb Dnyandeo Bhalekar,56141532
+67652987~COURSE!~yEurgmOREei16BIJfVb6WA,1600495380198,4,0,"I'd introduce bash a bit more slowly, as it feels kind of rushed and somewhat hard to understand, but I think the rest of the course was pretty good.",0,0,Steven Solís,67652987
+40492997~COURSE!~yEurgmOREei16BIJfVb6WA,1600019888559,4,0,nice and tough,0,0,Ankur Kesari,40492997
+61384654~COURSE!~yEurgmOREei16BIJfVb6WA,1598693194534,4,0,Best course for Linux beginners. But would have been better with more practical tutorials than theoretical. ,0,0,Deshdeepak,61384654
+65518402~COURSE!~yEurgmOREei16BIJfVb6WA,1595742170733,4,0,This course was really helpful and I learned a lot from this course,0,0,THENUKA SANDEEPA SURAWEERA,65518402
+46459041~COURSE!~yEurgmOREei16BIJfVb6WA,1595109170921,4,0,You can tell Jerry Cooperstein knows his stuff. ,0,0,Chukwu Excel,46459041
+34979604~COURSE!~yEurgmOREei16BIJfVb6WA,1591947791831,4,0,"The course was super informative and great, though it lacked a little more content that could be added.",0,0,Paarth Singh Dahima,34979604
+31526139~COURSE!~yEurgmOREei16BIJfVb6WA,1591797582615,4,0,It is a good course,0,0,Guruprasad,31526139
+47428735~COURSE!~yEurgmOREei16BIJfVb6WA,1591633437994,4,0,it was very good for a beginer like me in linux,0,0,Stefhen Gurung,47428735
+43823608~COURSE!~yEurgmOREei16BIJfVb6WA,1590597466408,4,0,The content was sufficient but could have been extensive for deep understanding linux in one shot,0,0,NAMIT VARSHNEY,43823608
+4826715~COURSE!~yEurgmOREei16BIJfVb6WA,1590356881717,4,0,Better then first one,0,0,Sergey Buylov,4826715
+23184621~COURSE!~yEurgmOREei16BIJfVb6WA,1590070693054,4,0,I am not sure if it is really for beginners. The material is not structured in the best manner so you still should google a lot to understand what author is talking about. This could be beneficial in some cases (self-learning is a good thing) but still I am expecting to obtain good structured material when I am pying for the course. ,0,0,Iryna Pukha,23184621
+59393696~COURSE!~yEurgmOREei16BIJfVb6WA,1589571695483,4,0,"It was a good intro to Linux class but there is room for improvement. Some of the questions were pretty silly on the exams, testing trivia instead of real understanding. Some of the videos, like the GUI demos, are pretty pointless. Some of the reading need more clarification - the instructor sometimes assumes stuff is obvious or provides very little defining/clarifying. I think someone without some background in operating systems would be a bit lost. ",0,0,David Garnitz,59393696
+44429758~COURSE!~yEurgmOREei16BIJfVb6WA,1588964593641,4,0,That's great  ,0,0,PROTIC SARKAR,44429758
+30910235~COURSE!~yEurgmOREei16BIJfVb6WA,1587673615820,4,0,I learned a lot about the overall Linux structure and was able go between different flavors of Linux. ,0,0,Seamus,30910235
+53517176~COURSE!~yEurgmOREei16BIJfVb6WA,1586150660396,4,0,"very good information about linux files system and users.The author having very good experience on linux,he explain the concepts using good real time examples.",0,0,AJAY KUMAR,53517176
+40161534~COURSE!~yEurgmOREei16BIJfVb6WA,1585674982356,4,0,"It is very nice, but I expected more in-depth information.",0,0,Aleksandra Rievva,40161534
+38563751~COURSE!~yEurgmOREei16BIJfVb6WA,1582481170114,4,0,"Although it is a good course, but can be made more attractive with more demo videos.",0,0,Ayaz Khan,38563751
+38615246~COURSE!~yEurgmOREei16BIJfVb6WA,1581578478056,4,0,Just the right amount of depth. But it would be good to have more structured assessments.,0,0,Visvamba Nathan,38615246
+47441960~COURSE!~yEurgmOREei16BIJfVb6WA,1576655733536,4,0,teaching techniq is to bad... very difficult to understand but thanks for your supports ,0,0,Rahul kumar,47441960
+47406325~COURSE!~yEurgmOREei16BIJfVb6WA,1576655673734,4,0,thanx 4 ur support and coperation,0,0,Ankesh Suman,47406325
+42744171~COURSE!~yEurgmOREei16BIJfVb6WA,1573240579543,4,0,I would like to give 5 starts but in some modules the assignment question is asked outside the portion that he has covered in that module.Other than that he thought us most basics and the history of Linux with simple key points  to remember.,0,0,Castro M S,42744171
+5368639~COURSE!~yEurgmOREei16BIJfVb6WA,1571097993303,4,0,"Some contents seem to be missing in the course. For example, there is not lecture about how to start GNome.",0,0,Ka Pang (Sammy) Yu,5368639
+38569129~COURSE!~yEurgmOREei16BIJfVb6WA,1569660552075,4,0,it was good,0,0,basanta bhattarai,38569129
+31056997~COURSE!~yEurgmOREei16BIJfVb6WA,1565767412631,4,0,Helpful,0,0,shivani shri,31056997
+2797~COURSE!~yEurgmOREei16BIJfVb6WA,1564845880797,4,0,Cheers and Thanks!!!,0,0,Paweł Jarosz,2797
+42292640~COURSE!~yEurgmOREei16BIJfVb6WA,1560706499377,4,0,Best for beginners !,0,0,Nawnita Dubey,42292640
+12661273~COURSE!~yEurgmOREei16BIJfVb6WA,1559544972192,4,0,Some topics could be explained more.,0,0,Ashwani,12661273
+1278873~COURSE!~yEurgmOREei16BIJfVb6WA,1547489778224,4,0,"very good explain, easy to follow",0,0,Joao Manuel Alves da Costa,1278873
+90840409~COURSE!~yEurgmOREei16BIJfVb6WA,1675768796655,5,0,Best for intermediate,0,0,Nabin Bhusal,90840409
+116854236~COURSE!~yEurgmOREei16BIJfVb6WA,1674433008962,5,0,GOOD,0,0,MUHAMMAD ASYRAF BIN KHALID,116854236
+95195049~COURSE!~yEurgmOREei16BIJfVb6WA,1673632075951,5,0,Great Course,0,0,Aman Ur Rehman Sandhu,95195049
+97866752~COURSE!~yEurgmOREei16BIJfVb6WA,1667787405072,5,0,Excelente,0,0,Rafael Juan Matteo Mourigan,97866752
+56926817~COURSE!~yEurgmOREei16BIJfVb6WA,1656065929965,5,0,it was really helpful. thank you all,0,0,masiha daneshfar,56926817
+82006171~COURSE!~yEurgmOREei16BIJfVb6WA,1653039687833,5,0,This is an ideal coure for beginer and someone who who need to refresh,0,0,Thulani Mhlarhi,82006171
+71960774~COURSE!~yEurgmOREei16BIJfVb6WA,1652673473037,5,0,Excellent studying and better experience with interaction with the lecturer.,0,0,Rishabh Pandey,71960774
+83333958~COURSE!~yEurgmOREei16BIJfVb6WA,1650784696589,5,0,B​est Course for Developers,0,0,RANA ABOBAKAR,83333958
+74353669~COURSE!~yEurgmOREei16BIJfVb6WA,1646497846543,5,0,Good,0,0,D18CQVT01-N VAN HOANG KHA,74353669
+40823038~COURSE!~yEurgmOREei16BIJfVb6WA,1646239651008,5,0,It would be great if it included study material.,0,0,Jorge Zúniga Olivas,40823038
+97225552~COURSE!~yEurgmOREei16BIJfVb6WA,1642453425990,5,0,good,0,0,Pamela Mangold,97225552
+90521996~COURSE!~yEurgmOREei16BIJfVb6WA,1640607417686,5,0,I​t was very good course and the content was compressed to get the best. In this module instructor covers all linux distribution and commands used in different distribution to perform same functions.,0,0,Ayush Kumar Dubey,90521996
+96567209~COURSE!~yEurgmOREei16BIJfVb6WA,1639745644703,5,0,"The course has helped me to arrange a certain hierarchy of Linux OS elements.While it by no means goes into a detail about any of the elements, it helps to build a clear path of where one can specialize in order to improve or learn a new technical skill in Linux OS.P.S. I really enjoy the lecturer. He talks smooth, not fast and to the point. The man knows exactly the content of a video - no uhs or ohs or wait a second :)",0,0,MAXIM CHANTURIAY,96567209
+97154061~COURSE!~yEurgmOREei16BIJfVb6WA,1638344612879,5,0,This is a very good course for Linux,0,0,Akash Chatterjee,97154061
+83500548~COURSE!~yEurgmOREei16BIJfVb6WA,1637029506745,5,0,"Excelente curso, viene muy completo y detallado los comandos para iniciar en los sistemas linux",0,0,Carlos Eduardo Escamilla Rodriguez,83500548
+91513183~COURSE!~yEurgmOREei16BIJfVb6WA,1635132240978,5,0,It is Very Good,0,0,Gandluru Venkata Sudhakar reddy,91513183
+93809686~COURSE!~yEurgmOREei16BIJfVb6WA,1634942043227,5,0,"The contents are what you would expect. You get out of it what you put in, meaning that you can go as deep as you are willing to if you install multiple Linux distributions (via VMs for example) and experiment with all the commands provided. You may not master it all when you are done but you will gain excellent historical context and a fairly deep understanding of the basics of Linux administration. I really enjoyed this course. One thing I would have loved is a downloadable version of the reading material so I could store those as cheat sheets if you will on my local machine as handy references for the future, as a lot of material is covered in this course.",0,0,Tania Roblot,93809686
+94521235~COURSE!~yEurgmOREei16BIJfVb6WA,1634744461971,5,0,Must-have Course for Hardware Developers,0,0,Dang Tieu Binh,94521235
+93763691~COURSE!~yEurgmOREei16BIJfVb6WA,1634035539697,5,0,​Good course,0,0,Amir Adilet Nurkenuly,93763691
+64073060~COURSE!~yEurgmOREei16BIJfVb6WA,1631570812791,5,0,nice,0,0,Vikrant,64073060
+62408502~COURSE!~yEurgmOREei16BIJfVb6WA,1630769550571,5,0,Awesome,0,0,rahima lari,62408502
+63053340~COURSE!~yEurgmOREei16BIJfVb6WA,1629615583085,5,0,good,0,0,ROHIT SINGH,63053340
+84876310~COURSE!~yEurgmOREei16BIJfVb6WA,1629125102109,5,0,"Excelente curso e excelente professor, o curso ensina e ajuda a estuda, o objetivo é simplesmente você aprenda o que esta sendo ensinado.",0,0,Hercules Federico De Alcantara Aguiar,84876310
+47514751~COURSE!~yEurgmOREei16BIJfVb6WA,1628609782009,5,0,I understand everything about linux systems,0,0,Pranav Purankar,47514751
+84628208~COURSE!~yEurgmOREei16BIJfVb6WA,1625647314146,5,0,pretty good overview of Linux basics,0,0,Jaroslav Čáp,84628208
+11313592~COURSE!~yEurgmOREei16BIJfVb6WA,1624872432428,5,0,Really useful course! Highly recommended for developers. ,0,0,Veena Ganamukhi,11313592
+59428820~COURSE!~yEurgmOREei16BIJfVb6WA,1624117238227,5,0,Thanks.,0,0,Harsh Patil,59428820
+86939181~COURSE!~yEurgmOREei16BIJfVb6WA,1623171991966,5,0,Complete and of extreme technical quality!,0,0,Gabriel “GB”,86939181
+10499859~COURSE!~yEurgmOREei16BIJfVb6WA,1622803580246,5,0,Greate course for beginners,0,0,Shuo Li,10499859
+85171876~COURSE!~yEurgmOREei16BIJfVb6WA,1622134816909,5,0,Superb. Great knowledge. Thank you.,0,0,Sampath Hewage,85171876
+47448581~COURSE!~yEurgmOREei16BIJfVb6WA,1622059212772,5,0,A​mazing way of articulating the complex linux into simpler and understandable examples.,0,0,Karunanidhi Mishra,47448581
+75660950~COURSE!~yEurgmOREei16BIJfVb6WA,1620409334937,5,0,well designed IT  training about subject of Linux for developers.Course is detailed and not oo much complex .Tests quizzes measures every topic whether understanding.,0,0,nadir ALTINBAS,75660950
+84938267~COURSE!~yEurgmOREei16BIJfVb6WA,1620408540971,5,0,awesome,0,0,Sahil Lakhera,84938267
+82392300~COURSE!~yEurgmOREei16BIJfVb6WA,1619880216426,5,0,  I like this class and I learned a lot!!     The online learning experience so fruitful and interesting.,0,0,IMMANUEL D,82392300
+62468628~COURSE!~yEurgmOREei16BIJfVb6WA,1619812628581,5,0,this course is very good for someone who doesn't know about linux. I highly recommend this course to my classmates and friends,0,0,Aayush Kumar Singh 19BCE1113,62468628
+76235565~COURSE!~yEurgmOREei16BIJfVb6WA,1618454637612,5,0,very nice,0,0,高源,76235565
+82175976~COURSE!~yEurgmOREei16BIJfVb6WA,1618175693892,5,0,Thank you sir to trained me about Linux and thanks to Coursera,0,0,Amitabh Kumar Vishwakarma,82175976
+73033262~COURSE!~yEurgmOREei16BIJfVb6WA,1616548403987,5,0,"This was the type of course I was searching for, it has allowed me to increase my capability tremendously by learning a lot of new stuff and bash things, the right way to do them. Its impressive.",0,1,Suraj Singh,73033262
+34542093~COURSE!~yEurgmOREei16BIJfVb6WA,1616068061357,5,0,"Course is great, But I really don't like that all the readings materials are impossible to download ",0,0,Francesco Vertemati,34542093
+3609862~COURSE!~yEurgmOREei16BIJfVb6WA,1614269403332,5,0,This course is clear and easy to follow and explores multiple Linux systems,0,0,Michael Rieser,3609862
+75300839~COURSE!~yEurgmOREei16BIJfVb6WA,1611633819823,5,0,Great course @ http://rodyeo.dyndns.org,0,0,Rodney Yeo Chuan Lye,75300839
+75858390~COURSE!~yEurgmOREei16BIJfVb6WA,1608752161329,5,0,nice,0,0,A.M.CHAMINDA SURANGA BANDARA ATHTHANAYAKA,75858390
+34905039~COURSE!~yEurgmOREei16BIJfVb6WA,1608132476069,5,0,<3 ed Linux for Developers,0,0,Linda ANGULO López,34905039
+63608128~COURSE!~yEurgmOREei16BIJfVb6WA,1607882879549,5,0,"Pretty much straight Forward Course, Easy for Beginners ",0,0,Mahtab Mashuq Tonmoy,63608128
+64182383~COURSE!~yEurgmOREei16BIJfVb6WA,1607873382512,5,0,Thank You Very Much Linux Foundation,0,0,Kevin Yehezkiel Gurning,64182383
+72079609~COURSE!~yEurgmOREei16BIJfVb6WA,1607676569808,5,0,very interesting course for linux beginners. Thank you for instructor and coursera and COL.,0,0,Widasun Wickramasinghe,72079609
+37625042~COURSE!~yEurgmOREei16BIJfVb6WA,1607585543350,5,0,Great Learning for individuals ,0,0,Bhushan Zope,37625042
+76853387~COURSE!~yEurgmOREei16BIJfVb6WA,1607251454246,5,0,Thanks for the detailed explanation :),0,0,Musa Keskin,76853387
+69337763~COURSE!~yEurgmOREei16BIJfVb6WA,1606941859413,5,0,Excellent!,0,0,Ananta Basudeva Panda,69337763
+76795997~COURSE!~yEurgmOREei16BIJfVb6WA,1606309779794,5,0,"After learning this course, it will be good for my career.",0,0,Kapil,76795997
+67624421~COURSE!~yEurgmOREei16BIJfVb6WA,1606246350610,5,0,"I would have put the lessons on installing the various packages, see week 5, at the beginning of the course.",0,2,Antonio Coco,67624421
+61081773~COURSE!~yEurgmOREei16BIJfVb6WA,1606157991058,5,0,"An amazing course, i have learned a lot about linux tools, and wish to use them in the future",0,0,Bakhram Khajimatov,61081773
+44574651~COURSE!~yEurgmOREei16BIJfVb6WA,1605471408196,5,0,great,0,0,Mohamed Charaabi,44574651
+60536961~COURSE!~yEurgmOREei16BIJfVb6WA,1604412841585,5,0,Good,0,0,Shweta Ramachandra Bhat,60536961
+55753073~COURSE!~yEurgmOREei16BIJfVb6WA,1604041302108,5,0,Nice course,0,0,Bekzat,55753073
+71733970~COURSE!~yEurgmOREei16BIJfVb6WA,1603971010861,5,0,i am very happy to learn in coursera its very helpful for carrier development ,0,0,Umendra Palla,71733970
+73572540~COURSE!~yEurgmOREei16BIJfVb6WA,1603220250947,5,0,Absolutely amazing course. Recommended for anyone and everyone who is interested in Linux-based operating systems.,0,0,Akash Hegde,73572540
+74503567~COURSE!~yEurgmOREei16BIJfVb6WA,1603217721426,5,0,  Nice course for the newbie in Linux world. Very Helpful  ,0,0,Jyoti Kumari,74503567
+74371633~COURSE!~yEurgmOREei16BIJfVb6WA,1602586028148,5,0,VERY VERY WELL!!!,0,0,Алимбет Елдос Русланулы,74371633
+42957787~COURSE!~yEurgmOREei16BIJfVb6WA,1602312915901,5,0,too intresting,0,0,Vana sai sudha chand,42957787
+59921397~COURSE!~yEurgmOREei16BIJfVb6WA,1601784327807,5,0,good,0,0,JOEL DMELLO CSE,59921397
+63044332~COURSE!~yEurgmOREei16BIJfVb6WA,1601777615864,5,0,Thanks a lot,0,0,Ricardo A.,63044332
+71244146~COURSE!~yEurgmOREei16BIJfVb6WA,1601638644261,5,0,Great experience it clear my concept.,0,0,Anish Ansari,71244146
+61869843~COURSE!~yEurgmOREei16BIJfVb6WA,1601628500544,5,0,"This course is the best and amazing course I have ever attended but, I found that the week 5 must be placed as week 1 and all others be followed by it. Thank you for great course",0,1,S.VENKATASUBRAMANIAN,61869843
+65440375~COURSE!~yEurgmOREei16BIJfVb6WA,1601566187232,5,0,informative,0,0,Marisa Korah,65440375
+64978953~COURSE!~yEurgmOREei16BIJfVb6WA,1601488337330,5,0,"Very theoretical course, which I personally like, with much to learn. However, I don't think this is a course for beginers, since part of the content related to Computer Science is assumed to be known, and the contents for the last week seem a little out of place, being presented so late in the course. ",0,3,Danilo Baldi,64978953
+58531363~COURSE!~yEurgmOREei16BIJfVb6WA,1601479595284,5,0,Excellent course in detail,0,0,Maheshwari Antosh Dyade,58531363
+60043346~COURSE!~yEurgmOREei16BIJfVb6WA,1601442273407,5,0,best course for begineers,0,0,Suresh  Patel,60043346
+63671504~COURSE!~yEurgmOREei16BIJfVb6WA,1601404542926,5,0,"Easy and helpful,I have no words",0,0,Shubham Kumar Bansal,63671504
+67283605~COURSE!~yEurgmOREei16BIJfVb6WA,1601372675311,5,0,Really Informative course.,0,0,Satyam Tomar,67283605
+45229352~COURSE!~yEurgmOREei16BIJfVb6WA,1601045728342,5,0,Powerful course..!,0,0,murthaza pk,45229352
+53777094~COURSE!~yEurgmOREei16BIJfVb6WA,1600947928536,5,0,It was awesome,0,0,Shruti S,53777094
+68937352~COURSE!~yEurgmOREei16BIJfVb6WA,1600887289215,5,0,Excelente curso.,0,0,Carlos Escobar,68937352
+60689831~COURSE!~yEurgmOREei16BIJfVb6WA,1600708223200,5,0,A great course on Linux system and various distributions and its dependencies.,0,0,Hariprasad M,60689831
+68397237~COURSE!~yEurgmOREei16BIJfVb6WA,1600398056216,5,0,GOOD JOB,0,0,Bryan Abinadí Ubillús Tay,68397237
+62501414~COURSE!~yEurgmOREei16BIJfVb6WA,1599940013991,5,0,Tbl thank you much to this your of video and i like  demo video i twist that some more demo video is available... Is soo good and helpful... ,0,0,Doulat Nagar,62501414
+49286222~COURSE!~yEurgmOREei16BIJfVb6WA,1599810869891,5,0,great,0,0,HARSHIT PANERI,49286222
+17579897~COURSE!~yEurgmOREei16BIJfVb6WA,1599647260092,5,0,excellent,0,0,P Pavankumar,17579897
+69971657~COURSE!~yEurgmOREei16BIJfVb6WA,1599644407688,5,0,Su apt-get update ,0,0,Rajeev J. Mehndiratta,69971657
+62812153~COURSE!~yEurgmOREei16BIJfVb6WA,1599508253679,5,0,So this all session in so nice .,0,0,Ranjeet Kumar,62812153
+64647351~COURSE!~yEurgmOREei16BIJfVb6WA,1599059606705,5,0,Excellent!,0,0,Malcom Orlando Castro Quiroz,64647351
+63526585~COURSE!~yEurgmOREei16BIJfVb6WA,1598380773694,5,0,The course was indeedd very useful and helped me learn more things about Linux.,0,0,SOWBHAGYA S,63526585
+49286483~COURSE!~yEurgmOREei16BIJfVb6WA,1598207111780,5,0,its too good,0,0,Ashish Jain,49286483
+68834639~COURSE!~yEurgmOREei16BIJfVb6WA,1598093737655,5,0,It is an amazing course for whom want to develop linux based operating system. I am so much impressed for completing this course. Thanks to the honorable lecturer and so others engaged with this course.,0,0,Md. Jabed Dhali,68834639
+55744292~COURSE!~yEurgmOREei16BIJfVb6WA,1598022099213,5,0,It helps me a lot to improving my knowledge about linux and coursera is a great platform to build up a new skills for future jobs.,0,0,Shatabdi Mukherjee,55744292
+57699094~COURSE!~yEurgmOREei16BIJfVb6WA,1597905388359,5,0,Great Lectures and more information some other linux distributions,0,0,Salman Ali Shaikh,57699094
+69399018~COURSE!~yEurgmOREei16BIJfVb6WA,1597634958459,5,0,I learned about a lot about Linux.,0,0,Alyssa Nah Xiao Ting,69399018
+69410904~COURSE!~yEurgmOREei16BIJfVb6WA,1597634601500,5,0,i wanted to learn more about naked dashes so i googled it. I did not regret it. help me pls.,0,0,Ritesh Kumar,69410904
+39453617~COURSE!~yEurgmOREei16BIJfVb6WA,1597355219142,5,0,Very good course to get familiar with bash commands and almost all concepts behind a Linux distribution. ,0,0,"Gigi Marcel, Dan",39453617
+42509188~COURSE!~yEurgmOREei16BIJfVb6WA,1596725967079,5,0,I enjoyed it alot,0,0,Saxena Tanya,42509188
+62484463~COURSE!~yEurgmOREei16BIJfVb6WA,1596708050080,5,0,It was nice learning experience.Thank you so much.,0,0,Shilpa Prashant Kalantri,62484463
+37541799~COURSE!~yEurgmOREei16BIJfVb6WA,1596422839505,5,0,"Amazing course.  It really puts into perspective the skills required to operate Linux, which applies to multiple OS. Many times as developers, we think being in computer science means to write programs.  While this is a huge part, it ultimately means nothing if you do not know how it gets executed and how to execute it across a network.  In academia, you often get blinded to the fact that you work on standalone systems when in industry, you will rarely ever work on a standalone system; you will most always work on a company network so you will need to understand how the OS will handle your software programs.",0,0,Kim Stuart,37541799
+55581958~COURSE!~yEurgmOREei16BIJfVb6WA,1596289670612,5,0,great course for all the linux beginners,0,0,CHANDRAGIRI SANDEEP,55581958
+46136968~COURSE!~yEurgmOREei16BIJfVb6WA,1596092923046,5,0,"Best course, recommended",0,0,Muhamamd Umer Farooq,46136968
+10010509~COURSE!~yEurgmOREei16BIJfVb6WA,1595781379562,5,0,"Buen curso, para conocer componentes basicos y comandos de administracion en sistemas operatios linux",0,0,Juan Carlos Gamboa,10010509
+62331218~COURSE!~yEurgmOREei16BIJfVb6WA,1595143697071,5,0,Good,0,0,Muhammad Fikri Ashari,62331218
+65980352~COURSE!~yEurgmOREei16BIJfVb6WA,1595072030295,5,0,Great course and a great tutor. Assignments are awesome. Thanks coursera  and Linux Foundation for organising this course.,0,0,Dipjyoti Sarma,65980352
+64515440~COURSE!~yEurgmOREei16BIJfVb6WA,1594983191007,5,0,this is very informational course. i am glad that i did this course. thank you coursera,0,0,Bhavyesh Makadiya,64515440
+65318224~COURSE!~yEurgmOREei16BIJfVb6WA,1594982575967,5,0,COURE MATERIAL WAS POINT TO POINT IN DETAIL,0,0,Nitesh Pandey,65318224
+64994749~COURSE!~yEurgmOREei16BIJfVb6WA,1594974222251,5,0,good,0,0,PREETI.R,64994749
+64021336~COURSE!~yEurgmOREei16BIJfVb6WA,1594546355434,5,0,"great cousese , thank you cousera",0,0,Abhishek kumar Gupta,64021336
+61872627~COURSE!~yEurgmOREei16BIJfVb6WA,1594366245160,5,0,I can  easy learn to access linux operating system.,0,0,Bristi Sarkar,61872627
+54964460~COURSE!~yEurgmOREei16BIJfVb6WA,1594360499779,5,0,very good kind of learning experience,0,0,Rohith Molumuri,54964460
+10839780~COURSE!~yEurgmOREei16BIJfVb6WA,1594133153925,5,0,Amazing course ! I've been woring with Linux Distros for about two years and i still had a lot to learn from this . ,0,0,Saubhagya Modi,10839780
+60778940~COURSE!~yEurgmOREei16BIJfVb6WA,1594014958922,5,0,excellent course for those who begin open source learning.equips with necessary knowledge to start out,0,0,Edipelli Madhu,60778940
+61244492~COURSE!~yEurgmOREei16BIJfVb6WA,1593848854798,5,0,good,0,0,Ronaldo Farid Nolasco Chavez,61244492
+29687189~COURSE!~yEurgmOREei16BIJfVb6WA,1593784200616,5,0,Excellent material gets you introduced to a linux system over a very broad surface! Invaluable!,0,0,John Zacharakis,29687189
+49885899~COURSE!~yEurgmOREei16BIJfVb6WA,1593606112043,5,0,I LOVE IT!!!!!!,0,0,Emmanuel Muturia,49885899
+27479857~COURSE!~yEurgmOREei16BIJfVb6WA,1592896415161,5,0,done as well,0,0,Siva Kumar Nalla,27479857
+63038950~COURSE!~yEurgmOREei16BIJfVb6WA,1592844312400,5,0,Good,0,0,Rajesh Yeleti,63038950
+62471355~COURSE!~yEurgmOREei16BIJfVb6WA,1592276325760,5,0,good,0,0,Kodanda Rama Bhavya,62471355
+13617842~COURSE!~yEurgmOREei16BIJfVb6WA,1592165961772,5,0,"i find most of the content up to date and relevant to industry, one of the most engaging course i have completed.",0,0,Vishvanath Dutt Sharma,13617842
+58759052~COURSE!~yEurgmOREei16BIJfVb6WA,1592075403911,5,0,very informative and logical course,0,0,divyansh soni,58759052
+59216186~COURSE!~yEurgmOREei16BIJfVb6WA,1591968485014,5,0,Wow it's a very very amazing instructor and also course because I am new in programming and I want learn linux here I learn lots of things and also Coursera,0,0,Deleted Account,59216186
+55143966~COURSE!~yEurgmOREei16BIJfVb6WA,1591878801132,5,0,"Excellent course. Takes students from entry level knowledge to more advanced concepts. But, of course, the more you practice hand on, the more you will learn",0,0,Aniruddha Nishikant Joshi,55143966
+58601300~COURSE!~yEurgmOREei16BIJfVb6WA,1591818709171,5,0,"I'll not lie, from a Windows background I found some of these concepts quite tricky. However, I do feel that I have a much better grasp of how Linux works now and I can really see the power of being able to see what's going on via all the various files. I would even say, I might be hooked on the Linux command line now!",0,0,Craig Leaver,58601300
+56582407~COURSE!~yEurgmOREei16BIJfVb6WA,1591666598958,5,0,thank you so much Coursera,0,0,Sai Teja Prasad Sunkara,56582407
+31972273~COURSE!~yEurgmOREei16BIJfVb6WA,1591581479161,5,0,I have gained a lot of great knowledge and use of Linux and its platform. I am very grateful for the content. I really like the way the instructor explains.,0,0,Kevin Rojas,31972273
+62752750~COURSE!~yEurgmOREei16BIJfVb6WA,1591532461368,5,0,EXCELLENT,0,0,Blessy Boban,62752750
+23582116~COURSE!~yEurgmOREei16BIJfVb6WA,1591447155071,5,0,This is great learning course. Thank you.,0,0,Himanshu Patel,23582116
+53044617~COURSE!~yEurgmOREei16BIJfVb6WA,1591306567727,5,0,Great Course! I got Proper Knowledge of Linux .,0,0,Tamzid Ahmed,53044617
+59759164~COURSE!~yEurgmOREei16BIJfVb6WA,1591119191912,5,0,Very useful,0,0,Jigar Vishwakarma,59759164
+60600362~COURSE!~yEurgmOREei16BIJfVb6WA,1591105868480,5,0,overall execellent!!,0,0,ATCHAYA  P,60600362
+56814523~COURSE!~yEurgmOREei16BIJfVb6WA,1591090022012,5,0,Great content,0,0,Manikant Rai,56814523
+23557043~COURSE!~yEurgmOREei16BIJfVb6WA,1590837296083,5,0,Great Course with lot to learn ,0,0,rishikeshshukla47@gmail.com,23557043
+57096904~COURSE!~yEurgmOREei16BIJfVb6WA,1590609187963,5,0,"Very excellent course by Linux Foundation all the videos and the reading part were very clear and in-depth,  Quiz were also great. I would recommend this to anyone who is starting out learning Linux. Great Job ♥",0,0,Ravi Pabari,57096904
+39851293~COURSE!~yEurgmOREei16BIJfVb6WA,1590488399048,5,0,"This course provides students with all of the basic information needed to get started with linux,",0,0,Manav Kapil,39851293
+1458122~COURSE!~yEurgmOREei16BIJfVb6WA,1590458008815,5,0,It was very Informative,0,0,Iqbal Uddin Khan,1458122
+59636264~COURSE!~yEurgmOREei16BIJfVb6WA,1590426246275,5,0,Excellant,0,0,SNEHADEEP YADAVRAO SHILWANIKAR,59636264
+50879575~COURSE!~yEurgmOREei16BIJfVb6WA,1590050682247,5,0,nice,0,0,Megha Birthare,50879575
+58605977~COURSE!~yEurgmOREei16BIJfVb6WA,1589966670258,5,0,Very informative course.,0,0,Mukul Pathania,58605977
+35960179~COURSE!~yEurgmOREei16BIJfVb6WA,1589609142553,5,0,"Is really clearly, the explications are the best and the demostrations help me full",0,0,Gabriel Santana,35960179
+41363231~COURSE!~yEurgmOREei16BIJfVb6WA,1589560648947,5,0,Nice course for the newbie in Linux world. I really got to know very new things from this course while working with ubuntu. Thanks to The Linux Foundation for this wonderful course.,0,3,Agrawal Hitesh,41363231
+60532153~COURSE!~yEurgmOREei16BIJfVb6WA,1589427030036,5,0,very nice and comprehensive,0,0,Wu Yuxiong,60532153
+55747976~COURSE!~yEurgmOREei16BIJfVb6WA,1589393255012,5,0,VERY GOOD,0,0,Naeemul Islam,55747976
+41882451~COURSE!~yEurgmOREei16BIJfVb6WA,1589111698899,5,0,Great introduction to Linux for Developers. Well balanced quizzes that allow the student to get a flavor of the material as well as the opportunity to dive deeper if interested.,0,1,Ted Hartnell,41882451
+57625769~COURSE!~yEurgmOREei16BIJfVb6WA,1589069181272,5,0,"Awesome course, excellent instructor. Just to relate some of the points I liked, it is well organized, there are good exercises and instructor is from Linux Foundation itself. The plus in this course is exactly the fact it gently forces you to figure out some of the points yourself. It doesn't matter if the instructions are not ""clear"" at a first sight; you'll end up hitting the solution in the next class.",0,0,Samuel Fusato,57625769
+34445760~COURSE!~yEurgmOREei16BIJfVb6WA,1587970084367,5,0,Great course on some of the basic shell commands an functionalities in Linux. Really good over view on how Linux works. Lots of material to read and keep exploring.,0,0,Hugo Serôdio,34445760
+55162824~COURSE!~yEurgmOREei16BIJfVb6WA,1587914116737,5,0,Very Best the course ,0,0,Patil Amit Prakashrao,55162824
+56937488~COURSE!~yEurgmOREei16BIJfVb6WA,1587694546082,5,0,good course,0,0,GURUKISHORE J,56937488
+49160516~COURSE!~yEurgmOREei16BIJfVb6WA,1587574275527,5,0,"Good overview of the concepts of linux, Jerry should consider reading meditations or something cause their voice is very relaxing. Would like to see a course like this but using linux on mac, many of the commands don't translate in the native ios terminal. ",0,0,Mississippi ,49160516
+43996720~COURSE!~yEurgmOREei16BIJfVb6WA,1586145689986,5,0,Thanks. It was very interesting course for me.,0,0,Vladimir Nikitenko,43996720
+19604929~COURSE!~yEurgmOREei16BIJfVb6WA,1584458197300,5,0,great course!,0,0,Ramazan Mussarov,19604929
+32567862~COURSE!~yEurgmOREei16BIJfVb6WA,1580920187117,5,0,:),0,0,Jose Alejandro Madrazo Avila,32567862
+30085453~COURSE!~yEurgmOREei16BIJfVb6WA,1580216843746,5,0,"Good course. Nice insights from the Linux Operating System. However, the course is more oriented to Red Hat Linux. Wish it could have a choice for learning more in Debian environments, especially Ubuntu.",0,0,Tushar Masane,30085453
+33293821~COURSE!~yEurgmOREei16BIJfVb6WA,1579897548618,5,0,The course was very good given me a very solid foundation to Linux administration.,0,0,John Bundala Kilima,33293821
+31850871~COURSE!~yEurgmOREei16BIJfVb6WA,1577445007601,5,0,Awesome it was,0,0,Chowdhury Faizal Ahammed 67,31850871
+47107268~COURSE!~yEurgmOREei16BIJfVb6WA,1577343903601,5,0,This course is very useful for me i have learn a lot with this course,0,0,kulvender Singh Saini,47107268
+35381170~COURSE!~yEurgmOREei16BIJfVb6WA,1576211654724,5,0,Very Good In depth course related to Linux and GNU utilities,0,0,Saurabh Singh Kushwah,35381170
+1582946~COURSE!~yEurgmOREei16BIJfVb6WA,1576073251709,5,0,Very good basic introduction to Linux for developers. ,0,0,Rodney Krick,1582946
+45109518~COURSE!~yEurgmOREei16BIJfVb6WA,1574958146862,5,0,Thank You! Linux Foundation for giving us such an exceptional knowledge. ,0,0,Muhammad Aashir Khan,45109518
+45208592~COURSE!~yEurgmOREei16BIJfVb6WA,1574700925544,5,0,i got very deep information about Linux which I wanted to learn.,0,0,Araib Khan,45208592
+22279889~COURSE!~yEurgmOREei16BIJfVb6WA,1572539763488,5,0,Very nice course. Very well explained and interesting.,0,0,Jorge Sanchez,22279889
+26189246~COURSE!~yEurgmOREei16BIJfVb6WA,1572422524130,5,0,"It is great course that help me familiar with Linux operation and command. I'm new to Linux, time to change my OS from window to linux",0,0,Kevin Ch'ng,26189246
+37517149~COURSE!~yEurgmOREei16BIJfVb6WA,1571627308429,5,0,A lot of things I learn from this course.,0,0,Shibayan Mondal,37517149
+40402050~COURSE!~yEurgmOREei16BIJfVb6WA,1571240230740,5,0,good course to start ,0,0,RAHUL CHOUDHARY,40402050
+27596817~COURSE!~yEurgmOREei16BIJfVb6WA,1570867965899,5,0,Excellent course for all who want to have a very good knowledge in linux in every aspect.,0,1,Jatin Rajput,27596817
+40495764~COURSE!~yEurgmOREei16BIJfVb6WA,1570289334033,5,0,doing such a great job!,0,0,Khuzaima Shaikh,40495764
+28906916~COURSE!~yEurgmOREei16BIJfVb6WA,1569516575549,5,0,///,0,0,Киба Володимир Юрійович,28906916
+38542208~COURSE!~yEurgmOREei16BIJfVb6WA,1567948885425,5,0,great course ,0,0,Omar Ben Romdhane,38542208
+1785139~COURSE!~yEurgmOREei16BIJfVb6WA,1565829832998,5,0,Good class for beginners.,0,0,Charulaxmi Fadnavis,1785139
+36423911~COURSE!~yEurgmOREei16BIJfVb6WA,1563833318495,5,0,thanks,0,0,George Cileacu,36423911
+24982~COURSE!~yEurgmOREei16BIJfVb6WA,1563776832121,5,0,Basic lesson good to keep one moving and contains the necessary basics.,0,0,Adetunji ADEGBITE,24982
+10243880~COURSE!~yEurgmOREei16BIJfVb6WA,1555858055933,5,0,Excellent course. Now I understand much better the fundamentals behind linux command line interface and some important administrative features.,0,1,Eduardo Li Penteado Martins,10243880
+26478638~COURSE!~yEurgmOREei16BIJfVb6WA,1552337256735,5,0,going great,0,0,Komal Singhal,26478638
+2289198~COURSE!~yEurgmOREei16BIJfVb6WA,1548230011617,5,0,Excellent course.,0,0,Raghu Kishore Vempati,2289198
+25041248~COURSE!~yEurgmOREei16BIJfVb6WA,1547261116242,5,0,great course for beginners,0,0,Charlene Zheng,25041248

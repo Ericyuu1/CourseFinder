@@ -1,0 +1,64 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+19043280~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1585942807843,1,0,DIsapointed..,0,1,Oussama BERGUIGA,19043280
+69687797~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1599532531828,2,0,"It is decent, but it is just a shadow of how good the Tensorflow Developer Professional Certificate is. Many of the programming assignments are bugged. You don't have enough opportunities to practice before the programming assignment. Most of the videos are just codes being quickly explained. I deeply respect Andrew Ng and Laurence, but this specialization is not as good as the previous one.  ",0,1,Victor Accete Nicácio Placido,69687797
+40722884~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1588412345758,3,0,This course covers some interesting topics but is far too easy to pass.  The programming assignments are really just copy and paste exercises and takes very little time to complete.  I found the applications exciting and as an intro to all the new elements of TF it is useful as a whirlwind tour.  But  apart from the tflite mobil device course which is challenging if you have never used swift/Xcode before it needed to be a bit more than just run throughs of the TF colabs.,0,0,Mark Paine,40722884
+35952969~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1583427742400,3,0,"In general course is quite useful, especially Weeks 1 and 2. However content for week 3 - tensorboard - seems artificial (especially logging confusion matrix in TensorBoard) and not related to deployment at all. And Week 4 has really great topic, however the content is very poor. The most useful are the links, for which I suppose one could just google.",0,0,Pavel,35952969
+102406282~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1651048191626,4,0,"The lab server is not really great. If there is something wrong in the code,the kernel suddenly restarted, and there is no ouput that described whats wrong",0,0,Chanif Rusydi,102406282
+64031930~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1617897695038,4,0,Too theorethical,0,0,Elyasaf Elbaz,64031930
+44100747~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1615903629020,4,0,  =This course was much better than the first two. Here were real exercises you had to do and sometimes it was really not easy. It was not just about watching the videos. Also on the discussion forum you were able to search for help.   ,0,0,Matej Medvecký,44100747
+27260129~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1611295496067,4,0,"The fact that there were still some problems in the Course regarding technical or exercise based, it shows that this material is relatively new in the domain.",0,0,Abhiram Satpute,27260129
+171569~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1586571649060,4,0,"This topic seems to be very important but the content is not as good as rest of the weeks content, more explanations and more simple examples could have helped",0,1,Suresh Kumar Muthumal,171569
+17989333~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1584545382726,4,0,"A very interesting course to complete Tensorflow deployment option. Most interesting part to me were serving, hub for transfer learning and tensorboard. Maybe Tensorboar could be introduce sooner in other specialization as it sound to be mostly use to discuss model performance, which is extensively discuss in other specialization. Federated Learning seems a little bit extra here, even though it sounds promising.",0,0,clement le roux,17989333
+19541963~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1665513461098,5,0,G​reat course! Very important for real world implementation,0,0,Ali Mokh,19541963
+41237996~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1665403899904,5,0,"An interesting course taught by Laurence Moroney introducing a wide  range of topics on deployment scenarios and efficient data pipelines. It  is a fun course with hands-on deployment on the browser, Android and  Raspberry Pi, and efficient data pipelines, tf datasets, and tf_hub  models. Given the wide coverage, it requires further dedication to dive  into the different topics. It includes four courses:
+
+-Browser-device models with tensorflow.js: Perform inference and training using JavaScript. Convert models to json format.
+
+-Device-based  with tensorflow.lite: Convert models to tflite format (low latency,  size and power consumption). Running models on Android, iOS, and  embedded devices.
+
+-Data pipelines with tensorflow data services: tfds datasets and pipelines, improving data pipelines performance.
+
+-Advanced  deployment scenarios:  Model inference over the web by server request  using Tensorflow Serving. Pretrained models with TF hub. Callbacks  during training using Tensorboard. Introduction to decentralized edge  device training with TFFederated Learning.",0,0,Juan Perez Juste Abascal,41237996
+48281730~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1659167380637,5,0,Excellent Content. It Will definitely Advance my career.,0,0,NIKUNJ BANSAL,48281730
+102365741~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1656506117552,5,0,good,0,0,Egi Rehani Triyulinar,102365741
+102409216~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1651052176414,5,0,amazing,0,0,Insyiraah Oxaichiko Arissinta,102409216
+102371099~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1650902380954,5,0,Awesome,0,0,Ricky Alan,102371099
+8280481~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1644746014662,5,0,"As usual, a great course from Laurence Moroney!",0,0,stephane degeye,8280481
+55119608~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1636522775400,5,0,Grader messages are not helpful due to which debugging time increases. Rest the course is quite informational and useful.,0,0,Jiten Sidhpura,55119608
+81436482~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1622380922231,5,0,Awesome !!!,0,0,Bintang Farhandika Editya,81436482
+81257403~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1622353636871,5,0,good course thank you,0,0,Muhammad Tsaqif,81257403
+81272082~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1622282375164,5,0,Nice,0,0,alfatoni nugroho,81272082
+81268783~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1622024676508,5,0,thanks,0,0,Roberto,81268783
+32631753~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620709684023,5,0,"Great course on TensorFlow, TensorFlow.js and TensorFlow Lite!  The section on TensorFlow Federated Learning was especially interesting and with privacy issues being a major consideration, Federated Learning offers a great way to take advantage of the billions of IoT devices and enhance privacy at the same time.  ",0,0,Rick Torzynski,32631753
+81269838~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620705846453,5,0,Nice course,0,0,Alfian Aldy Hamdani,81269838
+81268648~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620520574401,5,0,cool,0,0,Indah Dwi Sulistiyawati,81268648
+72751305~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620400910976,5,0,Excellent! Fantastic! Thank You!,0,0,amadou diop,72751305
+64198155~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620102472787,5,0,Nice course about tensorflow deployment techniques,0,0,Si Thu Phyo,64198155
+81261640~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1620027401263,5,0,Good,0,0,Ahmad Hanif Nurfauzi,81261640
+81203497~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1619747325363,5,0,"Great Course, clear explanation",0,0,Faisal Mashuri,81203497
+58729660~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1606914673550,5,0,If you want to learn extra libraries of tensorflow then take this ,0,0,Muhammad Alyan,58729660
+49432889~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1601698407044,5,0,"This is very cool course. We will learn a lot about how to serving our model, publish our model to tensorflow hub, how to using tensorboard with callback, and also we will learn about advance topic federated learning and how to use the API on tensorflow. ",0,0,Okta Fajar Suryani,49432889
+1937055~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1598676036778,5,0,eye-opening!,0,0,J. Z.,1937055
+12732877~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1597315856597,5,0,Exposure to relevant technologies available.,0,0,Chow Kong Ming,12732877
+35632536~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1597143139298,5,0,Excellent presentation of advanced topics.,0,0,divya prakash pandla,35632536
+42282555~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1593955033835,5,0,great course for utilities to enhance the training and deployment experience,0,1,Moustafa Shomer,42282555
+33133816~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1593417195881,5,0,NICE! Essential Stuff!,0,0,Cheuk Lap Yeung,33133816
+37520914~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1592405893223,5,0,GJ,0,0,Ming Gatsby,37520914
+7104079~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1591995492156,5,0,¡Excelente curso! Recomendado para quienes quieren estar informado sobre los aspectos más avanzados y modernos de TensorFlow. ¡Recomendado!Excellent course! Recommended for those who want to be informed about the most advanced and modern aspects of TensorFlow. Recommended!,0,1,Martín Calveira,7104079
+21171760~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1591631647787,5,0,Dream come true course,0,0,Vinay Mittal,21171760
+34889448~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1591536948812,5,0,"Enjoyed this specialization as much as I did the Tensorflow in practice. Thank you Laurence Moroney and Andrew Ng for getting these cool topics to all of us, so we can contribute back to community.",0,0,Dan Rohit,34889448
+43585871~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1591503473165,5,0,I am extreamly happy,0,0,Avinash Sen,43585871
+57292162~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1591333534269,5,0,"Excellent course, thank you Laurence and Andrew!",0,0,Jonathan Merlos,57292162
+205230~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1589797072572,5,0,Great work and I highly recommend this course/specialization!  Good job of inserting needed edits to update what's happening in real time.  ,0,0,Dave W Baldwin,205230
+39047430~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1589614323372,5,0,Awesome course for the using and application of Machine learning,0,0,Angshuman Sengupta,39047430
+2630926~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1588870639208,5,0,Top Notch Great Code Samples.,0,0,Mr. Jim,2630926
+19921414~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1588674108419,5,0,Thanks for teaching this,0,0,Ventseslav Vatashki,19921414
+26497090~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1588541794790,5,0,Very practical and advanced topics taught in easily understandable way.,0,0,Muhammad Sadeeq,26497090
+13942844~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1586790611184,5,0,"Another really good course by the instructor to end the course enlightening on the recent concepts of TensorFlow Serving, TensorFlow hub, TensorBoard, and Federated Learning. Kudos to the entire team for coming up with such a good course on advanced concepts.",0,0,AKSHAY KUMAR CHANDRASEKARAN,13942844
+7187394~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1586726870821,5,0,"Fantastic course, very recomendable for advanced TensorFlow applications!!!",0,0,Pachi Cartelle,7187394
+42979719~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1585666106537,5,0,Many useful stuffs if you want to move for Tensorflow or AI Deployment,0,0,Chun Yeow Yeoh,42979719
+396865~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1585052520126,5,0,"Very clear, the pace is right, content is very interesting and classes are engaging. What else is to desire? :)",0,0,Ernesto Cullen,396865
+44728921~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1583662717981,5,0,ver good course to get first insights for orientation and later deep dives. I like it very much!,0,0,Adrian Paul Slowik,44728921
+3850875~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1581667156381,5,0,"Enjoyed the course, the balance between the quiz and the practicals well set. It gives you a ran of your money. Plus people who are helpful like Alexander Ivanov. Who helped everyone especially for the week 2 assignment. I learned a lot and will use it to my best interest to also help others. Thank you team. Maybe the mentors need to contribute more. It would add more value. ",0,1,Michael Mutekeri,3850875
+3325587~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1581620476627,5,0,"I found this course to be a great introduction to the wide range of features provided by TensorFlow in the context of (i) model serving (ii) sharing models (iii) tensor board and (iv) federated learning. It provided me with an opportunity to focus my attention on these topics, to form a holistic view of the subjects rather than randomly reading documentation on an adhoc basis. Keep up the good work and thanks for keeping the length of the videos short and concise.",0,1,seyed reza mirkhani,3325587
+1855974~COURSE!~ylBpfAJTEeqAFw6MwpRLiw,1581563311881,5,0,"I absolutely enjoyed the entire specialization and here's why - I find it easier to understand stuff with readable code and all of the courses in this specialization contain a ton of useful and effective code snippets. Besides that, the courses have tons of commentary about common practicalities. ",0,1,Sayak Paul,1855974

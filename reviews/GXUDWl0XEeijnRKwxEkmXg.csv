@@ -1,0 +1,107 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+27603880~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1575511681171,2,0,"I have been using git in my current work for revision control but I didn't have a chance to systematically learn it and this is the reason I took the course.  Pro:  This course gave me an overview of essential parts of using git even though I need to dive into each part more than the course's material. I like this type way in learning.Cons: 1. For a beginner who didn't use any source control tool, I don't feel this is a good course to learn since there are very less practical examples. I feel the author assume you know or at least used other revision control tool. You would feel still don't know how to use it even though can pass all the quiz2. Much more reading than demonstration in the course. Also the content in the reading is not well organized in some sections. Easily to lose the logic why this shown here. I usually need to search for other material after looking through the reading session.  ",0,3,Yiding Yang,27603880
+1840302~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1551027999516,2,0,Don't like this course! A lot of text... :(,0,0,John Ortiz Ordoñez,1840302
+35917777~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1654682918926,3,0,"Would not recommend as an introduction to GIT. For beginners, it would be great to have a course concentrating on concepts, object model. state diagrams of git objects. This course tends to represent the ""zoo"" of git commands. No single picture illustrating what happens ""inside"" when we execute this or that command.
+
+The most interesting pand new art to me was about Gerrit.",0,0,Andrey Kogan,35917777
+108019457~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1654614751512,3,0,"-​ The speaker does not use a microphone close to his mouth, but rather speaks with room audio (hall effect). This makes him difficult to understand for people with hearing disabilities (like me)-​ Some questions on the tests include obviously wrong answers, which make them to easy.-​ In my opinion the course covers to much history like RVS or SVN, without going deep into the function princyples of the cours. If you really care how the old revision control systems work you should explain them more.",0,0,Grzegorz Lippe,108019457
+77022907~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1636375830341,3,0,"Lots of nice examples, but terrible text-only slides - missing more visual examples",0,0,Tomas Jezek,77022907
+92159509~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1630498173450,3,0,everything is good,0,0,SANAMANDRA RAVI KUMAR,92159509
+52743205~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1630287070740,3,0,.,0,0,Carlos Cardinale,52743205
+46742843~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1629198612426,3,0,very difficult to understand.,0,0,Takahide Maruoka,46742843
+57889443~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1601572488570,3,0,Instructor voice is not clear,0,0,Akash Shergill,57889443
+62545075~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1594876513272,3,0,It lacks a lot of real practice exercises,0,0,Jaime Bastida,62545075
+39871892~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1589724141865,3,0,Only reading and very less being taught. The slides don't keep you interested.,0,0,Adwait Pathak,39871892
+48219073~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1584287640107,3,0,"Would have loved it if there were more videos showing examples, along with the reading materials provided.",0,0,Nehal Chakravarthy M D,48219073
+32567862~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1582505328712,3,0,maybe a project would be better. a simple txt files repo,0,0,Jose Alejandro Madrazo Avila,32567862
+66938677~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1666893218543,4,0,g​ood one.go for it .u will get answers in github alsofor verification ,0,0,swetha y,66938677
+42618920~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1646929935554,4,0,"This specialization is a very thorough introduction to Open Source Software, Linux development, and Git. It has a lot of good videos and articles to refer to, however, there are not a lot of practical labs that apply these skills to development. I would rate this specialization a 7/10 because the information is really good but the practicality of it could be improved. I am very glad I took this specialization though.",0,0,Megan Howell,42618920
+81794378~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1618451402848,4,0,O conteúdo em si do curso é bom. No entanto precisam melhorar as legendas do vídeo e traduções dos conteúdos de leitura para o português BR. Há muitos erros de tradução e traduções de expressões que não precisam ser realizadas.,0,0,André Luis Cardoso,81794378
+46209206~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1608787740849,4,0,"Wonderful course!!! It provides the fundamental concepts for developing with Git and also Gerrit.I got a clear idea of git used for development purpose for software.
+",0,0,LOK AKSHAI ATHIBAN S,46209206
+72457317~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1607369699119,4,0,"Nice! Covered much more than I will probably need, but still well made and interesting.",0,0,Alexander Brandt,72457317
+20896247~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602342646970,4,0,Un buen inicio para aprender el uso de versionado con git.,0,0,Juan Diego lopez martine,20896247
+73703012~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602250389696,4,0,In the beginning there are questions that only can be answered if you have been working on the upcoming material. I'm not sure if the patches per mail part is really that important. I worked with git before but have never heard of that approach.Anyway I learned something in this course and I'm confident that I will use git more professional in the future.,0,0,Pirmin Huber,73703012
+61384654~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1598981623421,4,0,"Good. But more practical training would have been more interactive, and less boring.",0,0,Deshdeepak,61384654
+55143966~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593619234421,4,0,Includes all basic must-know topics. But could elaborate more on important topics,0,0,Aniruddha Nishikant Joshi,55143966
+23652994~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593243905073,4,0,would be more helpful if we worked on project in git,0,0,Ankit Kumar dubey,23652994
+60163262~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1589989754610,4,0,"A good, gentle yet technical, introduction to Git. It would have been better for me if it had assumed no familiarity with version control systems, but even so I managed well.",0,0,DAVID SEVILLA GONZ�LEZ,60163262
+45593764~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1588138641476,4,0,Thank you for the lessons!,0,0,L Lira,45593764
+21150~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1565558803562,4,0,Missed maybe some practical examples to follow-up during the course. With a dummy repository just for the course so students can play with it.,0,0,Raimon Ràfols,21150
+12541248~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1546016525102,4,0,"Nice training!. It provides the fundamental concepts for developing with git. Maybe I missed some mentions (or even labs), which popular systems using git, such as github or even gitlab, where simple collaboration workflows may be illustrated easily.",0,0,Cesar Capillas,12541248
+81276968~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1677143405408,5,0,Nice course! Well structured information and useful practical tasks.,0,0,Kacja C,81276968
+95195049~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1674727539281,5,0,Very Detailed Course,0,0,Aman Ur Rehman Sandhu,95195049
+13175630~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1669649448658,5,0,"Learned all the foundational concepts that are necessary to work with git. The concepts are taught very clearly. Already working with git now on a daily basis and after completing this course, I am able to understand very complex procedures easily. A must take for beginners starting to program.",0,0,Satvik Bhatnagar,13175630
+110448191~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1663250976356,5,0,g​oos,0,0,Gowtham Reddy Kuruguntla,110448191
+46576203~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1656550699849,5,0,very easy course,0,0,Suleiman Abdulkadir,46576203
+50757127~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1653038594517,5,0,"Excellent Course..I recommend everyone to take this course to learn Linux,Git",0,0,Lokesh Rudraradhya,50757127
+105453312~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1650547223837,5,0,Excellent explination,0,0,Kavya .p,105453312
+40823038~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1646239701318,5,0,It would be great if it included study material.,0,0,Jorge Zúniga Olivas,40823038
+34905039~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1643563450427,5,0,Excellent Course !!,0,0,Linda ANGULO López,34905039
+97225552~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1643013138034,5,0,good,0,0,Pamela Mangold,97225552
+64073060~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1631571341723,5,0,nice,0,0,Vikrant,64073060
+14065966~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1627226820355,5,0, This is really a nice blessing. I learned a lot of about oss from here. Thank you so much for this lesson.,0,0,JesseTewboo,14065966
+76220715~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1626659263712,5,0,5,0,0,198W1A1252-Sec-A SHAIK PATHIMA,76220715
+75531950~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1624425563591,5,0,V​ery comprehensive course contents with effective teaching methods. It kept me engaged all the time. Very usefull reading references for software development.Recommended for those who are new to Linux based systems.,0,0,Awais Arshad,75531950
+39048904~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1624289977554,5,0,Great,0,0,Shruti Patkar,39048904
+7073163~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1620571700185,5,0,"Very good course to learn the overview of Microservice.Especially, covering 3 platforms with examples is really good. (AWS, GCP, Azure)The lab environment is also helpful to make the understanding level deeper.",0,1,Yoshida Hitoshi,7073163
+71015648~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1618988823370,5,0,s,0,0,Just Do it,71015648
+81766161~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1618170306969,5,0,"An
+interesting course, I got acquainted with new functions for myself",0,0,Алексей Анатольевич Тишин,81766161
+73518756~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1614361170871,5,0,clear explanation of git,0,0,Edson Alan Moreno de Santiago,73518756
+65175148~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1614079654398,5,0,"Very useful, great professor",0,0,Nicola Romeo,65175148
+75300839~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1611633851427,5,0,Great course @ http://rodyeo.dyndns.org,0,0,Rodney Yeo Chuan Lye,75300839
+75858390~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1609945034636,5,0,nice,0,0,A.M.CHAMINDA SURANGA BANDARA ATHTHANAYAKA,75858390
+71404157~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1609106764159,5,0,thank you very much teacher. this course has been beneficial for me. I would like to continue the specialization but being a student I have financial difficulties. thank you professor.,0,0,David Banitongwa,71404157
+64182383~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1607964505510,5,0,Thank You Very Much,0,0,Kevin Yehezkiel Gurning,64182383
+37625042~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1607591398818,5,0,Lean Learning experience ,0,0,Bhushan Zope,37625042
+37554054~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1606739894302,5,0,These courses were great.,0,0,THANGE PIYUSH VIJAYKUMAR,37554054
+19805099~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1606188618519,5,0,Very good course with so much information and easy to understand.,0,0,Diptyajit Paul,19805099
+13069509~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1605321800874,5,0,Awesome course ,0,0,Alex Mortel,13069509
+58505669~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1604799763411,5,0,Excellent course. Good exercises that make the process simple and not tedious,0,0,Efraín Martínez Martínez,58505669
+55581958~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1604591304572,5,0,Best course I have ever seen.,0,0,CHANDRAGIRI SANDEEP,55581958
+36154640~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602900011339,5,0,"Great introduction course, foundational knowledge is enough to start.",0,0,Andres Hernandez,36154640
+60689831~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602833302088,5,0,A great introductory course on git.,0,0,Hariprasad M,60689831
+49112546~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602687173657,5,0,"Good course to learn about Opensource , Linux and Git ",0,0,shyam sulbhewar,49112546
+67841962~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1602430501382,5,0,A big thanks to Coursera and the Linux Foundation for this excellent course.,0,0,Niladri Biswas,67841962
+22715297~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1600889526246,5,0,"Very good course, explaining basics of git and distributed development.",0,0,Sushant Daspute Patil,22715297
+68397237~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1600400217612,5,0,good job,0,0,Bryan Abinadí Ubillús Tay,68397237
+49286222~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1600075241152,5,0,nice,0,0,HARSHIT PANERI,49286222
+69203513~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1599201571849,5,0,This course has more difficult labs and you'll learn all of git basic for development. I enjoyed so much this course! ,0,0,MANUEL ALEJANDRO QUEVEDO CUMPA,69203513
+64495202~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1598867927629,5,0,good course,0,0,Sudip raj chauhan,64495202
+49286483~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1598347100674,5,0,good,0,0,Ashish Jain,49286483
+64452832~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1597748509174,5,0,"very good course, good documentation",0,0,wiem ,64452832
+39453617~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1597431780332,5,0,"Nice course to refresh or learn git, I refreshed a lot and I learnt new concepts and methods.",0,0,"Gigi Marcel, Dan",39453617
+65980352~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1595213782676,5,0,Excellent course...Helped me a lot to learn the workflow of the real developers of OSS,0,1,Dipjyoti Sarma,65980352
+61244492~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593896204304,5,0,Gozuuu,0,0,Ronaldo Farid Nolasco Chavez,61244492
+41489851~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593876377075,5,0,I have learned a lot of things related to git and its architecture,0,0,SHOAIB SHAIKH,41489851
+40970858~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593698667595,5,0,awsome course surely will recommend to all,0,0,Aditya M S,40970858
+59759164~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593189417720,5,0,Great course,0,0,Jigar Vishwakarma,59759164
+57096904~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1593104605214,5,0,Definitely great course and little bit more focused on practical approach so you have to try it your self to actually know what exactly what all the commands do and how they work. Overall great I learned about version control systems specially GIT ,0,0,Ravi Pabari,57096904
+59216186~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1592143686702,5,0,It's a amazing class for me thanks coursera and Linux group and thank you instructor for the valuable information about Linux,0,1,Deleted Account,59216186
+55747976~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1592050672529,5,0,very good,0,0,Naeemul Islam,55747976
+57625769~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1592006624739,5,0,"Awesome course. Really, really well-structured. It leds you to right way to discover things in a very smart way. I've learned so many new stuff here. High recommended even for those in the intermediary level.",0,1,Samuel Fusato,57625769
+59742906~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1591895107133,5,0,Good,0,0,DANA ROSE,59742906
+60896831~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1591498916066,5,0,.,0,0,Sridhar E,60896831
+53044617~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1591302053533,5,0,Proper Knowledge About Git. Great Instructions.,0,1,Tamzid Ahmed,53044617
+59455568~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1591293450779,5,0,Good,0,0,NIVYA RAJ,59455568
+56814523~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1591126072232,5,0,It was very great learning about git,0,1,Manikant Rai,56814523
+59452729~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1590834053267,5,0,nice,0,0,TONAL MATHEW,59452729
+1458122~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1590766255053,5,0,Enjoyed!,0,0,Iqbal Uddin Khan,1458122
+53470858~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1590296887180,5,0,Loved the course.,0,0,Het Daftary,53470858
+60761716~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1590002769288,5,0,"This course taught me a lot about git I wasn't aware of, or didn't know enough about.  I've been using git for a couple years on my own personal development projects, but after this course, I see I wasn't using git to it's full potential.  Great work by the instructor.",0,0,Travis Siegel,60761716
+35024531~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1589471685471,5,0,I enjoyed learning the basics of git.,0,1,Subrat Prasad Panda,35024531
+41882451~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1589353463526,5,0,"The Open Source Software Development, Linux and Git Specialization has been really helpful in understanding how Linux works. But this Git course has been the most useful of the four courses. The other Linux and OSS courses have given me a good foundation of where things are and how things are put together. But this Git course has helped me become more productive.",0,0,Ted Hartnell,41882451
+30451354~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1588111217133,5,0,fun class,0,0,Anand Sandhinti,30451354
+51626138~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1587932738289,5,0,"I liked this one a lot, seems to talk about the core concepts that a developer needs to know, to deal with revision control via git. I was surprised that there was a lot of discussion about setting up a remote repository, but there wasn't a single mention to things like GitHub or GitLab, since that's what many people who are taking this course/specialization, are probably going to use and deal with.",0,1,Joao Vitor da Silva Duarte,51626138
+1098384~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1587360031413,5,0,Best to course to learn the basics of git and a good platform to learn how to become a power user of git.,0,2,Thejus U Prabhu,1098384
+37333163~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1585512468087,5,0,This course is very instructive and it contains all the information needed to master git.,0,1,Houssem Zemni,37333163
+9889506~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1582043934449,5,0,"Excellent course that is informative, easy to follow, and has lots of opportunities to test your knowledge and learn more if interested. It is clear to me that a lot of work was put into preparing this course and that its creators are well-informed about these tools.",0,0,Dory Abelman,9889506
+47153341~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1580435314077,5,0,This course gives an introduction to Git. The concepts are explained well.,0,1,Geo Raju,47153341
+30085453~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1580425351597,5,0,A very brief introduction to Git.,0,1,Tushar Masane,30085453
+47167046~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1575531232774,5,0,Very informative course !,0,0,Sourabha Gokhale,47167046
+22279889~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1572563870676,5,0,Very complete course of git.,0,2,Jorge Sanchez,22279889
+36811335~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1566480985214,5,0,It Was amazing experience to complete the specialization.,0,1,Sidra,36811335
+27214988~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1557828602173,5,0,Simple and easy explanation of the concept along with basic git commands. Best for beginners.,0,2,Mahima Agrawal,27214988
+2289198~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1548664156115,5,0,Good course.,0,0,Raghu Kishore Vempati,2289198
+10269~COURSE!~GXUDWl0XEeijnRKwxEkmXg,1546766590149,5,0,"Great course, happy to learn about Gerrit!",0,1,Pascal Uriel ELINGUI,10269

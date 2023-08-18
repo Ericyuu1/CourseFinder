@@ -1,0 +1,244 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+14078410~COURSE!~487N_QqXEeeqsQo32tjRBA,1623546304062,1,0,This course is very poorly organized to an embarrassing level. The list of required materials is incomplete. They don't tell you that you also need a soldering iron and header pins to accomplish the lab. The quizzes and homework questions are often poorly worded with no explanation for wrong answers. So you are left guessing yourself over and over if you got it wrong. Other questions are pointless in which you are asked to fill in the blank for a random thing the instructor said or is buried in the reading. It feels like the instructors couldn't be bothered to put any effort into this course. Go take the in-person version.,0,0,Jacob Anderson,14078410
+43689136~COURSE!~487N_QqXEeeqsQo32tjRBA,1615105894712,1,0,I'm unable to verify my ID only for your course alone. Other than everything is ok. ,0,0,Manish Bhabor,43689136
+78696386~COURSE!~487N_QqXEeeqsQo32tjRBA,1614083122763,1,0,please give me the certificate,0,0,amlaku yalew,78696386
+35898851~COURSE!~487N_QqXEeeqsQo32tjRBA,1638331837366,2,0,"I liked everything about the course except the exams.  They were ambiguous and sometimes the answers were wrong.  Furthermore, there's no feedback on why my answers were wrong.  Whenever, only 11% of students pass an exam...trust me it's not the students.However, the presentation and course content was great and very relevant to my work.  ",0,20,paradigminversion,35898851
+23439737~COURSE!~487N_QqXEeeqsQo32tjRBA,1607630018273,2,0,"Theoretical videos and theoretical course materials are good. I didn't like the lab and course projects at all, since it was very confusing. It's a good summary of many interesting electronics and instrumentation components and phenomena. I invested a lot of time to wire up and set up the PSOC with all the hardware that is specified at the beginning of the course. Still had a very hard time, and there were many steps that I couldn't complete even though I was following the instruction step by step.",0,0,Manuel Gomez Jimenez,23439737
+60934138~COURSE!~487N_QqXEeeqsQo32tjRBA,1600134139708,2,0,I'm don't receive certificate that's way im not happy about this course,0,0,Girish rockzz,60934138
+52750064~COURSE!~487N_QqXEeeqsQo32tjRBA,1587664497182,2,0,"VERY LESS THEORITICAL INFORMATION WAS GIVEN ,MORE LEARNING AND PRACTISE SHOULD BE HIGHLY INFLUENCED",0,0,Akshat Sharma,52750064
+45756466~COURSE!~487N_QqXEeeqsQo32tjRBA,1584913842512,2,0,"The emphasis in course material is more on granular, applied details relating to sensor specification than on theoretical concept. The graded assignments tend to emphasis many easy questions rather than a few difficult ones. ",0,0,Samuel Compton,45756466
+22075667~COURSE!~487N_QqXEeeqsQo32tjRBA,1582653688289,2,0,"There are some interesting concepts on debugging I found really useful, I was hoping for more applications or sensor integration labs, the lab ends up being a tutorial",0,0,JuanEs Paz J,22075667
+29560074~COURSE!~487N_QqXEeeqsQo32tjRBA,1658129891250,3,0,"The theory is very interesting.  It would have been even better with more examples, mostly for the OpAmp, on when to use what configuration. The OpAmp in small signals could be good to explore too.Please, add the 100ohm resistor for the LCD contrast to the purchase list. And the 100nF capacitor too.",0,0,OUATTARA Doman David,29560074
+71776949~COURSE!~487N_QqXEeeqsQo32tjRBA,1615084243894,3,0,"Many operations were confusing on using nomenclature, you have to buy parts",0,0,Roberto Brenes,71776949
+63126777~COURSE!~487N_QqXEeeqsQo32tjRBA,1602662146343,3,0,Course is intense and instructors are very good at presenting the concepts. Quizzes were highly problematic and well structered.,0,0,Adhithya,63126777
+70541668~COURSE!~487N_QqXEeeqsQo32tjRBA,1599869037880,3,0,"First would like to thank you for the course and for your help with everything in the course. However, there should be more consideration and valued people who take the for free which is not entirely free, quizzes could be less defficult and course would be more connected to Oil and Gas Industry.",0,0,Cesaltino Gama,70541668
+19598326~COURSE!~487N_QqXEeeqsQo32tjRBA,1594870706993,3,0,"Overall is good for video conten and reading materials. Instructors paid a lot effor making those.There may be one thing to improve, not much interaction with student's question, i have asked 3 questions in the forum but not one got answered.",0,1,"JiaJie, Xia",19598326
+58294544~COURSE!~487N_QqXEeeqsQo32tjRBA,1590315405421,3,0,not well explained,0,0,Tarun Mahawar,58294544
+55319479~COURSE!~487N_QqXEeeqsQo32tjRBA,1586857423572,3,0,It's a very interesting and very knowledge gain able topic and  had learned  lot of things from this . And I would like to say thank to coursera for providing this. ,0,0,Akhilaparameswari kuncham,55319479
+53506879~COURSE!~487N_QqXEeeqsQo32tjRBA,1586758061790,3,0,nothing,0,0,Mohit Kangotra,53506879
+23558922~COURSE!~487N_QqXEeeqsQo32tjRBA,1574158212314,3,0,It lacks a little of info where refering to circuit wiring and API's code,0,0,David Montes,23558922
+25816376~COURSE!~487N_QqXEeeqsQo32tjRBA,1566922255667,3,0,"It was an overall OK course. I expected more but considering the money I paid, I think it was as OK.  I understand learning hardware from online would be tough, but at least I expected to have all lecture slides available. I think overall there were 3 or 4 lectures not available.   The only quiz I found useful was from Week 4, but you may find difficult to answer those questions if you study with lecture materials only. Also, for the circuit design, generally it isn't always obvious the annotation of components. For example, R1 and R2 in the inverted op-amp are not universally the same. They assumed you to remember the op-amp design from the lecture slides. You can still solve the problem because generally, you want to have gain.. However, in the engineering field, you never assume anything. That is an inappropriate attitude.  All other quizzes were not asking important questions. I found 40% of questions were not helpful. If you don't have an industrial background or education in electrical engineering, the quiz may mislead the importance aspect of sensor design.   I found learning PSoC was very useful. However, if you don't have a background in C programming or Arduino, you will struggle. PSoC video lectures were nice, but that would be all you have. You will get no other help what so ever. You will find Google is the best help you can get.   What frustrated me the most was, I completed the PSoC project, and it turned out to be, I didn't have to submit it. You will get no feedback on your project. Also, the answer key for the code is not available for you. The project answer keys in week 5 say that you can download PSoC project zip file to compare with your answer, but you cannot. You can download everything else but that.   I found interesting, that they listed the cost of all extra parts that you need to purchase for this course except Nscope. Nscope cost was about $100, which you can purchase from Amazon.   Summary.   The course will provide you a guideline that you can study within.   If you are interested in temperature sensor design this course may helpful.   You will learn about high-level noise handling.   Some of the lecture slides were missing.   Overall, quizzes were not thoughtfully created.   This is elementary graduate-level course. You would need an EE background.  It would be difficult if you have no experiences in C programming or Arduino.   You will not get any feedback on your design project nor proper answer.   You may spend in total $130 additional to the course charge.  The only support you can get is from Google.",0,14,Junghee Kim,25816376
+2136230~COURSE!~487N_QqXEeeqsQo32tjRBA,1557783940777,3,0,"The videos are good enough.  The final project is frustrating as the leap between what was given in unit 2 and what was expected in unit 5 is pretty huge.  The big down grade is the serious lack of input by instructors / TAs/ etc. You can't just throw the material out there are hope it makes sense... it always makes sense to the instructor, right ?  ",0,7,Rebecca Grasser,2136230
+85300765~COURSE!~487N_QqXEeeqsQo32tjRBA,1669187109924,4,0,nope,0,0,Bhuvan VentraPragada,85300765
+104268370~COURSE!~487N_QqXEeeqsQo32tjRBA,1668699738129,4,0,It's a great course. Helped me a lot through my academics,0,0,Vansh Negi,104268370
+80595227~COURSE!~487N_QqXEeeqsQo32tjRBA,1667653733031,4,0,explain is ,0,0,saivinodh Koritala,80595227
+75846646~COURSE!~487N_QqXEeeqsQo32tjRBA,1667027965119,4,0,e​xcllent course,0,0,RAVADA UDAY KIRAN 122000000000,75846646
+1303902~COURSE!~487N_QqXEeeqsQo32tjRBA,1662056846491,4,0,"T​his was such a fun couse.  I can't believe how much I learned.  Although difficult, the weekly workload is more than managable.  The professors are great as well with explaining the material but you'll probably have to watch some of the lectures more than once to fully comprehend the material.I​ gave it four stars because the recommended textbook for the course, which I purchased, is riddled with typos.  It's almost embarassing considering it is a fifth edition.  I can't tell you how many times the word ""field"" was misspelled as ""filed"" and there were countless other mistakes.  I had to laugh sometimes it was so bad but it was also very frustrating being that it managed to make advanced level material even more difficult to comprehend.",0,0,Vaughn Pourchot,1303902
+110241149~COURSE!~487N_QqXEeeqsQo32tjRBA,1659924292777,4,0,wonderfull course and very useful to me,0,0,DANTHA HARISH,110241149
+63591346~COURSE!~487N_QqXEeeqsQo32tjRBA,1656523189292,4,0,It was a very good experience. ,0,0,SOUMYA DIPTA BORAL,63591346
+96401575~COURSE!~487N_QqXEeeqsQo32tjRBA,1639420270333,4,0,"I was able to learn some new techniques coming from a mechanical background.  I enjoyed the course, but I was disappointed that all of the hands-on activities were squeezed into the last week.  Also, I found that there was very little support overall.  The materials were good, so even with that I'm gibing this course 4 stars.",0,0,Elliot Eid,96401575
+18844053~COURSE!~487N_QqXEeeqsQo32tjRBA,1633855365056,4,0,"Good overview of sensor electronics, PSOC kit is unavailable but I used kit 159 instead.",0,0,keith,18844053
+3580375~COURSE!~487N_QqXEeeqsQo32tjRBA,1633447600970,4,0,very good course,0,0,Eng Mustafa Electrical,3580375
+29735727~COURSE!~487N_QqXEeeqsQo32tjRBA,1632870675458,4,0,"V​ery informative and clear. Amplifier section is glossed over a bit fast, CMMR could be clearer for sure overall really good course",0,0,Eliav Maas,29735727
+58587574~COURSE!~487N_QqXEeeqsQo32tjRBA,1632151683032,4,0,nice course,0,0,Mr.M.Raghupathy,58587574
+70992008~COURSE!~487N_QqXEeeqsQo32tjRBA,1632115418994,4,0,great,0,0,tanveer,70992008
+61068582~COURSE!~487N_QqXEeeqsQo32tjRBA,1628935935522,4,0,Nice course it is!!!! we get in depth knowledge about sensors and sensor circuit design.,0,0,Nita Patil,61068582
+88940533~COURSE!~487N_QqXEeeqsQo32tjRBA,1625636078960,4,0,got to know too much about th sensors,0,0,Shivangi Gupta,88940533
+11190266~COURSE!~487N_QqXEeeqsQo32tjRBA,1622047668890,4,0,Good overview of the topic. Easy to follow assignments. Hands on.,0,0,Arnt Olav Aalgaard,11190266
+67944679~COURSE!~487N_QqXEeeqsQo32tjRBA,1615615709622,4,0,"Great course, great content and learning material. It has real lab exercises with careful instructions. You can still do the assignment without real circuit, but learning by doing will be more efficient, and of course this subject needs real equipment.The quiz is really helpful for each module lesson, but some of them are a bit difficult or having typing problem. Teachers should acknowledge and correct that. I hope lecture videos will have more example videos about working principles of devices.",0,0,Ngo Tung Duong,67944679
+49789749~COURSE!~487N_QqXEeeqsQo32tjRBA,1611926412936,4,0,it was an awesome course,0,0,Ritika Mehra,49789749
+70918181~COURSE!~487N_QqXEeeqsQo32tjRBA,1611583743192,4,0,Beautiful!!,0,0,STHITADHI MUKHERJEE STHITADHI MUKHERJEE,70918181
+59797158~COURSE!~487N_QqXEeeqsQo32tjRBA,1611551228351,4,0,excellent,0,0,PUJALA HEMA ACHYUTHA RAYALU,59797158
+60736756~COURSE!~487N_QqXEeeqsQo32tjRBA,1607335696380,4,0,good for beginners,0,0,kafeel sharief,60736756
+73082837~COURSE!~487N_QqXEeeqsQo32tjRBA,1607141328635,4,0,I have completed the course and i am waiting for my certificate. Please issue us the certificate. Many are waiting for the certificate. Please Please Please   ,0,0,Chador Wangmo,73082837
+46789648~COURSE!~487N_QqXEeeqsQo32tjRBA,1605758182916,4,0,interesting,0,0,Menilik Eshetu,46789648
+59328336~COURSE!~487N_QqXEeeqsQo32tjRBA,1604847741471,4,0,EXCELLENT,0,0,Balabadruni  vasu,59328336
+63591762~COURSE!~487N_QqXEeeqsQo32tjRBA,1604471282319,4,0,its okay,0,0,Siddharth Sethi,63591762
+59133654~COURSE!~487N_QqXEeeqsQo32tjRBA,1603424470712,4,0,Good & very usefull for methank you,0,0,Mrs J. Srilatha,59133654
+72692172~COURSE!~487N_QqXEeeqsQo32tjRBA,1602050546242,4,0,Good course to learn,0,0,BUKKE PRASAD NAIK,72692172
+60568633~COURSE!~487N_QqXEeeqsQo32tjRBA,1601375784508,4,0,nice course,0,0,REDDYGARI SHAIK ABDUL KAREEM,60568633
+58838405~COURSE!~487N_QqXEeeqsQo32tjRBA,1600489986745,4,0,This course is interesting to learn sensors working.,0,0,Achyuth Rudru,58838405
+68430574~COURSE!~487N_QqXEeeqsQo32tjRBA,1600265544898,4,0,It's the best course regarding sensors. I learned all the basic concepts regarding sensors. ,0,0,Akanksha Patwardhan,68430574
+60705026~COURSE!~487N_QqXEeeqsQo32tjRBA,1599225285979,4,0,A very good course that helps you to learn all types of sensors and their applications in day to day life,0,0,P.Venkata Sai,60705026
+57831514~COURSE!~487N_QqXEeeqsQo32tjRBA,1598987670636,4,0,it's very good and very helpful for deep study aspects in releted stream.,0,0,AKASHKUMAR B. VORA,57831514
+63782033~COURSE!~487N_QqXEeeqsQo32tjRBA,1598358125425,4,0,GOOD.VERY MUCH INTERATIVE.LENGTH OF VIDEOS WERE SHORT AND PRECISE.EXCELLENT.,0,0,NIDIGONDA V N KRUSHNA PRAHAS,63782033
+61482639~COURSE!~487N_QqXEeeqsQo32tjRBA,1598352184763,4,0,Good,0,0,Mohammad Hisham. k,61482639
+67074592~COURSE!~487N_QqXEeeqsQo32tjRBA,1598082580612,4,0,It is a wonderful course I have seen it.it is very helpful to my studies ,0,0,PONSUGANTHI S,67074592
+29079415~COURSE!~487N_QqXEeeqsQo32tjRBA,1596536191969,4,0,Clear explanation of all the topics and progressive assignment tasks.,0,0,kalpesh singh,29079415
+34897737~COURSE!~487N_QqXEeeqsQo32tjRBA,1595754214227,4,0,i am very thankful for the wonderful course instructors,0,0,D ARUN KUMAR,34897737
+64699289~COURSE!~487N_QqXEeeqsQo32tjRBA,1595619714992,4,0,Good,0,0,Pan War,64699289
+61773079~COURSE!~487N_QqXEeeqsQo32tjRBA,1594336184283,4,0,Nice,0,0,Kelvin Reynold Daniel,61773079
+61743569~COURSE!~487N_QqXEeeqsQo32tjRBA,1592150529020,4,0,It helps me to know about various types of sensors and its working.But the problem is it includes some tough questions in quiz that cant digest.,0,4,RAFIH PM,61743569
+39386833~COURSE!~487N_QqXEeeqsQo32tjRBA,1591818334237,4,0,"Great course with plenty of high value videos. One thing that I found unfortunate was that time was spent on interfacing the PSOC unit with an LCD. Industry 4.0 calls for IOT solutions, which needs the data to be transferred from the sensor/microcontroller to a PC rather than an LCD. I wish the teachers would have discussed how to establish a serial connection, either UART or I2C, between PSOC and PC. ",0,5,Jesper Bjerge Christensen,39386833
+57663791~COURSE!~487N_QqXEeeqsQo32tjRBA,1590843808969,4,0,Thank you very much sir.you explanation is very nice.,0,0,ravikiran gujjarlapudi,57663791
+58289730~COURSE!~487N_QqXEeeqsQo32tjRBA,1589358601371,4,0,IT WAS NICE LEARNING EXPERIENCE ,0,0,Shivanand Killedar,58289730
+46349805~COURSE!~487N_QqXEeeqsQo32tjRBA,1588311470779,4,0,Suggestions-:The exams could have been more interactive.The questions should have covered more theory modules.Loved-:The teaching style of Jay is really awesome. The concepts covered are really good. I wish I could get ever had offline learning experience from Jay.,0,0,Satamanyu Dash,46349805
+4580581~COURSE!~487N_QqXEeeqsQo32tjRBA,1587837424626,4,0,"This course is very good. Concise, very informative, and provides a lot of useful material. I would like to include more on filtering, both software and hardware.",0,4,Enrique Vetere,4580581
+36035081~COURSE!~487N_QqXEeeqsQo32tjRBA,1587552475488,4,0,difficult,0,0,Meha Kaushal Desai,36035081
+53968524~COURSE!~487N_QqXEeeqsQo32tjRBA,1587288030573,4,0,"Great course to start with various type of sensors, and get a basic overview of the PSOC5  possibilities.Lectures contains a lot of valuable information, videos are well explained and easy to follow as long as you have basic electronic engineering knowledges.However, I think most of the quizz questions are too easy, and just check if you can refer to a specific time in the video. Some quizz question, especially in week 5 about the thermistor lab project are not asked correctly, and the answer is amiguous (for instance several answer can apply, but you can select only one). Usually, those questions refer to what is said exactly on the lecture video (if something is true but not said explicitly, it's assumed to be wrong).Week 4 quizz about sensor noise was the only one I think is well designed (but there is still one question I can't solve).Would have been great if it was possible to share the lab project, and maybe have someone to check if it's working properly, as the course is designed, it's completely optionnal to perform this project (but everyone should do it as it's a great way to learn.Still glad I took this course as I learned a lot, but it could be improved.",0,6,Sylvain G.,53968524
+53039764~COURSE!~487N_QqXEeeqsQo32tjRBA,1587026038526,4,0,very intresring course i like this course ,0,0,NITHIYANANDAM R,53039764
+40921561~COURSE!~487N_QqXEeeqsQo32tjRBA,1586783081149,4,0,Amazing Content,0,0,Garvit Bhateja,40921561
+26623866~COURSE!~487N_QqXEeeqsQo32tjRBA,1583402612434,4,0,Sensor and Sensor Circuit Design is a course packed with vital information on low signal processing and integration techniques of various sensors for embedded system. It is a course that I will recommend for automation and process personnel.,0,0,Samuel Ajibade,26623866
+17585701~COURSE!~487N_QqXEeeqsQo32tjRBA,1581495796731,4,0,Overall a really useful course that gives a grounding in a few different types of sensor or transducer that are common in industry and control applications.Some reading around the course will greatly aid in the understanding of the concepts and equations that are used.,0,4,Richard Jarrett,17585701
+139526~COURSE!~487N_QqXEeeqsQo32tjRBA,1575770261082,4,0,"I liked the theoretical instructional videos, but the practical application (PSoC programming) videos need work. I would also like to see an answer key for the quizzes with explanations (after receiving a passing grade).",0,4,J Andrew Parsons,139526
+24989090~COURSE!~487N_QqXEeeqsQo32tjRBA,1573384527541,4,0,Greatcourse about sensors. Instructors are senior engineers. Looking forward to the other courses of the specialization.,0,0,Guillaume Valancogne,24989090
+16946977~COURSE!~487N_QqXEeeqsQo32tjRBA,1552999969926,4,0,"The course was amazing. The quizzes had few issues - even though my answers were right, the prompt said it was wrong. My answers matched according to the lectures as well as the slides, but somehow every iteration turned out wrong. This way it was hard to score maximum on those quizzes. Other than that, I loved the course and I learned a lot. Thanks for the material. ",0,4,Aakriti Barat,16946977
+37530063~COURSE!~487N_QqXEeeqsQo32tjRBA,1549845717642,4,0,"This is a fairly well put together course, and I recommend it for anyone looking to gain knowledge of thermal and flow sensors and signal conditioning. One of my favorite things about the course was that I learned about the PSOC5 microcontroller, which is really a configurable system on chip. It is a very cool tool that I will likely use in the future! One complaint about the course is that the quizzes can be frustrating because some of the questions are worded strangely (to the point of being confusing), and the questions sometimes don't do a good job of testing your actual knowledge of the material and seem very arbitrary (sometimes it seems like they are trying to trick you into picking the wrong answer). Also, it took me a while to figure out that, in the multiple choice questions, the square check boxes mean that you can select more than one item, and the round check boxes mean that only one box can be selected. Recommendations for improvement would be to ensure that PDFs of the slides are provided in every lecture (the links we missing on some lectures), and to gear the quiz questions more toward material comprehension and less toward 'did this person watch the video.' All in all, I recommend this course. ",0,3,Ryan Challacombe,37530063
+107680889~COURSE!~487N_QqXEeeqsQo32tjRBA,1668945503558,5,0,i gained more knowledge through this course,0,0,Maghaa Miruthaa Balasubramaniam,107680889
+114265893~COURSE!~487N_QqXEeeqsQo32tjRBA,1668788725396,5,0,    great,0,0, BAISANI NAGAPOOJITHA,114265893
+88262208~COURSE!~487N_QqXEeeqsQo32tjRBA,1668410031462,5,0,good,0,0,Vangara Akhila,88262208
+113985718~COURSE!~487N_QqXEeeqsQo32tjRBA,1668161346827,5,0,Il corso fornisce una buona rivisitazione di contenuti tecnici ma soprattutto permette di realizzare un'applicazione pratica con una piattaforma embedded,0,0,Giuseppe Farchione,113985718
+118143540~COURSE!~487N_QqXEeeqsQo32tjRBA,1667983989699,5,0,superb section i understand what is sensors and sensors circuit design thank you sir. ,0,0,VIGNESH  R,118143540
+114242150~COURSE!~487N_QqXEeeqsQo32tjRBA,1667833707168,5,0,Had fun learning my first course . ,0,0,Bymana Gagan Kuttappa,114242150
+83245307~COURSE!~487N_QqXEeeqsQo32tjRBA,1667577128289,5,0,nice coursewell explained,0,0,BORA MANOJ KUMAR REDDY 122000000000,83245307
+116040907~COURSE!~487N_QqXEeeqsQo32tjRBA,1667176240059,5,0,e​xcelent course,0,0,Iliyas Khan,116040907
+80433973~COURSE!~487N_QqXEeeqsQo32tjRBA,1666450225111,5,0,G​OOD,0,0,jayendra Nayak,80433973
+115673007~COURSE!~487N_QqXEeeqsQo32tjRBA,1666094298174,5,0,n​ice,0,0,121910402004 B S DINESH GOWDA,115673007
+81336741~COURSE!~487N_QqXEeeqsQo32tjRBA,1665917099907,5,0,V​ery usefull,0,0,Dileep G R,81336741
+103854162~COURSE!~487N_QqXEeeqsQo32tjRBA,1663594553316,5,0,g​ood,0,0,KAVITI REVANTH ,103854162
+71618590~COURSE!~487N_QqXEeeqsQo32tjRBA,1663415382954,5,0,g​ood,0,0,Krupanka B. P,71618590
+110234028~COURSE!~487N_QqXEeeqsQo32tjRBA,1662822486202,5,0,g​ood,0,0,ISA PAVITHRA,110234028
+110990875~COURSE!~487N_QqXEeeqsQo32tjRBA,1662822365699,5,0,hgood,0,0,LOLUGU SAI HARSHAVARDHAN,110990875
+106887187~COURSE!~487N_QqXEeeqsQo32tjRBA,1661804195558,5,0,All topics are informative and useful.,0,0,Pankaj Rawat,106887187
+68071425~COURSE!~487N_QqXEeeqsQo32tjRBA,1661150209243,5,0,i'm student of electrical engineering and this course help me to boost my skill related to electronics optical devices and its working.,0,0,Khurram Khan Alizai,68071425
+92097200~COURSE!~487N_QqXEeeqsQo32tjRBA,1657346442750,5,0,superb session,0,0,ABHISHEK YADAV,92097200
+102479870~COURSE!~487N_QqXEeeqsQo32tjRBA,1655101838577,5,0,this course helped me enhance my electronic knowledge ,0,0,BaDER ALkANDERI (Time),102479870
+58206593~COURSE!~487N_QqXEeeqsQo32tjRBA,1651997199125,5,0,very useful course,0,0,Muhammad Adnan,58206593
+90200601~COURSE!~487N_QqXEeeqsQo32tjRBA,1641653412559,5,0,Excellent,0,0,SIDDARTH. S,90200601
+47711760~COURSE!~487N_QqXEeeqsQo32tjRBA,1640946302557,5,0,This class was extremely informative. The instructors are incredibly knowledgeable and articulate. I cannot express how great they were and how useful was the overall content of the material. I would definitely recommend this course to anyone interested in the sensors and sensors circuits. ,0,0,Muniah Maree,47711760
+76681704~COURSE!~487N_QqXEeeqsQo32tjRBA,1640312730337,5,0,best ,0,0,DHARMALA SRI HARI BHASKAR,76681704
+96485457~COURSE!~487N_QqXEeeqsQo32tjRBA,1639411052870,5,0,WRONG NAME IN THE CERTIFICATE :(,0,0,Andy Paulo Ramirez,96485457
+74532804~COURSE!~487N_QqXEeeqsQo32tjRBA,1635749934580,5,0,Really a good course.,0,0,SAPTARSHI JANA,74532804
+54615079~COURSE!~487N_QqXEeeqsQo32tjRBA,1635697955832,5,0,"Muito bom , principalmente a teoria ",0,0,Marcia De Sá,54615079
+60912122~COURSE!~487N_QqXEeeqsQo32tjRBA,1633935727191,5,0,Good Course,0,0,MONAVARTHI LAKSHMI SANDEEP,60912122
+85611006~COURSE!~487N_QqXEeeqsQo32tjRBA,1632992377534,5,0,Very impactful. Thank you Coursera!,0,0,Joseph Imuk,85611006
+32947117~COURSE!~487N_QqXEeeqsQo32tjRBA,1632757692051,5,0,very good learning experience ,0,0,Shekhar Nandanwar,32947117
+92353324~COURSE!~487N_QqXEeeqsQo32tjRBA,1632517377325,5,0,Good course I have enjoyed learning ,0,0,Adam Fulat,92353324
+36341597~COURSE!~487N_QqXEeeqsQo32tjRBA,1631299300219,5,0,Very Good cOurse,0,0,Minal Raj,36341597
+79792040~COURSE!~487N_QqXEeeqsQo32tjRBA,1629166751736,5,0,funny and teachers are very skillful,0,0,Haiwen Sun,79792040
+86019227~COURSE!~487N_QqXEeeqsQo32tjRBA,1629027014493,5,0,I​ loved this!,0,0,Sandeep Satheesh,86019227
+80501653~COURSE!~487N_QqXEeeqsQo32tjRBA,1627419879614,5,0,Muito bom !,0,0,João Victor Ramalho Pereira,80501653
+88820820~COURSE!~487N_QqXEeeqsQo32tjRBA,1625919734626,5,0,its just an amazing course thanks!,0,0,Ammar Shehabi,88820820
+87406264~COURSE!~487N_QqXEeeqsQo32tjRBA,1625582115867,5,0,g​ood,0,0,Anik Hossain Tushar,87406264
+88803690~COURSE!~487N_QqXEeeqsQo32tjRBA,1624531702303,5,0,excellent,0,0,Lavanyalahari Ugranam,88803690
+45192438~COURSE!~487N_QqXEeeqsQo32tjRBA,1624228081325,5,0,Is very complete this course,0,0,Omar Piedrahita,45192438
+74453286~COURSE!~487N_QqXEeeqsQo32tjRBA,1624009463892,5,0,This course was very useful to have a wide range of knowledge about sensors discussed in this course.,0,0,PAMUDITHA LAKSHAN,74453286
+56705356~COURSE!~487N_QqXEeeqsQo32tjRBA,1622302291642,5,0,GOOD,0,0,Rahul kumar singh,56705356
+70619538~COURSE!~487N_QqXEeeqsQo32tjRBA,1622102844017,5,0,it was damn good,0,0,bodipati rithwik,70619538
+65037730~COURSE!~487N_QqXEeeqsQo32tjRBA,1622034165022,5,0,​,0,0,Prasad Piumal,65037730
+81398024~COURSE!~487N_QqXEeeqsQo32tjRBA,1621959565602,5,0,excellent,0,0,kaliyappan k,81398024
+70002912~COURSE!~487N_QqXEeeqsQo32tjRBA,1621497501774,5,0,Found it very helpful in upgrading my knowledge. Easy to learn lessons. ,0,0,Abhishek Varkey,70002912
+56956159~COURSE!~487N_QqXEeeqsQo32tjRBA,1621063132794,5,0,It was a wonderful experience to know practicalities of various sensors and its interfacing with PSoC platform !!!,0,0,Bhupinder Verma,56956159
+76834461~COURSE!~487N_QqXEeeqsQo32tjRBA,1620285010483,5,0,kk,0,0,Venkatesh Reddy,76834461
+38846944~COURSE!~487N_QqXEeeqsQo32tjRBA,1619832405762,5,0,This is a very good course that helped me alot in understanding more about sensors in general.,0,0,Luay Hani Ahmed,38846944
+80845300~COURSE!~487N_QqXEeeqsQo32tjRBA,1618786009548,5,0,Excellent course. Very informational and I really liked the labs.,0,0,Jorge Equihua,80845300
+47947924~COURSE!~487N_QqXEeeqsQo32tjRBA,1617693263382,5,0,Good,0,0,Oza parth,47947924
+78370239~COURSE!~487N_QqXEeeqsQo32tjRBA,1617515700336,5,0,not able to view certificate,0,0,18_407 B. Sowmya,78370239
+36326429~COURSE!~487N_QqXEeeqsQo32tjRBA,1617178973987,5,0,One of the best course  available on coursera.,0,0,Ayush Negi,36326429
+83403970~COURSE!~487N_QqXEeeqsQo32tjRBA,1617066480219,5,0,It was so useful,0,0,Kyuri Kim,83403970
+80251108~COURSE!~487N_QqXEeeqsQo32tjRBA,1617027058105,5,0,Very good ,0,0,abdullah ali hillal alkhaibry ,80251108
+67441962~COURSE!~487N_QqXEeeqsQo32tjRBA,1616691347788,5,0,si esta bueno así para tener mas oportunidad en el ámbito de trabajo,0,0,Galo Conterón,67441962
+1105313~COURSE!~487N_QqXEeeqsQo32tjRBA,1612133364087,5,0,Nice. I wish the development chip was arduino,0,0,Kenneth Crook,1105313
+61523622~COURSE!~487N_QqXEeeqsQo32tjRBA,1611462554058,5,0,super,0,0,VINEETH MATTA,61523622
+37196533~COURSE!~487N_QqXEeeqsQo32tjRBA,1611279775270,5,0,this is one if the best basic courses i had took ,0,0,omar el araby,37196533
+59764014~COURSE!~487N_QqXEeeqsQo32tjRBA,1611156258293,5,0,It is very helpful to our project,0,0,Kalluri Jahnavi,59764014
+60918534~COURSE!~487N_QqXEeeqsQo32tjRBA,1611030755098,5,0,IT WAS GOOD,0,0,NADIMPALLI SAI TEJA RISHIK VARMA,60918534
+77754682~COURSE!~487N_QqXEeeqsQo32tjRBA,1610801681999,5,0,nice presentation with fun. very illustrative examples and clear ,0,0,Tak Shiu Tang,77754682
+58865752~COURSE!~487N_QqXEeeqsQo32tjRBA,1610045022445,5,0,"Great course ,glad i selected it",0,0,Samuel Dhinakaran,58865752
+61489675~COURSE!~487N_QqXEeeqsQo32tjRBA,1609928426416,5,0,good ,0,0,BVVSDROHITH ,61489675
+60308117~COURSE!~487N_QqXEeeqsQo32tjRBA,1609312813974,5,0,good,0,0,AAKULA NAVEEN KUMAR,60308117
+75248289~COURSE!~487N_QqXEeeqsQo32tjRBA,1609144216733,5,0,Thank you so much funny and very important lectures. I recommend to every engineer especially works in embedded systems.,0,0,Omer SAHABAS,75248289
+58996347~COURSE!~487N_QqXEeeqsQo32tjRBA,1608620264438,5,0,It is useful to mee,0,0,121710407011 CHALAMALA PAVAN KUMAR,58996347
+60930898~COURSE!~487N_QqXEeeqsQo32tjRBA,1607839423518,5,0,VX,0,0,Satya Prakash Nalla,60930898
+61564028~COURSE!~487N_QqXEeeqsQo32tjRBA,1607334691883,5,0,i learned a lot,0,0,SAMINENI PHANI RAJENDRA CHOWDHARY,61564028
+30992443~COURSE!~487N_QqXEeeqsQo32tjRBA,1607276485006,5,0,"Great course, I was able to learn more on sensors and signal amplification using operational amplifiers",0,0,Adetifa Oloruntobi Omoyemi,30992443
+58264949~COURSE!~487N_QqXEeeqsQo32tjRBA,1606631163572,5,0,very good course on sensor,0,0,Alwin Jose  M,58264949
+72799572~COURSE!~487N_QqXEeeqsQo32tjRBA,1606536505086,5,0,nice,0,0,Harshali,72799572
+59227580~COURSE!~487N_QqXEeeqsQo32tjRBA,1606203230496,5,0,excellent,0,0,Shubham Mehra,59227580
+69945211~COURSE!~487N_QqXEeeqsQo32tjRBA,1605284942772,5,0,Clear concise transfer of information! The questions in the graded quizzes are found in the lecture videos. No tricks or confusion. Excellent course. Looking forward to the next three in the Specialization! ,0,0,Forrest Misler,69945211
+48492228~COURSE!~487N_QqXEeeqsQo32tjRBA,1605103221000,5,0,It was too good course and helfulll.,0,0,Rezaul Hayat,48492228
+58165275~COURSE!~487N_QqXEeeqsQo32tjRBA,1605058352499,5,0,Great course to mold up knowledge with practical applications in sensor circuit design. Thanks for the support.,0,0,Kasuntha Madhumal,58165275
+71634963~COURSE!~487N_QqXEeeqsQo32tjRBA,1604588744994,5,0,it is really good,0,0,Gayathri R,71634963
+67169989~COURSE!~487N_QqXEeeqsQo32tjRBA,1604114245062,5,0,Good,0,0,LOKESHVAR .P,67169989
+69971657~COURSE!~487N_QqXEeeqsQo32tjRBA,1604089284198,5,0,"Like Taming the Beast-""Tamed""",0,0,Rajeev J. Mehndiratta,69971657
+62690763~COURSE!~487N_QqXEeeqsQo32tjRBA,1603603026624,5,0,it is very useful for engineering student,0,0,Ankit Kumar,62690763
+69509776~COURSE!~487N_QqXEeeqsQo32tjRBA,1602850470639,5,0,"I would like task tasks performed by colleagues , spanish subtitiles, and a Psoc alternative, in my country (Argentina) a Psoc is very expensive",0,0,Leandro Viggiano,69509776
+59829746~COURSE!~487N_QqXEeeqsQo32tjRBA,1602595626114,5,0,Good,0,0,YUVARAJ. R,59829746
+67520344~COURSE!~487N_QqXEeeqsQo32tjRBA,1602528770932,5,0,It was an incredible experience I learned a lot from about its programming.,0,0,Darwin Xavier Quilca Fonte,67520344
+37117038~COURSE!~487N_QqXEeeqsQo32tjRBA,1602446304623,5,0,"This course is well structured and executed.  Definitely a mid- to upper-level difficulty course requiring knowledge and execution of software and hardware skill sets. I found Dr.Zweighaft's lectures especially straight forward, well annotated through text on the video and illuminating. Dr.Mendelson maintains an entertaining demeanor through his videos and holds attention well. I look forward to the next course in the series.",0,0,Hardy Bousquet,37117038
+5895753~COURSE!~487N_QqXEeeqsQo32tjRBA,1601545617072,5,0,Excellent !!!,0,0,MD ARIF REZA ANWARY,5895753
+67738986~COURSE!~487N_QqXEeeqsQo32tjRBA,1601310709309,5,0,Very good course,0,0,Divyashree,67738986
+62687346~COURSE!~487N_QqXEeeqsQo32tjRBA,1600469233536,5,0, One of Most useful course and instructor is good speaker,0,0,Rituraj Vishwakarma,62687346
+17616912~COURSE!~487N_QqXEeeqsQo32tjRBA,1600330805461,5,0,  It was amazing experience about how the course was so professionally held .It was amazing i have learning different things right from practical to theory it absolutely brilliant.,0,3,Nofri Wahyu Candra,17616912
+58372211~COURSE!~487N_QqXEeeqsQo32tjRBA,1600258382212,5,0,"sir teached in a fantastic way,so realistic and best examples sir ,thank u sir",0,0,Mohammad Muzaffar Hyder,58372211
+65532701~COURSE!~487N_QqXEeeqsQo32tjRBA,1599318618091,5,0,just awesome!,0,0,Prakash B,65532701
+48447882~COURSE!~487N_QqXEeeqsQo32tjRBA,1599030060882,5,0,"It was too interesting to learn many things about sensors and their applications ,thermistors and their working , interfaces and RTDs , thermocouples , PSoC n hardware n sofware components, amplifiers n sensor noise  etc.....i felt that lecturers are too good n they explained concepts very well....thank you!!!!!",0,3,PALLAVI M,48447882
+55493742~COURSE!~487N_QqXEeeqsQo32tjRBA,1598937409558,5,0,Good,0,0,Somesh Teja Y,55493742
+62258201~COURSE!~487N_QqXEeeqsQo32tjRBA,1598506352316,5,0,Loved the teaching skills....,0,0,Danish Mukadam,62258201
+59951249~COURSE!~487N_QqXEeeqsQo32tjRBA,1598284638014,5,0,this coursera is very good app and both of learn project work and other in this app and all learning vedio very important and easy to learn,0,0,Rajnish vaishnav,59951249
+66067375~COURSE!~487N_QqXEeeqsQo32tjRBA,1598255343290,5,0,Very informative details learned from this course,0,0,senthilkumar Selvaraj,66067375
+59135808~COURSE!~487N_QqXEeeqsQo32tjRBA,1598018972136,5,0,excellent,0,0,D. Preeti,59135808
+14242077~COURSE!~487N_QqXEeeqsQo32tjRBA,1597936867608,5,0,Good mode of teaching and thank you Professors for enriching the outlook to sensors and the circuits,0,0,Ananth Mahadev,14242077
+68400884~COURSE!~487N_QqXEeeqsQo32tjRBA,1597919849847,5,0,good,0,0,MANIVENKATRAJ M,68400884
+67515527~COURSE!~487N_QqXEeeqsQo32tjRBA,1597915331185,5,0,I learnt  sensors how it's  work and how it's apply practically,0,0,G Ramya,67515527
+57833062~COURSE!~487N_QqXEeeqsQo32tjRBA,1597894566532,5,0,it is helpfull.,0,0,Rishi Prakash,57833062
+61656588~COURSE!~487N_QqXEeeqsQo32tjRBA,1597740217327,5,0,I have got more knowledge from this course,0,0,Kayam Spoorthi ,61656588
+61032863~COURSE!~487N_QqXEeeqsQo32tjRBA,1597740140391,5,0,Good,0,0,NandhiniMuthukumar,61032863
+42707009~COURSE!~487N_QqXEeeqsQo32tjRBA,1597068024376,5,0,Thanks for the course. I learned a lot of interesting things.,0,0,Serhii Klimov,42707009
+36372508~COURSE!~487N_QqXEeeqsQo32tjRBA,1596645673618,5,0,very grate and really helpful,0,0,Sonu Shaik,36372508
+47170361~COURSE!~487N_QqXEeeqsQo32tjRBA,1596615100066,5,0,good,0,0,N V K RAMESH,47170361
+64526171~COURSE!~487N_QqXEeeqsQo32tjRBA,1596390956280,5,0,Instructors teach really good,0,0,KINZAH NOOR,64526171
+63853182~COURSE!~487N_QqXEeeqsQo32tjRBA,1596200247428,5,0,Loved the course ,0,0,Koyyana Bhavana ,63853182
+55154543~COURSE!~487N_QqXEeeqsQo32tjRBA,1595942795846,5,0,good,0,0,Bhargav ch,55154543
+44638975~COURSE!~487N_QqXEeeqsQo32tjRBA,1595485482023,5,0,"Great course, Excellent teacher, and overall Fantastic experience. Thankyou  University of Colorado Boulder.",0,0,Ishwar bankar,44638975
+48441768~COURSE!~487N_QqXEeeqsQo32tjRBA,1595332925179,5,0,Good ,0,0,ANUREKHA R 19BEI022,48441768
+64244252~COURSE!~487N_QqXEeeqsQo32tjRBA,1595088878391,5,0,Very good,0,0,B.ASHOK,64244252
+63801047~COURSE!~487N_QqXEeeqsQo32tjRBA,1594996403369,5,0,I learned what I did not know excellent course,0,0,Jos� Rodr�guez,63801047
+63007853~COURSE!~487N_QqXEeeqsQo32tjRBA,1594822890730,5,0,"Good teaching and comfortable questions. Overall, a very good experience.",0,0,Shreevatsa T P,63007853
+54053833~COURSE!~487N_QqXEeeqsQo32tjRBA,1594784531470,5,0,I have enjoyed the course very much.Enjoyed PSoC & Op-amp the most.,0,0,Soumyadip Jana,54053833
+65798966~COURSE!~487N_QqXEeeqsQo32tjRBA,1594740547134,5,0,"Thank you so much for the course. I really loved the way I learned and lectures were delivered. I am an electrical engineer and this course has given me an insight about sensor types, designing, calibration and programming. ",0,3,HASSAN BIN TARIQ,65798966
+49161562~COURSE!~487N_QqXEeeqsQo32tjRBA,1594504643874,5,0,Very informative and helpful,0,0,Muskan Jain,49161562
+59099181~COURSE!~487N_QqXEeeqsQo32tjRBA,1593937521380,5,0,Great,0,0,Hrishikesh Thakur,59099181
+57396388~COURSE!~487N_QqXEeeqsQo32tjRBA,1593784253720,5,0,Very nice,0,0,Shraban Kumar Pradhan,57396388
+62967891~COURSE!~487N_QqXEeeqsQo32tjRBA,1593751833275,5,0,Course is very helpful. ,0,0,Amit kumar,62967891
+64894468~COURSE!~487N_QqXEeeqsQo32tjRBA,1593145720421,5,0,this is grat opportunity to copleate this course,0,0,Subhash Reddy Kotapati,64894468
+63802059~COURSE!~487N_QqXEeeqsQo32tjRBA,1593106243483,5,0,Good,0,0,PREETHI G,63802059
+58748284~COURSE!~487N_QqXEeeqsQo32tjRBA,1592675757149,5,0,It's Very Amazing Course. Professors are very good ,0,0,Parth Dangi,58748284
+61421874~COURSE!~487N_QqXEeeqsQo32tjRBA,1592418953945,5,0,good,0,0,Prateek Gupta,61421874
+60289761~COURSE!~487N_QqXEeeqsQo32tjRBA,1592234309194,5,0,Excellent  course ,0,0,Dr. MSS  Rukmini ,60289761
+58740476~COURSE!~487N_QqXEeeqsQo32tjRBA,1591874187201,5,0,"Good Explanation by trainer ,but problems are little tricky",0,0,Harshitha N,58740476
+59257012~COURSE!~487N_QqXEeeqsQo32tjRBA,1591801747411,5,0,I love the method of teaching and also the material,0,0,ASHISH PRAJAPAT,59257012
+48771796~COURSE!~487N_QqXEeeqsQo32tjRBA,1591609153606,5,0,Great Course,0,0,Tarun polepalli,48771796
+56533150~COURSE!~487N_QqXEeeqsQo32tjRBA,1591601677923,5,0,Excellent,0,0,Senthil Kumaran B,56533150
+22196101~COURSE!~487N_QqXEeeqsQo32tjRBA,1590721934336,5,0,This course is really tailormade and covers many aspect of sensor and sensor circuit design in minute details. The assignments and course project ensure the students engagement and learning. ,0,4,Chandrashekhar Madhavrao Mahajan,22196101
+50068827~COURSE!~487N_QqXEeeqsQo32tjRBA,1590332947061,5,0,Nice,0,0,K.V.KIRAN KUMAR,50068827
+54049628~COURSE!~487N_QqXEeeqsQo32tjRBA,1590074505417,5,0,Excellent course which helps to ubderstand how to design a sensor based on their applications,0,0,Dr S Velmurugan,54049628
+58702905~COURSE!~487N_QqXEeeqsQo32tjRBA,1589739945915,5,0,"The course is very interactive, its great chance for me to review my engineering classes study. Now I work with maintenance section where I can use my learning in my professional life.Thanks to team courser.",0,4,Bharti ramola km,58702905
+3176570~COURSE!~487N_QqXEeeqsQo32tjRBA,1589676394385,5,0,Its a very good course. ,0,0,Saif Aldeen Saad ALKADHIM,3176570
+58994481~COURSE!~487N_QqXEeeqsQo32tjRBA,1589536126599,5,0,it is very helpful in learning my speaking also improved alotthank you coursera.,0,0,kolasani gayathri sri,58994481
+54921670~COURSE!~487N_QqXEeeqsQo32tjRBA,1589309160325,5,0,Good course,0,0,Mahiban Lindsay Nesaian,54921670
+42345501~COURSE!~487N_QqXEeeqsQo32tjRBA,1589277097514,5,0,It's a very interesting course which build a solid back ground for sensors and amplifires,0,0,Hassan Ali,42345501
+6429565~COURSE!~487N_QqXEeeqsQo32tjRBA,1589264285185,5,0,Its very useful to update my knowledge,0,0,Dr.B VIJAYALAKSHMI ,6429565
+56160091~COURSE!~487N_QqXEeeqsQo32tjRBA,1589162888579,5,0,This course is designed to learn different types of sensors and electronic circuit power,0,0,PRASANTH A,56160091
+55493245~COURSE!~487N_QqXEeeqsQo32tjRBA,1588913632192,5,0,nice course,0,0,Venkata Nishanth G,55493245
+20670384~COURSE!~487N_QqXEeeqsQo32tjRBA,1588679011137,5,0,A great in-depth look into the multi-faceted Instrumentation industry.,0,0,Hamza Maqbool,20670384
+58257579~COURSE!~487N_QqXEeeqsQo32tjRBA,1588577334198,5,0,It was really good..learning made fun,0,0,Suma Nair,58257579
+54366903~COURSE!~487N_QqXEeeqsQo32tjRBA,1588487797478,5,0,most valuble and useful course,0,0,SAI SRIRAM VARAHAGIRI,54366903
+54147312~COURSE!~487N_QqXEeeqsQo32tjRBA,1588453295300,5,0,Very informative and interesting course.,0,0,Ruchira Chandrakant Patole,54147312
+53052835~COURSE!~487N_QqXEeeqsQo32tjRBA,1587392921903,5,0,Very useful,0,0,AJAY SWAGATH SN,53052835
+56345815~COURSE!~487N_QqXEeeqsQo32tjRBA,1586931233288,5,0,Really useful for me,0,0,Kishore,56345815
+50780280~COURSE!~487N_QqXEeeqsQo32tjRBA,1586705756947,5,0,Very nice,0,0,Gajanan gangadhar more ,50780280
+9665593~COURSE!~487N_QqXEeeqsQo32tjRBA,1585931207511,5,0,It is hard but very good and well explained.,0,0,Jorge,9665593
+47641651~COURSE!~487N_QqXEeeqsQo32tjRBA,1585745486471,5,0,It was awesome experience for me thank you so much to all teacher which are present in this course for helping me. ,0,0,Rohit Sondkar,47641651
+48684426~COURSE!~487N_QqXEeeqsQo32tjRBA,1585662760974,5,0,Lovable sessions,0,0,SIVASANKARI S A,48684426
+44946923~COURSE!~487N_QqXEeeqsQo32tjRBA,1585585337696,5,0,It was amzing experience about how the course was so professionally held .It was amzing i have learnt different things right from practical to theory it absolutely brilliant,0,4,tanmay nandurge,44946923
+19929527~COURSE!~487N_QqXEeeqsQo32tjRBA,1583777622862,5,0,"This course is very interesting and useful in terms of sensors. It also helps the learner on how to choose sensors from different choices (temperature, rotary motion, flowmeters), and is useful in dealing with sensor signals and how to deal with signal amplifiers and helps you to learn the types of noise which have an effect on signal.",0,3,Ahmed Magdy Abdelhamed Fouad,19929527
+20553124~COURSE!~487N_QqXEeeqsQo32tjRBA,1583592228438,5,0,Got to learn about sensors in depth with hands-on experience. ,0,0,DEBANKSH MOHANTY,20553124
+32893801~COURSE!~487N_QqXEeeqsQo32tjRBA,1580153684543,5,0,great cou,0,0,Terry Johnson,32893801
+33531791~COURSE!~487N_QqXEeeqsQo32tjRBA,1577617177565,5,0,Well explained by the professors and really helped me get the basics right!,0,0,Bilwa Gaonker,33531791
+46239914~COURSE!~487N_QqXEeeqsQo32tjRBA,1574400056598,5,0,Great,0,0,ANINDYA BOSE,46239914
+40873592~COURSE!~487N_QqXEeeqsQo32tjRBA,1572769454221,5,0,i learn lot this course....thank you,0,0,SUBRAMANIAN R,40873592
+36003729~COURSE!~487N_QqXEeeqsQo32tjRBA,1572684528302,5,0,The video explanations are succinct and really lucid and fun to approach and focuses on most of the issues that we as students face at rudimentary stages. Really helpful for getting an overview of sensor configuration and application in everyday life and how to approach new ways to use them effectively with minimal attenuation. ,0,3,akshat misra,36003729
+7040319~COURSE!~487N_QqXEeeqsQo32tjRBA,1572411048346,5,0,That was sweet but difficult,0,0,Ehsan Heidari,7040319
+36729679~COURSE!~487N_QqXEeeqsQo32tjRBA,1571850924347,5,0,Detailed explanation on the basics. ,0,0,The Highlander,36729679
+37524540~COURSE!~487N_QqXEeeqsQo32tjRBA,1566253881495,5,0,A great way to review concepts about operational amplifiers and dive into sensor circuit design with an interesting lab/project,0,0,Andrew Joseph Gawlik,37524540
+40768538~COURSE!~487N_QqXEeeqsQo32tjRBA,1564388355920,5,0,This course is extremely useful in fostering skills towards sensor designing and integrating.,0,0,Tanmoy Singh,40768538
+5320549~COURSE!~487N_QqXEeeqsQo32tjRBA,1564310198243,5,0,Well done course,0,0,Dean Rose,5320549
+3327372~COURSE!~487N_QqXEeeqsQo32tjRBA,1562245045668,5,0,"explicativo e criativo,consegue ser interessante até na parte teórica.",0,0,Pablo Cesar Soares,3327372
+33121301~COURSE!~487N_QqXEeeqsQo32tjRBA,1562122719076,5,0,The PSoC is a great technology that I didn't know before. I'm going to use it at home in my personal projects and at work as quick prototyping and testing.,0,6,Carlos Núñez García,33121301
+27509707~COURSE!~487N_QqXEeeqsQo32tjRBA,1554807545227,5,0,Nice course. Learnt new things,0,0,Harsha Veena Tadavarthy,27509707
+6367764~COURSE!~487N_QqXEeeqsQo32tjRBA,1554397729102,5,0,Great intro to sensors and embedded systems.  Coding is simplified but that's probably good for an intro class.,0,4,Shane mattner,6367764
+5517838~COURSE!~487N_QqXEeeqsQo32tjRBA,1551898832091,5,0,"This course has helped me understand the basics and intermediate level of Embedding System of Sensors especially Temperature sensor. It would certainly help me in my professional career and help in advancement in day to day work. The content and methodology is great. As I live in India where all the requisite components for the course were could be availed  by  importing only which took 2 months in total. It would be better if you purchase the materials well in advance. The content is great but not like spoon fed. You have to go through each step the trainer asks you follow, read the suggested material carefully to build basics and  then only you will gain excellent knowledge. As I am a beginner to C Programming and Embedded System, it would take me much more than 5 weeks.",0,5,Md Haroon,5517838
+4454245~COURSE!~487N_QqXEeeqsQo32tjRBA,1550729223989,5,0,This course is a great overview of thermal and flow sensors and how to implement them as well as select them.  It's also a great course in using the Cypress PSoC.,0,4,Manuel Chavez,4454245
+4203084~COURSE!~487N_QqXEeeqsQo32tjRBA,1550301927803,5,0,"Very nice course. I enjoy the lectures very much. Unfortunately the forum is no active, very few questions, and no answer at all. I would love to take the specification if there is more support from course provider.",0,6,Thomas Ho,4203084
+37226454~COURSE!~487N_QqXEeeqsQo32tjRBA,1548484708472,5,0,This course is an intermediate level course.In fact it the most basic course for every electronic student who want to fight with sensors and its applications. The professor teaching in a cool pretty way such that any grade student can tackle with the course effectively.This course has financial aid option .So i rated it 5 . Fellow competitors please opt this course for better sharpening of your skill set.,0,7,Kadiri Chakradhar ,37226454

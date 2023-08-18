@@ -1,0 +1,218 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+11574376~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1673796076053,1,0,"This course is very outdated and must receive updates to be relevant again, the professor is very shallow on the approach, several links are broken and the programming assignments are broken as well, I did not learned a lot from it and do not recommend. ",0,0,Leandro Tavares,11574376
+52082992~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1661846581923,1,0,Bad in many aspects.,0,0,Alfonso Rocha,52082992
+5400223~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1645946399021,1,0,"T​o be honest, this course is not recommended. You should do tutorials of official ethereum documents. ",0,0,Masakazu Endo,5400223
+31204935~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1644814154169,1,0,"The material is very outdated and most of the provided code doesn't run anymore.  You spend more time trying to update the Virtual environment, or the provided source code samples, or the NPM packages than actually learning the content.   It's frustrating - I cannot recommend this.",0,0,Ian W,31204935
+86129162~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643164155991,1,0,Course material is outdated.,0,0,Arvin Eskandarnia,86129162
+25152922~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1640710303403,1,0,"T​he course content is ok, but the final project cannot really be finished if you follow the course description. It requires quiet a lot of work to actually make it run as the provided VM is hopelessly outdated. Basically there is no support from the instructor/mentors and if some people in the community wouldn't have taken it upon themself to help via the forum it would be impossible to finish the course.",0,0,Tom,25152922
+5117306~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1631716090785,1,0,N​o support ,0,0,matteo butussi,5117306
+44773723~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1626606749640,1,0,The course's demo video on Metamask extension is outdated. No instructors or TAs came to the discussion forums to help on the outdated problem with Metamask's chain ID.,0,0,Việt Anh Trần,44773723
+3749955~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1626109303126,1,0,V​ery out of date for 2021.,0,0,Phil Smith,3749955
+9409615~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1621911992235,1,0,"Almost all of this course is out of date and deprecated. The discussion forums are full of students begging for help and trying to come up with work-arounds for the old code. I decided to not finish the specialization at this point, which was disappointing, since I enjoyed the first two courses in the specialization. ",0,0,Adam St Arnaud,9409615
+54178567~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1599296523780,1,0,"Completely inadequate explanation as to how to set up the environment, truffle etc. Lectures far too short. Completely confusing resource materials. Nothing works. Flying blind. ",0,0,Anthony Auciello,54178567
+952024~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1595444970577,1,0,Many issues with the provided code/Truffle set up. This needs to be updated. Good references to external websites though.,0,0,Anton Ponomarev,952024
+12409397~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1565292268886,1,0,"Very basic, it was more informative than practical",0,3,Javier Leonardo Castellanos Cruz,12409397
+38584480~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1562913709956,1,0,Presentation by instructor is not good. Assignment is confusing ,0,9,Randhir Narayan,38584480
+178741~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1650064532310,2,0,"The contents and the tools used for the assignments are horribly outdated. Although the instructor is really engaging, spending hours on using the virtual box image was frustrating. ",0,0,Deniz Durmus,178741
+96940798~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1646000537879,2,0,Alot of the content is good but alot of the files came with errors which took hours to find the root of as someone new to the space. There were also very resources on how to debug.,0,0,Roosevelt Snowden,96940798
+93970226~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1639329633820,2,0,"While the core concepts are generally solid, the material is pretty dated. If you don't care about the certificate you are better off going through CryptoZombies.",0,0,William Carter,93970226
+82348873~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1625671203831,2,0,"Like the other courses in this specialisation, the information is superficial and mostly consists of pointers to more useful resources. The videos are boring, and the final project is badly set up.",0,0,Florine W. Dekker,82348873
+190622~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1617823203981,2,0,This course is getting outdated,0,0,Yousif Al-Yousifi,190622
+6503889~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1616508009774,2,0,Spent many frustrating hours troubleshooting due to outdated versions of referenced software.  Badly in need of updating.,0,0,Kurt Gilson,6503889
+64939127~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1613813768267,2,0,The process of developing a DAPP was superficially explained. You gain almost no hands-on experience at the end of this course.,0,0,Vlad Stefanescu,64939127
+8735827~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1592549272834,2,0,"a good course content, but the verification of programming assignment is terrible. I spend half of the day constantly rewriting the same! content in file to get it passed. As I see, it was raised a number of times on the forum.",0,0,Ivan Mushastyi,8735827
+34756833~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1582090616043,2,0,This course was probably great when written but is suffering from a clear lack of maintenance.  The virtual machine setup is seriously out of date and even the solidity version it runs is no longer supported.  I spent hours just getting the environment set up correctly and you needed to fix broken examples and sample code.   I would say this added weeks to the completion time and was frustrating with little support and few answers from the teacher or staff.   I would suggest a total refresh of the course. ,0,0,John Lunn,34756833
+32850189~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1579430500724,2,0,not very informative,0,0,Sacsham Agrawal,32850189
+18767626~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1563439481314,2,0,"The course in unmaintained. Lecture said the software updates too fast, so they hang with an old version. However, it is incompatible with its external resources. Students spend time finding fixes, instead of learning.",0,9,"Chan Kin-wah, Kendrick",18767626
+5339253~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1562430990391,2,0,This course has many missing points not clearly specified flow. Still one can learn through own research.,0,0,Welborn Machado,5339253
+23726758~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1540353955588,2,0,The software behind Ethereum is immature. Should not be even allowed in beta release.,0,0,Alex Frankiv,23726758
+674972~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1539503092708,2,0,Perhaps the worst taught course I have taken on Coursera. Presentation of the material could have been much better. The teacher just reads off a script and mumbles during demos.My biggest takeaway is the additional material. I learnt a lot more from them than by watching the video lectures. ,0,0,Nanda Kishore,674972
+70366441~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1672573212724,3,0,There should be more questions and ,0,0,kianoosh arshi,70366441
+96304123~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1637002625455,3,0,"The course material was great and covered very important information; however, I strongly feel that the projects for this class need to be updated considering the amount of work arounds I needed to use in order to keep up. Specifically it was difficult using metaMask with-in VirtualBox due to changes in UI, and this affected the success in deployment of our sample dapp.",0,0,Preston Kirschner,96304123
+4679974~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1633939757914,3,0,"I would have given this course 1/5 stars because using VirtualBox gave me cancer and MetaMask didn't even work properly, but the concepts covered were really interesting so it's a pass.",0,0,Tyron Jung,4679974
+19338902~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1632592691023,3,0,"The course is just OK. A lot of related links don't work and the quizes are still pretty useless. 
+
+The code provided is outdated so it does not compile right away. Had to update truffle and change the compiler version (through config file) to make it work. 
+
+The programming assignment again consists of some tasks where the solution is almost given to you. The tests of this assignment are kinda repetitve and not good tests over all since they check basic things and not the important ones. ",0,0,Francisco Curdi,19338902
+87025348~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1631031121375,3,0,"The course is fine but the practice exam give me a lot of problems to submit my test script. No matter what I try, the grader won't accepted. It took me almost 3 hours to figure it out what to do, despite the info already in the forum. I think the grader should be a little ""smarter""This turn out to be a very bad experience for me.",0,0,Alejandro Vega,87025348
+87236483~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1627745335284,3,0,Final assignment Somehow too difficult for learners without prior knowledge in programming.,0,0,Kai Yu Man,87236483
+29399542~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1627653575669,3,0,Course covers all the basics about Dapps and truffle. But the main concern is the some of the codes are outdated. Links are broken and there are changes in metamask which makes it difficult to follow especially if used in virtualbox. The course needs to be updated.,0,0,samin,29399542
+48576015~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1622499922048,3,0,A​utograder can be a nightmare. Course content is seriously dated at this point.,0,0,Jerald Wilks,48576015
+34607995~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1621692739301,3,0,"This course was ""ok"" in my opinion. Its really a shame that Coursera 
+does not have quality checks running to ensure course material provided 
+in their courses are up to date. Throughout the entire specialization, many links where non-functional since resources
+ where not available anymore. Nonetheless, the course provides a solid 
+foundation for learning more about blockchain technology, in my view.",0,0,Philip Hochuli,34607995
+66625286~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1621543939910,3,0,too much theory! Needs more practice!,0,0,Moataz Farghaly,66625286
+3856570~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1621415254094,3,0,It's time for a contents update.,0,0,Daniel Bañobre Dopico,3856570
+58201629~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1617322311646,3,0,"Good course content, but it needs an update because current solidity and truffle versions generate a lot of problems with the course documents and templates",0,0,Mauricio Márquez Peralta,58201629
+58365686~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1616477853096,3,0,It would have been more helpful if the course is on latest version,0,0,Veerakumar Yenamadala,58365686
+27216849~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1612674535069,3,0,"Nice overview of Blockchain and Ethereum and practice creating decentralized apps from start to finish. Given the fast pace of Blockchain technology, many of the programs and libraries are outdated. I spent a lot of time re-coding for the latest libraries. It would be helpful if a moderator updated the materials.",0,0,Keary Parinis,27216849
+47745636~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1606088054774,3,0,"The course material was alright, but the exam at the end was miserable to pull off.  I needed the file from the last course which luckily I still had in my Trash, and then when I fed it into this evaluator I got 18/20 for reasons unknown.  Then it took forever to figure out the syntax used the test.js file, and truffle exceptions were of very little help.  In the end I spent 30mins on the theory and 3hrs on the environment and making the grader happy.  That's not purpose of the class/test.",0,0,Eyad Saheb,47745636
+9774644~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1598804780617,3,0,"The programming environment was not working, the software version was old, I struggled a lot to make test cases work due to environment inconsistencies. For the majority of topics we have just scratched the surface. The most interesting Module so far, but also the least valuable in terms of usability and level of information I gained.",0,0,Vincenzo Forciniti,9774644
+43801905~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1598084582236,3,0,Awesome experience,0,0,Bornface Singi,43801905
+59949412~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1596910863879,3,0,Core concepts are not explained well and it really focuses on introduction of different topics they do not explain them in detail. ,0,0,VICKY PANCHAL,59949412
+56924216~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1595505105691,3,0,Not that good and not that bad Ok Ok course which needs to be updated.,0,0,NAMAN LAKHWANI,56924216
+41289513~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1592660800609,3,0,Not easy to comprehend and explain in a very vague manner specifically dapps development and deployment.,0,0,Roshan Kumar Rauniyar,41289513
+50896722~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1592371610045,3,0,Overall course was good but not that effective,0,0,Mohit Mishra,50896722
+149899~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1588924639867,3,0,Lab exercises need to be updated. Many of the examples are broken.,0,0,Timothy Yap,149899
+35841555~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1588708164615,3,0,its outdated in 2020 but is informative,0,0,Gulshan Kumar,35841555
+47662667~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1579022062829,3,0,Course is god but it should be upgraded by now. Its almost 20months old course which used soidity 0.4.17 and current version of solidity is 0.6.0+So kindly upgrade.  ,0,0,Shubham Guha,47662667
+43226091~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1567570650664,3,0,Truffle environment wasnt as easy as Remix to setup. Spent many days trying to use higher version of Truffle since Truffle init wasnt working at Truffle 4.0.4 version. ,0,0,Anish Abraham,43226091
+42532151~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1564051979341,3,0,"a nice taste for decentralized apps, not technical enough, too easy, explained bad.",0,0,shahar keren,42532151
+38868184~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1557243676953,3,0,Instructor teaching process is too simple. I like this course. But syallbus is too short.,0,2,Rahul Rakshit,38868184
+38533971~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1552899748844,3,0,Sessions were good. Assignments were difficult considering that there was a version change. Did not get support on the questions asked.,0,0,Rohan Mishra,38533971
+19211357~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1538095452423,3,0,Some of the videos were lower quality than the past courses and a few topics felt extremely rushed. I really enjoyed the courses before this one.,0,0,Christopher Glisch,19211357
+36455919~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1537746413292,3,0,Too much information poorly explained. Easy to overlook but impossible to really develop a real programming knowledge.,0,0,Jorge Senosiain,36455919
+98441324~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1671254363608,4,0,"The whole process to develop a Dapps is very complicated and it involves may parts beyond Smart Contract coding.  In this 4 weeks course, it will be too short to address all the components.  The course do a good job to showcase the use of Truffle and Chrome Plug-in (metamask) for testing Smart Contract before deployment. Yet, SW compatibility (Metamask) and setting on Truffle configuration file will cause much trouble to students.  So, I suggest the course creator update the VM for the course and related materials to address these issues.",0,1,Wai Lap Chik,98441324
+15018849~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1661894181772,4,0,The code in the final is pretty poor quality. Good basic instruction though.,0,1,Keith Nordstrom,15018849
+40054289~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1659796163578,4,0,"The course is completely outdated, and most of my time was wasted on figuring out a legacy bug rather than learning. Thankfully the discussion forum helps out a lot!",0,0,Gaurav Kelkar,40054289
+42848257~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1650460557458,4,0,​good but too easy,0,0,Fara Obatusin,42848257
+29498593~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1649346178923,4,0,如果前置课程添加一些javaScript就更好了。,0,0,jia chen,29498593
+92565287~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643944909839,4,0,"c​ourse is good, but the code use in this course is quite old now. I think instructor should replace these code and demo",0,0,Phạm Hữu Phước,92565287
+76548943~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643565903789,4,0,S​eria interesante actualizar los cursos. Mas que al ser una tecnologia emergente en 5 años cambia mucho todo,0,0,MARIO ALBERTO ALVAREZ GUEDEA ,76548943
+7578495~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1642992312992,4,0,The videos and assigments need to be updated to recent versions of solidity and metamask,0,0,leandro de la Rosa,7578495
+92930924~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1642511734571,4,0," It's important to update the course, and the labs. I would also like more practical assignments.",0,0,Денис Акимов,92930924
+9293291~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1641728191349,4,0,"Overall very nice! Some of the coding examples in the course are out of date, specially the example with MetaMask ",0,0,NITISH AGARWAL,9293291
+99022321~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1641154051131,4,0,Good material. Unfortunately about 3 years out of date.,0,0,Tong Chen,99022321
+96940544~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1640673957842,4,0,Content was brief but the resources provided helped to deepen some understanding,0,0,Daniel,96940544
+8930468~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1640329438144,4,0,"Excellent overview of D-APPS and Smart contract testing. However, the project VM experience could be vastly improved. The VM is very slow to load and execute commands.",0,0,Nishant Vemulakonda,8930468
+87491354~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1639322197563,4,0,Although course needs an upgrade in videos because it is very old and since than alot has changed but all the concepts are explained very well,0,0,Harsh Agarwal,87491354
+84544326~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1635272374877,4,0,"Good course, but the programming exercises should be have a bit less help, just to force us to search and hit problems",0,0,Gonçalo Dias,84544326
+61015148~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1628880820500,4,0,good,0,0,Satyam Verma,61015148
+6767105~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1614180671591,4,0,Great course to have more in-depth knowledge of Dapps and the way to programme it. Recommended!,0,0,Javier Fernández García,6767105
+73855137~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1612820011633,4,0,Muy buen conocimiento y aplicando lo visto en los cursos pasados.,0,0,Diego Roberto Simental Armenta,73855137
+75590004~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1609137087408,4,0,"Good information taught throughout the course and the only downside was that some technological compatibilities were not kept up to date, which can sometimes take away from the current scope of the module. Learned a lot with figuring some of it out though!  ",0,0,Ryan Strawser,75590004
+19936796~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1606840451138,4,0,"Great course especially if you follow the readings religiously. Only thing is the exercise and snippet are outdated, but that helps in exploring so you don't do copy paste :)",0,0,Tapan Bansal,19936796
+64055551~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1600299016719,4,0,"Good introduction to Dapps. You test your smart contract and then build a webapp. I don't give five stars because it is a bit old. I read some other articles and blogs and nowadays things are a bit more easier. Also programming tasks have some issues as they are not compatible with some technologies. Nice introduction to start with, but have to search around for updated work",0,0,Guzmán Llambías,64055551
+24125683~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1597597266182,4,0,"Javascript interactions were not described at all, but the final test is not that complex, so i guess that is ok",0,0,Fedor Galkin,24125683
+24771560~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1596740253068,4,0,The Course Practical materials are old and don't work properly. It will be really helpful if the instructors update the Ethereum.ova VM,0,0,Varundeep Madari,24771560
+62979074~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1595418682383,4,0,"I was hoping to learn client side interface and some CURD concept ,anyway course was good.",0,0,Upendra Adhikari,62979074
+22026490~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593844985687,4,0,"Beautifully designed content with just one concern, data is to outdated makes a lot of errors denying some good hands over the real handson else everything is fine.",0,0,Mitesh Vishwasrao,22026490
+59640569~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593502068767,4,0,"The course content was good and all but the end project was very bad. First of all, ethereum.ova was shipped with truffle 4.0.4 or whatever, which was not working correctly. I had many issues with it other then truffle init not working. Secondly in Part 2 was to write test.js while we were not taught about it in enough detail",0,0,Muhammad Zaid Mughal,59640569
+43950295~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593365181232,4,0,"Is a very good course for learning new tools and the workflow of how to develop DApss end to end. Needs to be updated to include newer versions of Truffle, Solidity, etc. And the course resources should reflect this updates to make it easier and more compatible when it comes to the course projects.",0,0,Patrik Mosquera,43950295
+41240882~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1590825702958,4,0,Very insightful if you have a basic understanding of the blockchain technology. Totally recommend for blockchain newbies looking to up their game. Thanks coursera and keep recommending badass courses. CHEERS!,0,0,Sohini Sahukar,41240882
+53448342~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1589951244727,4,0,Excellent,0,0,SWAPNIL SHIVAJI SONAWANE,53448342
+56056989~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1588981127221,4,0,"this course is far better then any other course that i can find in the internet in 2020 but this course need to be updated with time . because solidity, truffle and web3 is constantly updating . so old language/framework/library are becoming deprecated .",0,0,Meharab Latif,56056989
+41521988~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1586625656383,4,0,"The course gives a great foundation to build a blockchain based application. The content some how seems to be old for there are many more technologies and methodologies coming up now. some items like Oraclize are depricated.  Nevertheless, it is a great course.",0,0,Balakrishna Chandrasekaran,41521988
+48890908~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1585655052997,4,0,"The topics covered are extensive and address the core fundamentals of Ethereum Dapps. However there is a lot of versioning issues with nodejs, npm, solidity, metamask and truffle. A lot of changes in the software, syntax and versions has happened since the course has released. For instance, the use of Ganache UI. Also it would have been better if there were a section on debugging the  various errors which happen in the installation process. Lastly, it would have been more prudent to include a front end development and linking section also. That being said the course does manage to cover dozens of topics and provide knowledgeable insight in Dapps and Ethereum. Well paced and brilliantly taught. 4 stars for that.",0,1,Shreyas Garsund,48890908
+30262478~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1582298766619,4,0,"Setup and structure of the course and the content is really excellent and helped me understanding how to build Dapps on the back of smart contacts.HOWEVER: following the course in order to build the ""ballot"" Dapp with the truffle ide etc in week 2 has been an extremely frustrating part. And i have been through a lot of pain and wasted hours with outdated software versions, grader issues etc in other Coursera courses earlier! A pitty really! Fair enough - it wasn't made part of the final project. Still: It is the reason for a 4 stars rating instead of 5!",0,0,Markus Maier,30262478
+28007428~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1581031287177,4,0,"Some topics went very quick, others were less worked out from a content perspective.",0,0,Constant Verswijver,28007428
+44929889~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1578532333851,4,0,The programming assignment need to be fix on grade system.,0,0,Nguyễn Huy Quang,44929889
+27110611~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1572881045853,4,0,The testing part was not clear as the cases defined in the assignment and the hints provided doesn't sound familiar to me. Overall the course was great!,0,0,Shubham Pathak,27110611
+43521208~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1568729185110,4,0,"
+Interesting course, too bad for the virtual machine that didn't build. I have been fooling around with windows.
+
+",0,0,Marco Migliorini,43521208
+34893769~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1565795509064,4,0,"very Helpful ,thank u so much but we need to learn more about testing ",0,0,Amany Adel Ali,34893769
+25450313~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1555847090502,4,0,I am really enjoying the courses!,0,0,Jeena Miria George,25450313
+13926857~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1553057263730,4,0,Great course! I would just include a more detailed part about front-end development of dapps.,0,0,Horacio Andres Chiarella,13926857
+3656882~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1547310072999,4,0,"It has a good content and it's quite challenging to create the Dapp, I think it's a good introduction for anyone to have an idea about how to build a Dapp from the scracth",0,0,Gabriel Macuare,3656882
+4073348~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1545733208642,4,0,Nice overview knowledge,0,0,Thang Phuoc Nguyen,4073348
+4488828~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1544548526568,4,0,"It's a very good course, not giving 5 stars only because a couple of questions were really context-dependent and it's hard to answer them correctly without searching through the precise wording of the lessons.",0,0,Fabio Tudone,4488828
+2077422~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1538279817680,4,0,Great introduction to blockchain distribute applications ,0,0,Ivan De Los Santos,2077422
+121701981~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1677093279351,5,0,"This was by far the most challenging course that I have taken so far in the blockchain specialization. One possible piece of constructive feedback is that since this course and the files are from some time ago (i.e., 3-5 years in some cases), and the software we are using updates frequently and sometimes the version used in the course is drastically different from what's out now, it helps to have tutorials on how to make adjustments. I had to do a lot of research on my own to get the correct version, as well as uninstall/reinstall multiple times to fix issues. I really like this course and format and just want to see it be as successful as possible. ",0,1,Joey McCall,121701981
+123605870~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1676731962946,5,0,good,0,0,Gagandeep Kaur,123605870
+121891451~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1675598719624,5,0,This course was extremely helpful for me.Thanks.,0,0,Amaz Ahmed,121891451
+5471592~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1669795132488,5,0,"Quite outdated, useful as an introduction only",0,0,Chen Li,5471592
+92883641~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1665905392291,5,0,I​ have taken many more info from this course about dapps.,0,0,Kamil Baig,92883641
+13800968~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1661193607835,5,0,Great insights about Dapps and solidity,0,0,Mihir Kadve,13800968
+11271750~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1651216510713,5,0,Amazing.,0,0,Jonah,11271750
+101583242~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1648287261478,5,0,good teaching,0,0,Shubham Gupta 19BCE2558,101583242
+102480007~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1647538371217,5,0,OK,0,0,A-56-Rishabh Dubey,102480007
+98856946~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643782231385,5,0,Excellent course that provides an in-depth and hands-on experience for the development of Dapps with Truffle Framework,0,0,"Lim Tiang Jung, Timothy",98856946
+49479292~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643259560999,5,0,Muito completo e denso,0,0,Roberto Melo,49479292
+48427085~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1643158509159,5,0,"T​he materials need to be updated to latest versions. Even you cannot modify the materials yet, may be, you can answer more regulary to the questions in the forum. ",0,0,ddidsa,48427085
+40349192~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1642822458655,5,0,W​ell explained and good practice projects,0,0,Solomon Alfa,40349192
+37621461~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1642327397808,5,0,Firstly thankyou for this amazing course. I have learned alot during this course and the certificate will be more useful in the resume.,0,0,Phani Teja V,37621461
+95867667~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1642239877336,5,0,"good course, although a bit basic and does not go into details, it would help to update it .the discussion forum is very helpfull. ",0,0,Khalid B,95867667
+61275540~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1641942350290,5,0,"I really enjoyed this course and have learned a lot. 
+Thanks!!!!!!!!!",0,0,Klaudiusz Chmielewski,61275540
+91838170~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1640499915905,5,0,"This course one of its type, the content of the coursera website is believe me second to none.",0,0,Saddam Hussain,91838170
+89947146~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1633376202477,5,0,Great Course!,0,0,Param Patel,89947146
+77572282~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1633332421689,5,0,f​ine,0,0,patnelt,77572282
+32077313~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1628445920438,5,0,"The course gives a great overview, but I'm missing more details about Frontend <-> Smart Contract interactionEmbedding of Libraries into a Smart ContractIntegration and/or usage of Layer 2 SolutionsImplementation of an OracleDesign and Usage of Events in Frontend Applications(Security) Design Patterns such as global singleton by a Fabric",0,1,Ndrs Lmpk,32077313
+67764910~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1628336867407,5,0,Great!,0,0,Luyao Zhang,67764910
+29064093~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1625648923274,5,0,ggfg,0,0,Gudapati Ramyasri,29064093
+88840450~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1624946134670,5,0,this is the best course,0,0,Aniket Ganesh Tawani,88840450
+6645745~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1621188892619,5,0,"good in depth knowledge on Dapps, dev tools, best practices and hands on exercises",0,0,Edward Garabedian,6645745
+86114181~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1620923301168,5,0,"I always wish to find such a platform, where i can test my skills.And i am surprise to know coursera has all the functionalities and courses i was looking for.i really enjoyed synchronizing my knowledge with a professional certification.",0,0,Najmus saquib,86114181
+36846750~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1620744317045,5,0,"The course is very good as foundations concepts.
+It is important to update some elements, as some course materials were developed a few years ago.",0,1,Douglas LZ,36846750
+43865715~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1619699896633,5,0,"A very helpful course filled with practical knowledge on the way to become a successful blockchain developer, moreover when the open source material on this domain is abysmal.",0,0,Abhinaba Mitra,43865715
+48852483~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1617513854406,5,0,GOOD,0,0,Bussetty Sucharith Setty,48852483
+46503033~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1616345651131,5,0,THis course provide some level of workshop/practice which help me clearly understand the building block of a Dapp. Very useful.,0,0,Nampetch Chivakul,46503033
+35471443~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1613465584650,5,0,excellent stuff from coursera!!,0,0,Sai Vishwanath,35471443
+67201730~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1612770459278,5,0,It is a wonderful course ,0,0,GIUSTO ELIO,67201730
+68176407~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1606458001998,5,0,"The course content covers everything and thanks to the instructor, it was a great learning experience",0,0,Prasana R,68176407
+2498190~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1602852880773,5,0,"Thanks and Regards,Sachin Shekhar R, AppBootUp.com, linkedin.com/in/sachinshekharr/",0,0,Sachin Shekhar R,2498190
+63927112~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1602002671158,5,0,The lecture videos are very clear and programming assignment is amazing. Thanks a lot to our instructor.,0,0,Nay Chi Htun,63927112
+27994793~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1600591738045,5,0,Very helpful course with step by step practice on the  full development cycle of a dapp.,0,0,Elias Kanakis,27994793
+1795335~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1599807982311,5,0,This was a wonderful course. What I wished I knew before taking it was javascript. The programming which required knowledge of it was what made this course difficult for me.,0,0,Ramon Prudencio Toledo SJ,1795335
+60275822~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1598168915816,5,0,Great Content to learn.,0,0,Harsh kapoor,60275822
+32263033~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1596363031617,5,0,"loved the contents and scenarios to the core,excellent job, thank you madam.",0,0,Vivekananda GN,32263033
+28682340~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1596130900329,5,0,Excellent!,0,0,Gabriel Moreira,28682340
+58468949~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1594042923635,5,0,Highly recommend the course for anyone looking to get into the world of blockchain development.,0,0, Rittick Sinha Roy,58468949
+49155141~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1594028246682,5,0,Thank you so much !!!,0,0,Nguyễn Đình Thành Long,49155141
+44156230~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593696376286,5,0,The sudden and shift to JavaScript for writing test.js was very troublesome.,0,0,Naman Bhardwaj,44156230
+48362137~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593356508156,5,0,Its amazing to learn those big thing and make such easy .. Thank you.. ,0,0,buddy sury,48362137
+27333191~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593343292007,5,0,This course covers all the basic essentials to understand a decentralized app,0,0,Anish Sandip Samant,27333191
+42412537~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1593261862247,5,0,Excellent and in Week 4 the 2 hours 30 minutes project execution is very tough  ,0,0,Technology Classes,42412537
+50067843~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1592594294975,5,0,Great course to get an introduction about DApps.,0,0,Vaseekaran Varatharajah,50067843
+35559559~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1592314344791,5,0,"Course is Cool but Content is Quite old,Updating it would make it Inevitable!!",0,0,Bharath Kalyan S,35559559
+45931782~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1591843809351,5,0,Thankyou,0,0,Kamlesh Chhipa,45931782
+51759052~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1589977992612,5,0,nice class,0,0,Nasurudeen Ahamed N,51759052
+56800820~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1589285242712,5,0,Good,0,0,Rohini Bhosale,56800820
+44051580~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1589273005466,5,0,"it is a great course , who want gain knowledge about dapp development  and want to make career in it ",0,0,MUKESH JAISWAL,44051580
+36498324~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1589251484799,5,0,Great class,0,0,Concierge Servicessm,36498324
+54151750~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1588759324721,5,0,Informative and can apply in real world.Thank you for this course,0,0,17IT091 NIRAV RADADIYA,54151750
+51766380~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1587723371555,5,0,"Excellent course designed , more details should be added for test cased design approach, ",0,0,Muhammad Hussain Mughal,51766380
+36558801~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1587582361801,5,0,A really well structured course and it provides a great hand on session for final project submission,0,0,Harshil Dhingra,36558801
+31646436~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1587441224184,5,0,awesome course. ,0,0,ajay kumar,31646436
+53268336~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1587110225012,5,0,"I had a good understanding of blockchain basics and working of etherum, i am one kind of person who always worked with one language, the integration of multiple languages always made me puzzled. This course helped me and guided through the whole process very smoothly. Now i understand the use of several platforms like truffle, metamask, blockchain server, solidity, smart contracts, test cases etc.. Thank mam..",0,0,Raheel Ahmed Memon,53268336
+29857033~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1584979699442,5,0,A very recommend course to understand the enviroment across decentralized apps and the tools to develop this kind of solutions !!,0,0,Omar Alejandro Botia Navas,29857033
+43135591~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1581328771741,5,0,"Great Course, let people have excellent learning about Blockchain and DApp.",0,1,Ian CHEN,43135591
+19100735~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1581267652432,5,0,Well designed course for Beginners to start with DApp development on Ethereum with High-level Language called Solidity.,0,1,Varun Chaturvedi,19100735
+9753273~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1577598634435,5,0,it would have been nice if the instructor has included the instructions for truffle+ganache installation for local machine. Truffle works great on a native machine over vm! thanks! ,0,0,Saranyan Srinivasan Ragunath,9753273
+7670866~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1575920841081,5,0,resourceful,0,0,Aniket Dhar,7670866
+43516928~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1573682505493,5,0,Great course and challenging programming assignments.,0,0,Mark Hary,43516928
+2648805~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1571739325165,5,0,Well managed & a very good course!,0,0,zain mahmood,2648805
+37466421~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1571322054188,5,0,The best course jumpstart a carrier in Blockchain,0,0,Babatide Ayoade,37466421
+13997911~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1570951615721,5,0,Really helpful to start career as a blockchain developer. ,0,0,Aman Ullah,13997911
+42603827~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1570202777286,5,0,Very good introductory course to Dapps.,0,0,Leonardo Rojo,42603827
+27873093~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1569900840486,5,0,I like it!,0,0,Miguel Mota,27873093
+12811991~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1568447423315,5,0,Great course for beginners.,0,0,Sudip Sikdar,12811991
+38926568~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1564565792337,5,0,Great course,0,0,Bharathi Govindraj,38926568
+35317909~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1564247792272,5,0,"The course structure is concise yet insightful in nature. It allows you to explore, experiment and learn through that process. ",0,1,Devendran Muthukumaramani,35317909
+15992998~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1564190118760,5,0,Good Training,0,0,Guido A. Contreras,15992998
+37615445~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1564172011354,5,0,It is an interesting and good course.The course gives detailed knowledge about smart contract best practices and the Dapps.,0,1,Vaibhav Sinha,37615445
+40331319~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1560812396002,5,0,Difficult but interesting. Thankyou,0,0,Marco Furno,40331319
+40155983~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1559678202813,5,0,"Этот курс дал всю основу для того, что бы можно было  развивать свои навыки практически без ограничений.",0,1,Забабурин Сергей Валерьевич,40155983
+6594208~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1559072073241,5,0,"excellent, it is a complete course",0,0,Angel Florentino Vargas Pool,6594208
+27938734~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1554729496779,5,0,Very good explanation of  all concepts.,0,0,Vinit Vijaykumar Mahajan,27938734
+34742217~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1554057737002,5,0,Very detailed and hands on course on Dapps and their application,0,0,Jyotsna Singh,34742217
+3027857~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1553516142773,5,0,"Very nice course, I learned how to program in solidty and testing by writing JS code.",0,1,Mubashar Iqbal,3027857
+21970493~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1553482427956,5,0,Good overview and exposure to fundaments tools of trade.,0,0,ANTHONY REID,21970493
+34900908~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1553447087340,5,0,very good course ... simple and clear,0,0,Tanisha,34900908
+37674496~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1551665596297,5,0,10/10 would recommend to someone who wants to learn about Dapps,0,0,Giovanni Klein Campigoto,37674496
+9314533~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1548426787323,5,0,very well structured,0,0,YC,9314533
+519895~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1548042062057,5,0,100% recommended,0,0,Antonio Russoniello,519895
+16841311~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1547434439746,5,0,the best course for dapp development,0,0,Ricardo Arturo Guzmán Torres,16841311
+25346507~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1545808281654,5,0,It is all perfect. The only downside is that I am not that good with js :D,0,1,Sintyadi Thong,25346507
+36752115~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1544849040075,5,0,it is well structure practical project based training.,0,0,Sanjay Mahajan,36752115
+35902312~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1543670788315,5,0,Awesome and well explained. ,0,0,Stephen Riddle,35902312
+569331~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1543654850091,5,0,Amazing Course :),0,0,Ahmed Tealeb,569331
+3574352~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1543624840211,5,0,"Great course, somewhat more challenging and involved than previous courses in this specialization. Once you are done with the testing, you will feel very confident that you can write, debug and test Solidity smart contracts, no doubt!Thank you for such great work and effort creating this course.",0,0,Acyuta C,3574352
+13406992~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1542685105004,5,0,very useful,0,0,Erix Shen,13406992
+4455445~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1542634887293,5,0,"The 3rd course in this specialization continues building on the previous one. The programming assignment is intimidating at first glance, especially if you are not used in JavaScript style syntax and programming. As usual, with some effort someone is able to overcome all challenges. Again, in order to acquire a more in-depth look in these concepts, personal dedication and effort is required beyond the minimal time-commitment stated in the course's review  ",0,0,Theodore Tsoukatos,4455445
+27738450~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1542304467328,5,0," I really enjoyed the course. I like ma'am bina ramamurthy teaching style, to give the student a clear understanding of each topic.Thanks very much for this course.",0,0,Zakir Ullah Shah,27738450
+35375983~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1540141220937,5,0,"Exccellent course, very motivating, well organized and structured. ",0,1,Luis Guillermo León Guzmán,35375983
+2471537~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1539708233370,5,0,perfect,0,0,Muhammad Ahmed,2471537
+24597087~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1539589074874,5,0,Excellent Course,0,0,Pankaj Bisen,24597087
+23717428~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1538286045954,5,0,Nice course for learning and deploying,0,0,SADA SHIV PAL,23717428
+34747156~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1538011427401,5,0,I am enjoying thid course so much because the material and instructor provide clear instructions and information to make learning fun and easy.  I am an older student and I am very anxious about learning.  I am planning to take as many courses as possible to further my growth and development within the Block Chain Industry.,0,0,mischelle massey,34747156
+16665322~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1534060846090,5,0,Super Course!,0,0,Алексей Каллаур,16665322
+34785801~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1533346823804,5,0,Great hands on intro to developing Dapps for Ethereum with Truffle.,0,1,Ivelin Ivanov,34785801
+21328176~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1532242137078,5,0,"Very enjoyable course, thank you!",0,0,George Jacob,21328176
+30031332~COURSE!~MtN-pIzlEeeTABKJlsHMCA,1529420117689,5,0,great lecture.,0,0,Akam Ebolom Williams,30031332

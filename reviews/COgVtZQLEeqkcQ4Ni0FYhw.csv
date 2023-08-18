@@ -1,0 +1,389 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+107496~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1651779880196,1,0,"The technical part was good, but the analysis contained a rookie mistake, and instead of realizing it, the instructor doubled down and used a logarithmic plot to prove correlation where there wasn't one.
+During the analysis, the maximum number of daily new cases was plotted against GDP per capita and life expectancy. Without accounting for country size. Number of cases should have been normalized. The bias resulting from the sizes of the countries not taken into account was probably the main reason for the correlation.
+There was also a visible error in China's reporting of daily covid numbers (a huge spike on 2020.02.12) which wasn't addressed.
+I think this is an example of bad data analysis.",0,0,Balazs Lajtha,107496
+22642159~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1628557003306,1,0,"T​he project is too easy. What is worse is that it does not result in any meaningful outcome. Analysis is lame and basic if any at all: pd.head, pd.drop, pd.join, sns.scatter, sns.regplot pretty much sum up the entire scope and analysis of this project. It was a complete waste. I was really looking forward to this project given the ratings but very deeply disappointed.  ",0,2,dalerjon,22642159
+20562440~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1627407618051,1,0,it was very easy and less informative.,0,3,abhishek kumar,20562440
+33245101~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1607622507937,1,0,"This course was disappointing.  The objective was to compare the number of covid cases in a country to values from a happiness database.  To achieve this the raw number of covid cases in a country was compared to things like GDP per person.  It would have been a valid comparison if the number of covid cases was adjusted to reflect covid cases per population.  As it was presented, the comparison is absurd.",0,6,Charles Masenas,33245101
+35072945~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605870572611,1,0,8euro for a short project is expensive !,0,0,Firdaous Hebbal,35072945
+68678200~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1602251803128,1,0,It's not worth its money.,0,0,Wojciech Stasiuk,68678200
+34867156~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597748554600,1,0,I am unable to view or work on my project as my deadlines are not getting reset.,0,0,Partho Upadhyay,34867156
+57827862~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596373170760,1,0,rhyme session is expiring by a second,0,0,Repaka Sai Swaroop,57827862
+59159336~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594207724094,1,0,There should be some sort of support for error solving / debugging. It can be frustrating for a beginner like me..,0,0,BHAVYA HANDA,59159336
+35518896~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593922304028,1,0,One simple panda example and cost $9.99 USD? How expensive!,0,24,AL,35518896
+37875781~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592743378896,1,0,my cloud is not working it has been two days i have been writting in the chat box but no one replied,0,0,Megha sharma,37875781
+68570757~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1626544575765,2,0,It is not good at all. You won't learn anything new if you even done the basics of numpy and pandas libraries.,0,0,Aseem Bathla,68570757
+67058324~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1625506623396,2,0,"H​i, I found that the instruction was interesting. However, the structure of the course was most frustrating. I raced to repeat the coding of the instructor on my rhyme notebook. Then my code had bugs; it took time to debug it. I ended up having to do a work around because there was no flaws in my coding. I​t would be vastly more useful to have a copy of the code to review as the instructor was coding, so I could see what the instructor was doing and be able to duplicate it later.A​s it is, I have lost the code, because it was deleted. Now, I need to see if I can duplicate it; a most laborious task.I​ don't know why you won't allow the code to be copied onto my home computer, so I can review it.",0,0,Deleted Account,67058324
+62371243~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1610585829812,2,0,"Code would not run correctly 1/3 into project. Thought it was my code but was program, by the time I figured out it was the program the session started to log me off until it got to the point I could not reenter the project and was not able to complete the program. Passed test by guessing results, but did not actually get to see it. ",0,0,Jessica Lopez,62371243
+26241061~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608054172174,2,0,Quick and easy project to gain some basic skills on data analysis for beginners. Although ultimately spoiled by not making adjustments for population size when comparing infections numbers across different countries. ,0,0,Roshan Welikala,26241061
+4507840~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596061614249,2,0,Never got the response about cloud session extention.,0,0,Bharathi N,4507840
+13637389~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594650180688,2,0,"It's not for intermediates. It's for beginners, that's all.",0,0,Deepak Gupta,13637389
+20086972~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594380850650,2,0,"I was not informed that the cloud desktop will be closed even before  i can finish. Also , I am trying to atleast get the covid data and happiness ranking data ( and also death rates data), however m unable to download it. It really sucks",0,0,Amit,20086972
+52050937~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594194707203,2,0,I think the instructor is really good but the content isn't up to the level. This is a beginner course at best and the instructor doesn't explore the dataset at all. ,0,0,Prakhar Rathi,52050937
+91851102~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1629172758851,3,0,i am not satisified with this project,0,0,likitha yajjavarapu,91851102
+86857604~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1627757788399,3,0,good,0,0,Priya ,86857604
+238938~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1609161635252,3,0,"Could not get 2nd file to load, hence couldn't finish. Could not see how to report this.Surprised that final exam had only one question based on results.",0,0,Roy Schweiker,238938
+16767228~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608031890464,3,0,Trying to disenroll but there is no option,0,0,Mike M,16767228
+67388352~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1606370714474,3,0,"A really good project for data analysis practice. I had no idea about Pandas, NumPy or any data management library. I just learned a lot from this project. ",0,0,Sarvesh,67388352
+41322852~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604891952315,3,0,"I was unable to finish the course, because I passed the test. I thought I could go back and finish. During the project, the Rhyme session kept timing out. I never got passed the second video. I truly haven't learned all that is necessary to use pandas and python to analyze the data. Though, I was able to pass the test ",0,0,Howard Reinhardt,41322852
+58761519~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604675534390,3,0,u just completed till 5 but there are 5.4 in cloud space .overall it was good!,0,0,Ankita Aparajita,58761519
+72322163~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604647133353,3,0,The free courses are better but it should add more free course for that the students are improved a lot. Beside that it needs bangla subtitles for make it more understing.,0,0,MD Atikur Rahman Asik,72322163
+806119~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604610821282,3,0,"The project in itself is fine. But Rhyme is awful, slow and buggy.",0,0,Thibault Laconde,806119
+67541272~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600526176182,3,0,"It was a good course, my main Issue Is that the .diff function In pandas Is for difference, not derivative! ",0,0,Preet Kumar,67541272
+69693030~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597874463086,3,0,this shows an intermediate level but is lower than that.,0,0,Jhenny Vi,69693030
+61510405~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597169896490,3,0,"The data provided some good insights. However, the breadth and depth was limited. ",0,0,Yashika Nagpal,61510405
+54350770~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596117868173,3,0,I expected more advanced data analysis.,0,0,Aravind P,54350770
+46160258~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595881680950,3,0,The Rhyme Environment was very poor. It was not at all stable especially with a slower internet. ,0,0,Ankur Khandelwal,46160258
+29664219~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595350752480,3,0,This course is strictly for beginners.,0,0,Henil M Chopada,29664219
+58922355~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595335352891,3,0,Should provide detail information about the module imported while analiysing the data,0,0,Girish Dilip Kolhe,58922355
+47552536~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594902154349,3,0,Ilikeitbutitstooeasy,0,0,Redeemer Ntumy,47552536
+61632220~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593925621032,3,0,too short,0,0,,61632220
+47622293~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593792714506,3,0,Kind of easy and do not worth money and time.,0,0,Yijia Gao,47622293
+61020948~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592580646746,3,0,"I didn't like the tool ""Rhyme"".  The cloud desktop was quite slow but overall it was a fine experience",0,0,Ritik Sinha,61020948
+63146896~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592154264158,3,0,"Buena introducción a pandas pero usar Rhyme con una conexión lenta de internet es muy estresante, prefiero usar mi propio editor de texto. además podriamos usar Plotly para construir los graficos, me parece más atractivo que matplotlib. Fuera de eso, excelente curso, gracias!",0,0,CARLOS GUSTAVO ESTRADA MILLAN,63146896
+62939349~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591822897483,3,0,thanks,0,0,Weerachai Yaemvachi,62939349
+55493454~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591675832381,3,0,The project was well explained but the questions and assignments could have been bit more tougher,0,0,abhishek sarath,55493454
+27994109~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591535691800,3,0,It was a bit too easy but the content is good for beginners.,0,0,Aditya,27994109
+3227355~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591268725409,3,0,Well structured course . Provides valuable knowledge in a short time.,0,0,Aditya Dutta,3227355
+32914520~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591009384230,3,0,Just okay,0,0,Purvansh Parmar,32914520
+98118853~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1661251575679,4,0,such a nice project,0,0,Sourabh kumar,98118853
+16683702~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1639650539174,4,0,"Included real world dataset, but the statistics part could have been much better other than just pandas corr() function.",0,0,Mohammed Nazmul Hasan,16683702
+84741277~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1632284560212,4,0,It's a good hands-on project available now-a-days.,0,0,krishna sai,84741277
+40919890~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1629712101524,4,0,More teaching on data analysis based on the dataset would be much more better.,0,0,goodtomforever,40919890
+4105167~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1628135103359,4,0,"A introductory course, not bad. ",0,0,Hsiao-Yu Peng,4105167
+77284072~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1627900866068,4,0,good,0,0,Nikhil Shahare,77284072
+44978390~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1627210722787,4,0,"Q​uite good overall, the project is simple yet the skills covered are very practical",0,0,Hung Ka Wang,44978390
+64346550~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1624257558918,4,0,G​ood Introduction into this Topic,0,0,Jens Kuestner,64346550
+33709562~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1621665578504,4,0,Was helpful. Thank you ,0,0,Anirudh,33709562
+82011261~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1619590252938,4,0,Was very short,0,0,Bhawna Saini,82011261
+25651045~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1612400883544,4,0,"Good experience with beginner-friendly design, although some of the misspellings on the instructions in the notebook were annoying",0,0,Davy Yue,25651045
+40238095~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1609656138917,4,0,Really enjoyed the course as a beginner!,0,0,Amrita Sahu,40238095
+7547835~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608330146654,4,0,"good introduction, it would be helpful to know the source of the data used so we could do our own analysis",0,0,Steven Oshry,7547835
+62600873~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1606856898440,4,0,This project  is an amazing project because of this a student can learn many things. of data analysis ,0,0,MUHAMMAD AAMIR,62600873
+2587921~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604942364962,4,0,Best to start.,0,0,Víctor Ibarbo,2587921
+35961545~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604669655187,4,0,  The explanation is good and easy to understand. ,0,0,Ananta Basumatary,35961545
+35730086~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604494523742,4,0,If you are learning Data Analysis by using code then it s bset for you,0,0,Pushpanshu Sharma,35730086
+40697707~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604387307455,4,0,Beginner level project still very informative. Beginners will be benefited a lot from this project.,0,0,Sourav Gon,40697707
+12088050~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604327901867,4,0,"a bit simple, some choices for analysis are arbitrary, resulting in so-so conclusions.",0,0,John Jeckmans,12088050
+65356834~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604036324073,4,0,nice quick understanding of python notebooks and data analytics,0,0,Gagan Deep.P. 1BI17ME032,65356834
+31903723~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604003995185,4,0,Good Guided Tutorial for visualization.,0,0,Avi,31903723
+17380992~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1603122946571,4,0,Please come up with new projects,0,0,Gourav Jain,17380992
+55160708~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601818879203,4,0,helpful course,0,0,Pooja Kumari,55160708
+58991571~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601173814665,4,0,One star is not given because of the cloud timelimit. I think the project could be taught via non cloud platform way.,0,0,Kamrul Islam Manik,58991571
+67932395~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600516735919,4,0,very nice,0,0,PREM DESAI,67932395
+39995857~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600243517852,4,0,I like the course as a quick introduction to data analysis. Completion of this project was so fun as i took only couple of hours. I am satisfied with this course.,0,0,sunney Ulalam,39995857
+40084030~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599630516789,4,0,nice guided project!,0,0,Tanmayee Sinha,40084030
+71013620~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599389979146,4,0,good,0,0,Adarsh Kumar,71013620
+46505230~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599246698604,4,0,too simple. Could be harder.,0,0,Weiming Cao,46505230
+42005593~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598950368613,4,0,"Great course! A couple of comments: I think this would benefit from more rigorous statistical analysis - possibly as a follow-up course. When I did this with data in August the relationships were very different since they were only taking a snapshot in time (i.e. the maximum point) of infections regardless of when this was, the population etc. In a follow-up, it would be useful to understand how to establish causation i.e. weight the datapoints by population or by testing / population ",0,0,Trisha Harjani,42005593
+64135069~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598635854370,4,0,just perfect,0,0,yash dawande,64135069
+47831851~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598450748306,4,0,good,0,0,Prabhukishore,47831851
+34115096~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597663977027,4,0,"COVID19 Data Analysis Using Python is a great course! Some essential data analysis topics/math concepts are glossed over, but as long as you are using this as a supplement and not a primary resource, you will be fine. Highly recommended!",0,0,Stephanie Eristoff,34115096
+53442894~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597254080853,4,0,"Good , Understandable to beginers",0,0,Bimel George,53442894
+63329660~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597153260040,4,0,"It was generally a good project to give a try even for beginners. I took this project to remind myself of some skills and was quite helpful. But still, there are some downsides for sure but not that cumbersome. One thing you have to know is that the lecturer isn't a native speaker...",0,0,Sori Kim,63329660
+60324635~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596787770949,4,0,It is good.But expected more visualization,0,0,Adaveni Bhavana,60324635
+67986354~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596226236946,4,0,This is very good this can help me in my personal project and my analysis in Data Science thank you coursera offer me this project as well as instructor of this project,0,0,KHALID URIS,67986354
+36711668~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595780685616,4,0,Wonderful course.,0,0,adarsh kumar,36711668
+63667973~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595752003957,4,0,GOOD,0,0,Ayush Saini,63667973
+61388857~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595678413605,4,0,good,0,0,Gayatri Shetty,61388857
+32589218~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595654092621,4,0,"The project on covid19 analysis was awesome, I learned a lot.The mentor explained things pretty well ",0,0,Abdul Waqar,32589218
+11527981~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595621546510,4,0,I really enjoyed this class. The only problem is the application used which is not very practical. Kernel is slow and it's very complicated for Mac users.,0,0,héric Libong,11527981
+63329530~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595436748947,4,0,small and nice project for beginners,0,0,ABHISHEK JAIN,63329530
+65646014~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595336100190,4,0,"Good Coursework. Some concepts covered are around basic data structure manipulation like loading data into pandas, aligning axes, joining two datasets. Rest is around visualization techniques using seaborn at a basic level. Overall a good beginner level course.",0,0,Suyash Chandra,65646014
+60012908~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595217013097,4,0,"Good, but had some problems when working from my computer directly, I worked on my PC using pycharm and had some trouble finding some misiing code lines that shows the graphics made in the project. But besides that little problem, the course was very nice and good :D",0,0,Karen Lissette Benites Segura,60012908
+33471254~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594990266718,4,0,A really nice project with very clear instructions!,0,0,Raika Singh,33471254
+42501169~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594053402490,4,0,"This project type course was good but, the problem is with server pc, too much slow.",0,0,Sagor Ahamed,42501169
+54884299~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594038678734,4,0,Really i learnt many things in this course. very helpful for those who have interest in data analysis,0,0,Mausam kumar,54884299
+43890100~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594030270285,4,0,Thanks Coursera and special thanks to Ahmad Varasteh Sir.. A very good project on current situation,0,0,Grace Gladys Nancy B,43890100
+57359963~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594026168366,4,0,The instructor's informative videos along with the facilitation of real time application of methods learnt through Rhyme made this a really worthwhile project.,0,0,Hareesh Singanallur Poovalagan,57359963
+43396849~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594024402240,4,0,Too short and the cloud desktop was too slow,0,0,Vignesh M,43396849
+14490705~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593196452546,4,0,"Well structured, easy to understand and step by step guide. I really enjoyed working on this project. If one graded practical assignment is included in this project, it would be much better.",0,0,Uzair Hashmi,14490705
+59144944~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592941944115,4,0,Good course to start at data analysis if you have basic knowledge of python.,0,0,Humayara Binte Rashid,59144944
+4741865~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592823114508,4,0,I felt the analysis was too easy.,0,0,Ashik K A,4741865
+48923124~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592808577135,4,0,it will be better if you explain the graphs properly after filtering the data,0,0,Gaurav kumar,48923124
+43333369~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592781554576,4,0,"The project os compact and merge programming with analysis, but it's easy if you have python programming experience.",0,0,xinran Cui,43333369
+47799713~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592649932178,4,0,good,0,0,vineeth,47799713
+64143597~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592498887945,4,0,I found the instructor very helpful and through with the concepts. Would love to join another project with perhaps more advanced data analysis .,0,0,KAPIL SINGH CHAUHAN,64143597
+35316842~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592463398814,4,0,It is a good course for starters. You will get a basic overview of analysis in python,0,0,richard johnson,35316842
+62534592~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592382183213,4,0,  Audio wasn't good.,0,0,EVD18I031 ABHISHEK KUMAR SINGH,62534592
+61187464~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592318031464,4,0,thanks for the project,0,0,MOHAMMED BARGHOUTHE,61187464
+43297609~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592311549461,4,0,This is a very good project for Data Analysis. ,0,0,Sanjay Suman S G,43297609
+59892430~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592244809063,4,0,informative,0,0,ADITYA MUKHERJEE KEC STUDENT (CSE),59892430
+50056146~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592060326844,4,0,"The rhyme platform is not too compatible with practice, please work on that feature.",0,0,Himanshu Kolse,50056146
+21480194~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591988504226,4,0,very easy!!,0,0,UMANG SHARMA,21480194
+61990814~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591895765572,4,0,Might give much more explanation about the libraries and functions,0,0,Kontham bharathkumar,61990814
+62837378~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591889540456,4,0,I had a wonderful experience in this course also I'd love to learn more from the instructor as he explains everything so well that a rookie can start without fearing anything.,0,0,Rupesh Saw,62837378
+7705612~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591877719142,4,0,Good Project. But much more explanation is needed on the analysis and functions used.,0,0,Athul,7705612
+62877417~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591866384946,4,0,good,0,0,JYOTSNA 18BCE10128,62877417
+62903177~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591829691937,4,0,Great Data Analysis Project,0,0,Fabio Alexander Ramirez Salamanca,62903177
+63223772~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591785747412,4,0,Very good training ,0,0,irie bi zivo henri joel,63223772
+35298700~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591631232627,4,0,It could have been longer / covered more methods. But a good intro or refresher,0,0,Josh Ackroyd,35298700
+35419898~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591610945938,4,0,Good start for Data Science beginners,0,0,kotha keerthana,35419898
+60741371~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591473184962,4,0,This course is good for beginners and mediocre students.,0,0,Raman Preet Singh,60741371
+49547806~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591471505729,4,0,"If You are new to data Science, This course will help you to understand Data manipulation using Pandas,and also plotting them ",0,0,Aman Anand,49547806
+42894870~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591467073978,4,0,Nice and easy for beginners in data science field ,0,0,Umesh Kumar Paikra,42894870
+62741300~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591363688033,4,0,Good course for basic understanding of data analysis process. Recommended!,0,0,Shams Ur Rahman,62741300
+61016769~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591258835111,4,0,"This is my first time doing a Coursera Guided Project. I love the interface as it allows us to watch the video and follow along in Jupyter Notebook at the same time. I've just completed a basic course in Python and this project was very helpful in reinforcing basic concepts. From a statistical POV though, it could be a bit sweeping and misleading to draw conclusions from the visualisations when the correlation between the variables are so low.",0,0,Guo Xuan Wong,61016769
+30061355~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591254794202,4,0,Excellent course designed for standing data analysis,0,0,safia sadruddin,30061355
+62557820~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591154952213,4,0,This is an interesting project. But I think there's more that could be done. The infection rate and other variables have low correlation. I expected there's going to be at least 1 highly correlated variable that contributed to the infection rate. It's still a good project though,0,0,Azzahraa  Aziz ,62557820
+62011680~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591089743371,4,0,awesome,0,0,SURYA PRAKASH,62011680
+43885068~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591071957122,4,0,The course was quite good but there were some technical issues with the cloud.,0,0,ADARSH V S,43885068
+181838~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591031203699,4,0,"It's a beginner course, in my opinion. Interesting content though and good teacher!",0,0,Bahar Rezaei,181838
+59432075~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591024703229,4,0,Good experience,0,0,Surya Rajan S,59432075
+62490266~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591002337529,4,0,Its Very Good Sir,0,0,madeesh paladugu,62490266
+116345985~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1665199178018,5,0,Easy to interpret and rich learning  ,0,0,Lucas dos Reis Arieme,116345985
+33678641~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1658916298381,5,0,Very helpful for someone learning Data Analysis.,0,0,Saurabh Kumar Singh,33678641
+82835865~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1651924414495,5,0,It's a very helpful project for beginners. loved it throughout my learning. it helps to familiarise with basic python skills,0,0,Sreelekshmi G P,82835865
+53950368~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1647528105511,5,0,Very enjoyable and instuitive course. After two years of COVID-19 I look forward to seeing if data has shifted.,0,0,Ioana Kiparisov-Dicu,53950368
+100403641~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1645031191941,5,0,Amazing,0,0,Sneha Arya,100403641
+61865605~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1638345147237,5,0,​Perfect for Bginers,0,0,Preetam Bakle,61865605
+908409~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1637812754378,5,0,A pattern you can reuse. Truly 90 minutes. Covid questions are relevant.,0,0,Carolyn Oates,908409
+80063584~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1632054873821,5,0,Excellent hands on projectInstructor explained the steps well,0,0,Anu Suresh,80063584
+40377753~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1627020060296,5,0,This project is suitable for people who have few Python programming and data analytics experience. You will spend approximately 1.5 hours to complete this guided project. Good luck!,0,1,Quanchi CHEN,40377753
+743086~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1623726085414,5,0,T​he tasks were easy and they helped me review my skills in Python programming and data analysis. The instructor gave very clear instructions and enough time for practice.,0,0,Rafael Navarro,743086
+53902775~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1623441594569,5,0,This could be easily done in a day and is fairly easy for beginners with little coding skills.,0,0,mandana khazrai,53902775
+54840314~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1621865827890,5,0,Good,0,0,Nishith Ranjan Roy,54840314
+8557137~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1620066208900,5,0,Thank you for teaching such valuable insights.,0,0,Kushal Raj Roy,8557137
+36834289~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1619947824217,5,0,"The project was comprehensive and focused on Data analysis, I love it",0,0,Usaid Ajmal,36834289
+46782719~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1616747910372,5,0,thanks,0,0,Prashant Rawat,46782719
+47238524~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1616671902088,5,0,Very good ,0,0,Javohir Abdurazzoqov,47238524
+80125052~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1616024384961,5,0,Great,0,0,Ishita,80125052
+24588373~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1615828949155,5,0,It was Informative,0,0,daniel sac,24588373
+39221657~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1614895940595,5,0,I did not know how easy it is for individuals to analyse and present data in an understandable way. Very easy to follow.,0,0,Bruno Emiliano Pacheco Aguilar,39221657
+10609849~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1614327585404,5,0,that was AWESOME.,0,0,Saeed Saedy,10609849
+2792720~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1613862159178,5,0,Good basic intro to an analysis project,0,0,Brad Dowling,2792720
+65672156~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1612285607420,5,0,Good learning.,0,0,Eliel Garcia,65672156
+21908536~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1611445810474,5,0,This is a quick introductory Python data analysis project. I really enjoyed it. ,0,0,Amelia Jiewen Tang,21908536
+78511721~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1610046714623,5,0,Thumbs Up!,0,0,Gregory Gray Jr,78511721
+25822488~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1609400156521,5,0,"great session, thanks.",0,0,Arido Rossevelly ,25822488
+65680391~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608978909899,5,0,"This project has been an experience and would like to do more of such projects.  If more information about the methods as text been provided, it would have been perfect. I would like to thank the instructor for providing everyone, with such an opportunity.",0,0,Pareekshit Reddy,65680391
+70136895~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608492276527,5,0,informative and helpful,0,0,Muhammad Mauludin,70136895
+74896244~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1608078528005,5,0,Great project for Data Analysts. You do need to know a little programming to understand the whole project.,0,0,Yamira Eliza Sanchez,74896244
+45447178~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1607186162534,5,0,Excellent project,0,0,Laiba Noor,45447178
+15209428~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1606567068663,5,0,i guess it is a fun course ad very easily managed via rhyme notebook. i guess anyone with interest in data science can come here and catch some curiosity or understand what they need to learn.,0,0,dyson dsouza,15209428
+49843064~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1606164712401,5,0,good,0,0,premchand chekuri,49843064
+50220299~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605897614353,5,0,It was an amazing hands on experience. Everyone who are data science lovers should take this course.,0,0,Mir Sakhawat Hossain ,50220299
+37048266~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605392292842,5,0,"I had previous knowledge of Python, and this course helped me to improve my skills.",0,0,Vitalijs Bekasovs,37048266
+38444050~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605224742801,5,0,Very good project and the explanation is very clear thank you,0,0,Cheikh BADIANE,38444050
+337965~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605215334573,5,0,"I was able to apply my knowledge of Pandas, Numpy, etc to analyze an interesting dataset -COVID-19 data.",0,0,David K Anderson,337965
+14046575~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1605026366544,5,0,This Course was really helpful,0,0,Kanchan Maurya,14046575
+33900933~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604944719166,5,0,This is an awesome beginner friendly course.,0,0,Meenakshi Radhakrishnan,33900933
+47746800~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604904953876,5,0,"This coruse is absolutely recommended for everyone, regardless of your knowledge in Pyhton programming language. I absolutely had a fun time learning from the pleasant project instructor!",0,1,Immaculata O. Onuigbo,47746800
+44824367~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604883745764,5,0,"Before doing this course I had problems identifying what information to use and how to use it, after this guided course I feel more confident. Also I learned some other new methods improving my knowledge.",0,0,Francisco Jorda,44824367
+69728854~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604870987631,5,0,A pretty good explanation and the way to explain was very interesting. Thank you :D,0,0,Diego Fernando Bravo Higuera,69728854
+59714917~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604734456990,5,0,Nice and informative explanation by the instructor throughout the project,0,0,Chintoo Kumar,59714917
+38878521~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604429546749,5,0,Awesome !!,0,0,Shubhadeep Mandal,38878521
+55106225~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604418852977,5,0,"I am giving this project 5 stars because I had so much fun with it, and for the following reasons:1- You learn a great deal about python and its libraries2- All it takes is a few hours3- The instructor does all the work for you.4- It isn't stressful5- To have done it without the instructor's step-by-step guidance, it could take you months to learn it6- The instructor is pleasant and humble7- A great project for someone who has a little knowledge of python.The rest is up to you. You can pursue the subject further and acquire an important skill that will help you in so many ways. I highly recommend this experience.",0,1,Vince Serignese,55106225
+38902911~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604396459807,5,0,Very Satisfied with the Activity...,0,0,Roderick Vicente,38902911
+8003147~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604373119097,5,0,Ahmad is an excellent teacher. Each statement of explanation he gives is clear and simple. Loved this course!,0,0,susma khadka,8003147
+56345129~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604332817970,5,0,Overall the project was ok but needed to be more informative.,0,0,Rahat Ahmed Majumder,56345129
+14114512~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604313295171,5,0,Excellent course with very well explained topic.,0,0,Sabina Khady Koniuszy,14114512
+15599052~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604068128988,5,0,"Very Informative. You do not have to know a lot of Programming to follow along, just a bit of basic should be Enough. Concepts are very well explained and the course is just at the right pace.",0,2,Devendra Singh Bohra,15599052
+72192612~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1604043124078,5,0,"This gives me a well-guided step and understanding, good job!",0,0,Arief Fauzi,72192612
+525732~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1603832670214,5,0,"The instructor is clear in his explanations, it helped me to remember some things regarding Pandas",0,0,Fernando Salom,525732
+71353601~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1603184069323,5,0,"The knowledge in this course is very practical, and the teacher teaches in detail. I'd recommend this course to build the basics.",0,0,Luyao Guo,71353601
+24688533~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1602676012496,5,0,very crisp and clear :-),0,0,Kavya k r,24688533
+70497141~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1602523743771,5,0,High Recommend,0,0,Heitor Antonio Pereira da Silva,70497141
+49412835~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1602397169681,5,0,Excellent Course!!!,0,0,MOH MAJEED YAKUB SHAIKH,49412835
+42947489~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1602234746221,5,0,This course is very good and deep explanation concept,0,0,BITTU KUMAR,42947489
+1988733~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601824606629,5,0,Really enjoyed this course; learnt a lot.Thank you.,0,0,mahesh de Alwis,1988733
+61140064~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601450468692,5,0,"Interesting project using great visualization tools. If you want to know the capabilities of python in data analysis then this is it. However, you will to have some familiarities with the modules but even if you don't, there's a good chance that you will still be able to follow along as the instructor explained what the methods do.",0,0,Wan Nor Adzahari Bin Wan Tajuddin,61140064
+61982685~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601298972296,5,0,Very good project for beginners!! It focusses on a present topic and also explains how basic analysis and correlations can be incurred from the datasets that are available!!,0,0,Adarsh K N,61982685
+58695271~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1601012928805,5,0,Excellent,0,0,PODUGU SURYA CHANDRA,58695271
+60051616~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600862997950,5,0,"Beautifully designed course. Great instructor, in fact, the best among the guided projects I've completed so far. Recommended.",0,0,Ragib Arefin Aaraf,60051616
+56046612~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600814725511,5,0,Very good course and the instructor explains everything he is doing in a very clear way. Thank you,0,0,Mokhtar Khelalfa,56046612
+30812483~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600770570003,5,0,"It was so good, the instructor was discussing all the things very clearly, it helps me alot to learn and analyze the real covid19 related data. Thanks Coursera!",0,1,Yogesh Jangid,30812483
+57508198~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600679067828,5,0,Excellent Teaching,0,0,gitanshu saxena,57508198
+49398552~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600592125262,5,0,I learned very quickly this course . because the way of teaching is too good . I enjoyed this course.,0,0,GUDDY KUMARI,49398552
+32662529~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600591635901,5,0,nice course if you want to get started with data science,0,0,Shailendra Pratap Singh,32662529
+44319915~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600585312413,5,0,Nice,0,0,AJAY TANWAR ,44319915
+55907152~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600537241738,5,0,Course pace was good. need to explain more project as MITBIH arrythmia database,0,0,Ashish Gupta,55907152
+71084209~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600352429834,5,0,Super,0,0,VINOTHPANDI K,71084209
+24446779~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600324281485,5,0,The project is very basic and is very easy to understand. Thank you for your time and efforts!,0,0,Murtuza Boriwala,24446779
+37986091~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600218749751,5,0,Thank you coursera! This guided project  really motivate me to do projects on my own.,0,0,Akash Kesharwani,37986091
+15749242~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1600112713455,5,0,Great course if gives you a nice introduction to Pandas data analysis andd capabilities,0,0,Mario A. Campos S.,15749242
+71235211~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599995019818,5,0,GOOD CONTENT,0,0, SRINIVASULU Manjula,71235211
+21603334~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599922629039,5,0,Very Friendly Project for the Beginners. Ahmad Varasteh is an amazing Instructor. Looking forward to learn from other projects of him.,0,2,Ashaab Rizvi,21603334
+59012236~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599759997450,5,0,Good,0,0,Harshitha K,59012236
+71095519~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1599407514008,5,0,"Excellent,But there could be an improvement in the rhyme interface. It is not very comfy to use.",0,0,Swapna Akella,71095519
+6010717~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598866158012,5,0,Straight-forward and clear. A 1-hour project with some easy methods to manage csv tables and get some results quickly. ,0,0,Daniele Vecchio,6010717
+44007613~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598714273136,5,0,very useful to get dig into our knowledge of python,0,0,ATHIRA K K ,44007613
+67278224~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598255717912,5,0,Course was useful.Thank you coursera,0,0,vishnu priya ch,67278224
+62203587~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598245767796,5,0,good,0,0,Dr. Shaik Razia,62203587
+10269~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1598229169130,5,0,Well done!,0,0,Pascal Uriel ELINGUI,10269
+11968689~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597897122543,5,0,Excellent Tools and Explanation,0,0,Dionisio Carvajal,11968689
+69483548~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597890312954,5,0,This course is very nice and helpful. One of the best.,0,0,OFFISONG EMMANUEL ETIM,69483548
+42355110~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597862696028,5,0,I sincerly enjoyed this course. Kuddos to the teacher!,0,0,Deleted Account,42355110
+58387709~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597775074616,5,0,Easy to understand,0,0,vajratiya vajrobol,58387709
+28037641~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597630767251,5,0,"Lo recomiendo bastante, un proyecto muy interesante y aprendes nuevas funciones de diferentes librerías.I totally recomend this course, an interesting project where you can learn new functions of different libraries in Python and the teacher is great explaining everything.",0,0,Barbara Salgado,28037641
+67063860~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597626575222,5,0,"A simple and direct application of data analysis with python basics, perfect for beginners. ",0,0,Brenda Leyva Amaya,67063860
+68085952~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1597334801257,5,0,"it was a very good course, and very practical one. and easy to understand",0,0,Abid Ilmun Fisabil 1702114631,68085952
+21508163~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596990740300,5,0,Truly amazing experience working on this project!!,0,0,Rishabh Gupta,21508163
+56091589~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596964222702,5,0,Thank you very much. The course is very simple and the explanation is very clear,0,0,Assma Azeroual,56091589
+62960204~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596960206724,5,0,It was really very nice. Too much informative . Easy to understand.Thank you ,0,0,ABHIJEET RAMSHANKAR SAROJ,62960204
+55871387~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596910575120,5,0,Thankyou,0,0,Sakshi Sharma,55871387
+22112324~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596807277899,5,0,Excellent Explantion,0,0,KORUPALLI V RAJESHKUMAR,22112324
+34723193~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596801062734,5,0,overall good project course,0,0,UMAMANIKANTA DUNNA,34723193
+48793552~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596782407143,5,0,Course is enthusiastic for the data analysis practitioners,0,0,Dr.K.Ch.Sri Kavya,48793552
+55496197~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596395277211,5,0,good experience,0,0,ADARSHA MONDAL,55496197
+64081476~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596263677724,5,0,"Although it was mentioned that this project was for people with intermediate skills in python however, found it to be suitable for beginners as well.Loved the course by far.",0,0,Namrata Soreng,64081476
+41497361~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596259722318,5,0,It will give a good foundation and basic 'know-how's' of working towards a data analysis projects. Nice project. ,0,0,Kanishk Yadav,41497361
+29796572~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596214817533,5,0,Great entry level course!,0,0,Arun Luke,29796572
+61895861~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1596032131066,5,0,good,0,0,Aman Rohila,61895861
+61518644~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595959096279,5,0,please make changes regarding the cloud computer its laggy,0,0,082_Deep Pathak,61518644
+65205157~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595944958168,5,0,"Hi , this is chaandhini...very intresting course ...learned lots about data analysis using python...the instructor  taught very friendly and really he is awesome...",0,0,Chaandhini C,65205157
+63224426~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595936941646,5,0,great project,0,0,Manjeet Singh,63224426
+45158987~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595784907563,5,0,Great Course.I loved learning it.Thank you to the mentor for making it simple .,0,0,Maria David,45158987
+60712271~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595750526919,5,0,The functions in this guided project was helpful for me to know how to clean data and making a relevant analysis. ,0,0,Ripan Kirtunia,60712271
+66954277~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595710228447,5,0,Nice project,0,0,Harshith Dr,66954277
+66623503~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595673125580,5,0,Good course to kick start some analysis using jupyter notebook. ,0,0,Siddique Hassan,66623503
+7592213~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595633270086,5,0,great hands on course!,0,0,Ernest J. Miller III,7592213
+44998129~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595506707212,5,0,dsclBXckJZXC,0,0,Shivam Phulari,44998129
+44555646~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595494057801,5,0,Its my first project on python after learning python and basics of data analysis libraries It was perfectly for the beginners and I really enjoyed a lot by coming across the practical work on the data of COVID-19,0,0,Jayanth,44555646
+67458311~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595483134556,5,0,Easy to follow along.,0,0,Nick Lucas,67458311
+42397005~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595418501810,5,0,Its really nice course to learn and work on real time scenarios and dataset.thanks a lot for valuable session.,0,0,Amol Pawar,42397005
+17661302~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595249183637,5,0,Good course for starting out - I recommend everyone do it - however I wish they used Jupyter Notebook and Anaconda rather than the Rhyme tool,0,0,Lucas Coffey,17661302
+55593009~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595214872111,5,0,Excellent and Interesting Course ,0,0,Me,55593009
+60999482~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595132935808,5,0,"Instructor is very clear in his explanation, easy to follow.",0,0,Goh Kai Leong,60999482
+39327161~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1595099751323,5,0,A good and short knowledgeable Project. ,0,0,DEVARAPALLI SUMANTH,39327161
+62554442~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594985485279,5,0,"Easy understanding of the data and why some data(column) is being dropped. Further, good explanation of every syntax and keyword.",0,0,Ajeet Kumar,62554442
+43351128~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594976806930,5,0,got to learn -a well-versed approach to data analysis -also got very interested in the topic -professor was very awesome,0,0,rohit suryawanshi,43351128
+61501754~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594885902893,5,0,nice course,0,0,Md. Nahid Hasan,61501754
+65276082~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594846255917,5,0,This project was very interesting and helpful ,0,0,Isabela Kobb ,65276082
+794475~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594827733669,5,0,Nice .. keep up the good work ! ,0,0,Ameya Patil,794475
+57666876~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594753520302,5,0,I find this project very engaging  and helpful. I learned new things and improved my things I already knew. Recommended!,0,0,Dipta Dhar,57666876
+66060810~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594739734043,5,0,helpful for understanding,0,0,Achala dabral,66060810
+55496424~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594709064003,5,0,excellent. must try for beginners,0,0,Jayashree Hegde K,55496424
+50247823~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594667575523,5,0,Good Project for beginner DataScience Learner!!,0,0,MD Shahidul Islam,50247823
+54978757~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594661611366,5,0,Good Course for begineers.,0,0,Bhavesh Rajaram Patil,54978757
+58918174~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594493745294,5,0,Simply loved the course and enjoyed it. Thank you SIr !!,0,0,Ilma Majeed,58918174
+19541437~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594483461256,5,0,"great project for a beginner and intermediate to work upon, keep making these type of guided project and try to make it a bit lengthy(should be more 1 hour) :)",0,0,Pulkit Dikshit,19541437
+61066225~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594389453727,5,0,completely awesome course to learn Python project ,0,0,Vinoth Subramani Udaiyar,61066225
+35659054~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594322748296,5,0,Great hands-on experience for beginners!,0,0,Abhishek Mishra,35659054
+62996789~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594239293316,5,0,Clear explanation of all the functions. recommended for newbie.,0,0,Tarek Al Zihad,62996789
+64503395~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594217811598,5,0,This project is really good!! Far better than that lightening speed INTRODUCTION to Data Science course. Learnt a lot!! Thanks Mr.Ahmad!!🙏,0,0,Abhiram B.S,64503395
+55732422~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594134866002,5,0,Excellent project.Thank you very much instructor,0,0,Shimil Shijo,55732422
+57247918~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594112184184,5,0,we like to do more courses as like this course related to data science and machine learning .,0,0,mummudivarapu narendra,57247918
+57249215~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594092977442,5,0,good,0,0,عمر مبارك المهري,57249215
+56557582~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594068969891,5,0,It was perfect for me. Thank you Coursera.,0,0,Ahnaf Tahmid Arnab,56557582
+61272865~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594056315851,5,0,Very informative course,0,0,Vinesh Kumar,61272865
+44129043~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1594026150767,5,0,The perfect project for a begineer in data science,0,0,Detroja Pradeep Kumar,44129043
+63318608~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593978702127,5,0,A learning project. Learned to implement many things in this project.,0,0,Akash,63318608
+56990927~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593797686723,5,0,Loved to try real world problem in python. Beautifully constructed course. Well done!!!!,0,0,K.Sri Sivaram,56990927
+11990827~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593796022422,5,0,"Very good project for practicing basic to intermediate data science skills.The project touches on pandas, numpy, matplotlib, seaborn, scatterplots and regression plots.This project shows you how to take two different csv files and combine them into one data frame for analysis.Overall, a very good project that I would recommend to anybody looking for a quick reinforcement project. ",0,1,Adam G,11990827
+57160238~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593776524783,5,0,Great hands on experience!,0,0,Shivam Singh,57160238
+58299946~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593710631522,5,0,Had an amazing experience and the mentor taught each step exceptionally well,0,0,Anjali Arun Nayar,58299946
+62401342~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593687256734,5,0,very useful course,0,0,Gangone Riha,62401342
+12183401~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593592397456,5,0,Nice learning,0,0,Himadri Shankar Sen,12183401
+28321509~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593559613761,5,0,"Although, I am a total beginner in Python, yet this mentor was so much helpful in keeping me going",0,0,Ghulam Mehdi Dar,28321509
+60613312~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593546308052,5,0,Very Good!!,0,0,NICOLE CHARRON,60613312
+55357316~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593532181377,5,0,Good start for a biginner,0,0,Dr. Anu Rai,55357316
+61060571~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593511464824,5,0,The plateform was slow but overall it was a good experience,0,0,Shubhank Verma,61060571
+62332628~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593425273780,5,0,This guided project is very well structured and easy to follow. Highly recommended for beginners to gain valuable hands-on exposure in python programming and Data Analysis.,0,2,Rushabh Purushottam Joshi,62332628
+64500726~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593354773545,5,0,good!!,0,0,Shera Rizkya Febri,64500726
+49527480~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593350264425,5,0,"This course is very good for beginners, although it misses out a lot of points in terms of professional data analysis... Still, if you are a beginner, you will benefit a lot from this course!",0,3,R P,49527480
+63757541~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593349298010,5,0,This was an fruitfull experience.,0,0,Dishant Patel,63757541
+59815925~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593348499176,5,0,gives a good intro to data analysis,0,0,M S S BHARADWAJ,59815925
+37592910~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593321772112,5,0,Interesting course!,0,0,Phuong,37592910
+4837129~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593320034223,5,0,I think this is a good tutorial for practicing and applying knowledge focused on a topic properly.,0,0,Marcelo Fernando Condori Mendoza,4837129
+59819129~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593259205018,5,0,nice project,0,0,Milan agrawal,59819129
+58548306~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593160844078,5,0,Thank you ,0,0,Doss D,58548306
+58164740~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593153408978,5,0,"This course is educative and intuitive, the tutor explained each step taken. I recommend it for all, either beginner or expert data science. ",0,0,Babatunde victor,58164740
+31274604~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593149130141,5,0,Awesome ,0,0,Shreesh Dhavle,31274604
+64803733~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593146118308,5,0,wow,0,0,ABDULLAH ALL NOMAN,64803733
+54498590~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593140063864,5,0,Good project within a short time investment.,0,0,Anshika Sharma,54498590
+56329750~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593115256052,5,0,Excellent,0,0,Swapna V,56329750
+55418329~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593080625304,5,0,Amazing project... I would recommend to everyone who wants to learn how to play with datasets and want to level up their skills. I want to say thank you to the instructor for explaining everything perfectly.,0,0,Sagarika Sahoo,55418329
+63082058~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593051460423,5,0,"i like this the topic, thanks, ",0,0,MARIA TERESA OREJUELA PARRA,63082058
+44542358~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593021176509,5,0,I learn many thing with this project.Thank you for wonderful guide,0,0,Mahfooz Akhter,44542358
+49313308~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593018605665,5,0,good,0,0,UMRAZ HUSSAIN,49313308
+53772549~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593013873866,5,0,A great project!,0,0,MEENAKSHI R,53772549
+55724104~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1593009046156,5,0,It was a nice experience...,0,0,Kartik Gupta,55724104
+55569639~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592998473842,5,0,Fantistic,0,0,Poorva Joshi,55569639
+62517980~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592989575586,5,0,good ,0,0,tale preethi,62517980
+62150131~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592950203386,5,0,Useful for understanding the basics of csv files,0,0,Subtain Malik,62150131
+62498054~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592930654126,5,0,Good,0,0,p sandhya,62498054
+58980549~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592903642691,5,0,Good Project,0,0,CHETAN PATIL,58980549
+38359248~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592903193517,5,0,Nice Experience,0,0,Danial Shoaib,38359248
+44017484~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592870241033,5,0,"I would give it 4.5 if the coursera allows me to do so. I understand that it is supposed to be a concise project, so the instructor does not get time to explain the library he used in detail. But it would really be helpful if he could mention the general features of the pandas, bumpy, etc. at the beginning. ",0,1,Jianan Xu,44017484
+64241928~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592834475268,5,0,Great hand-on project to work with corona virus dataset.All thanks to the instructor.,0,0,Roshan Jangid,64241928
+55313755~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592822877855,5,0,Amazing course. I recommend this course to everyone.,0,0,Ankit sharma,55313755
+44874796~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592761463823,5,0,very nice and helpful,0,0,Anusha Srivastava,44874796
+62347634~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592751961871,5,0,Very goof,0,0,Shivaani Srinivas 18MSB0047,62347634
+45085516~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592750712137,5,0,This project has a really good explanation and guideline.I can understand a bit more the steps what I have to do with dataset,0,0,Vy Hoang Ngoc Tuong,45085516
+38393005~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592713349372,5,0,A Great Project for all those looking to utilise a couple of hours well & see a neat application of Python ! :),0,0,Araz Sharma,38393005
+64417260~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592688162273,5,0,Pefect!,0,0,Elliott Peralta,64417260
+57040274~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592640130832,5,0,"If you are a beginner in python and have little experience in libraries like numpy, pandas, seaborn, go for this project. You will complete it within an hour.",0,3,VAJIRE PRAMOD KISHANRAO,57040274
+62240185~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592629965859,5,0,nice,0,0,Vajinepalli suma sri,62240185
+9096148~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592573020725,5,0,Good course,0,0,Yadavalli Ravikumar,9096148
+57724949~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592560242537,5,0,Very good course... only improvements would be to allow people to download work... it doesn't work for some people. But great course.. highly recommended!,0,0,Amogh Karpe,57724949
+57991481~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592461530054,5,0,Great Course! Had Hands-on experience with analysis.Would be better if the cloud desktop was much faster.,0,0,AbhiRam Sharma,57991481
+41888695~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592426004866,5,0,good for practice,0,0,Abhirup Hazra,41888695
+63935327~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592394312754,5,0,verygood,0,0,Nguyen Thi Ngoc Khanh,63935327
+19755337~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592380931366,5,0,Very Nice course to beginners.. Thank you team & University for such a platform..,0,0,Punam Patil,19755337
+2459040~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592368777911,5,0,"Simple, direct and short. Clear and well explained.",0,0,Martín Vuelta,2459040
+61049224~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592326682792,5,0,Great concise project to practice basic Data Analysis skills and to gain insight about the current pandemic,0,0,Arka Seth,61049224
+55202095~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592315805441,5,0,go  ...,0,0,ANKIT SUTHAR,55202095
+39972677~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592304127910,5,0,Great!,0,0,Aashrut R. Vaghani ,39972677
+58694090~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592249875501,5,0,A well explained and guided project by the instructor. He gives us a chance to answer a few queries ourselves which helps and improves our confidence. I would recommend anyone who has a basic understanding of python to go ahead and spend 2 hours on this project. No harm in getting to know things practically. Well done. ,0,2,Mohammed Ahmed Ali,58694090
+26353102~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592207013909,5,0,Good course/project during Covid-19 situation,0,0,Anokhi Mukesh Gilda,26353102
+27989255~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592143320721,5,0,"Me ha encantado el proyecto, m ha sido muy util he tenido problemas ara entender alguno concepos que son nuevos para mi pero los he investigado.",0,0,Jesus Maria Zabaleta Franco,27989255
+55520143~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592139883852,5,0,It was a good experience Indeed!!,0,0,CHIDHAMBARARAJAN R,55520143
+62337658~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592120857345,5,0,Good job,0,0,AMARNATH,62337658
+34230537~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592091027513,5,0,"Thank you for the step by step project, definitely learned a lot.",0,0,Marwa Abdellatif Eshra,34230537
+63684055~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592070312530,5,0,"This course is well structured I was going to give it 6 stars if I could see/download my written work. Otherwise, my expectations were sufficiently met. ",0,0,S’ne MNGUNI,63684055
+60908821~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592050163880,5,0,good,0,0,PAVAN KALYAN ARADHYULA,60908821
+34832361~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592020433399,5,0,enjoyable learning,0,0,Abhishek Prakash Gavali,34832361
+55201695~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1592018669733,5,0,Good Course to start with basic knowledge.,0,0,SATYAM GUPTA,55201695
+48878811~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591999748464,5,0,Muy claro y bien explicado.,0,0,Andres Lopez Uribe,48878811
+62319707~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591971526175,5,0,good,0,0,Kammari Keerthana,62319707
+55004329~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591943164279,5,0,"Love it. it suitable for beginer because it's easy to understand, sistematyc.",0,0,Suci Karunia Prilistya,55004329
+61471871~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591942311317,5,0,good trainer,0,0,Aswin Lakshmanan,61471871
+62583137~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591941028430,5,0,It's good,0,0,Abdul Ameer,62583137
+55158724~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591929647390,5,0,super course,0,0,Nandivada Posi Eswar,55158724
+58965489~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591900802251,5,0,very well crafted course.,0,0,Shahroz Akhtar Khan,58965489
+22354955~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591894483213,5,0,It was a very interesting project utilising the applications of Python visualization libraries.,0,0,Shreya Pradeep,22354955
+60483249~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591893270965,5,0,Simple yet powerful Project!,0,0,PENDEM SHIVA KUMAR,60483249
+58389250~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591877166545,5,0,"The project is good for intermediates who know the basics of seaborn,pandas,matplotlib,a must try",0,0,Archit Mehta,58389250
+60719126~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591858943897,5,0,best,0,0,Dr Gaurav khanna,60719126
+41990391~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591814592184,5,0,Excellent Guided Project,0,0,Mahad Arif,41990391
+60151195~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591767615914,5,0,Great Experience ! Thanks to Coursera!,0,0,Tushar Khete,60151195
+63052467~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591714186635,5,0,Nice guided project,0,0,Arman Hussain,63052467
+52352746~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591701560883,5,0,excellent,0,0,Mukul Kumar Mishra,52352746
+57812772~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591694330608,5,0,Good Experience in understanding the Data Analysis,0,0,YVR NAGA PAWAN ,57812772
+60161677~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591690785278,5,0,Good project for the beginner's.,0,0,Sanjana Ghosh,60161677
+58168660~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591676483954,5,0,verry intresting project,0,0,BITTU KUMAR,58168660
+53866208~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591652949265,5,0,Nice way to visualize the impact of corona. Great learning experience,0,0,Muhammad Umair Mohsin,53866208
+61855862~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591635157384,5,0,"
+I really enjoyed working with this project. Thank you so much for the valuable teaching.
+
+",0,0,Ramya G R,61855862
+61353823~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591628634597,5,0,"Please let me know, if you offer any new courses related to data analysis under project sections",0,0,Raja Rama Gandhi Korikana,61353823
+35519545~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591626255599,5,0,I learnt beginner level Data Analysis it was a great experience.,0,0,Sakshi Kelkar,35519545
+42146857~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591565346089,5,0,Very nicely explained!,0,0,divyanshu vyas,42146857
+30437265~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591532898486,5,0,"excellent project for my portfolio, the tutor put nice steps and explained them well.",0,0,Rehab Elsayed Emam,30437265
+48368288~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591531238059,5,0,Helpful and really enjoyed the course,0,0,Prasanna Phadtare ,48368288
+40515860~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591526458211,5,0,Amazing would definitely recommend it to everyone,0,0,manthan shah,40515860
+47934552~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591477386716,5,0,good !,0,0,MAYANK RASTOGI,47934552
+36919839~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591430398287,5,0,The Course really helps you get started with Data Analysis with python with ease the instructor explains everything in a clear and concise way.,0,0,Abhishek Dubey,36919839
+22376877~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591352442459,5,0,The course is very compacted and educative for interested python users at the very beginning. ,0,0,Dr John Stephen Kayode,22376877
+46498500~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591348130014,5,0,well explained how to analyse datasets with python. my gratitude to instructor,0,0,dilkeshwar pandey,46498500
+1061881~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591327919911,5,0,good,0,0,Ashwin Perti,1061881
+42337438~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591276554316,5,0,very useful,0,0, POLAMARASETTY LAKSHMI NITHISHA,42337438
+26859130~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591268379392,5,0,"Good and short course for better understanding,Thank you, Coursera",0,0,malepati rahul,26859130
+811972~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591225637852,5,0,Excellent for beginners who are new in area of Python.,0,0,mohsin,811972
+58789862~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591214633414,5,0,This course was life-changing,0,0,Grace Ikhizama,58789862
+42717328~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591169950926,5,0,course was very good to develop skills in project wise learning,0,0,Nanda Kumar Gurung,42717328
+42512042~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591118103747,5,0,"Great Course, very informative!!!",0,0,Mihir Palav,42512042
+45034458~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591096282162,5,0,"AN AWESOME COURSE, WITH HANDS-ON SESSION IT, MADE US UNDERSTAND THE TOPIC MUCH BETTER ",0,0,Yogesh,45034458
+55674901~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591082013259,5,0,Nice and informative course!,0,0,Bhavesh Bajirao Mahale,55674901
+48399992~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591081586534,5,0,this is a very nice project for freshers,0,0,Mix Up Things,48399992
+34355762~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591078564049,5,0,A brief and concise course for understanding on working with large datasets with python.,0,0,Shubham Singh,34355762
+60798276~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591078293454,5,0,Excellent Teacher,0,0,Muhammad habib,60798276
+60489173~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591040039506,5,0,Best Course To Get Started With Analysing the real-time scenario ,0,0,Rushikesh Shinde,60489173
+54348841~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591023056645,5,0,"Well, a nice and interesting project was that to do a data analysis in covid-19.Thanks a lot.",0,0,MANABI MAITY STUDENT - AERO,54348841
+30496609~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591020238512,5,0,"Good Introductory project for seaborn and basic data visualization regarding COVID19, a grave problem right now. The correlation between infection rate and the country's economic status is positive which is really intriguing. Thanks for the project",0,0,Manmohan Krishna,30496609
+62305054~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1591017494819,5,0,"Very good course , excited to learn more with coursera ",0,0,Bikash Kali Dey,62305054
+57756828~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1590981671212,5,0,"If you are a beginner and started learning Data science. Try this project out for sure. We will get a hands on experience on basics of pandas, dealing with datasets more easily and usage of different functions. I personally took this project immediatly after taking ""Introduction to Data Science in python"" and it is awesome!",0,3,Kunchanapalli Venkata Sai Rakesh,57756828
+34195492~COURSE!~COgVtZQLEeqkcQ4Ni0FYhw,1590955612528,5,0,very very good ... i love it,0,0,Yukta Vishwakarma,34195492

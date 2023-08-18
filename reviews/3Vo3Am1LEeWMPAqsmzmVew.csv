@@ -1,0 +1,446 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+103253642~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1670190827379,1,0,"This course has MAJOR issues and appears abandoned. In reviewing week 2 and week 3 projects, none were more recent than 2017. ",0,0,,103253642
+30884998~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1595110802722,1,0,"Too much on things that seem unnecessary, and too little on things that are needed. Also, this course is OLD now. They really should update it, do some more on plotly, but also ad dashboards with flesdashboard.",0,1,Leo Carlsson,30884998
+1158921~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1467069974067,1,0,"
+To be honest I don't think this is worth the money.
+
+",0,0,Stephen Easley-Walsh,1158921
+7521457~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1452142417612,1,0,"This review does not reflect the course content. The new Coursera UI makes it impossible to download transcripts or slides of the videos. Without these features, following the lectures is significantly more difficult, and I can't rate this course any higher than 1 star. I would rate it zero stars if that was possible.",0,0,Robert Handsfield,7521457
+12411058~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1582672294024,2,0,Not really challenging,0,0,Alex sanchez,12411058
+14083431~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578862424382,2,0,Heavy on boring videos!,0,0,Pedro Milanez-Almeida,14083431
+36278501~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1552539742181,2,0,"A disappointing end to the pre-capstone lectures, taking the foot off the machine learning gas from course 8 with a detour back to tools and yet another Rmarkdown lecture.  This basically covers building shiny apps (needed for the capstone), leaflet (maps), making presentations in RStudio - then gets lost in R Packages and Swirlify which are not very useful here.  Some of this is needed in the capstone, but this course can be compressed and combined with earlier courses and make room here for something more substantial at this late stage in the specialization.",0,2,Paul Ringsted,36278501
+24764251~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1549442095106,2,0,"The syllabus is very unbalanced through the weeks. For example the week 01 could be split into two weeks . The week 04, in my view, is unnecessary. ",0,0,Lucicleyton Henrique de Farias,24764251
+27976457~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1516201823076,2,0,peer reviewers are spastic mouth breathing idiots. ,0,0,Joshua Chan,27976457
+25850237~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503212902168,2,0,"This was a fun course,  but not particularly useful.",0,0,Brian Flynn,25850237
+20192971~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1487084233289,2,0,I didn't learn many data science concepts in this class,0,0,Lazar Kirven,20192971
+18120342~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1477698739761,2,0,I am a developer and know how to create advanced websites. This course has less use for me as in my day job i create sophisticated websites,0,0,Stefaan Delanghe,18120342
+2057611~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1464029284246,2,0,"seemed like a filler, nit are why this was included",0,0,Seth Dobrin,2057611
+9572033~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460037964073,2,0,"Would like to use the time to learn more machine learning/predictive technique, etc.",0,1,Chuxing Chen,9572033
+13337848~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1612053827838,3,0,This course was more fun as it largely involved practical examples of programming skills. I did learn things from the examples but as always learned far more from the internet and posts about errors. The instructions for the final project are extremely confusing and few of my peers got them right. Since the discussion boards are dominated by requests for reviews they are almost worthless except for the clarifications posted by teaching staff.,0,0,Ben Tafoya,13337848
+44808965~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1603703991200,3,0,"This was actually one of the best modules on this specialisation in terms of the videos giving sufficient guidance and information to complete the quizzes and courseworks.  For once Brian Caffo's videos were understandable and didn't put me to sleep.  I took so long to realise it was actually him, there was such a step-change improvement in his presentation style.One way to improve the videos for me would be to briefly flash up and example of what they're teaching us to make with the code before they go into the code details - that would really help me to figure out what each line does without having to watch each video twice.",0,0,Sharon Evans,44808965
+47993141~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1589546882632,3,0,"I enjoyed this course more than I thought I would. I enjoyed learning about googleVis, Plotly, Leaflet but especially Shiny. I think Shiny apps are quite useful (although a bit frustrating to program), and the course project was one of my favorite of the whole specialisation.Some of the content I didn't find very interesting, such as building R packages or swirl lessons, and other times it felt repetitive, especially RStudio presenter.Overall, I enjoyed the course and I would recommend it to other people.",0,0,Miguel Couto,47993141
+13476410~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1549606754137,3,0,Review took too long,0,0,Vijay Bhagwandas,13476410
+7207897~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1545876485476,3,0,"The concept itself was great, but there were numerous issues with the peer review exams, especially around the requirements.",0,0,Jesse Kreitzman,7207897
+13933563~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1541599728903,3,0,Interesting but I had to learn most of the things here by my own,0,0,Diego Trujillo Bedoya,13933563
+12315314~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1535504331138,3,0,"The course is a great survey of tools for sharing data analyses with R. Unfortunately, the content is already a little out-of-date because the technology is always developing. ",0,0,Aaron Williams,12315314
+25056147~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1519066703242,3,0,"This course is clearly not the most interesting of the specialization regarding math/theoretical knowledge, but it helps you get to know a nice way of presenting your results.  ",0,0,Léa Fanchon,25056147
+1635590~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1515183669769,3,0,"This is an okayish course. One should ideally complete it in 3-4 days max. Or an expert can complete in 1 sitting. Gives you a good basic introduction to plot_ly and shiny apps. Rest you are the one who has to play around a lot with online dummy datasets. One major takeway for me is that: Weekly client reports which hardly change or change a bit and are currently done in excel, can be done in R-shiny with all those tabs and drop down features (similar to building dashboard). You only need to have licensed shiny app profile for data security issues.",0,0,Piyush Verma,1635590
+14421956~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508383965393,3,0,Good range of topics - updates to content would be useful --> eg http://jupyter.org,0,0,chris,14421956
+28063899~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507388647706,3,0,Not bad. But I feel that this topic is more for those who likes to develop web products. ,0,0,Zhiming,28063899
+24520563~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1504381029044,3,0,"This course can be updated:
+1) add swirl lessons.
+2) add more video materials",0,0,Vitalii Shevchuk,24520563
+27823336~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1502791744466,3,0,"From this course I took away how to make shiny apps. This is very useful and fun to do.There was much more material covered in the course, but that was not tested via the assignments.That means that passing the course does not ensure that you actually master these subjects as well (one example is creating and publishing a new R package).",0,0,Ytsen de Boer,27823336
+1895146~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1482363419768,3,0,The course introduces us to a ton of valuable material for developing data products. But it is up to the student to have the initiative to dig deeper into the material by going through the various API reference documentations in order to create the final data applications. I'm not sure there is a better way to teach this course; but it felt like I was left to my own devices to complete the course. In a way it was a good learning experience to have to complete the assignments without much hand-holding from the instructors.,0,0,Allen C. Lau,1895146
+19662009~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1479026888977,3,0,A bit fast paced as they teach so many things in a single week. But the stuff they teach is surely great and makes you appreciate the beauty of R,0,0,Vaibhav Singh,19662009
+3180252~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1476392657504,3,0,"Although I really liked the content of this course, the videos seemed to be have been done with rush. Many of the explanations were started but not finished and the presenter had many breaks during his speech to think or to go back with a better explanation.",0,0,Guilherme Botelho Diniz Junqueira,3180252
+365544~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1467840519311,3,0,"Nice course, but the discussion forum are not the same as in the old format. I also think that the shiny videos from Rstudio are better than the instructional videos in this course.
+
+",0,0,kevin.hampel@gmx.de,365544
+13271032~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1464012176306,3,0,"This module is not the same level as the previous ones, giving a superficial view of several package but not on any deepens. The application development was the positive part of the module.",0,0,Marco Siqueira Campos,13271032
+6951492~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1462360789293,3,0,"The course is fine in the content. As usual, the presentation from Brian Caffo is rather rushed and stumbling. A better presenting style would improve the course no end, but ultimately, what is covered is what you need. I generally just avoid the videos and read the slides.",0,0,Jo Stichbury,6951492
+918716~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1462270648864,3,0,This course isn't as clearly outlined or carefully prepared as the others in the Data Visualization specialization.,0,0,Shreyas Gadgin Matha,918716
+13633570~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459960800613,3,0,"The class was OK. This was the topic I was most excited to get to in the specialization, so I started playing around with Shiny, Slidify, and other tools ahead of time. Because I had gained some basic familiarity with those packages, this class was a bit of a letdown. I was happy with the week on making R packages. That was all new and fascinating.  If you're looking for something more advanced than a very basic overview, you may want to look elsewhere.",0,0,Brandon Kopp,13633570
+8676522~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456499274864,3,0,"The course is OK, but I'd rather learned app development with Python or Java.",0,0,Aleksey Kramer,8676522
+8962256~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456489323058,3,0,Updated and entertaining!! ,0,0,Martin Salvo,8962256
+9586510~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455375896004,3,0,Lots of material in a short amount of time. ,0,0,Michael Kubica,9586510
+24296~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1453155264638,3,0,I have not received yet my certificated and I can't see it in the list. Is there something wrong?,0,0,Alvaro Brange Cordones,24296
+44726872~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1631167400118,4,0,"I have learned  a lot of things after completing this course, like how to build a shiny app by myself and how to use leaflets and plot a graph. Thanks, coursera",0,0,Mohammed Hosayn,44726872
+949450~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1630561256631,4,0,"T​he course is on the easy side of the DS specialization. But I believe its very usefull especially in terms of communication of research results.  The Rmarkdown part could have been more thorough as well as included how to work with LaTeX, non the less, a great  course overall.",0,0,Justas Mundeikis,949450
+34758807~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1618252672497,4,0,informative,0,0,Mohammad Masjkur,34758807
+5819566~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1608202002793,4,0,"The course content was great, but from the peer assignments I reviewed, hate to say that the percentage of plagiarism in other's assignment is unbelievably high, some didn't even check the code they copied and included link to source code in their submitted work. This will unavoidably degrade and depreciate certificates issued by Coursera and Johns Hopkins University. Please review the existing evaluation machanism so it is fair to the students who put time and effort in completing their assignments.",0,0,Winnie Mak,5819566
+5886705~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1608129318888,4,0,"Interesting, practical course. Gives a broad overview of R Markdown, Shiny, interactive plots (Gvis/Plotly), incorporating maps via Leaflet and creating your own training courses. ",0,0,Iain Leslie,5886705
+13622631~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1583595970283,4,0,"The content is very interesting, brings a lot of knowledge to develop good presentation and analysis. Could me more focused in just one option to go further an deep. Recomend!",0,0,Luiz Eduardo Bergo Junior,13622631
+40722884~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1581412573634,4,0,I would have liked more shiny instruction - e.g. the use of dashboard ui.,0,0,Mark Paine,40722884
+39208003~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1576515807546,4,0,I learned what I wanted to get through this class.  I didn't learn most of it in the class.,0,0,Eric J Sullivan,39208003
+6829666~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1575932201389,4,0,"overall it was ok, but it is somewhat limited.",0,0,Mehrdad Pourfathi,6829666
+39353517~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1567130925928,4,0,Some parts could be dropped and devote that time to develop the content of others beyond scratching the surface.,0,0,Manuel Esteban-Infantes ,39353517
+19962865~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1564018107974,4,0,"Excelente curso, 4 estrellas debido a que las instrucciones para revisión no son tan claras y los compañeros revisan de forma subjetiva.",0,0,Rafael Mejia,19962865
+25898127~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1554698559895,4,0,Interesting course but some topics don't have motivation,0,0,Alfredo Aranda Núñez,25898127
+31004448~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1550146018001,4,0,"It is a nice class but many of the topic were already covered on previous class of the specialization. If this is the only class you will take, it is okay but it you are taking the whole specialization this is like doing few (not all) things again",0,0,Raul Martinez,31004448
+33027364~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1549989565406,4,0,This class includes a lot of introductory content an a good measure of hands-on practice. It also provides a great amount of resources and reference material for the learners to expand their knowledge further. ,0,0,Daniel J. Rodriguez,33027364
+12037859~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1542791392547,4,0,"I have learned a lot. The course is simple and very useful. Maybe the assignments should improve because the directions are a bit vague, but in general I liked  it.",0,0,Johnny Cusicanqui,12037859
+3741713~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1540908706492,4,0,good content ,0,0,Anup Kumar Mishra,3741713
+2863598~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1540859407567,4,0,Great course. but I think some lesson should be together in one week and add presentation lesson more.,0,0,Chonlatit Prateepmanovong,2863598
+30037064~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1536472196215,4,0,"Really good course, but for the time invested I think they could have gone a bit deeper in some areas. I enjoyed it though :)",0,0,Federico Gonzalez,30037064
+25389780~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1533756763576,4,0,You will need to be familiar with the subject in order to keep up with the assignments or put in a large amount of time to learn. The forums are helpful and other students are great. Visit the shinyapps.io website for Shiny Apps and slidify research. Rigorous and rewarding when you put the work in. ,0,0,Kim K,25389780
+19394202~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525968720628,4,0,"I lost myself a little bit, because the materials were a little over the place, we did shiny in the first week lectures and only in the last week the project was about it. Same with leaflet, I think ti could be structured differently.But i find them very relevant so that is the reason why I rated it with 4.",0,0,Joana Pinto,19394202
+145447~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1524666729565,4,0,"Excellent content. I was expecting more examples related to the industry, such as data products for data journals, telcos, etc.",0,0,Jorge Levera,145447
+21050705~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1521495037263,4,0,"Fantastic tools, had lots of fun with the projects.  ",0,0,Andrew Wihler,21050705
+11276388~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1520540202750,4,0,Good intro to Shiny and Plotly,0,0,Craig Staples,11276388
+26719112~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1519331451702,4,0,"Analysis is useless if done for its own sake.  Once you have found something interesting the challenge is finding engaging ways to share your insights.  This course is a bit scattered since it covers so many different ways of publishing and presenting data, but it is a really nice survey of what is out there.",0,0,Greg Agamalian,26719112
+3171518~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1519067074016,4,0,should have been more indepth ,0,0,Nikhil Tiwari,3171518
+9785095~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1518589272665,4,0,This course lacked required information of help to get started. Now thanks to some posts by mentors i was able to successfully complete the Capstone project. Overall a very good experience!,0,0,Sreeja Ramakrishnan,9785095
+6122959~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1517156786189,4,0,"Interesting topic, touching on many field. I believe it was quite informative as it applies on the previous modules knowledge into this one. However it didn't touch deeper on each topic.",0,0,Ramy Hashem,6122959
+26547868~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1515203586709,4,0,"Good course, but it was a little light on content. Probably the easiest month of the specialization aside from the first one. The assignments were too easy too pass. Good intro to some very interesting packages (leaflet, shiny, google vis) though.",0,0,Matthew Connell,26547868
+16485050~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1514867612160,4,0,good and quite interactive,0,0,Chinmoy Das,16485050
+23021879~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1511292515491,4,0,Great and super interresting ;-),0,0,Draidi F,23021879
+3937727~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1511193418371,4,0,The course is simple yet useful. With very little knowledge about web development you learn to do some cool stuff.Well done!,0,0,Deleted Account,3937727
+23067033~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1509382185826,4,0,Interesting course because you learn how to develop applications in real time,0,0,Francisco Javier Rincón Arèvalo,23067033
+16649838~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507581782578,4,0,Good learning experience. I'd love to see little more detail work assignments.,0,0,Md Farhad Ahmed,16649838
+23029446~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507106622291,4,0,Nice explanation.,0,0,Mehul Patel,23029446
+18569479~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1506040983356,4,0,A good course!,0,0,Tiberiu D. Onuta,18569479
+25295783~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1505040931940,4,0,"I've never had an introduction to online application, so I found the course extremely interesting.",0,0,matthieu cretier,25295783
+16006920~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1504539657916,4,0,Quite hard for a non-specialist but very useful,0,0,Fernando Mele,16006920
+18448548~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503509378097,4,0,This was just a quick overview of different technologies out there to help creating various types of interactive graphics in R. But I would have preferred if at least one of those technologies were explored in more detail.,0,0,Rishabh Joshi,18448548
+7032129~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501508786134,4,0,"Great course, I just missed some material on distributing data products as files or objects. Data Science environments are getting connected to traditional BI-environments more and more, now that organisations are getting more used to DS. So it is starting to be important to also deliver data products as files to the e.g. data warehouses, ArcGIS, or open data platforms. I know this is mentioned in Getting and Cleaning Data. But some further elaboration would be nice. ",0,0,Gerrit Versteeg,7032129
+23784985~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1500971191615,4,0,it was a very good experience to undergo this training.,0,0,BIBHUTI BHUSAN PRAHARAJ,23784985
+21538827~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1500427024243,4,0,Excellent,0,0,Manoj Pradhan,21538827
+20683821~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1498490128634,4,0,Great overview of possibilities to interactively present your data! The provided written material could be more in depth.,0,0,Erik Pinter,20683821
+21026882~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497215950554,4,0,Nice course. Not on the same level the some of the other classes but it teaches some nice tools.,0,0,Christian Butzlaff,21026882
+6997994~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496674122478,4,0,Really useful and practical curse.,0,0,David Enrique Lira Baltazares,6997994
+9898947~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496645378110,4,0,"Would be nice to add some optional references, reading materials or videos covering ""Creating Data Products with Python and Python stacks""",0,0,MD ALAMGIR,9898947
+15873761~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496217865779,4,0,"Good course, but I felt it was a bit easy to get good marks on the assignments with a minimum effort assignment. Some of the ones I marked were very little to do with data-science.",0,0,Andrew Verden,15873761
+20144444~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1495207738973,4,0,Good intro,0,0,Tim Bowler,20144444
+23554370~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1495105810178,4,0,good ,0,0,Rajib Kar,23554370
+14389167~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1492268872249,4,0,"Very interesting, lots of useful structure",0,0,Erwin Vorwerk,14389167
+25071813~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1491842373762,4,0,"Nice course and good classmates. It's very focus oriented and gives very good idea of Shiny, Rmarkdown, plotly and how to publish documents on github, Rpubs and other online sites. I learnt power of R",0,0,VIPULKUMAR PATEL,25071813
+20393217~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1490370431079,4,0,"Nice course. Developping a web app in R is not exactly mainstream, but I learned a lot.",0,0,Bruno Hanzen,20393217
+3709763~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1490088498094,4,0,"I think this one is the best from the Specialization as it is the most Practical one (more than Practical Machine Learning).Can be taken without the others if you have basic experience in R and want to learn about cool R applications.The reason I don't give full rating is for not having practical assignment every week. So there wasn't enough effort put into the course. Of course, we can do optional homework and make more applications, but assignments like these should be mandatory. There is no package building and no swirl course building - So why do we have week 3 and 4 at all? The quizzes are also laughable - no knowledge testing at all.So although I liked this course from the Specialization the most, I still can't give full rating because of the mentioned issues.",0,0,Stefan Kosztolanyi,3709763
+16730978~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1489113327374,4,0,excellent!,0,0,Jeremy Ooi,16730978
+19639881~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486717614431,4,0,Excellent course. Got to learn Shiny Application in this.,0,0,Tushar Kathe,19639881
+6380795~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486030227790,4,0,"I really like the new version of this. It mixes a lot of tools, but most are useful. It was fun doing the assignments.",0,0,Kristian Gårdhus Wichmann,6380795
+5329523~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1484705544047,4,0,"Really Interesting class, interactive app/plot is so much fun. Great to be able to make creative stuff myself.",0,0,VenusW,5329523
+2405568~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1481946128260,4,0,Awesome course. Overview of all the things you need to become part of the data science community in terms of contributing and sharing.,0,0,Johan Jordaan,2405568
+14341270~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1481859957367,4,0,"Great introduction to interactive plotting, mapping, and shiny. Deeper examples would be helpful.",0,0,Robert W Smith,14341270
+1615602~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1479994822273,4,0,great course,0,0,Helmut Dittrich,1615602
+7014297~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1479005595643,4,0,"Great course, just like the others in the certification.",0,0,Paul Adamson,7014297
+17399972~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1477874666600,4,0,"This is an excellent course that will teach you plethora of new things! The only gotcha is that things move too fast in the world of Data Science. Some of the topics and code might not work exactly as shown when you take the course, and many things will change. It's up to the student to make-up for the missing pieces, but I guess that is the only caveat when you work in a still-evolving field.",0,0,Ariel Meilij,17399972
+14500296~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1477851652829,4,0,Great Course,0,0,BAKHOUCH TAHA,14500296
+4713070~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1476328170915,4,0,Good course but I think it can be better. ,0,0,Geovanni Herrera,4713070
+12811928~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1471886690352,4,0,"The skills taught in this course are fantastic and I'm sure using them will blow my colleagues' minds away. However, I must say that the lectures on Rcharts and other interactive plot builders sound kinda sloppy, poorly prepared. I know the documentation for those packages is bad and it takes effort to figure out what they do, but that is precisely why a well-prepared lecture would be so useful. I would also talk about license, since we have been dealing with packages that are completely open for use, but these have some restrictions.",0,0,Fernando Simão e Silva,12811928
+15297927~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1471840776275,4,0,"I enjoyed the class, but was frustrated when it came time to get my Slidify to work on GitHub (since RPubs wasn't publishing them correctly.)  I had to convert it to RPres (which was easy, thankfully) in order to get my project submitted in time.",0,0,Erika Garcia-Boliou,15297927
+4829219~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1466595507711,4,0,A very straightforward course on how to build fast and useful applications fora broader audience.,0,0,Lucas,4829219
+5985372~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1462688078924,4,0,The lecture is not so fluent taught than other coursers in the specialization,0,0,朱荣荣,5985372
+14353792~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1462418452183,4,0,"Compared to the other classes in the JHU Data Science specialization, this one is pretty laid back. It's useful information, and teaches a few nice tricks on how to present data analysis results.",0,0,Jason Michael Cherry,14353792
+11814004~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460439072093,4,0,nice class,0,0,David Lawrence,11814004
+13102365~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459475757249,4,0,Good and useful module.,0,0,Yew Choong CHEW,13102365
+10303706~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459176067938,4,0,"Good overview of available tools.  Lack of practice exercises makes preparing for quizzes difficult.  However, the course project does a good job to get your feet wet with Shiny Apps.",0,0,Jeffrey Thatcher,10303706
+9651233~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457627243942,4,0,"I liked the course and found it informative, but wish there were more stuff on Shiny Widgets and Input/Output/Render topic. R Shiny tutorial is pretty good, but I was hoping more relevant info about those topics from this course.",0,0,Yuriy Varvashenya,9651233
+10567250~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455339861557,4,0,"Although all coursera courses are same, the peer assessment is very useful for this course. It's very helpful to see products made by other people.",0,0,Julian Jang,10567250
+12254660~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455182331576,4,0,Interesting course showing some of the possibilities for visualising and publishing data.,0,0,Marcus Schwemmle,12254660
+11279524~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455148364292,4,0,Covered really useful tools like shiny and slidify.,0,0,Bill Kayser,11279524
+4147289~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1452159796284,4,0,Interesting course,0,0,Angel Santana,4147289
+114285~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1450264938291,4,0,"In general, an excellent course, taught by competent professors. I believe that in the main this course does very well in achieving its objective of knowledge transfer. However, having experienced it, there were parts where the professor was demonstrating a topic using a video presentation showing him operate a process or screen sequence on his computer. These aspects, like virtually all the material on this course, are of a technical nature and contain many important details. As such, to help complete and re-enforce their learning, students require something like a sequence of slides that they can print out and retain for revision and future reference. In certain parts, the provision of the printable screenshots in the form of slides was absent.An important theme of the course and Data Science in general is ""Reproducible Research"". What I'm arguing for here is, ""Reproducible Learning Materials"" covering a complete course, not only parts of it. Admittedly, it was only a very small proportion of the course that suffers from this defect. But I would not like it to become the norm in the future. As a suggestion, it could be possible to author a lecture using HTML so as to combine the verbatum lecture text with every slide/screenshot image embedded in its right position within the lecture.I notice Coursera courses have also moved away from the weekly lists of individual lectures together with their links to .txt, .mp4, etc. files. The new presentation keeps you submerged within the flow within each week's series of lectures. One has to 'click out' in order to watch your progress and then re-enter the lectures at a resumption point. I prefer the previous navigation structure in order to access lectures and materials. Printed learning materials are also important for me, in addition to the video lectures. The latter are of course vital as the medium for the initial exposure of the material.",0,0,Deleted Account,114285
+1989188~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1449480896491,4,0,"Taken this course in its old fashion style. Now reviewing the new design was a little bit displacing, but I ascribe this to the fact I've done all the specialization courses in the old design.However the structure of the course is quite good. Some typos were reported, as well as a bug on the unanswered questions in quiz 3. Main worst point was the missing format of several text boxes. I would have appreciated paragraphs, bold and italic, some links, picture, not only raw plain text.Overall review is nonetheless over the average.",0,0,Alessio Benedetti,1989188
+8827863~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1449157110917,4,0,This course gives a good introduction on how to develop an application.It gives all the available tools in the field out for us to try and use them.The course is enjoyable and not stressful. I find the assignment as meant to get us to do the project and not really there to fail us. It is difficult to fail to course as only the minimum is required.,0,0,PL Yap,8827863
+88555273~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1674191982442,5,0,This course was very interesting since teach you how to develop very fast an application or web site.I hardly recommend this specialization,0,0,Radu-Ionel Toma,88555273
+61088464~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1673275330357,5,0,Thanks,0,0,Federica Gazzelloni,61088464
+10033235~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1664745224738,5,0,I​ learn a lot from this course. Highly recommended,0,0,Anh Nguyen,10033235
+45251352~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1660843819009,5,0,"It's a great course. You will learn how to create R packages, presentations with R, swirl courses, interactive plots and maps and how to build a Shiny web app implementing different plots and data.",0,0,Luis Talavera,45251352
+2130249~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1657789594615,5,0,E​xcellent course. In course very useful packages of R being introduced. Samples and explanations are really helping. Lessons are very clear and specific. I think I will turn back time to time and refresh my memory for some operations that has been taught here. Lecturer Brian Caffo is a great teacher I think. ,0,0,Mehmet İLİK,2130249
+108198877~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1657049444541,5,0,"Great course, I loved the instruction to the world of R",0,0,Freddy Espinoza Villamur,108198877
+2937243~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1646783379901,5,0,Excelent,0,0,Edgar Ronaldo Echeverría Bardales,2937243
+78053643~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1642737597106,5,0,"Great course, thank you  to all the lecturers for taking time to teach us new skills. ",0,0,Nthabiseng Mogoane,78053643
+88920371~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1638830575158,5,0,"Great course, thank you for making this a part of Data Sciences specialization certification",0,0,Jay Yanamandala,88920371
+78767271~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1637246190154,5,0,Great course,0,0,Bill Dong,78767271
+95992678~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1635816036151,5,0,Thank you!,0,0,Deleted Account,95992678
+3248792~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1632603291592,5,0,Good introduction to shiny app development,0,0,Andrea Ridgway,3248792
+64201674~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1629724853153,5,0,It was excellent.  I think that you could add other packages like flexdashboard or in the shinydashboard library in the shiny package.  So we get other advance features as a data product.,0,0,Olmedo Alexander Alonso Madrigales,64201674
+19037308~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1627421677131,5,0,Excellent opportunity to apply everything so far ,0,0,Andrés Durán C.,19037308
+60326296~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1615489678692,5,0,Learned a lot about the tools needed to publish data analysis.,0,0,Dan See,60326296
+59874641~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1607910111825,5,0,"Excellent course to learn shiny, R Markdown, leaflet, plotly and other R data science products.",0,0,Juan Pablo Loaiza Ramirez,59874641
+69045970~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1606596906985,5,0,Excellent course,0,0,Suprotik Saha,69045970
+465062~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1606323346846,5,0,"Good course, great Professor! Highly recommended.",0,0,Minh Vo,465062
+55907689~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1606225623069,5,0,Thanks,0,0,Jeff Domingo,55907689
+61335648~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1604938420440,5,0,Really loved to put an app online. Looking forward for my capstone project.,0,0,Filipe Mendonça de Lima,61335648
+39048904~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1604672396596,5,0,Great!,0,0,Shruti Patkar,39048904
+5134931~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1604337989894,5,0,Great course !!!,0,0,Wildson B B Lima,5134931
+10919846~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1600994738619,5,0,I have a long way to go but this course is clearly helpful in many ways.,0,0,Amsalu B. Beri,10919846
+64193422~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1599835666784,5,0,"Amazing Course, Iearned  to create interactive presentatios and apps! ",0,0,Thiago Yuki,64193422
+34284544~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1599371869488,5,0,Amazing course to  practically start developing products and do POCs in R,0,0,Babita Daswani,34284544
+57477860~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1598979873687,5,0,I loved this course!,0,0,Johan Vásquez Mazo,57477860
+50221014~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1598807755499,5,0,Good experience ☺️☺️,0,0,Pradyut Kundu,50221014
+40759440~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1598553511143,5,0,I enjoyed the course and especially the interaction of the results with Internet.,0,0,Henri Ahrens,40759440
+58811404~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1595753416758,5,0,excellent course exceeded my expectations,0,0,Reza Mofidi,58811404
+54049312~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1595518132168,5,0,"Great course. Covers a large range of topics, but is well-paced and easy to follow along.",0,0,Eric Smith,54049312
+653590~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1592371741563,5,0,I had so much fun doing this course!,0,0,Olivia Urbanowski,653590
+24921320~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1591531217918,5,0,"One of the finest courses and specializations on Data Science, It lays the foundations of creating new apps,, doing their documentation and making presentations. Some useful projects will keep you engrossed, and enhance the learning experience.",0,0,ARVIND KUMAR SRIVASTAVA,24921320
+47478460~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1591455952407,5,0,"Very complete, with many features of R that can help you build data products!",0,0,Juan Montero,47478460
+1327686~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1590632668420,5,0,I feel well equipped for presenting statistical results after taking this course. Thank you!,0,0,Avinash Karn,1327686
+26003304~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1588837882838,5,0,One of the best courses in the whole specialisation,0,0,Bartłomiej Bielski,26003304
+10425448~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1588032782158,5,0,A very useful course that can make full use of your data analysis skills.,0,0,Lilly,10425448
+37571386~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1587899058569,5,0,Excellent!,0,0,Johnnery Aldana,37571386
+16046826~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1586962207161,5,0,very good interactive courses,0,0,Mounika Gopinath,16046826
+30392758~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1586534964575,5,0,Very Nice course,0,0,Gustavo Daniel Muzzillo,30392758
+24022878~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1586287176385,5,0,"A step up in data visualization, and data interaction. I enjoyed the course, and have the feeling I learned quite nice things!",0,0,Anna-Lea Lesage,24022878
+37296847~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585641773554,5,0,"All of the content was in the first two weeks, but really interesting nonetheless.",0,0,Rose Grosshans,37296847
+43073334~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585640877787,5,0,good course,0,0,Shailesh Parab,43073334
+10224033~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585601778991,5,0,Its a very nice course to learn the basics on how to prepare an data science app.,0,0,Ignacio Ojea,10224033
+46400964~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585559558785,5,0,You learn a lot of things that you can use also in other domains.,0,0,Rob Sleurs,46400964
+23620858~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585514979761,5,0,Good hands on!!!,0,0,Ivan Vemado Marques,23620858
+26816161~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585439048914,5,0,Great value and inspiring.,0,0,Jose Antonio Noriega,26816161
+15052003~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1585181983680,5,0,There are some concepts that should be disclosed as pre-requisites for this course. I had to re-sit this course not for the content but for the pre-requisites.,0,0,Leonardo Zepeda,15052003
+5294835~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1583195866039,5,0,Awesome Course ContentBrilliant Professor!,0,0,Rui Wang,5294835
+240002~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1582218779077,5,0,Very useful!,0,0,"James E Harris, Jr.",240002
+36046011~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1581954997837,5,0,"I appreciated the wholistic approach of presenting the information via GIT, R shiney server and making the slides.... all very useful going forward.",0,0,Thomas Anderson,36046011
+42118048~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578991432424,5,0,I wish there was a sixth star,0,0,Amanyiraho Robinson,42118048
+33311733~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578860630419,5,0,It was a great class.,0,0,Doug Ashworth,33311733
+855343~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578461225170,5,0,All that I learned on this course it's totally helpful. I loved this course because I feel that learn a lot of new useful tools that I can use in my work.,0,0,Yadder Aceituno,855343
+40926493~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578125808676,5,0,"It another great lecture in this specialization course. Simplified, understandable, and highly impactful. You'd learn A-Z of shiny app development. ",0,0,Bolaji Arapasowu,40926493
+23542834~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1578090267007,5,0,Excellent course! To learn how to build of App in R by using Shiny is differential for a Data Science Analyst. ,0,0,Deleted Account,23542834
+3418239~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1576570533812,5,0,This course is as good as previous from Data Science Specialitation. Thank you!!,0,0,Puri Velasco,3418239
+31077462~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1575922646566,5,0,great course with a lot of hands on work,0,0,Wellintton Perez,31077462
+10361128~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1575204923615,5,0,Able to run app on line.  Super.,0,0,Robert Jeenchen Chen,10361128
+24029758~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1571692392371,5,0,Great opportunity for applying what we've learned.,0,0,Deleted Account,24029758
+30164623~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1570706313366,5,0,good,0,0,Rizwan Mohamed,30164623
+41030302~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1570678445166,5,0,"Out of the other 8 modules, I personally liked this one the most. Here is where you put into practice what you've have learned so far. Great job guys!",0,0,Alimohammad Pourkhesalian,41030302
+16176673~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1570454136721,5,0,Very good course from app development perspective,0,0,Yogesh Dhar,16176673
+43631890~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1569597608370,5,0,great exposure to the tools available in R,0,0,Connor Birkhold,43631890
+43550038~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1568545872210,5,0,  learning alot  ,0,0,Muhammad Zunnurain Hussain,43550038
+37911885~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1568488253853,5,0,Very good. Basic but very diverse,0,0,Charbel Lahoud,37911885
+40353176~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1567016263108,5,0,"It is a very good course. There's quite some work, but the content isn't hard. Make sure you update your RStudio for all the features to work correctly",0,0,Rok Bohinc,40353176
+21903231~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1566916305805,5,0,Thank you very much.,0,0,Andreas Paul,21903231
+35124508~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1566129306053,5,0,excellent Course,0,0,Khalid S. AlGhamdi,35124508
+37988322~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1565178632611,5,0,Excelent introduction to the topic and really fun to use!,0,0,Rodrigo Ferrari Lucas Lassance,37988322
+40491332~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1564632507749,5,0,It is a good course provide neccessary stuffs for data science.You can skip week 4 as it is done previously in other courses . Small and good course.,0,0,Shubham Kumar,40491332
+3983568~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1563396482788,5,0,"This is an excellent course. It's not as hard as the last three in the sequence but there is plenty to experiment with, and I was very pleased to see that we learned how to build packages, methods, and classes along the way, created an app, and even delved into building our own Swirl tutorials. While not strictly part of creating a data product, those are great things to have on the resume. I was pleased to see the capabilities of Plotly and will certainly use that. As with all of these courses, you must pay close attention to the marking rubric to get full marks. Onward to the Capstone! ",0,0,Don Moffatt,3983568
+39257697~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1563330387308,5,0,Extraordinario Curso,0,0,Brayan Alexis Avila Xochihuatl,39257697
+38048694~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1563310741979,5,0,Excellent course!,0,0,Diego Costa,38048694
+9024137~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1562858966649,5,0,Best class of the specialization. The assignments were actually instructive.,0,0,Ingrid Tobar,9024137
+22200633~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1560716405474,5,0,This course provided a great number of methods used to deliver a data project.,0,0,Jeffrey M. Hunter,22200633
+22105957~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1560715551213,5,0,"This is the ninth course of a series of nine courses. The creation of the apps and the didactics is very good, I just needed to do the first course of the series to get to work better the fundamentals, since this course is a bit advanced.I loved the experience and everything I learned, I would say it is well worth it!",0,0,jessica cristina felix,22105957
+9403256~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1560621027012,5,0,Indispensable for anyone who wants to make a career in data science. I recommend.,0,0,Glener Diniz Macedo,9403256
+29284530~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1559756195241,5,0,very good,0,0,Luis Manuel Murillo Reyna,29284530
+39018395~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1558968601658,5,0,good course,0,0,Subramanyan K P,39018395
+32304535~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1558690173441,5,0,"In terms of practical data science in R, this is the most usefull course in the specialization. Here you can learn a lot about very important R packages such as shiny, MarkDown, leaflet,... Highly recommendable and very, very important.",0,0,Nino Požar,32304535
+5101052~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1555763015272,5,0,"this curious course teaches about tools and techniques for communication with audiences on data science. some tools are very interesting and deserve a deep research from the learner, this course is mostly informative about the potential of such tools.",0,0,Bruno Rafael Santos,5101052
+29671803~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1554858574203,5,0,Great course!! Was very excited with the whole process of learning to write an app and create something useful!! Thank You!,0,0,Premkumar Siddharth,29671803
+26833366~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1552764040076,5,0,"Excellent course (like the previous 8 in the specialization) and very useful for anyone working with data and involved in data storytelling. Brian (the teacher) does an awesome job explaining the concepts and how the functions and scripts in R work and interact with each other to bring about shiny apps and other visualizations. A big ""Thank you!"" to everyone who created this course!",0,0,João Freire,26833366
+23743369~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1550479374989,5,0,"Demanding if you are not used to do this kind of things, but, worth It if you give yourself a time to get into it.",0,0,César Arquero Cabral,23743369
+32874909~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1548860576995,5,0,"Great course, practical and very informative ",0,0,Mohammad Abuarar,32874909
+9920171~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1547719610949,5,0,A lot of useful parts for visualization here! plotly and shiny are super useful in a business context. swirl and leaflet a bit niche perhaps.,0,0,Simon,9920171
+34528852~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1546122091113,5,0,Awesome Lessons!I learned how to build shiny application and today I'm very happy!,0,0,Saah Nendjou Thibaut Gaëtan,34528852
+20706282~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1545698987516,5,0,discovery of amazing tools and possible applications of rstudio and additional packages.good pace of the course,0,0,Julien Nabonne,20706282
+33160002~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1545483499332,5,0,I learned very useful techniques,0,0,Adham Aleid,33160002
+26341647~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1544884570989,5,0,Great projects,0,0,Daniel Montoya Álvarez,26341647
+7890191~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1543218192501,5,0,a very good beginner level course for those learning how to develop Data Products in R.,0,0,Raunak Shakya,7890191
+25197482~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1542905804461,5,0,"Really enjoyed this course. But you can only get as much as you put into it. A lot of students end up doing pretty mediocre apps that contain just enough to pass but never get creative. If you want to get as much as you can, then put some effort and create a nice app/presentations.",0,0,Samuel Quiroga,25197482
+26014680~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1542650381989,5,0,"This course was amazing, it could definetly be more deep in each of the subjects, but gives you so much practice in tools that are very useful in the day by day of a data scientist",0,0,Rafael Silva,26014680
+32954249~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1540433732283,5,0,Great Experience so far!,0,0,Wesley André Bortolozo Júnior,32954249
+3789511~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1540033021712,5,0,Good course. I liked it.,0,0,B Schwenk,3789511
+26555899~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1539587417772,5,0,great course.,0,0,shashwat khare,26555899
+27591223~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1539503095005,5,0,Great course with great materials. Easy to understand and to learn.,0,0,Bojan Brajkovic,27591223
+34539102~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1539030913834,5,0,Very good course for creating your own data product,0,0,Saurabh Yadav,34539102
+30587132~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1538531419767,5,0,Excellent course,0,0,Javier Eslava Schmalbach,30587132
+32307153~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1538235669349,5,0,A lot of useful libraries and APIs explained,0,0,Dan Berdikulov,32307153
+36291868~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1538044116077,5,0,Awesome,0,0,Veene Varadarajan,36291868
+5614800~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1536925796101,5,0,Very excellent course,0,0,刘晶,5614800
+24595179~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1536673679170,5,0,The content is good and exposes to various tools and formats for building data products. Exercises for week 2 and week 3 were very simple though.,0,0,Aravindan Krishnan,24595179
+10238459~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1536588909718,5,0,excellent course!,0,0,Cristian Gutierrez Rojas,10238459
+29158635~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1536433780873,5,0,"Very useful stuff, and nicely presented too by Brian Caffo.",0,0,Ehsan Danesh,29158635
+24840452~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1535819242327,5,0,nice aand easy. I do not know why you focus on creation of custom libraries withou any practical assignemens on it,0,0,Grigory Sharkov,24840452
+32941071~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1535309925248,5,0,"Very useful, very well taught. I enjoyed the project as well. ",0,0,Sheila Braun,32941071
+31642290~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1534328166903,5,0,"Awesome course, maybe more complex examples, but is fine as an introductory program.",0,0,Laro Navamuel Puente,31642290
+27035651~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1533542998834,5,0,"This course helped to get the knowledge how to create shiny apps and r packages. Very usefull, thank you every lecturer and masters how create this course.",0,0,Keidzh Sergei,27035651
+21739191~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1532878030437,5,0,Great course!!!,0,0,Norberto Ortigoza,21739191
+10797038~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1532154686620,5,0,"Good content, useful assignments, some of the tools talked about are out of date",0,0,Ben Strickson,10797038
+11715515~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1530815778869,5,0,excellent,0,0,jose rios,11715515
+30439172~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1530591291283,5,0,many many new topics to learn .,0,0,Abhishek Patra,30439172
+24247019~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1529870357678,5,0,Great overview of data products,0,0,Michael Hulin,24247019
+500728~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1529776069691,5,0,"Like the others courses, an excelente course.",0,0,Amarante Geraldo,500728
+10187423~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1529681141218,5,0,Quiz was good and challenge.I was near a frustation trying to built the presentaiton interactive for html at GitHub.,0,0,Javier Augusto Diaz,10187423
+3987996~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1529599243544,5,0,One of the best,0,0,Jean Paul Laclau,3987996
+6287262~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1528980879076,5,0,Help,0,0,Christian,6287262
+949157~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1528121034761,5,0,a very good course,0,0,Sandhya Avasthi,949157
+18383926~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1527348074011,5,0,Good course for learning the back end of web developing using R,0,0,Vinicio De Sola,18383926
+10404303~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1526725688794,5,0,Excellent course,0,0,Michael Sheahan,10404303
+27232646~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1526247331203,5,0,Great class...,0,0,Erich F Gruhn,27232646
+27091458~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1526235102186,5,0,e,0,0,Anil Gouniyal,27091458
+819498~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525951624834,5,0,thanks!,0,0,Sergio Rosales,819498
+22933734~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525885186505,5,0,One of the best course in the Specialization in my opinion. The assignment are extremely hands-on and leave you a lot of room for creativity.,0,0,Massimo Malandra,22933734
+27892713~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525452994631,5,0,Nice,0,0,Ganapathi Nayak K,27892713
+24303432~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525367773848,5,0,Excellent course very useful material. A little bit of HTML and CSS would have been useful to make better presentations.,0,0,Luis Alaniz,24303432
+5191605~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525329788451,5,0,Great course!,0,0,Anang Hudaya Muhamad Amin,5191605
+25857035~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525321866476,5,0,"I think GoogleVis, Plotly & LeafLet are something that you should learn already on the first courses of this specialization. Not really sure why making presentations in R would make sense given that we have Powerpoint, Keynote and Canva available to create stunning presentations for our data products.",0,0,Matti Niemistö,25857035
+21320302~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1525192327294,5,0,Awesome course.,0,0,Lopamudra Satpathy,21320302
+203861~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1524930902297,5,0,"This course was excelent, I learn many skills to better explain my new discoveries. Thanks professors for sharing this great course.",0,0,Omar Vilca,203861
+19939191~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1524835059730,5,0,Good course. Just the right dose to understand how to work with well known product for building and sharing data science works,0,0,Mertz,19939191
+8791677~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1523341065854,5,0,Interesting! Learn to make interactive apps and slides!,0,0,Lee Yen Leng Ruth,8791677
+14926670~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1522494039404,5,0,Awesome Course and content,0,0,Viditya Tyagi,14926670
+28768429~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1519406517017,5,0,great overview,0,0,Humberto Rodriguez-Alvarez,28768429
+26412827~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1519100364449,5,0,I especially enjoyed learning how to use the Shiny package. Being able to turn my r code into a webpage is really cool.,0,0,Michael Madsen,26412827
+14858693~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1518376271804,5,0,awesome course,0,0,Praveen Singh,14858693
+24798412~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1517206878933,5,0,"Excellent course,very engaging and tough",0,0,Raja Jayaraman,24798412
+332544~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1516596967839,5,0,Very good,0,0,Jorge Pérez,332544
+26835984~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1515833079846,5,0,Nice Course,0,0,Sumeet Mishra,26835984
+1853466~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1515339187436,5,0,I would dedicate more time to shiny and reduce the time of number of lessons devoted to RMarkdown.,0,0,Francisco García,1853466
+8717896~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1515035086322,5,0,Very interesting course. I spent me a lot of time because I always want to try new things.,0,0,Lei Song,8717896
+27513496~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1513766749331,5,0,I really liked that one. ,0,0,Roland Pfeifer,27513496
+8029256~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1512966746283,5,0,Nice to learn making presentations & applications and hosting them on websites to share with the world,0,0,Raju Gupta,8029256
+19907831~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1512665651406,5,0,"
+Very good. Could go deeper in some areas but generally a good 
+introduction to Rmarkdown, knitr, shiny and similar system and provides 
+informtion of where to get further information where needed. The 
+coursework was generally good but could be more demanding. considering the limited time scale this seems to be about right anyways. ",0,0,Kalle Hartwig,19907831
+20881479~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1512415704650,5,0,The course was great. ,0,0,Hawk Gunner,20881479
+28033922~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1512414086082,5,0,Great for developing data tools using packages in Rstudio,0,0,Deleted Account,28033922
+21774970~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1512365956621,5,0,Excellent course! Highly recommended.,0,0,Yatin Majmudar,21774970
+23467848~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1511293795006,5,0,Very useful. Interesting new tecnologies presented ,0,0,Javier Angoy,23467848
+20163369~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1511265376090,5,0,Learned a lot of interesting things on this course!,0,0,Fernando Luiz Brito de Melo,20163369
+28510653~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1511248241799,5,0,ok,0,0,Amit Kumar Rai,28510653
+25464653~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1510803809121,5,0,This is by far my favorite course among the 9 courses I took in this specialization.  ,0,0,Wei Wu,25464653
+26414366~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1510536701906,5,0,This course got me a job.,0,0,Jeffrey Grady,26414366
+14809827~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1510088902146,5,0,"I loved it, very interesting and interactive",0,0,Arnaud LEGOUBIN,14809827
+26099521~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1510039894671,5,0,really nice course. interesting and useful contents,0,0,Changkeun Kang,26099521
+14276568~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1509594818616,5,0,excellent course to take!,0,0,Divvya T,14276568
+24454029~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1509074889330,5,0,"I have learned a lot about how to work interactively with R. Using shiny and plotly, I found it very easy to work with data for freshers",0,0,李俊宏,24454029
+20725842~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508834143426,5,0,"I learn a lot of building data products and presentation from this course, which later can be used on my analysis or academic work. Although there might be another better tools available out there, at least I can start from what I have learn from this course.",0,0,MUZAFFAR BIN HAMZAH -,20725842
+22582877~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508670609605,5,0,more on plotly,0,0,Sèche Jucker,22582877
+290250~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508504561858,5,0,Awesome course! At the end you will build your first shiny app. ,0,0,Sebastian Robledo,290250
+9319395~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508494365115,5,0,"Good course on Data Products, I learned a lot about R Packages, shiny and the leaflet library.",0,0,Vincent Claes,9319395
+16962655~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1508150194416,5,0,Great course to consolidate everything that we have learned before,0,0,Rodrigo Chagas,16962655
+23066214~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507670740798,5,0,good introduction to developing R presentations and shiny apps. very useful to know for deploying data products to business users,0,0,Nigel Millick,23066214
+29136706~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507558625556,5,0,Course is very good,0,0,JEEWESH KUMAR JHA,29136706
+16156774~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1507056277260,5,0,I enjoyed this variable of informton and possbltes。Real good stuff！,0,0,Lei Mao,16156774
+25397749~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1506306803092,5,0,"This course taught me very exciting things and I am looking forward to making shiny apps for my portfolio. It may have been way too easy and quick to finish, though. I barely needed a week. A bigger assignment with leaflet would have been nice.",0,0,Brynjólfur Gauti Jónsson,25397749
+25746723~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1506021956023,5,0,"Excellent content, the assignments were helpful and fun.",0,0,Sabawoon Shafaq,25746723
+25766800~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1505841447256,5,0,Too Good!,0,0,sagar srinivas,25766800
+1733164~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1505628240590,5,0,Great way to put your data analysis out on the web!,0,0,Rachit Kinger,1733164
+24729935~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1505146493024,5,0,"This is probably one of the most interesting course in the Specialization, and it's worth the many hours spend on it. Save the videos on your YouTube, and research the Shiny web tutorial as well as the R website tutorials and Plotly. Great fun building the apps. ",0,0,Damian,24729935
+11610815~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1505097559348,5,0,  Very good for anyone wanting to get into the field of Data Science using R  ,0,0,SATHYANARAYANAN SHANMUGAVELU,11610815
+1902436~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1504885021453,5,0,A fully practical approach.,0,0,Carlos Barco-Blanco,1902436
+6071662~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1504464733198,5,0,Amazing course! Lots of good and very useful information.,0,0,Renato Oliveira Fraga,6071662
+14743254~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1504276891168,5,0,"Brian Caffo is the best! No one could explain better than him. Congratulations for this excellent course, you are my inspiration to become a better data scientist.",0,0,Juan Esteban Fonseca Núñez,14743254
+25524057~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503867857929,5,0,Great Course with amazing learning experiencing! Worth of taking.,0,0,Shashikesh Mishra,25524057
+3307793~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503750189500,5,0,Really useful stuff and easy to follow instructions.,0,0,João Ramos,3307793
+19092687~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503737995447,5,0,"
+
+Excellent, but I would be grateful if you could translate all your courses of absolute quality into Spanish.  ",0,0,Gregorio Alexander Alvarez Paredes,19092687
+322723~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503690073617,5,0,My name is Jose Antonio from Brazil. I am looking for a new Data Scientist career (https://www.linkedin.com/in/joseantonio11)I did this course to get new knowledge about Big Data and better understand the technology and your practical applications.  The course was excellent and the classes well taught by teachers.Congratulations to Coursera team and Instructors.Regards.,0,0,José Antonio Ribeiro Neto,322723
+2374079~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503489907139,5,0,Tough to get the assignments and everything up and published but a good practical course. I started this course a while ago but life got busy and I had to pull out. There have been changes to the course since then and it has made the course better.,0,0,Dr Natalie J. T. Phillips,2374079
+26710910~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1503246060064,5,0,Excellent Value-add Course!!,0,0,Hariharan D,26710910
+1807966~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1502252123151,5,0,Love it!,0,0,E. Manton,1807966
+20335948~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1502108120465,5,0,Excellent Introductory course that provides good understanding of how to go about developing products.,0,0,Karthik Radhakrishnan,20335948
+11251540~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501940243257,5,0,"
+Now, i'm analytical thinking",0,0,E. Cambuí Júnior,11251540
+22295814~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501703870281,5,0,"To me so far the best course in the Specialization. Everything laid out very clearly, a multitude of useful packages and techniques. The assignments were really informative and the final one was outright satisfying to do. I was happy to take this course.",0,0,Jan Kościałkowski,22295814
+4698759~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501452902750,5,0,This is a great course.   ,0,0,Rodney James,4698759
+8308787~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501284398787,5,0,Course content was helpful.  Some confusion in assignment questions not aligning with what was covered in lectures where it would have helped to clarify that was intentional.,0,3,Robert O'Brien,8308787
+22278949~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1501050262152,5,0,Great course. Thank you :),0,0,Pouria Emami Tabrizi,22278949
+8585668~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1500813588208,5,0,Very practical and useful course ,0,0,FARZAD RAVARI,8585668
+17818609~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1500291741820,5,0,"R/Shiny was worth it by itself. Leaflet, R packages, Plotly and GoogleVis were just bonuses. A great introduction to some great tools. ",0,0,Carlos Mercado,17818609
+4464266~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1499527091506,5,0,Interesting ways to use R,0,0,Venkatesh,4464266
+7391859~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1499514379791,5,0,This was an exceptional course. The assignments and projects were thought provoking. Can we get some assignments/projects linked to this course so that we could apply our learning and earn some money as well?,0,0,Sanjay Fuloria,7391859
+19390309~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1499107533268,5,0,Great overview of powerful visualization tools! Section on creating R packages will be invaluable for collaboration!,0,0,Jim Baker,19390309
+12934855~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1498646002779,5,0,Wonderful. ,0,0,Amit Kumar,12934855
+1486791~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1498366326214,5,0,Loved this course. Would recommend it.  I particularly enjoyed learning Leaflet and Shiny Apps.,0,0,Jared Prins,1486791
+5881852~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497986472747,5,0,"Great open source tools for conveying results, without a lot of coding.",0,0,Roberto Diaz,5881852
+16765261~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497920292319,5,0,Good,0,0,Yi-Yang Lin,16765261
+15074363~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497917641448,5,0,Fantastic!,0,0,Daryl Van Dyke,15074363
+21104042~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497271698767,5,0,Had issues with RStudio and the TA/coursera was great to work with and troubleshoot the issue. ,0,0,William Roth,21104042
+5925603~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1497187824615,5,0,"interesting course covering plotly, r markdown and shiny. love it",0,0,ooi shau ming,5925603
+9383642~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496702004059,5,0,Awesome,0,0,Reinaldo Maciel,9383642
+19493595~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496531528938,5,0,"Very nice overview of available tools for high quality plots, reports, presentations and interactive web apps.",0,0,Dwayne D.,19493595
+18961207~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496179430465,5,0,Nice! Interesting!,0,0,yefu wang,18961207
+1444299~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496176440895,5,0,"The course introduced some of the cool features in Shiny App. and other plot packages in R.  Skills obtained can be used to showcase your analysis result,  conduct more in-depth data exploration, and potentially used to build writing/analysis samples in job application. ",0,0,Qian Niu,1444299
+523811~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1496034227244,5,0,Really good course covering wide range of topics making it to be aptly called Developing Data Products course!,0,0,Rishi Gupta,523811
+21112986~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1495794948813,5,0,2 thumbs up,0,0,Khairul Izhar Khalid,21112986
+22975958~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1495537786360,5,0,ok,0,0,Reinhard Stockinger,22975958
+13959989~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1494969696526,5,0,Nice course,0,0,Sathya Kuppuswami,13959989
+21782736~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1494895712546,5,0,Update rating!,0,0,Artem Vovk,21782736
+2033563~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1494207379830,5,0,I was a good exposure to data products building. Would be great to have something advanced on the topics.,0,0,Partha Sarathi Ghose,2033563
+16899230~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1493915442159,5,0,"Truly Enjoyed this course, Thanks",0,0,kathy0305,16899230
+21563118~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1493710383345,5,0,Interesting things about shiny applications nd creating own swirl courses.,0,0,Ivan Tsatsarov,21563118
+1739649~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1493684331807,5,0,"A very good coverage on creating interactive charts using various facilities such as plotly, google vis, and the shiny app framework.  The knowledge is very practical to be used immediately for my day-to-day work.",0,0,Philip To,1739649
+15199399~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1493572413280,5,0,"Great class, great series.  Still much to learn.",0,0,Joe Larson,15199399
+20058300~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1493201538001,5,0,Terrific for shiny and leaflet learners,0,0,Bharadwaj Duggaraju,20058300
+11749960~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1492780542122,5,0,Excellent course!!!,0,0,Carlos Araya,11749960
+14269768~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1492738284696,5,0,Great class!,0,0,Lun Xin,14269768
+9696002~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1492609109558,5,0,Great practical course !,0,0,Romain Faure,9696002
+8553639~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1492332840782,5,0,"Thanks to these courses, I program production planning and control software for the company I work for.",0,0,René Sebastian Kaup,8553639
+20569325~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1491856522006,5,0,Excelente curso!!,0,0,Edgar Isusquiza,20569325
+4693210~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1491437032241,5,0,"Excellent, relevant, and updated content and guidance through videos and assignments. If you work hard and use material from  previous courses in the specialization you can start to feel how you are getting somewhere. With the technology we learned in this course I feel I can now provide usable products that provide interactivity and promote better understanding of complex data sets.",0,0,Pablo Adames,4693210
+615611~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1490358490995,5,0,One of the best modules where you can learn how to apply the knowledge!,0,0,Fabio Alves Carvalho,615611
+15595101~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1489857179739,5,0,Great,0,0,Patrick Boswell,15595101
+1552333~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1489551260333,5,0,Very Useful Course.,0,0,Arun Padmanabhan,1552333
+8218909~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1489128387981,5,0,"very helpful and teaching. learning practical tools for producting data products. examples in the course are not very complex, but give a very good intro for several tools.",0,1,Idan Richman,8218909
+1135520~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1488179742412,5,0,Really had a great experience through getting hands on real projects,0,0,mostafa farouk,1135520
+14245942~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1488115148312,5,0,Really nice course! It extends our vision of what is possible to build as a data scientist. Strongly recommended!,0,0,Marcus Suassuna Santos,14245942
+20194046~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1487528222157,5,0,Real world learning experience. Thoroughly enjoyed it. ,0,0,Amol Nankar,20194046
+10672734~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1487242416982,5,0,Was a highly pleasurable and rewarding experience for me. ,0,0,Harris Panakkal,10672734
+21146046~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486955000223,5,0,"a great course, I know a lot of new stuff",0,0,xuanru shen,21146046
+21966~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486910112170,5,0,Great experience,0,0,Ricky Barry,21966
+12396477~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486848114136,5,0,This course is very hands-on and good for building quick prototypes.,0,0,Yuchao Ma,12396477
+20677762~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486483800465,5,0,V,0,0,Samir Ghoudrani,20677762
+694273~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486477877461,5,0,Nice,0,0,Larry Gonzalez,694273
+5691000~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486330290906,5,0,"A course where you can show everything learned in the R language, especially in visualizations.I hope and in the future there are courses focused only on visualization with R",0,0,José Antonio García Ramirez,5691000
+7793422~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1486000015119,5,0,Best coursera course I've taken so far!,0,0,Arnav Dubey,7793422
+8582938~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1485708728411,5,0,"the course i enjoyed most in this specialization. Learning to use plotly, leaflet and other tools was great",0,0,Leandro Meili,8582938
+7030801~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1484932778123,5,0,Top 3 course of this specialization.,0,0,Jair Garza,7030801
+195044~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1484321583122,5,0,Filled with useful information about practical tools.,0,0,Paul Broderick,195044
+5047702~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1483466716615,5,0,Great Course,0,0,Niharika Jeena,5047702
+14743571~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1483216842547,5,0,This course is packed with rich content that draws on all of the data science concepts in the other 8 courses. The best part is leaning how to use Shinyio so it is easy to share R analysis and visualizations. ,0,0,Regis O'Connor,14743571
+19305560~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1483082547384,5,0,Very informative,0,0,Geetha Subramanian,19305560
+738350~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1482862992554,5,0,"Excellent course, well delivered  and adapted that help  to build a structured output from a statistical analysis. I would recommend this course to anyone. ",0,0,JC C,738350
+17058851~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1482810470636,5,0,Very good!,0,0,罗星,17058851
+18685111~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1482715039191,5,0,very good course to understand on how to present your work in a very structured and repeatable manner. ,0,0,Srikumar Gopal,18685111
+17709483~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1481491599997,5,0,One of the best course.,0,0,Ghazouan Sabh,17709483
+4814759~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1480961546350,5,0,The final project was very cool!,0,0,Corey Berg,4814759
+997054~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1480767023921,5,0,Very good,0,0,João Pedro Schmitt,997054
+14234638~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1480523374781,5,0,Excellent content and very Practical,0,0,Ramiro Asturias,14234638
+17498071~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1480342630464,5,0,"Love this course. Many interesting features (Shiny App, Maps, etc.) that I will definitely use for my job.",0,0,Benjamin Schleich,17498071
+2140596~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1479261259500,5,0,Rewarding learning experience. ,0,0,Manuel X. Duval,2140596
+12027430~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1478746450736,5,0,Really nice course.,0,0,Pablo O Rodriguez,12027430
+2917977~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1478471081741,5,0,One of the best courses in the Specialization. Really great content.,0,0,Daniel Cialdella,2917977
+1105243~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1477305751437,5,0,Very useful,0,0,Patricio Cofre,1105243
+9985267~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1477001939702,5,0,"Great course, a lot of information!",0,0,Bruno César González,9985267
+19502262~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1473020432232,5,0,Had a lot fun developing my Physics App,0,0,Albert C Grover,19502262
+11484395~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1472916195159,5,0,Excellent Course!,0,0,Jay Shankar,11484395
+15037862~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1472356062131,5,0,Great Course.,0,0,Phanikumar Turlapati,15037862
+16166893~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1467153192606,5,0,Great Course!!!,0,0,Daniel Rosquete,16166893
+10878299~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1466957349309,5,0,very useful to design a data product.,0,0,Tan Woei Ming,10878299
+11996640~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1466845370031,5,0,Good introduction to a wealth of great tools and to the concept of data products.,0,0,Antonio Ferraro,11996640
+6242881~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1464690974524,5,0,It was a fun course. The final project allows more practice with Shiny.,0,0,Telvis Calhoun,6242881
+3225760~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1464681019122,5,0,Great work,0,0,Kribhan Maharjan,3225760
+626940~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1464631040203,5,0,The Shiny project was the best part of the course!,0,0,Sneha Godbole,626940
+12485671~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1463670539166,5,0,"Really enjoyed learning how to build a Shiny App, and see a lot of use for this in my work environment. The Slidify product was not as useful - after 3 months of working on the project, I moved from Slidify to RPres, and was able to complete the project in very little time.",0,0,Pam Markt,12485671
+16384367~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1463224448083,5,0,Easy tools to use and powerful,0,0,UDBODH,16384367
+16104033~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1463038263234,5,0,  Awesome Course !!  ,0,0,aditya narayan patra,16104033
+11134586~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1462301695276,5,0,Love this course and enjoyed the shiny apps building exercise.,0,0,Bassey Orok,11134586
+11175356~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1461773484236,5,0,"Nice I like a lot, shiny nice tools.  thanks to the teachers.",0,0,jose mendez,11175356
+136002~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1461202162662,5,0,good,0,0,Thuyen Ho,136002
+18445781~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460666281652,5,0,"
+Noiiice!
+
+",0,0,Artem Sergeevich Akopyan,18445781
+13061877~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460636654055,5,0,"The best course so far and pulls everything together, surprised how much I have learnt over the specilaisation",0,0,Paul Askew,13061877
+8268689~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460454239434,5,0,Nice introduction which allows to start using some tools to present results of the analysis.,0,0,Evgeniy Zabrodskiy,8268689
+10295148~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1460325245591,5,0,I greatly enjoyed this course. It helped me to improve my skills in the field of data science.,0,0,Giovanni Valentini,10295148
+9880562~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459706312645,5,0,"Excellent course, that helped me finish my own student project.",0,0,Falko Krause Cauduro,9880562
+6756287~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459679115071,5,0,"This is a very useful course in the Data Science Specialization that teaches us how to present the results of our data analysis using Shiny, Slidify and other R based data presentation tools. It also introduces open source charting APIs that we could use in our data analysis applications.  ",0,0,Nirav Desai,6756287
+13174965~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1459426013302,5,0,Fun making some apps and presentations in the context of Data Science.,0,0,Matthew Wilson,13174965
+3819209~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1458239752771,5,0,Awesome course really enjoyed doing the project.,0,0,Mani Khanuja,3819209
+1139235~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457957005196,5,0,This will help you jump from office applications to more self developed products.,0,0,Gustavo Esquinca,1139235
+580179~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457886269744,5,0,"Although  it is an easy course to pass, it is very important in content. It teaches the finishing moves, the ones you'll need after all your hard work. 5-star without doubt.",0,0,Ashutosh Baghel,580179
+11168531~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457360158529,5,0,Nice demos!!!,0,0,Avirup Nag,11168531
+8769299~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457106373597,5,0,Loved this course,0,0,Pradnya Chavan,8769299
+4327152~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457087183962,5,0,This is a great introduction to some of the many ways to present your data. It's probably the easiest course in the specialisation but shows off an impressive array of widgets and gadgets.,0,0,Stefan Stefansen,4327152
+14247838~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1457021389073,5,0,I loved learning how to build a Shiny application. I know this skill will serve me well moving forward.,0,0,Lauren Beach,14247838
+3778675~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456978411724,5,0,This one's a keeper -- learning to do both Shiny apps and Slidify/RPres will be quite useful in the near future. Thanks.,0,0,Kevin Stanford,3778675
+12711852~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456914210049,5,0,Developing apps with Shinyapp is so much fun,0,0,Rid Vesalius,12711852
+13639651~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456830650945,5,0,Very interesting class. Need to watch all external (shiny+slidify) recommended tutorial to fully masterize the subject.,0,0,Yohann B,13639651
+7590150~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456690139110,5,0,Great course. Very practical and state-of-the-art contents.,0,0,FERRAN BRIANSO CASTILLA,7590150
+5183844~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456165863935,5,0,"Saves the time to explore the options on your own,  nice one!",0,0,Ray W,5183844
+1942955~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1456068592816,5,0,It is a true practical course.  I love it.  Thank you for your hard works.,0,0,KK Yong,1942955
+9762588~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455767127676,5,0,"The course not only instroduce me to great resources it also pointed 
+me in the right direction to further develop the skills needed to create
+ data products.",0,0,Juan Alberto Jaimes Romero,9762588
+12193262~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455619197027,5,0,Excellent course with great didactic. Congratulations!,0,0,Giovanni Melo Carvalho Viglioni,12193262
+3510281~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455167142663,5,0,"Thank you son much!!!!
+I really like the course.
+It help me in my job =)",0,0,Diana Sánchez-Partida,3510281
+7192120~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1455057545851,5,0,"This Course was georgeous!!, i like the way of share my analisis, shiny rules!",0,0,Alejandro Betanzos Gómez,7192120
+8571565~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454975095464,5,0,"Very practice oriented.  After completing the Data Science Specialization courses with the course of Developing Data Products, I finally understand how important and useful R Programming is as a tool for research, data managing and inference making and for communicating results.  Excellent way to crown the specialization's courses.",0,0,Francisco Alejandro Olivas Alvear,8571565
+13690773~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454900470950,5,0,"After several back to back dense, high paced, steep learning courses in the specialization, this course is a welcome break. Its light, interactive and has a certain calmness about it. It touches several topics like shiny, manipulate, googlevis and plotly. As someone who has taken all courses in the specialization, I always wondered, how do I show my analysis to someone in an enterprise production environment and not as offline pdfs generated from rmd files. This course attempts to answer that question. ",0,0,Dheeraj Agarwal,13690773
+13916100~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454856246083,5,0,"For me the course was really interesting. Yes, all topics are not covered in deep details - but lecturers show what technologies exist and for what purposes. So if you're interested in some of them - it is up to you to discover more (useful links are included). Really nice and useful overview.",0,0,Chigrinov Sergey,13916100
+9132508~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454824605187,5,0,"This course is cooler than the title sounds. The emphasis is on developing data apps with Shiny. In my case, I had only part of a weekend to work hard on the course project, yet I was able to make a nifty little data app that even impressed a potential employer. Leave plenty of time for brainstorming ideas for the course project and you'll find it very rewarding too.",0,0,David Shupe,9132508
+11230828~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454788624032,5,0,The material is great; and learning to use Shiny and creating an application is a lot of fun.  The only complaint I have with this course was it being put into the new Coursera platform.  I felt like I was beta testing the new platform and that distracted from focusing on the course and the assignments within it.,0,0,Richard Ian Carpenter,11230828
+8243013~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1454309182193,5,0,"Good course. Teaches you to take advantage of Shiny, Slidify, GoogleVis and Rpubs ",0,0,Sai Krishna Gaddam,8243013
+12959097~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1452959282834,5,0,very interesting and useful for R programmers,0,0,Paul Gougis,12959097
+10758743~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1452346265158,5,0,Great introduction to available tools to get the job done.,0,0,Christie Myburgh,10758743
+9114864~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1450396899325,5,0,"The new platform is very versatile and easy to navigate.  The page layout is much more clear.  It is easy to navigate from course material to discussion boards.  I like the Quiz format, including expanding the number of choices for the multiple choice selections, but the grading was confusing.  For Quiz 3, some questions came back with multiple ""Well Done"" comments, even when I had not selected the answer for which I was being praised.  I also was told I made errors on the same question....   and this was after I answered the question (Question 2, on R generic functions) the exact same as I had answered it when I took the course earlier this year.I was not a fan of not having to take a picture to submit work, so I am pleased that is no longer a requirement.  I hope the typing pattern match is sufficient to affirm identity.I have one comment on content specific to this class.  Week 3 content lacks relevancy to the project and data products in general.  I agree that knowledge of R packages, classes, and methods is an important part of understanding R.  I am not sure where that fits in the Data Science curriculum as a whole, though.  Maybe expanding the curriculum to include a second, more advanced R class, with a project to write our own methods, build an R package, or do something with yhat.  That would assign relevant work to reinforce the lectures.I would be happy to do further beta testing.DCP",0,0,David Porcaro,9114864
+156511~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1450277034432,5,0,"This is very useful course and I using most of the items especially shiny and slidify, and other tools, I have recommended this course of all my colleages.  Now I'm writting my  reports with RStudio.",0,0,Leonardo Alvarado,156511
+13394706~COURSE!~3Vo3Am1LEeWMPAqsmzmVew,1449390638434,5,0,"This is my comment as a beta tester:1) The changes to the lessons have changed the course for the better.2) If you want to be factually right than the statement that Bootstrap is a style should be changed on a few places. Bootstrap itself is not a style, although it is used as a style guide for the development of products. Obviously this is not a big issue and people that delve into will find the facts easily. Bootstrap is an HTML, CSS, and JS front-end framework with a strong support for themes which people also call styles. Many themes/styles are available to build responsive, mobile-first web sites. Bootstrap was created by a designer and a developer at Twitter in mid-2010 and was released to the public in August 2011. It has become one of the most popular front-end frameworks and open source 
+projects in the world. Bootstrap has a few easy ways to quickly get started,
+ each one appealing to a different skill level and use case. ",0,0,Henk Scholten,13394706

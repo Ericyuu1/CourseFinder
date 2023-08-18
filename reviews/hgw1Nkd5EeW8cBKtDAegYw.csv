@@ -1,0 +1,767 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+56632980~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1661532009785,1,0,"Only course in this specialization where I've had any issues with peer grading system. It's like they had 2 or more different final submissions on a coupl eof the weeks and the software doesn't accurately serve up graded projects with their correct submission rubrics. For example, week 4 asks you to code a program using PWM to gradually light a LED and then dim it. Yet many of the submissions that I saw were related to the Twython project discussed in the videos yet the grading rubric was for the LED lighting. This course really jumped all over the place with topics and how they went together as well.",0,0,Steve Radabaugh,56632980
+90478280~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1640924133067,1,0,worst,0,0,AMLAN DEBNATH,90478280
+55617409~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1631715067578,1,0,I​'m enjoying the course! Thank you,0,0,Nawres Jouini,55617409
+2289254~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1497448633549,1,0,"A wonderful course, but the quizzes aren't unlocked until we pay up. Some of us cannot afford it and we do it only for the sake of knowledge. The verified certificate means nothing to us. You need to cater for people like us and unlock quizzes for those who are auditing the course.",0,0,Athindra Bandi,2289254
+16961559~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1487648837281,1,0,"The EEPROM project in week 3 is undoable with the specified simulator, as the simulator is simply not functional. I tested different computers, windows and mac operating systems, different browsers, different security settings, etc. Nothing works. The assignment is also way beyond the level of an introductory course. In addition, the complete lack of discussion forums attached to the course suggests that it is preferable to shut off discussion than to address the problems. Speaking of which, a search of the general forums indicate that this has been an ongoing issue since the latter half of 2015. Seriously, what the hell? Many people don't have a ton of extra money to throw away on garbage, and you are selling a defective product.",0,2,Marc Schawinski,16961559
+16363093~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1467344978593,1,0,Really bad explanation no code explain they left you on your own i'ts supposed to teach you not to left you undestand nothing they just teach components but the real thing the progaming is undeground no one knows that kinda weird :(,0,0,Isaac Israel Delgado Moctezuma,16363093
+2212779~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1463839904499,1,0,"Not in-depth enough. Just barely cover basics of Arduino and a few shields you can use, but fails to go on to build on top of that knowledge.",0,0,Ong Jia Rui,2212779
+148301~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1453724033976,1,0,"The course is almost about nothing. It seems to me that the teacher 
+didn't make enough preparations and make a lot of mistakes during the 
+couse. After 8 weeks of Arduino-related courses I've got almost nothing 
+new besides first 2 chapters of Arduino Starter Kit book.",0,0,Alexander Ignatyev,148301
+15920776~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451319466839,1,0,The professor was completely inadequate. Many parts were unsuitable for this course. He has eliminated the useful discussions among students without explanation.,0,0,Alessandro,15920776
+1222923~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448472660249,1,0,"No forum, what are you thinking!",0,0,Gerry Fillery,1222923
+48949360~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601486995156,2,0,nice,0,0,SUDHAKAR REDDY MALLAVARAPU,48949360
+39251211~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600194022701,2,0,Too expensive. You can find more information for free on YouTube. ,0,0,Monica W,39251211
+65118870~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597847209225,2,0,"The information is extensive, I learned a lot from the lectures and notes. However, the course is has so many problems with assessments. When peer reviewing code, I cannot copy the code and paste it in the Arduino IDE, what is this? More practice for typing code line by line into the IDE? The people doing the assessments are also a huge problem, especially so with the earlier courses, very little people put effort into submitting quality work, some submissions are even empty and contain some random text, and if you give them a low score they will give u a low score regardless of your submission quality. This course's assessment is crap and wastes a lot of time.",0,7,Soo Xi Wen,65118870
+53492477~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588014551237,2,0,"It was an okay course for a beginner. However, even for a beginner I would say it needs a lot more content. More examples, circuits and code should be shown by the instructor. For a coursera course its kind of a let down considering you can find waaaay more in depth and well explained tutorials for free. The instructor himself is a good teacher but, like I said, a lack of depth of syllabus and lecture materials really hurt this course. Still it can be a somewhat very shallow touch up on arduino basics. Honestly the 2 arduino courses can be just added together as one course. Kinda dissapointed.",0,0,Rayeed Rahman (Anando),53492477
+30218689~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1579118021277,2,0,not bad,0,0,손승건,30218689
+15274380~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1574156080452,2,0,"Peer graded reviews are very painful to complete, since they may or may not be graded by other students. Moreover, even after being graded, coursera does not automatically mark my course as completed.",0,1,Saksham,15274380
+20285257~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525872446864,2,0,week 3 is in Russian.please don't register thinking it's in english.,0,0,Reshma Immaculate R.,20285257
+5005771~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1483819048779,2,0,It seemed like the assignments didn't really follow the videos and such. I'm coming from a python background and am totally new to  c/c++.. I spent close to 3- 8 hr days trying to figure out how to code a simple read/write to EEPROM .  This specialization really needs to spend equal time on the programming aspect.,0,11,Don Scroggins,5005771
+9406029~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1483446204389,2,0,The weeks 1 and 2 are really good!!!! The weeks 3 and 4 are going to fast and the things that are teached are not connectes with each other well. So its impossible to do the assignment 3 and assignment 4 has nothing to do with what is tought in week 4,0,8,Sidiropoulou Nikoleta,9406029
+1224316~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455409150246,2,0,"I do like the course, but Coursera has disabled discussion forums for this course, which makes it impossible for the students to interact and find answers to problems or discuss possible errors in the example code. Student interaction is one of the strongest aspect of MOOCs. Without it, this might as well be nothing more than a series of YouTube videos. Had Coursera not discontinued the discussion forums, I'd have given this course four or five stars.",0,4,Jim Meyer,1224316
+8736860~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451233764321,2,0,"I did not feel that I learned as much in this course as in the previous courses of the series.  The assignments in particular seemed trivial, and were compromised even further due to some technical problems with the simulator recommended for students without access to actual hardware.This course would be a good candidate for revision, with a focus on gradually increasing the depth and complexity from stage to stage, and on commonly-used components such as current amplifiers and shift registers.  Problems with the simulator should not be cause for compromising the assignments themselves, there are other ways to address those problems, many of which were employed by students as they competed their assignments.",0,0,Steven Parker,8736860
+4798599~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449685644869,2,0,"It was a very enjoyable course up till the end of module three where things went a bit awry; mosty due to the unexplained withdrawal of the discussion forem and the failure of the third party platform to perform correctly at 123D (which left us doing assignments that couldn't be completed with the assigned tools).A big part of the fourth module was about connecting and communicating with the internet via ethernet and wifi. That was a bit lost on me, mainly because i didn't really appreciate why i should want to (I can understand many reasons, but none felt very close at hand). I think it would have been more enjoyable with useful examples and practice.Ok, the course is still worth doing, but i think there is much room for creating a smooth and enjoyable learning process. It felt more like a beta version.",0,1,Lionel Marrion,4798599
+72137928~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1655818070807,3,0,пееее,0,0,ІК-02 Мартинюк Ростислав,72137928
+88640153~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628988300184,3,0,I will encorage the team to icnrese the level of comitment and expectation from the students by impemebts more hands-on projects.,0,0,Daniel Perez,88640153
+83807280~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628359403044,3,0,good,0,0,AKASH RAJENDRA SAGAR,83807280
+60576880~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616231722120,3,0,"fine but not the best , while comm-paring  to google ",0,0,Sudharsan Manickasundaram,60576880
+66846302~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1614155098611,3,0,"There was not much to learn. If you want to learn to code for the arduino, you better watch tutorials in YouTube.",0,0,Ivan Guerrero,66846302
+26788389~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1610507857812,3,0,ok,0,0,Cyrus,26788389
+69497905~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600043589823,3,0,"I enjoyed the course. However, there is no interaction with the instructor to clarify assignments for example. One big issue is that during peer reviews, fellow participants submit assignments that maybe unreadable, such as pdf not opening correctly or to review arduino code, you are unable to copy and paste the code into simulation to test it.",0,2,Stephen Attai,69497905
+67996963~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599833218173,3,0,"Only peer-reviewed assignments are available, which decreases the overall quality of the course. I can't remember how many times I have reported plagiarised assignments ripped out of the same site.  ",0,2,AYDIN MEHMET KEREM,67996963
+68073703~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599494201261,3,0,Not enough practicing and examples,0,1,Eng-Ahmed Sameh,68073703
+38200021~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598070528335,3,0,"The course content is a bit questionable. I enjoyed the previous courses but I expected more from this course. Rather than diving into too deep on codings and internal works, I'd like to see things in a practical environment. How to get a design success and how to achieve a plan via your ideas etc . Basically, Id like to have a more practical approach to this course",0,2,lasitha marasinghe,38200021
+45158228~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594575867583,3,0,This is a good and easy to understand course but the thing that i felt is that this is not providing good practical knowledge on how to apply and make a project rather this just simple overview & quizzes and assignments are also very very easy.,0,2,Utkarsh Shukla,45158228
+60424102~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592119096325,3,0,the assignments and videos dont match for 3rd module. the assignments are way too tough.,0,2,Ritvik Dixit,60424102
+5856410~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591939208997,3,0,Could have dealt more with web connection,0,0,Arunkumar N,5856410
+56617025~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591877412552,3,0,Course was nice but still it need some additional topics to be add on.,0,0,shivansh sharma,56617025
+44494274~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585933137059,3,0,good course,0,0,Rayyan Khan,44494274
+45344253~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1576999443031,3,0,CAN WORK MORE ON VIDEO LECTURES BECAUSE THE ASSIGNMENT AND VIDEO LECTURES ARE NOT RELATEABLE!!!,0,4,Karan Paresh Powar,45344253
+5995581~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1560404200203,3,0,I like a certificate would be great if the instructor gave more specific information,0,1,Carli stoliar,5995581
+37323778~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1554651246249,3,0,late peer reviews,0,1,sri sai viswanadh,37323778
+36076662~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1549849005357,3,0,Great demos. The exercises could use improvement; too much requisite knowledge of C. Led to alot of cheating.,0,2,Justin P Ziegler,36076662
+34737725~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1544618626235,3,0,Great course. but  the  problem is that you have to pay for submitting assignments/test,0,0,Naveen,34737725
+18464591~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1533693864970,3,0,"The course should be updated with some practical applications of Ethernet and Wifi shield. Even though, I understood the steps but unable to visualize the applications",0,0,Yashovardhan Mopur,18464591
+2153460~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480911765443,3,0,I took this course before when everything was still free... too bad I can only audit the course now. still good course though! :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :),0,0,Garrett Villoria,2153460
+1558561~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1475855415839,3,0,The Good:Very palatable content and provides information at a very slow pace for ease of learning.More reasonable content and far more worthwhile than the first Arduino course of the series.   The Bad: Not worth the money when looked at generally. The first and second course could easily have been merged. A lack of introduction to electronic circuits also hinders full use of what is being taught.,0,0,Matthew Schlebusch,1558561
+17112919~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465913686552,3,0,"Muy interesante, faltaron los foros de discusión e interacción con el Profesor",0,0,Giancarlo Valencia Sotomayor,17112919
+5503196~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465116179250,3,0,I don't like to tie quiz to the paid course,0,0,cristiano vanzolini,5503196
+16778379~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1459623324964,3,0,Not that detailed stuff.,0,0,Abhishek Kabra,16778379
+6084630~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1458149516148,3,0,Very well Explained.Tried to cover basic in very systematic way.,0,0,Shubham Bahl,6084630
+3624863~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1454202858645,3,0,"Interesting course, however more examples could be included",0,0,Martín Durante,3624863
+2229989~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1453992231622,3,0,The course is good but I'd like a more complicated one. This is too easy.,0,0,Jose Ramón Montes Catalá,2229989
+2992432~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452358776463,3,0,the pace was too fast. it would have been nice if there was any a complete but simple example after teaching each concept. specifically regarding I2C everything was in rush.,0,0,Mehdi Orouji,2992432
+195046~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450281905836,3,0,Course contents are fine.Unfortunately the absence of a course board where students can discuss and eventually receive help from the teacher has an bad influence on the course overall rating,0,0,Matteo Lovato,195046
+3093813~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449743131327,3,0,Need to update assignments,0,0,Aleksandr Ekushev,3093813
+765428~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448910319479,3,0,Not really in debt treatment of the subject. Lacks realistic applications.,0,0,Geert Hofman,765428
+24514449~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1673016845452,4,0,programming part ,0,0,Shiv Kumar,24514449
+70516002~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1661792235894,4,0,Awesome course to learn about some fundamental conecpts ,0,0,Shehan Sooriyaarachchi,70516002
+14731879~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1646685205805,4,0,"Excellent, step by step learning.",0,0,Martin van Egmond,14731879
+97670527~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1645973874199,4,0,"Foi muito bom, só faltou exercícios para que possamos praticar.",0,0,Marcel santos Calheiros,97670527
+77027268~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1636387235852,4,0,"A great course. however, I think some topics needed more basic details.",0,0,MohammadMehdi Farzaneh,77027268
+91112438~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1632316698511,4,0,very good,0,0,I VISHAL KUMARAN,91112438
+42416239~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1632034068763,4,0,"Does a good job of explaining, but does not seem like complete information",0,0,Fadil Meraj,42416239
+73363820~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1629869694152,4,0,Good Course,0,0,Sayan Desarkar,73363820
+45639214~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1627108173946,4,0,i learn lots,0,0,Pintu Pandit,45639214
+57976707~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1624241992705,4,0,it's a good experience ,0,0,MUDDADA TEJESWARA RAO,57976707
+61096930~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1623852621670,4,0,This course provides a good overview of the different elements related to interfacing with the Arduino platform.,0,0,George Harold Marshall,61096930
+81606671~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1623756863359,4,0,This course opened up an entire new plethora of opportunities for me. Never thought such exciting concepts would just be a click away!,0,0,Abhijit Panda,81606671
+86000766~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1622259385085,4,0,sin comentarios,0,0,Fernando Sarango,86000766
+34998131~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620294275054,4,0,Nice content. Could go into more detail.,0,0,Andreas Rigas,34998131
+75975248~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620030156898,4,0,"It is a very good beginner course, but we could have gone deeper.",0,0,Darshan K S,75975248
+69774064~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616943308600,4,0,cours très intéressant je appris beaucoup des information,0,0,ElMoukhtar AMAR,69774064
+80490739~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616697186479,4,0,a good course,0,0,Dhruv Jain,80490739
+71968426~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1610271347967,4,0,THE INSTRUCTOR WAS TO GOOD BUT THE CONTENT WAS VERY LESS ON SKILLS LEVEL,0,0,SYED MUZZAMIL ALI SHAH,71968426
+4710987~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1609417332275,4,0,Very good for learning Arduino and for beginners,0,0,Harshad Golatkar,4710987
+74889200~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1608925540218,4,0,For a basic understanding of using an Arduino this course is great.   Im hoping the courses get into greater detail when it comes to how to using complex functions.   I have a great base to know where to find resources now for my own projects. ,0,0,Robert Gould,74889200
+27593902~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1605431016346,4,0,Great Learning Experience. ,0,0,Murugavalli Elangovan,27593902
+74193719~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1604227114839,4,0,The lecturer is slightly boring but a 1.5x speed resolves it!,0,0,Renz Canoy Linga,74193719
+49555850~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1603803322492,4,0,"course is very nice and it gives me good experience  but I suggest to provide the IDE in the course itself ,thankyou ",0,0,GOLLAVILLI SANJAYKUMAR,49555850
+62972844~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1603004517357,4,0,A good introduction about internet and explanation about different communication types.,0,0,La Wun Nannda,62972844
+62943951~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602305061284,4,0,Very good teaching of concepts,0,0,Abdulqadir Nulwalla,62943951
+38645589~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601314833855,4,0,nice course,0,0,med amine gaaloul,38645589
+56171977~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600183573916,4,0,Good Course. Before doing this course first go somewhere and learn String Manipulation in Arduino IDE.,0,0,Md Arman Naser,56171977
+57343820~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599924359355,4,0,nice course ,0,0,PALASH KACHHWAHA,57343820
+57560835~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599809098020,4,0,Reviewing system after submission of Assignment Its to bad It not provide assignment easily we have to wait for lots of days. otherwise content is great,0,0,PARTHKUMAR MANSURIYA,57560835
+57549278~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599654345015,4,0,good and informative course,0,0,HARISH A N,57549278
+66323259~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598883396833,4,0,"The only minus is that there are no discussion forum and many students do empty assignments or upload others works from internet without any editing, and I have to check this and they check mine... ough... ok On the other hand I can now control something at my home over the internet. good course",0,0,Vitali Netribiitshuk,66323259
+55911260~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598704853707,4,0,It is a great online course with full of practical experience.. Thank you..,0,0,DEEP CHAKRABORTY,55911260
+58117912~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597733370929,4,0,Very gud ,0,0,Saikumar Chalapakula,58117912
+30641943~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597458775739,4,0,Overall the course was very nice and informative,0,0,Vaishali Kulkarni,30641943
+66573677~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596777423051,4,0,Overall it is awesome. ,0,0,Muralidhar Reddy,66573677
+62347254~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596118600667,4,0,nice and informative,0,0,KULKARNI YUSUF ASIF AHMED,62347254
+65603896~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595959151423,4,0,"the assignment should be explained more, a person without prerequisite knowledge of programming can do it",0,0,Babawale Olarotimi Daniel,65603896
+57754291~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595387663134,4,0,k,0,0,GARVIT GAHLOT .,57754291
+55525530~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595187954268,4,0,Awesome...!! ,0,0,Devidas Narendra Ingale,55525530
+57183539~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594881659532,4,0,good for beginners,0,0,YACOUBOU ABDOULAYE,57183539
+56033277~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594479336321,4,0,The course needs a lot more additional lectures to complete the programming assignments. So only someone with pre-acquired knowledge will be able to complete the assignments (code),0,0,Nathan D’Souza ,56033277
+64739981~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594292197862,4,0,"The course did give a basic knowledge about interfacing with arduino. Easy to undersatnd language was used, concepts required to be explained in more details though. will surely recommend other friends",0,0,Keshav Keshav,64739981
+55995449~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594041423804,4,0,very informative,0,0,Vinitha Venkatesh,55995449
+56332380~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593406354442,4,0,Nice one.,0,0,JOYDIP DAM,56332380
+62324529~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593243898980,4,0,Please include a discussion forum in the courser,0,0,Siddhant Saka,62324529
+17242799~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593098951016,4,0,esta muy bien el curso aunque es para principiantes,0,0,Juan Miguel Colores Vargas,17242799
+57670644~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592461949888,4,0,Good course for beginners.,0,0,R V SREEHARI,57670644
+12226945~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592134342521,4,0,A really nice course which helps you learn how the sensor communicate with arduino. However a little shallow in approach towards wifi and ethernet shields.Week 4 was little superficial and not had depth about how to code and use library. But anyways a good course. A lot could be improved like providing more coding assignment and explaining how to use different shield. The basic approach is taught and it would be sufficient to start coding using sensors which are basic like pushbutton and leds.,0,0,Aarya Pandya,12226945
+41209266~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591763152721,4,0,It was an amazing course.,0,0,Anvs manideep,41209266
+55986703~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591426204092,4,0,Good,0,0,Hiranmoy Mandal,55986703
+58735424~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591335017089,4,0,Less practical knowledge and less focus on how to program,0,0,Rajveer Singh,58735424
+5635722~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590768400254,4,0,"Quick introduction to the Arduino, though I expected there to be more programming/interfacing assignments.",0,0,Steven Chew,5635722
+42602440~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590748362341,4,0,"over all course course content is well, better use of shield and more hardware components. but explain programs of Arduino in detail.",0,0,Rajab Ali (Father Name:Hadi Bux),42602440
+37979050~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590674692101,4,0,"One of the drawbacks of this course is Peer Reviewed Assignment. It often ends up in plagiarism where one guy copies work of another. I was the victim twice in this course and it frustrates people like us and spoils the course. Also, some people review without going through the complete submission, like they just want to make the 3 numbers required for peer review. I strongly suggest to come up with better transparent system and different kind of assignments.Overall, the course was good and I learnt new things.",0,0,Navneet Kumar,37979050
+57500206~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590384109091,4,0,This course is so good to help the students who want to learn in deep in arduino interfacing and it's a well prepared lectures with assignments.,0,0,Kothadiya Princekumar Balkrushna,57500206
+60017689~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590138027492,4,0,It was  avery good course,0,0,Chettipelli sushma swaraj,60017689
+55666715~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589698244367,4,0,Good,0,0,Manish chetiwal,55666715
+55493415~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589446780105,4,0, Good Knowledge gaining .,0,0,Suwarna,55493415
+49183271~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589285134210,4,0,good,0,0,Mallikarjuna Reddy Yennapusa,49183271
+30536418~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588585322938,4,0,"The course has enough content to get knowledge of Arduino but, few tutorials on programming the device on our own can be included.",0,0,Siva S,30536418
+41736249~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587396034129,4,0,good course for understanding internet connectivity with arduino,0,0,Susmith Das KK,41736249
+45223705~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587272317970,4,0,"expected it to teach a bit more, because as a student i wasn't being able to grasp the whole software of arduino fully especially the programming",0,0,Anubhav Dutt,45223705
+29614734~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585579341165,4,0,This course could be more practical,0,0,Milad Sharifi Tehrani,29614734
+23553864~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578308540746,4,0,This Basic course on arduino helps a lot,0,0,MANIKANTA KUMAR PILLI,23553864
+45479141~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578211370797,4,0,ok,0,0,PATIL ANIKET SANJEEV,45479141
+47135942~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578039525244,4,0,Week 4 is very tough for the beginners. It should be more Interactive. Elaboration of details of shields and there basic is necessary.,0,0,SHUBHAM ASHVIN BHAVSAR ,47135942
+38449776~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577336575660,4,0,Good,0,0,Akundi Sahithi,38449776
+45615769~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1576524954956,4,0,Its very good course knowing about arduino interfaces and sheilds,0,0,Abdulaziz rashid,45615769
+44638783~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1575287498087,4,0,4 star,0,0,Jatin Garg,44638783
+36594280~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1573276634833,4,0,Very resourceful course,0,0,Nachimuthu N,36594280
+13100754~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1572691512157,4,0,"Please include more programming assignments, i'd suggest to include miniature programming assignments and quizzes, after a few videos so the student can get used to programming within Arduino. ",0,0,Rafay Alvi,13100754
+45385153~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1571153438374,4,0,"the course is excellent but for the last module, the production of the board being taught has been stopped. the board has retired. so for the last project we have to do a project with another board. otherwise the course is fantastic",0,0,Shubhankar Kulkarni,45385153
+32838191~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1566114687695,4,0,more projects should be involved,0,0,vikas chandoliya,32838191
+37398186~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1565812418902,4,0,-,0,0,Luis Miguel,37398186
+6528688~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1561728786841,4,0,"I expected less of this course after the previous one, but I do recognize the improvement from the previous to this one. There is ONE thing that makes me give it 4/5 instead of 5/5, and it is that it is way too easy for advanced developers, but a bit to fast paced and difficult to complete rockies. Anyway, good job.",0,0,Eric Ciurana Marín,6528688
+9257366~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1558514922830,4,0,good,0,0,George Spak,9257366
+39262256~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1558157316891,4,0,good one with better explaination,0,0,Sushma Chagarlamudi,39262256
+36245517~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1554871090369,4,0,good,0,0,shrey patel,36245517
+32206168~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1547880804849,4,0,assignments too easy except for week 4. The course should have covered more interfacing problems. ,0,0,Bhargav Desai,32206168
+34097392~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1542887010454,4,0,"for an introductory course, it is nice",0,0,Aditya Vandan Sharma,34097392
+36192618~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1538918423278,4,0,Task difficulty need to be increased along with time,0,0,RAJENDRA KUMAR R,36192618
+34996510~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532153025195,4,0,good,0,0,makireddy purushothamreddy,34996510
+35020325~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532148380290,4,0,excellent course tq,0,0,Murali Chavadi,35020325
+16152492~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531920424532,4,0,there should be more practical application not only the assignments ,0,0,Ahmed Mabrouk,16152492
+34711860~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531558627833,4,0,Good,0,0,Uttradi Kishor Chandrakanth  Kumar,34711860
+34361465~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531475632114,4,0,well lecture,0,0,V Ashok Chakravarthi,34361465
+860710~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530061333912,4,0,"This course is very interesting, You get to play around with Arduino itself and if you practice enough you'll get the hang of what goes where and why. The theory part is a bit heavy and if you don't have any IoT / Coding background it would be tough to pick up.",0,0,Galia,860710
+34557600~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529921138647,4,0,'excellent,0,0,GOOLI ANJALI,34557600
+34575067~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529903782184,4,0,nice,0,0,SHAIk ARIFULLA,34575067
+18478253~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526930404552,4,0,"Okay, but this course should be updated. Some links are old or broken. Also you should mention Arduino Create, which is a web app that has its own Arduino online IDE plus various other tools for IoT. I expect these tools should at least be mentioned in an IoT course based on Arduino.https://create.arduino.cc/",0,0,Alberto Iannaccone,18478253
+33739686~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526110126423,4,0,Good,0,0,MORLA KISHORE,33739686
+31958086~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526109974321,4,0,good,0,0,Karthikeya sarvagni Duggirala,31958086
+29601249~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525181027114,4,0,quick course for people knowing nothing about electronics,0,0,Wei Xie,29601249
+17068467~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1523552570704,4,0,. ,0,0,Eric Barmes,17068467
+26356804~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1521602608099,4,0,I,0,0,Lim Theng Hong,26356804
+29879049~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1520571190831,4,0,goog,0,0,Suresh Kumar Bakiru,29879049
+12683250~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1518557109733,4,0,A forum would be nice.,0,0,Glenn Alan Putman,12683250
+20909451~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1516047293904,4,0,Easy and practical course.,0,0,abdulkader hasan,20909451
+27673465~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1514727636315,4,0,Only comment is that the assignments in the last 2 modules did not relate to the content of the modules. This is ok so long as you warn the user. I spent time thinking I was doing the wrong thing because I could not relate the lectures to the assignments. Turns out I was fine.,0,0,Dave Keenan,27673465
+14280398~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1511143191221,4,0,The course describes the technical aspects of the arduino. I would like it to be more practical and focus more on learning about tools and applications than on hard theory.,0,0,Felipe Cabrera,14280398
+28660100~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1511021143468,4,0,"More emphasis on coding could have been more helpful for me, otherwise this course was awesome!",0,0,16_091 S. M. Sakeeb Alam,28660100
+3439272~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508896122007,4,0,Really great! The professor is excelent!,0,0,Marcelo Lima,3439272
+23835969~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508874902836,4,0,Good course,0,0,Rahul Mandal,23835969
+24693731~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508728323623,4,0,"A bit slow at times, but overall a good course to learn the basics to program an Arduino.",0,0,Matthias Loeser,24693731
+5641293~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508229451163,4,0,Interesting class,0,0,Jerome Bodin,5641293
+24449163~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1507315425820,4,0,Good practices.,0,0,Joaquim Brasil de Lima Filho,24449163
+5920601~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506383086266,4,0,"Ian gives a very good overview of electronics and Arduino.  Even if you've never used an Arduino before, or have no electronics background, you'll have no trouble keeping up with the coursework.  I've been using Arduino for a couple of years and I learned a few things along the way.  This is a great course!",0,0,Brian Wall,5920601
+26185272~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1501287559133,4,0,Good for beginners.,0,0,Damodharan Chandrasekaran,26185272
+17326724~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1498481285786,4,0,Very good and organized but need to know the codes written,0,0,Abdelrhman Abokhtaby,17326724
+22420169~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1497255968893,4,0,"Generally good! It would have been better if there are additional real-world exercises for Arduino,",0,0,Vin,22420169
+8558397~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1495403215896,4,0,This course covers the basics of inputs and outputs on the Arduino.  There is no discussion forum for this course so it's impossible to get help from other students or moderators.,0,0,Ali Etezadkhah,8558397
+1756302~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1493765667521,4,0,"Great class with a great teacher, but lack of a forum to discuss ideas and problems severely limits it.",0,0,Michael Barkelew,1756302
+980862~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1491348964488,4,0,  Need a discussion forum.  ,0,0,Steve Youschak,980862
+9206100~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1489625207057,4,0,"enjoyed the last weeks taking this course and assignments, I would recommend any person to take this course.",0,0,Baci Nassim,9206100
+19274206~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1486975094442,4,0,The lessons were really interesting. However the projects could be improved I think.,0,0,Paulo Albuquerque,19274206
+16495418~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1485783346570,4,0,It was a great learning experience.Will be coming back for more. Thank You ,0,0,Kaustubh,16495418
+21337303~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1484916803703,4,0,The course was good enough to cover all the basic of interfacing with an arudino and the tutor has done a good job at helping with the basic as well. I would like to thankyou for this good course,0,0,Rajakumaran C,21337303
+16610770~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1484609121631,4,0,Very good for starting with this beautiful and powerful interface! I really like it!,0,0,Andres Bautista,16610770
+22964211~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1483886682194,4,0,This one is really a good course. Content is more difficult than the previous courses and learners have to put more effort in order to understand all aspects. ,0,0,Teo Protoulis,22964211
+7110101~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1481396063209,4,0,Fairly straightforward course. Could go into more depth for each topic.,0,0,Justin Cechmanek,7110101
+20306438~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1479307174968,4,0,Should have included more relevant content,0,0,Abhijith Ravindran,20306438
+8634289~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1476448283577,4,0,Exercises should be more challenging.,0,0,Deleted Account,8634289
+514054~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1475843443915,4,0,"Really good for someone who is working with sensor, actuator, bread board for first time.",0,0,Manish Kesarkar,514054
+2833012~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1475141386309,4,0,Follow up to Arduino Platform and the C programming language.,0,0,Srikanth Jyothi,2833012
+14482952~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1474354268127,4,0,"Very useful course. Yet, as an electronics engineer, i felt it could have been better if it's even more detailed. Nevertheless, i strongly recommend this course to others",0,0,Prasanth Thangavel,14482952
+19656279~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1471688645996,4,0,"cool , i like it but if it has some thing more  like sensor it was be better",0,0,Mustafa Younes,19656279
+13682828~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1470810579070,4,0,Loving this course,0,0,Deleted Account,13682828
+2649148~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1469738686573,4,0,"Good. I wish it was more extense though. It leaves you hungry.
+
+",0,0,Dario Albertocchi,2649148
+16738590~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1468537823177,4,0,very nice course...although i believe it should have had more demos and projects,0,0,saurabh nanda,16738590
+128495~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1466741795240,4,0,"for new people to arduino, its a good introduction but very basic
+
+",0,0,Francisco Javier Nacher Verdeguer,128495
+17553723~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465957463995,4,0,"So good,but I think the examples should be using the Arduino IDE, writing the code, not just ""Open the example Fade...""",0,0,Julio Alvarado,17553723
+2067240~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465456461539,4,0,Some more hands-on examples on shields will add more value.,0,0,Subramanian Iyer,2067240
+18280987~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1463082406895,4,0,Nice explaination by the professor.,0,0,SHREYAS M,18280987
+3583095~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1461286418571,4,0,"Quick overview of the Arduino platform. Since I was new to Arduino, it helped me gather key concepts quickly and effectively. The peer-reviewed grading process is something that can be improved.I think the course should have covered some more concepts in detail that are relevant to IoT devices - for example, interrupts and their usage, detailed discussion of the SPI protocol.Also, more elaborate treatment of how to implement security in communication over internet with Arduino would have been great.",0,0,Sampath Vanimisetti,3583095
+13556146~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1459165966496,4,0,Nice Course but need more topics to be Covered. Thank You.,0,0,RAJPUT RAJ GOURAV SINGH,13556146
+15284876~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1459111282457,4,0,good and very nice,0,0,Ahmed Hussein bin shehab ,15284876
+11096206~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456832375505,4,0,Good hands on elements. A little bit brief on important coding elements.,0,0,Christian Dalzell,11096206
+2196692~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455600506266,4,0,Could have been much better.good for newbies! ,0,0,abhishek srivastava,2196692
+6997416~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1454612779702,4,0,"This is a very basic course in using the arduino and having it communicate with various other devices. It is not a bad thing to have such a basic course exist, it is a good thing, but there are definite flaws in the course, the main ones being the grading system for the assignments and the lack of a place to go for clarification of the assignment / grading questions.Both the penultimate and the final assignments require a certain amount of extra research and learning beyond what was taught in the lectures and yet the grading instructions for the assignments did not allow for taking that into account; the grading criteria was either binary (grade of 100%, or 0) or had the possibility of a partial passing grade but without listing a number of possible criteria that would put a project into the partial passing grade category. ",0,0,Hawley Waldman ,6997416
+12866053~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452459670881,4,0,"Good course. Prof. Ian is very good. Only I miss a deeper discussion, more complete examples and assignments. Thanks a lot. ",0,0,Marcelo Rovai,12866053
+10797684~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450799472333,4,0,"The teacher is didactic and the material is good. But the course content is too superficial. Because of that, it is really easy to complete it in only one week or in a weekend. The second course: ""The Arduino Platform and C Programming"" and this one could be merged into one.",0,0,Bruno César Sartori de Araujo,10797684
+5587605~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450198893978,4,0,IOT more examples should have been covered and also assignments for IoT would have been better.,0,0,VINAY KULKARNI,5587605
+7753861~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450107332763,4,0,Recommended for all novice people that want to learn Arduino. ,0,0,Raul Ignacio Ramos Garcia,7753861
+4064088~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450075543600,4,0,"I liked that this course took the learner through using a couple of Arduino libraries and required video submission to demonstrate circuit operations for the weekly projects. It would have benefited from a few more requirements for the projects, especially the last one.",0,0,Mark Schaefer,4064088
+10275658~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449869494202,4,0,Quite nice course. Easy going.,0,0,Jussi Salonen,10275658
+90744~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449421619057,4,0,Good and well structured course.,0,0,Paul Isaris,90744
+1842457~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449388255489,4,0,"I feel that the course did successfully help me to get started in this area of computing. My one disappointment was the removal of the traditional forums/discussions from the main body of the course, although it was possible to discuss things in a single discussion area. This made it less easy to discuss specific questions relating to your current assignment. As before I thought the practical demos were very good. I'm pleased I took the course - I wouldn't have made such good progress working on my own. I hope the Raspberry Pi related courses reinstate the internal discussions - they add to the sense of a common goal being achieved and recover some of the things that aren't available in a MOOC where face to face student/professor interaction aren't available.",0,0,Alec Kennedy,1842457
+7031498~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448294261585,4,0,Good overview of the arduino using practical assignments,0,0,Priyank Singh,7031498
+35642724~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1675662038875,5,0,Awesome course and straightforward lecture materials for beginners like myself at the time of writing this review.,0,0,Tayo Omolola,35642724
+121405017~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1675064162982,5,0,It's great for anyone looking to learn more about Arduino,0,0,Dzikri M. Noor Kholish Wafaq,121405017
+97962397~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1664312124382,5,0,I​ admire the way of teaching.,0,0,Lalit,97962397
+18911796~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1663082363697,5,0,E​xcellent,0,0,Luis Villamagua,18911796
+108216811~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1658227503146,5,0,"It was an excellent  course, I got a lot of information about Aduino, how it's work and how I can use it. I will join another course soon.
+T​hank you so much.",0,0,Abdulnaser Yaseen Hussein Ali Al-Aswadi,108216811
+73910278~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1649507139480,5,0,thank you,0,0,Debarun Nayak,73910278
+92981297~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1646765341118,5,0,was very helpful,0,0,Vamshi Thumu,92981297
+98401187~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1643960856606,5,0,awesome,0,0,KRISHAN GOPAL,98401187
+41004242~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1642603900779,5,0,Chapter 3's  work is little bit hard to begginer.,0,0,KATSUTOSHI MATSUI,41004242
+65260821~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1641796100840,5,0,Good,0,0,Jishnu S Kumar,65260821
+94916742~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1640675467351,5,0,GOOD WAY OF TEACHING,0,0,AKASH KOTNI 20BEE1036,94916742
+94759508~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1640507961134,5,0,This course really helped me to get through the basics of Arduino an d working and implementing the concepts that we learned in the college. A great lookout for anyone getting started with Arduino and interfacing with it.,0,0,Shiv Shikhar Sinha,94759508
+93572539~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1640226559503,5,0,good,0,0,Tushar Maurya,93572539
+95196006~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1638332947621,5,0,This course was really helpful and I learned many new thing from the course ,0,0,gowtham .b. h,95196006
+93216399~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1638178240805,5,0,Good course for intermediate who want to learn about Arduino ,0,0,Huỳnh Chí Thiện,93216399
+94847878~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1637854871806,5,0,It's good,0,0,Shibam Das_604,94847878
+96035750~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1637300447767,5,0,Good Course and i will  continue learning,0,0,Ryan Joseph Aliling,96035750
+91584187~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1636207844749,5,0,"Very clean, precise and to the point course. Immensely useful if you are absolutely beginner level to Arduino and IoT.",0,0,Mayukh Mukherjee,91584187
+90389100~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1635272364657,5,0,superb conversation,0,0,SOUVIK DAS,90389100
+22810679~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1635005163045,5,0,"Short and gets to point without wasting anytime, level is appropriate for all people. ",0,0,Isra Sayed Mohammed Ali,22810679
+90339201~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1634795964131,5,0,GOOD,0,0,TRINIKA DAS,90339201
+95451692~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1634743229973,5,0,such a Useful Course.  loved it It Looking forward to Join more Courses :),0,0,Hemanth GN,95451692
+94292281~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1634233960108,5,0,good,0,0,AMAL MOHAN,94292281
+90545628~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1632126249086,5,0,"I learnt lots of things about Arduino, Shields. Demo videos are also vey interesting. Choosing this course was one of best decisions I've made for my future. Eventually, Thank you Coursera for giving me this great opportunity.",0,0,Arampath Mudiyanselage Saliya Sampath Kumara Ranasgalla,90545628
+57589892~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1631754568161,5,0,perfect ,0,0,Lina Muhammad Ali,57589892
+91983068~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1631552205846,5,0,Wow,0,0,BASILBABU,91983068
+47368934~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1631383641331,5,0,"A well-organised course on arduino interfacing. I have learnt a lot of things from this course such as: shields of arduino, ports, communication and much more.",0,0,Muhammad Arif,47368934
+67959403~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1629374248432,5,0,Practical Assignments were great,0,0,ADITEE MATTOO,67959403
+84568475~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1629092661097,5,0,good,0,0,Aritra Ghosal,84568475
+88767488~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628973235808,5,0,Nice course and all things were clearly explained,0,0,068_Gaurav Chakraborty,88767488
+49809042~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628927430960,5,0,"This course is awesome for beginners because they will learn new and useful concepts for their future.Thanks professor Ian Harris and coursera.
+
+
+
+",0,0,sajad ghadiri,49809042
+78347407~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628919555611,5,0,nice course,0,0,Kingraj King,78347407
+67666673~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628094059259,5,0,Great,0,0,Rajib Lochan Nandi,67666673
+62716787~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1628052889210,5,0,This is an amazing course for learning Arduino.,0,0,Poushali paul,62716787
+70999141~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1626767939258,5,0,Very Good course ,0,0,Rahul Roy,70999141
+83801924~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1626086018264,5,0,good,0,0,PATTABI RAMA M,83801924
+81363382~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1626015908343,5,0,nice beginner course,0,0,satya siddhartha balanagu,81363382
+88068126~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1625953058198,5,0,Good Course,0,0,Mohamed Med,88068126
+52993773~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1625784856401,5,0,good course to learn the basics,0,0,Gagan Gowda Aut,52993773
+89128892~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1625765774783,5,0,it's a nice course to begin Arduino,0,0,Md Hasanul Karim,89128892
+73434177~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1625268925388,5,0,the instructor is very knowledgeable​,0,0,Kate Janine A. Elquiero,73434177
+61872243~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1625194398309,5,0,h,0,0,Zaveri Harshal,61872243
+79546431~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1624775909356,5,0,Great Course,0,0,DIPTESEH CHOUDHARI,79546431
+65037730~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1623313913054,5,0,​,0,0,Prasad Piumal,65037730
+85879370~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1623051567025,5,0,Nice experience of Learning.,0,0,Mr. Pankaj Kumar DYPIT,85879370
+86006585~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1622685437063,5,0,excelente   curso ,0,0,carlos alejandro sislema reino ,86006585
+66308867~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1622157009771,5,0,EXCELENTE,0,0,Angel Cumbajin,66308867
+58780751~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1621641349595,5,0,Good with basic and more challenging,0,0,Jauhari Khairuddin,58780751
+84574314~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1621249759117,5,0,For begineers very good course. I learned arduino programming and wiFi shield projects from this course. Thank you very much Coursera Team,0,0,SHRIKANT PRABHAKAR MAYEKAR,84574314
+54993899~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1621181323744,5,0,Very helpful and clear instructions.,0,0,Lokesh Yadav,54993899
+61149140~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620572076136,5,0,Excellent for basic students ,0,0,R YASWANTH KUMAR,61149140
+63563185~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620464677441,5,0,It's Cool,0,0,SMITKUMAR PATEL,63563185
+74122584~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620091549290,5,0,merci,0,0,az lah,74122584
+67308239~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1620021521655,5,0,The course was very useful and helpful in learning about the arduino. The course taught me how to use various libraries and to code very easily.,0,0,Sucheta Guruprasad,67308239
+43013183~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1619507112527,5,0,great Course learn lot of thing regarding to Arduino and wifi shields now can develop small IoT projects,0,0,Touqeer_ ahmed,43013183
+62636065~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1618322394621,5,0,Excellent course and the teaching was very good,0,0,P KARTIK,62636065
+75377568~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1618240830081,5,0,The Best Course ever !! I really like Arduino !,0,0,Sashenka Gamage,75377568
+84086664~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617790921636,5,0,Experience is good with this course,0,0,Keerthanapriya R,84086664
+83377741~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617772192404,5,0,Hdkdkjdhsbeifjhgdhdhf,0,0,Shankar Devgonda,83377741
+72750477~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617544366005,5,0,"Its a great course, and its very enjoyable!",0,0,Carlos Adrián Camarillo Rangel,72750477
+83024156~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617375511011,5,0,Good ,0,0,CHAITHRA G,83024156
+82256277~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617374074586,5,0,It is my honour that i have successfully completed my work . it was very interested . i have learned many new things from here.thankyou,0,0,CHURANTA MANDAL,82256277
+83068842~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1617294324078,5,0,Very nice we learned lot from this ,0,0,Adarsha B R,83068842
+18690219~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616849757985,5,0,"The class is designed for beginners, it is however a great introduction, With a lot of great hands-onadvice. As the class advances the lectures continue to improve ",0,0,Jaime Olmos,18690219
+65627281~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616771437747,5,0,This course is very helpful to learn Arduino. And it is a very easy to learn and understanding. Instructor was very nice person. All lectures are very clear. Thanks Coursera,0,0,Md. Maskat Sharif,65627281
+82952393~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616716771182,5,0,Super b,0,0,Akash Akash,82952393
+79944558~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1616140783947,5,0,i like the way they taught us,0,0,Pramod kumar sah,79944558
+79873760~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1614191280141,5,0,"It was very good, the assignments were challanging",0,0,Bhavik Bhate,79873760
+71286218~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1614167509375,5,0,GOOD,0,0,DALLI PUNITH REDDY,71286218
+37432403~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1613453878014,5,0,Good explanations,0,0,Sanskar Vidyarthi,37432403
+78150445~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1613435276139,5,0,Excellent course. Congratulations to the instructor.,0,0,Rafael Espinosa Castañeda,78150445
+76061397~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1612708080084,5,0,"Great course, I learned a lot of specifics. Thank you for the course.",0,0,Vishy Ann,76061397
+66513454~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1612445032775,5,0,It was helpful and professor Ian Harris's teaching made this course easy to learn.,0,0,R SUNDAR RAM,66513454
+37157788~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1610139907317,5,0,Great course to learn programming and to gain some hands on using the Arduino. ,0,0,Richard Tamboli,37157788
+42036007~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1610018981829,5,0,Very good lecture and practical knowledge,0,0,Amrish K.S.,42036007
+40746851~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1609568447116,5,0,"I had a great time learning about arduino, learned new and terrific topics. It was good to learn",0,0,Abhishek Kumar Singh,40746851
+73007045~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1609150365527,5,0,"Thank you so much! I've learned a lot from this course and now , I am applying all the knowledge that I gained! two thumbs up! Thank you UCI!",0,0,Rafael Miguel Dela Cruz,73007045
+48855691~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1609137947308,5,0,Thanks,0,0,SOUVIK SEN,48855691
+73636194~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1608672411046,5,0,Very interesting course.,0,0,Javier Romero Vergara,73636194
+46178446~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1608163896657,5,0,"Learn some very interesting, insightful and core concepts about Arduino and interfacing with it.",0,0,Satender Kundu,46178446
+61742921~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1607927408478,5,0,good course about arduino ,0,0,Sahan Jayamal,61742921
+72484066~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1607608696904,5,0,"This was a great course, you get all the foundational knowledge to be able to create effective communication between your Arduino-embedded systems and a server, whether the last one is Arduino-based or a pre-existent web page.",0,0,Luis Fernando,72484066
+54602112~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1606536753147,5,0,good experience,0,0,Abdul Azeemuddin,54602112
+21972845~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1606133618038,5,0,Thanks a lot sir..,0,0,MD Rashedul Islam Rony,21972845
+61757507~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1606119962241,5,0,Sir. Course is really useful and helpful nice instructor,0,0,Sapna kantu pujari,61757507
+64885763~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1606108128322,5,0,"Thank you teacher Ian, this is one of the best courses and it is changing my life, a thousand thanks to you and Coursera.",0,0,Enrique Aguilar Martinez,64885763
+65145119~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1606055565547,5,0,"As a beginner, I have found this course pretty useful and informative. ",0,0,shekhar kumar,65145119
+69987628~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1605974664892,5,0,"best course
+best instructor",0,0,André Luiz Fassone Canova,69987628
+74388086~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1605102914035,5,0,every things is covered ,0,0,yasser taleb,74388086
+58376338~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1604561164196,5,0,It is a great experience ,0,0, NEYYALA Pavan sai,58376338
+67949285~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1603034170571,5,0,good,0,0,S PRAVALIKA,67949285
+49086509~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602758216162,5,0,Excellent Teaching,0,0,KODE VENKATA KRISHNA,49086509
+68648083~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602563086119,5,0,Nice :D,0,0,Nicolas Silva Muñoz ,68648083
+48440020~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602547388475,5,0,excellent course,0,0,Vemana Niranjan,48440020
+49175421~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602522725110,5,0,cool,0,0,VALLURI ADITHYA KOUSHIK ,49175421
+48475913~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602508259316,5,0,super course,0,0,krishna mohan,48475913
+49213212~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602340943403,5,0,Excellent,0,0,Vadrevu Ruthvik Sharma,49213212
+49310640~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602304858390,5,0,cool and awesome ,0,0,Veera venkata kalyan chakravarthy,49310640
+72589539~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602249421781,5,0,Excelente xurso,0,0,Carlos Sanz,72589539
+57741803~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602205172482,5,0,It gave a good introduction to the subject. I felt it should also concentrate more on hands-on experience by giving good assignments on arduino,0,0,121710501004 GUDIMELLA SATYA VAMSI,57741803
+70443696~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602134776322,5,0,Excellent,0,0,Deekshith Yadagiri,70443696
+48731966~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602131583256,5,0,good,0,0,Abhijay Mallavajjhula,48731966
+65553478~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602050195583,5,0,Instructor is excellent,0,0,Smita Satish Pawar,65553478
+48795650~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1602048460592,5,0,thank you Coursera for offering such wonderful courses,0,0,PAMARTHI KANAKARAJA,48795650
+49652812~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601877229065,5,0,good,0,0,BONTHA  AJAY KUMAR,49652812
+49220699~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601875105253,5,0,gained more knowledge,0,0,MOHAMMED KHAALID SHAIK,49220699
+72470624~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601790795079,5,0,Good for learn about Arduino,0,0,Nagarajah Rishiheshan,72470624
+49214993~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601707355405,5,0,good,0,0,M S PUNITH KUMAR,49214993
+54423046~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601610522086,5,0,Great course,0,0,Mustak Ahamed,54423046
+58852805~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601523745216,5,0,thankyou,0,0,Sumith S,58852805
+49136884~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601277333156,5,0,Very Interesting one,0,0,MANCHALA VENKATA NAGA SAI,49136884
+63668281~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601131528499,5,0,ossmm course welll strucrucred very thanks to u coursera,0,0,KAMAL THAKUR,63668281
+70974353~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1601038793219,5,0,Cool,0,0,Louise Manuel U. Orsenado,70974353
+66931445~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600944932979,5,0,Excellent,0,0,M. Haswin Anugrah Pratama,66931445
+50713855~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600878057909,5,0,Nice,0,0,Moram Indravardhan Reddy,50713855
+54445343~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600868478252,5,0,This course is a good opportunity for me for learning Arduino platform.,0,0,Shafiq Ur Rahman,54445343
+68397237~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600817759938,5,0,good job,0,0,Bryan Abinadí Ubillús Tay,68397237
+19984507~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600784966051,5,0,Best course ever. You get all the information and knowledge you need. I recommend everyone to do these type of courses for career development.,0,0,Mandar Kodange,19984507
+70912173~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600779401553,5,0,  I'm lovin' it..!!!!!!!!!!  ,0,0,Prashant Chauhan,70912173
+61972321~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600650787522,5,0,Great Course,0,0,PAEZ PINILLA CARLOS ANDRES,61972321
+71976170~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600546727686,5,0,GOOD,0,0,اصنعها بنفسك Make it yourself,71976170
+71178128~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600402571216,5,0,Excellent course on setting up an Arduino web server using Ethernet/WiFi. You can get a web server up and running on your Arduino after this course that allows you to remotely access the Arduino via internet to get digital/analog sensor input and control basic actuators connected to it. Prof. Harris presents materials in a clear and interesting way. Looking forward to the next course on Raspberry Pi. Thank you.  ,0,0,Yeo Kim Heng,71178128
+66693540~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600345218512,5,0,good,0,0,THANUSHRI R,66693540
+60176099~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1600143010836,5,0,most interesting course,0,0,Goutam Sutradhar,60176099
+58878608~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599899285314,5,0,Excellent,0,0,Hari Hara Priya Alekhya Nandarapu,58878608
+68498016~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599787628641,5,0,good,0,0,Tri Eko Putra Manvi,68498016
+50792295~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1599469440079,5,0,thanks for the teacher ..i understand every word in this course,0,0,bayan abo razmeh,50792295
+53960743~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598688245635,5,0,good course,0,0,N,53960743
+59457630~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598668570443,5,0,Good ,0,0,SURAJ SANDE,59457630
+63054010~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598591371626,5,0,The teaching style of the professor is pretty good. He talks simply and doesn't mess up things. ,0,2,rezaul haque,63054010
+11838777~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598280041048,5,0,Thoroughly enjoyed the course..  It was a fun learning experience,0,0,Maurelle Cleaves,11838777
+66731806~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598257132456,5,0,it is really good to learn or do course on online .,0,0,Jampula saiteja,66731806
+58604050~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1598113516287,5,0,The content in this course is good and instructor teaches concepts well.,0,0,Chinmay B S,58604050
+5895753~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597884065878,5,0,Excellent !!!,0,0,MD ARIF REZA ANWARY,5895753
+59872080~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597755386547,5,0,Good,0,0,MARURI SAI TEJA,59872080
+58935983~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597601583778,5,0,thank you,0,0,Ammar Abdullah,58935983
+58147063~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597586596565,5,0,Good,0,0,mounika tanubuddi,58147063
+45931782~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597553463118,5,0,Thank you,0,0,Kamlesh Chhipa,45931782
+61034685~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597479304741,5,0,It was great experience with courcera and Arduino,0,0,Mayur Anilrao  Dafare,61034685
+66579119~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597453189809,5,0,best course ever,0,0,AJAY KUMAR R,66579119
+58362445~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597249100471,5,0,Good online  course for learning,0,0,Samudrala Veda Sravya Sri,58362445
+61967604~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1597158840147,5,0,Basic. Neat and nice!,0,0,Girish,61967604
+58256975~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596981352250,5,0,Online learning is much improved by this coursera My knowledge on this topic was purely experimentally and naturally improved a lot thank q for this,0,0,yuvaharsha patnana,58256975
+66512093~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596955318601,5,0,excellent,0,0,Sagar Lanke,66512093
+58134624~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596819822922,5,0,Excellent course,0,0,JOVIN P JUSTINE,58134624
+50158443~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596815509134,5,0,Nice course!Great experience!Thank you.,0,0,Abhishek Sharma,50158443
+37537275~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596791707025,5,0,Great exposure thank you.,0,0,Chirag Gohil,37537275
+61975350~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596603079754,5,0,Nice Course for those who want to work with Arduino ,0,0,Parth Rajendra Gandhi,61975350
+62915296~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596448988508,5,0,good,0,0,Atrayee Chatterjee,62915296
+60840255~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596179719640,5,0,I really loved this course. The way this course is outlined and presented by the instructor is really amazing. Clears all the concepts from the very basic to advance. Certainly one the best courses on coursera available right now. Thanks to coursera and UCI for providing such a wonderful course.,0,0,Arpit Sharma,60840255
+55979113~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1596097365446,5,0,Very good course,0,0,SHOMNATH DAS,55979113
+60206224~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595940683562,5,0,Very good course on ethernet shield and wifi shields and how you can use them to access wifi and grab data from the internet,0,0,Deleted Account,60206224
+57813896~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595768845729,5,0,amazing,0,0, mahammad,57813896
+62384301~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595594673311,5,0,Good,0,0,Veeraneni LAVANYA,62384301
+42216309~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595527245178,5,0,The Professor has excellent knowledge on the topic and he explains the concepts in such a manner that the students who are new to the field of electronics finds it very easy to understand. I would like to thank the University of California for creating this course.  ,0,0,Vinay M G,42216309
+61983212~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595400454271,5,0,Gr8,0,0,Aryan Gupta,61983212
+54315589~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595245430280,5,0,EXCELLENT!,0,0,Kashi Golembiewski,54315589
+38783975~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595184306908,5,0,A good introduction with great details to actually start doing serious stuffs with Arduino. ,0,0,Pradipta Vaskar Biswas,38783975
+58259639~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1595136188621,5,0,Superb Course.,0,0,Jaisika Talwar,58259639
+55826156~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594997188919,5,0,"In this course, I want to add some addition extra point in arduino. please relpy me. ",0,0,ROHIT KUMAR,55826156
+62798624~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594919477368,5,0,the very best course is this I recommend you must do this if you are interested in Arduino,0,0,Shubham Lathi,62798624
+48475403~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594901421381,5,0,I like the course it helps me to learn arduino in easy manner. I like the way of teaching of professor. ,0,0,Mandar Ingale,48475403
+35711468~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594892137332,5,0,Excelente curso!!! Me resulto muy útil y completo.,0,0,Maxi,35711468
+60369266~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594808774074,5,0,good,0,0,Abdallah hossam eldin mohamed,60369266
+63119985~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594656519897,5,0,great experience ,0,0,Aniket  Singh,63119985
+51021251~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594654982091,5,0,Very Nice and Informative,0,0,Iqbal Uddin Khan,51021251
+61074826~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594493393962,5,0,It was a great experience learning from Coursera,0,0,Anuj Kashyap,61074826
+62014154~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594476292797,5,0, Very good course for beginners to Arduino,0,0,Jayanaka Lakindu Dantanarayana,62014154
+55154543~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1594292690859,5,0,good course with god great instructor!!,0,0,Bhargav ch,55154543
+57319222~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593835719212,5,0,PERFECT,0,0,YASHKUMAR BHAVSAR,57319222
+55524632~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593762187457,5,0,Great course with lot of contents and materials and proper explanation given by the instructor.Thanks to sir,0,0,Kaushik Chhappaniya,55524632
+29426064~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593561377761,5,0,verry good explication ,0,0,Ramzi DRISSI ,29426064
+54822755~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593451607133,5,0,-,0,0,Shrinidhi Joshi,54822755
+36536657~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593398943947,5,0,The course is really very good and helpful for developing Arduino projects.....Even a student of no science background would easily understand the course.....,0,0,Soumyamoy Das,36536657
+63879133~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593236707376,5,0,Best way to start with interfacing with arduino. ,0,0,Abhinav Hans,63879133
+55197741~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593233325425,5,0,It was good,0,0,Abhinav Rajput,55197741
+58539865~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593197967038,5,0,it was amazing experience,0,0,Naresh ,58539865
+59820728~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1593085190347,5,0,platform good,0,0,Vibhor Tyagi,59820728
+62374080~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592958546004,5,0,Prof Ion's videos are great. Easy to understand and complete.Course content is adequate for the beginners level.,0,0,Sahan Perera,62374080
+62930251~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592651597850,5,0,Grate,0,0,Souvik Paul,62930251
+54695165~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592558720477,5,0,good experience,0,0,SABARISH A,54695165
+59816308~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592528556329,5,0,Good,0,0,Mayank Sharma,59816308
+34821029~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592440093371,5,0,Good Course i learn alot,0,0,Muhammad Taha,34821029
+40053457~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592377473204,5,0,perfect for beginners ,0,0,TEJAS A,40053457
+31319622~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592371681168,5,0,I thank my instructor and also Coursera.,0,0,Shuvomoy Sharma,31319622
+56046575~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592300204387,5,0,helps to build new circuits and also gained lot of knowledge thank you for the course coursera ,0,0,Sunil H Kote,56046575
+41846730~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592281008275,5,0,Great Course,0,0,Aditya Garg,41846730
+61711319~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592199627673,5,0,Providing a very helpful knowledge about the arduino,0,0,Nilay Babu,61711319
+50402712~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1592195826866,5,0,This course is awesome,0,0,Asrafuzzaman Khan Nahin ,50402712
+55890878~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591821428399,5,0,"Muy buen curso pero puede mejorar la parte de la programacion, ya que tiene comandos para programar, que hay que aprender y no vienen muy bien explicados durante los videos.Todo en general muy bien.",0,0,Javier Flores Gonzalez ,55890878
+56814523~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591767781757,5,0,good,0,0,Manikant Rai,56814523
+58922992~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591703774297,5,0,The course wes superb ,0,0,Pamudu Ranasinghe,58922992
+52964479~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591700657264,5,0,Interresting,0,0,Yassine TALBI,52964479
+33956844~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591666806645,5,0,It was a really nice to complete this course as a part of the specialization. I really like it and highly recommend to other students who are interested in learning Arduino!,0,0,Tahsinul Haque Tasif,33956844
+60104067~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591631782572,5,0,"very useful for learn arduino , sensors , electronic components ,wiring etc. Highly recommand for who like to learn arduino basics. ",0,0,Tharaka Kasun Hathurusinghe,60104067
+58398585~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591526460365,5,0,Good,0,0,M Haider Iqbal,58398585
+62704912~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591516676508,5,0,great course,0,0,krishnachaitanya yerrapatruni,62704912
+45253095~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591458887615,5,0,Ecellent Course,0,0,Prabhakara Rao Kapula,45253095
+60257899~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591418897483,5,0,Through coursera i got to clear all my doubts on arduino and learned something with every module,0,0,ANURAG PATEL,60257899
+41075037~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591355405795,5,0,this is the third time that coursera helped me. thank you coursera organisation to provide me financial aid to learn all this skills in arduino environment. i would remain thankful to you for my entire life.,0,0,Vishal ,41075037
+39641358~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591294520221,5,0,very useful course,0,0,huda kouli,39641358
+48415559~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591248336107,5,0,feeling good for completing this course. had a great experience of completing this course. one of the best course i have done on coursera.,0,0,BOGGAVARAPU VENKATA SIVA SAI HARSHITH,48415559
+56350946~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1591094313664,5,0,Good Learning Experience,0,0,Koduru Manoj Kumar,56350946
+59340602~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590932297125,5,0,This course is very good for people who want to learn Arduino and its interfacing ,0,0,Asghar Ismail,59340602
+60743270~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590898231005,5,0,Excellent course to take up,0,0,Vanacharla bhaskara vijaya sai swamy ,60743270
+2773711~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590609907836,5,0,Great learning experience..Got basic overview of different types of components and shield interfaced with Arduino to function.,0,0,Navneet Kumar,2773711
+60283311~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590604945780,5,0,It was very helpful learning how to control home appliances through IOT and assignments were very helpful for practical knowledge. ,0,0,AJAY SINGH,60283311
+60746789~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590567891247,5,0,Great course! Recommended for Arduino enthusiasts!,0,0,Nirmal Naraianan S,60746789
+1893294~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590445624057,5,0,Exceptional instruction!  Very clear and to the point!  Enjoyed the class very much!  ,0,0,Luke Danciu,1893294
+51115883~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590238218740,5,0,Short to the point and useful course.,0,0,Nitin Subhash Shingi,51115883
+40956991~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590211326205,5,0,"A good introductional course, where i'm able to learn the basics and some more. A recommended course for anyone who is willing to learn more about arduino or start learning arduino.",0,3,Ridwan Arefeen,40956991
+30581301~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590175371490,5,0,Good cou,0,0,mohdakilmemon,30581301
+60115348~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590124212086,5,0,  I have a lot of experience working with Arduino. But I enjoyed the course very much. The course is well organized and Prof. Ian G. Harris explains every topic from the very basic.    ,0,3,Tahmidur Rahman Tabin,60115348
+60581855~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1590057082839,5,0,Very nice course.,0,0,Akshiv Agarwal,60581855
+60577153~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589981511922,5,0,Nice organization of course content.,0,0,RAM PRASATH SIVARAJABOOPATHY,60577153
+57818502~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589975899662,5,0,learned about interfacing with arduino ,0,0,Saket Kumar jha,57818502
+44709329~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589877000387,5,0,nice course,0,0,tanwi kumari,44709329
+58897588~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589817095880,5,0,Nice Course. Concept were Explained very nicely. Must Try this Course to Learn About Arduino and Hardware Extension through Shield's and how to use them.Looking Forward to continue next courses in Series of Specialization.,0,0,Shubham Yadav,58897588
+58693264~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589803621717,5,0,Really good exposure. Best learning experience from best people.,0,0,UJJAVAL PATEL,58693264
+55027079~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589713576540,5,0,very useful course for modern time.instructor is so good.,0,0,NIRBHAY KUMAR PANDEY,55027079
+59753185~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589698403012,5,0,it is very good course for everyone to learn Arduino,0,0,Jayavani Dasari,59753185
+44733838~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589698299736,5,0,very good course,0,0,Aman Gupta,44733838
+33703482~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589637909008,5,0,Nice Course,0,0,Aniruddh Mallya,33703482
+57837818~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589630563859,5,0,Good,0,0,Sheetal Satish  Shelar,57837818
+60266007~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589607334110,5,0,learned a lot.,0,0,Kapil,60266007
+36599536~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589386147295,5,0,nice!,0,0,Elaaf tech,36599536
+34879239~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1589117211573,5,0,Eexceptionally explained. Enjoyed the content and presentation. Even assignments were worth doing.,0,0,satya prakash,34879239
+49978009~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588997401952,5,0,Very Helpful,0,0,Sarvesh Jamdaade,49978009
+41173503~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588942184572,5,0,"The projecrt shows me the application of Arduino ,therefore, I can know the next project and keep moving.",0,0,杨志前,41173503
+58583036~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588911361427,5,0,GREAT KNOWLEDGABLE COURSE,0,0,KONDREDDY SIVAKUMAR,58583036
+37116186~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588844910628,5,0,Overall good course,0,0,WAJHEE UDDIN,37116186
+58465265~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588837318790,5,0,Great Experience,0,0,P VISHNU KUMAR,58465265
+41913565~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588733691798,5,0,Very nice course to learn.For absolute beginners.,0,0,Anvay Sanjeev Madhekar,41913565
+47520974~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588689110176,5,0,With Demo's it was very good to understand,0,0,Gaurav Singh Chandrabhan,47520974
+39327161~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588599350059,5,0,Great.,0,0,DEVARAPALLI SUMANTH,39327161
+56600293~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588562826576,5,0,Good,0,0,Vinodraj K N,56600293
+45342050~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588528107668,5,0,best,0,0,Priyanka Nitin Patil,45342050
+57207420~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588177705986,5,0,Very good initiative to learn specific course to enhance various skills and knowledge.,0,0,DR. VRAJESH MAHETA,57207420
+54006500~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588144925391,5,0,This is good Course.Many doubt clear beacause of this course.Overall this is helpful course.,0,0,DURGESH PRAKASH ZAWARE,54006500
+54597748~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1588057732101,5,0,Good,0,0,Tammali Akash Babu,54597748
+38689274~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587660400537,5,0,Perfect course. Highly recommended.,0,0,Nidhin BM,38689274
+55111056~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587564616399,5,0,good,0,0,DR. S. SASIKUMAR,55111056
+39421197~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587390630333,5,0,"Actually this course made me more happy, because they taught all the basic interfacing to the complicated one....... I learned how to use tinkerCAD software.",0,0,Moni sree,39421197
+55998511~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587381268454,5,0,very usefull ,0,0,VASAMSETTI  NAVEEN,55998511
+55732813~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587327401056,5,0,is was greatthank you,0,0,NOUREDDINE AYAD,55732813
+55513779~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1587196453263,5,0,Very informative.,0,0,V VIJAY,55513779
+42338062~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1586499773010,5,0,"The course was fantastic, learnt the method of coding and the use of Tinkercad . Thanks to Mr. Harris course faculty, the lectures were great. ",0,0,Parthiban,42338062
+42009655~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1586354928662,5,0,Excellent course for understanding Arduino,0,0,Joel Ivan Felix Passanha,42009655
+44437118~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1586022567816,5,0,Awesome,0,0,gokulanand,44437118
+47070603~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585985185308,5,0,very nice course for beginners,0,0,diksha maheshwari,47070603
+39187002~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585672514563,5,0,The course was really nice and hoping that we will learn more from these courses that will aid us in our projects and future employement.,0,0,Budhaditya Dutta,39187002
+41311584~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585559021992,5,0,good,0,0,Dijul Dileep,41311584
+13093708~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585547245705,5,0,Excellent and wholesome course!,0,0,Akshet Patel,13093708
+42440455~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1585400046105,5,0,Good knowledge of professor and the way he teaches,0,0,Priyaranjan Sontakke,42440455
+41348270~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1584759674802,5,0,This course was the best course I've ever passed.Thank so so much Dr. Harris for this valuable course.,0,0,Mohammadreza Narimani,41348270
+39344153~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1583824409386,5,0,good,0,0,D V S SUMANTH REDDY,39344153
+38998269~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1583766801172,5,0,Best course for learning Arduino.,0,0,Saumya Nigam,38998269
+44502077~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1582972589738,5,0,"I would like to thank the UCI team for this magnificent course, in particular Prof Ian, who has perfect mastery of the course.",0,0,Bruno Pongo,44502077
+45441409~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1582697451665,5,0,it was nice experience,0,0,JADHAV UMESH ROHIDAS,45441409
+45410003~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1581602273903,5,0,Nice course,0,0,PATIL MOHIT VALMIK,45410003
+47093504~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1580905296593,5,0,I learned a lot of things  from this course,0,0,T Venkata Navaneeth,47093504
+35806499~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1580507948438,5,0,Excellent course.,0,0,GYAN PRATAP SINGH,35806499
+45025287~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1580209034650,5,0,Good,0,0,Harshal Wadile,45025287
+45518148~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1579089776713,5,0,Interfacing with the Arduino is good course,0,0,CHAVAN VISHAL JAGDISH,45518148
+43399553~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1579025208453,5,0,I am really very happy for getting chance to learn with this outstanding faculty.Thank you so much.,0,0,prasad joshi,43399553
+45863853~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578939161984,5,0,Course was interactive. We gained brief knowledge regarding Arduino and got a step closer to specialise IOT devices,0,0,VERMA SUDEEP,45863853
+22593673~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578386289757,5,0,Great Course!,0,0,Akshat Bhansali,22593673
+31884030~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1578287714372,5,0,Lots of knowledge to gain to this course,0,0,Prasad Bhavsar,31884030
+35959138~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577974978869,5,0,pretty good.,0,0,Uday Singh,35959138
+45972388~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577567194955,5,0,"I like it, Thanks for this course",0,0,Qasem Joshaghani,45972388
+47310634~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577182311449,5,0,good,0,0,Thiruchanooru Sreenath,47310634
+47343100~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577178505741,5,0,Its a helpful course for poor like me to improve the technical skills of Artificial intelligence..! ,0,0,SAGAR DEY,47343100
+44458567~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577108389792,5,0,good,0,0,Kalyani korada,44458567
+47367519~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577103412204,5,0,It is honored to complete my course,0,0,Mariyamma Pendra,47367519
+47473017~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1577082771952,5,0,i am feeling privileged to get this course  ,0,0,Palla Sravani,47473017
+47343114~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1576245145198,5,0,good,0,0,sampathi yedukondalu,47343114
+45865199~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1576123743718,5,0,very good knowledge and practice,0,0,Ahmed Adel Mahmoud,45865199
+39647836~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1575124509349,5,0,thank you very much it was useful ,0,0,Ahmed Hamade,39647836
+45509079~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1574764248229,5,0,This platform is most important for students to gain more knowledge in there intrest. Thank u for providing as such a wonderful platform. ,0,0,SAINDANE NEHA RAJENDRA,45509079
+43998116~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1574661947699,5,0,Very nice ,0,0,Gaurav Anil Shimpi,43998116
+45846216~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1574611654027,5,0,Nice course,0,0,Nilesh Gokul PatiL,45846216
+45222887~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1574601665016,5,0,🤟,0,0,Vivek Ahuja,45222887
+26655603~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1572494619874,5,0,A remarkable experience learning a completely novel concept by an exceptionally talented faculty and gaining enough knowledge of the subject so as to develop an interest into dwelling into it even further.,0,3,Aditya Raj,26655603
+14787673~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1571982490173,5,0,It was a great experience to learn concepts and the theory behind it.,0,0,LAKSHMIKANTHA N R,14787673
+5062160~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1571099775158,5,0,Always enjoy Dr Davis' excellent classes,0,0,Steven Lyell,5062160
+39825838~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1570982441345,5,0,"A very nicely outlined course explaining all the electronics basics , Arduino shields , Communication protocols .",0,0,SARVESH BHUMKAR,39825838
+45874533~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1570978968449,5,0,Perfect course for Arduino beginners.,0,0,Robert Yang Sun,45874533
+45205585~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1570592906059,5,0,Nice and clear! Those arduino demo are great!,0,0,Eng Sik Yee,45205585
+33599850~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1568967784993,5,0,Good practical application. ,0,0,Deon Nel,33599850
+29164561~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1568724795591,5,0,very good course,0,0,Mahmoud Samir Fahmy,29164561
+23644406~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1568258857026,5,0,great,0,0,kripa shankar,23644406
+783781~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1567625627538,5,0,excellent course,0,0,debbie johan arredondo,783781
+36085190~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1567522189108,5,0,good ,0,0,N Manmohan,36085190
+35289159~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1567223050374,5,0,far more better than other courses in coursera,0,0,Devika Muley,35289159
+35218964~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1564932096129,5,0,I was very nice to get cncept learning from Ian sir.,0,0,Manish Mandal,35218964
+40488943~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1561922094862,5,0,A very good Professor. All of the lectures in the videos are great. ,0,0,"Randolph Parker, MS Information Technology ",40488943
+37063178~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1560159754660,5,0,Great working with the arduino and sensors.,0,0,Adam Singleton,37063178
+37958728~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1559582781427,5,0,Nice course,0,0,Guillermo Genta,37958728
+41642716~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1558339413944,5,0,idhsufhsu,0,0,NADELLA VINOD KUMAR,41642716
+41234691~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1557979724889,5,0,good,0,0,ADDEPALLI LAKSHMI HEMANTH KUMAR,41234691
+38211559~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1556560353901,5,0,Excellent course.,0,0,Yasmin Mubarak,38211559
+30025435~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1554900633286,5,0,"both great, instructor & materials ",0,0,Saeed Alqahtani,30025435
+32635777~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1554828552494,5,0,VERY NICE,0,0,KRUPAL J. KATHROTIA,32635777
+40895910~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1554746735411,5,0,good course ,0,0,Pragya Dhawan,40895910
+37766423~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1552301953774,5,0,Excellent learning platform,0,0,Vivek Kumar,37766423
+34839062~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1552012752179,5,0,Super lectures and assignments help to learn practically,0,0,mohammed,34839062
+28849244~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1551275718469,5,0,To the point and easy to understand.,0,0,Ghulam,28849244
+32312660~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1551203431224,5,0,learnt a lot of new things on technology,0,0,Rohan Patnaik,32312660
+7938403~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1551053546270,5,0,"Very good course, awesome content and teacher.",0,0,Fernando Uchiyama,7938403
+3020904~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1550822170949,5,0,An excellent way to learn properly to interfacing with arduino. ,0,0,federico neiman,3020904
+38414295~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1550559271021,5,0,I found this very informative & I have learnt the Interfacing techniques & so got a good skill on the interfacing & usage of Arduino.,0,0,Naveen Joseph Setti,38414295
+34957139~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1548780632748,5,0,Boom!,0,0,Christoffel Johannes Rossouw,34957139
+26422328~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1547288887094,5,0,ok,0,0,PRABHULINGESH K ,26422328
+36947963~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1547141174138,5,0,one of the best courses for practicing your arduino skills,0,0,Makarand Patil,36947963
+19518273~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1546928208029,5,0,Good initiative by Coursera to educate the community.,0,0,Muhammad Aleem Siddiqui,19518273
+33696791~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1546518647043,5,0,It was wonderful,0,0,Prateek Ranjan,33696791
+35548986~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1544530313565,5,0,good teacher,0,0,Yan Lai Chung,35548986
+1468336~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1544437210390,5,0,Provides valuable information on inter-process communications and programming decoupled sensor/actuator interactions.,0,2,Michael Mullins,1468336
+37623211~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1543916000483,5,0,THANK YOU SIR....,0,0,KANDULA BHARATH,37623211
+36904585~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1542863324815,5,0,GOOD COURSE FOR ARDUINO HARDWARE AND SOFTWARE LEARNING,0,0,Shahzad Nadeem,36904585
+3870532~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1542411622864,5,0,Excellent course,0,0,Carlos Mireles,3870532
+35239059~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1542026445997,5,0,nice formation,0,0,ABD ELHAMID ASLABA,35239059
+35045829~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1540657192965,5,0,good,0,0,Renangi Babu,35045829
+3581371~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1539123586930,5,0,"That was a good experience, for me with the desire to upgrade the knowledge of arduino in order to pass this experience to students beginners.",0,0,Joao A Pinto,3581371
+35049904~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1539073290317,5,0,good ,0,0,sudhakar Reddy Lingamdinne,35049904
+7585654~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1538042478671,5,0,Great,0,0,KONG HUAI TAO,7585654
+10407156~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1537837964298,5,0,Great introduction to C Programming and the Arduino,0,0,Mathew William Chamley,10407156
+34798811~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1536749629343,5,0,good,0,0,PRAJWAL MR,34798811
+28694403~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1536641982105,5,0,pretty good.,0,0,jose luis rocha mendez,28694403
+22843306~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1536353889602,5,0,Excellent course to learn Arduino essentials.,0,0,Saurabh Singh Yadav,22843306
+35125105~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535449961580,5,0,it is very useful,0,0,vasa saikiran,35125105
+23389987~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535443190034,5,0,A good simulation interface will be good to carry out the assignments,0,0,sebin sunny,23389987
+35147041~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535358773004,5,0,good,0,0,Pulakhandam kavitha lakshmi,35147041
+29760994~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535335683328,5,0,very helpful  ,0,0,Mostafa AB,29760994
+35146932~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535171286344,5,0,good,0,0,Muthyala kanaka Vijaya Lakshmi Durga bhavani,35146932
+35147641~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535108215831,5,0,GOOD,0,0,GANESH BABU,35147641
+35125086~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535097590314,5,0,good,0,0,sala venkata gopala krishna prasadu,35125086
+35146277~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535087576035,5,0,good,0,0,polisetti siva sai lakshmi prasanna,35146277
+35125158~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1535082512724,5,0,good,0,0,shaik abdul khadar,35125158
+35146855~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1534932321630,5,0,good,0,0,Rekha Mummana,35146855
+35146273~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1534919300103,5,0,GOOD,0,0,venkata padma priya sanda,35146273
+34691102~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1534223290708,5,0,good,0,0,chenna srihari,34691102
+1462585~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1533933809281,5,0,Great introduction to interfacing with the Arduino circuit board. ,0,0,Michael Nordberg,1462585
+33808575~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532949090594,5,0,"  This is a very good course, and the lecturer giving the lectures is very insightful and understands his field very well.  ",0,0,Riekus Van Der Westhuizen,33808575
+31075104~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532868306998,5,0,good,0,0,Arpit Singh,31075104
+34097843~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532347483997,5,0,I really love the interfacing of actuators with the arduino .,0,0,Abhishek Rawat,34097843
+34996460~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1532149439163,5,0,good to join in the course.,0,0,Hari Chandana ,34996460
+34853612~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531301299465,5,0,nice,0,0,Boddu surya sriram murthy,34853612
+34688877~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531289761418,5,0,good,0,0,kandhuri Rohith kumar,34688877
+34712130~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531205175131,5,0,nice,0,0,Yerrajeni Hariprasad Reddy,34712130
+34735415~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531201967895,5,0,super,0,0,SAMALA NARESH KUMAR REDDY,34735415
+22159804~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531199699324,5,0,This is the most important course in the whole specialization for Arduino. It gives great insights into all important topics for arduino programming. It would have been nice if all important libraries could be discussed.,0,6,Prabesh Chaki,22159804
+34688776~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531122298916,5,0,good information,0,0,MAARAM GANESH,34688776
+34688788~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1531116532996,5,0,NICE,0,0,KOPPU HARSHA VARDHAN,34688788
+34576687~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530967633192,5,0,excellent,0,0,patnam sunil,34576687
+28859684~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530879233503,5,0,Great Course for the beginners...,0,0,Omer Mukthar,28859684
+7940956~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530840093124,5,0,Excellent course!,0,0,Edwin Garcia,7940956
+34574996~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530783070292,5,0,Good,0,0,Marala Sai Sandeep,34574996
+34557498~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530779899600,5,0,Good,0,0,DUGGU KRISHNA SOWMYA,34557498
+34356502~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530349300387,5,0,nice,0,0,kathimamatha,34356502
+6129148~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1530170918233,5,0,Great course.,0,0,Suresh Nanda Kumar,6129148
+27008394~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529861106988,5,0,Very well explained.,0,0,Ramya Dhanushkodi,27008394
+34574820~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529848969941,5,0,Good,0,0,G.Aswani,34574820
+34574821~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529845630317,5,0,Good,0,0,Pasupu Pushpa,34574821
+34574838~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529767831597,5,0,nice one!,0,0,DONNIPAD GOPINATH RAGHAVENDRA,34574838
+13425140~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529759938161,5,0,Good course.,0,0,RISHABH SURENDRAN,13425140
+34575300~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529748358394,5,0,Its good experience,0,0,K B Deva Prasad,34575300
+28805780~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529423397721,5,0,good,0,0,radhika tungala,28805780
+34331649~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1529315223827,5,0,good,0,0,Juvvanaboyina surya teja,34331649
+17909397~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1528919880046,5,0,I find this course very useful for learning different components used with Aurdino,0,0,Muhammad Saqib Bajwa,17909397
+6622854~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1528820222273,5,0,Good Course,0,0,Darshan Patel,6622854
+31981789~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1528382739645,5,0,Great course !!,0,0,HACHOUCHE AMINE,31981789
+34024722~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1527935708627,5,0,here. i learnt how to  interlink the arduino and our sketch and how to work with the components ,0,0,PINAPATHRUNI MUTYALA MUKESH BABU,34024722
+31781944~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1527498239015,5,0,Best course for Arduino,0,0,Shubh Pachchigar,31781944
+20672795~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1527144414352,5,0,Excellent course,0,0,Krishna Kanth Yenumula,20672795
+33614564~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526615545037,5,0,very nice and helpful,0,0,MANCHIMSETTI SATYA SUMA SRIDEVI,33614564
+33590321~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526575069654,5,0,excellent classes,0,0,Shabeena Begum Mohammad,33590321
+33703252~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526111322576,5,0,NICE,0,0,s ramesh,33703252
+33630922~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1526012132614,5,0,this chapter is very important for the basics of ethernet and servers,0,0,BOLLI GANAPATHI RAMUDU ,33630922
+33614657~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525940968763,5,0,VERY USEFUL,0,0,N SAI NARAYANA THARUN ,33614657
+33614556~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525940785983,5,0,very useful,0,0,BAVESH KOLA,33614556
+5620825~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525932683972,5,0,"Good course, nicely paced, excellent professor.  The quizzes / assessments could be harder.",0,0,Tim Dilks,5620825
+33740600~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525861695841,5,0,good course,0,0,Yaswanth Gadamsetty,33740600
+33610433~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525775689388,5,0,GOOD,0,0,AKULA MANGA RAJU PAVAN KUMAR,33610433
+27628215~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525764192514,5,0,GOOD,0,0,Find Me,27628215
+33526866~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525502495264,5,0,good,0,0,LINGAM TARAKA SATYA SAI SARATH,33526866
+16948368~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1525063809126,5,0,Excellent introduction of Arduino shields and how to use Arduino libraries,0,0,DADDA Mustafa,16948368
+22181198~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1524884058807,5,0,شكرا جزيلا,0,0,Mohamed AbdElkareem,22181198
+26474023~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1522842307705,5,0,All the essential points about arduino interfacing has been discussed in this course.,0,0,Bhasker Jha,26474023
+31934702~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1521562810790,5,0,I'm enjoying this course a lot,0,0,Deepanshu Shah,31934702
+24626718~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1520944651929,5,0,a bit difficu,0,0,Hyuksoo Jin,24626718
+14545980~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1520043330490,5,0,good,0,0,Shakthivel Ganesan,14545980
+31222374~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1519221686860,5,0,Good,0,0,Akash Rathaur,31222374
+30714661~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1518858828784,5,0,this course is amazing and fun but it will be a lot better if used more sensors and shields.,0,0,mansouri mohamed,30714661
+21857197~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1518479855345,5,0,"Thanks a lot for this course, very important for me, I hope in the future make a device that help people",0,0,MARCO ASAEL ANGARITA JAIMES,21857197
+21044483~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1517402633109,5,0,Good!,0,0,Rishab Pal,21044483
+3703239~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1517328656008,5,0,The class was very well paced. The exercises were very well planned. I learned a lot! Thanks,0,0,Jose Luis Ramirez Herran,3703239
+2099444~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1517145044544,5,0,Loved this Practical course very much ,0,0,Manjunath Janardhan,2099444
+30287486~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1515417471824,5,0,"Great introduction to interfacing with the Arduino, using theory and practical 'build at home' examples. ",0,0,Gareth Jones,30287486
+291237~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1515390042280,5,0,"very good and interesting course, I really enjoyed it",0,0,Alaaedden Sasi Ali S. Bakosh,291237
+23726088~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1514308250122,5,0,Really great for beginner.  ,0,0,Brad Tempest,23726088
+7126509~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1512412642770,5,0,The course is great and I learned many new things. ,0,0,Thomas Cox,7126509
+22822726~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1510471139108,5,0,good course ,0,0,Mahmoud Eyada,22822726
+11406032~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1509497651951,5,0,Good course but eeprom homework is really bad described so be prepared for it.Good if you want to start learning about arduino.,0,0,Ivan,11406032
+6019456~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508744925782,5,0,Great course for getting started with Arduino and its shields and libraries.,0,0,Hemant Vasantrao Raut,6019456
+26277015~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508577255092,5,0,A well rounded course that gives you all you need to start a journey with Arduino prototyping.,0,0,Melvin Pather,26277015
+22595653~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1508123996662,5,0,Great course for ARDUINO. Must be done by every iot designer.,0,0,Abhishek Dhiman,22595653
+27052789~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1507004067735,5,0,excellent for beginners  ,0,0,Chito-June C. Tumolva,27052789
+12256232~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506975156104,5,0,An excellent course. Simple and efficient.,0,0,Ricardo Alessandro da Costa Silva,12256232
+24689154~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506880776523,5,0,"I am new to arduino. It was great learning it, getting the basics atleast. Thanks a lot Prof. Ian.",0,0,Priyabrata Pati,24689154
+118461~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506508864540,5,0,"A good overview course to begin to explore the interaction of Arduino with the external environment. The information turned out to be slightly less than I would like, but enough to continue studying on my own. It is better to go together with ""The Arduino Platform and C Programming"" course.",0,3,Sergei Leshchina,118461
+28040590~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506445623413,5,0,  This is a very good course in most aspects.  ,0,0,Assaduzzaman Noor,28040590
+21546672~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506235361516,5,0,This course was really helpful.,0,0,Anshul Vora,21546672
+26760775~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1506055177978,5,0,v,0,0,Abdul Hye Masoom,26760775
+24159778~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1505738189797,5,0,thank you ,0,0,MOHAMED RAAFAT MOHAMED,24159778
+26103116~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1504621045175,5,0,this is good course gives exposure of practical project creation and execution skills,0,0,MN Krishnamurthy,26103116
+20302951~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1503795607272,5,0,Excellent but we all miss a forum,0,0,Mjesus Serra,20302951
+20940461~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1503681903007,5,0,"Assignments were of very basic level .Therefore, not enough practical implementation of concepts was there.",0,0,Arpit Jadon,20940461
+5998704~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1503592828896,5,0,All the basic and fundamental concept has been explained in this course. I would like to recommend this course to any one who is new or learning Arduino. Very useful course. I got chance to learn learn many thing and many thing I revised. Thanks and very much respect to Mr. Ian Harris.,0,0,Binod,5998704
+25980780~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1500792793957,5,0,very good,0,0,Deep Parmar,25980780
+4538417~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1500368454476,5,0,Great!!!,0,0,reema majumdar,4538417
+14847797~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1500331298636,5,0,Many thanks for the course,0,0,EDGAR RODRIGO MANCIPE TOLOZA,14847797
+12852183~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1499975151634,5,0,"Great Course, the teacher and topics are clear and easy to learn",0,0,Duvert Ariel Aguilar Vargas,12852183
+15556036~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1499782329657,5,0,awesome,0,0,shubham bagwari,15556036
+15235318~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1498317560582,5,0,Excellent pace.,0,0,RUBEN HERRERA,15235318
+26066524~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1497713475837,5,0,General overview on all Arduino Issues.,0,0,Ezio Geloni,26066524
+21329517~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1497185856441,5,0,marvellous coaching. thanks coach!!! i really learned a lot.,0,0,Raghav Gupta,21329517
+20068507~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1496966214245,5,0,"If you are new or eager to learn about the Arduino, this course bring you up to speed. Though I played with Arduino little bit before this class, this class put me in right path.",0,1,Rajesh Kannivadi,20068507
+23810906~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1496510317201,5,0,"This class provides examples of interfacing the arduino to indicators, actuators and inputs.",0,0,Dale R Van Deusen,23810906
+21933275~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1496478263292,5,0,"Very good fundamentals of interfacing with Arduino, for beginners.",0,0,Dr A. C. Suthar,21933275
+25045738~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1496032009827,5,0,"for me, very useful.",0,0,Yasir Faur,25045738
+8543818~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1494923383420,5,0,Excellent presentation of topic.,0,0,TABISH AFTAB,8543818
+17337172~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1494494781897,5,0,P,0,0,ratneswar roychowdhury,17337172
+22285352~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1493283314314,5,0,amazing,0,0,Vibhu Gautam,22285352
+17514593~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1491859649262,5,0,Excellent.,0,0,Luiz Augusto Arruda Costa,17514593
+12440390~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1491114973233,5,0,Great Course!,0,0,Channa Gunawardena,12440390
+9198936~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1491053264560,5,0,This course provides a well paced intro for building own IoT solutions with the Arduino ,0,0,Torsten Boettjer,9198936
+24484313~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1490894260020,5,0,I have learned a lot from this course the way of professor teaching is awesome,0,0,vinodh kumar Tandrothu,24484313
+19513214~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1490363451074,5,0,very good,0,0,Joshua McCartney,19513214
+1675536~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1488394486452,5,0,G,0,0,Filipi Rigui,1675536
+19699515~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1488133217816,5,0,Gives you a broad knowledge of all the different ways you can interact with the Arduino. Starting withe simplest elements as resistors and LEDs and ending in the most complex and advanced interfaces i.e. ethernet and wireless interfaces. Your knowledge will increase exponentially with every minute you use to study. Personally I consider this course a great and thrilling ride. ,0,2,Jimmy Saldivias,19699515
+388151~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1487777091391,5,0,Great Course.  Easy to learn.,0,0,Donnie Sacristan,388151
+1667768~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1486234564307,5,0,Great course!,0,0,Shreyas Sakhadeo,1667768
+23310618~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1485737622757,5,0,"Excellent lesson, Thanks.",0,0,Riyando Assire Siregar,23310618
+2080838~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1485409225637,5,0,very happy with whatever i have learned,0,0,Deepesh Prakash Guragain,2080838
+12518546~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1485184770234,5,0,Excellent!!,0,0,Sharon,12518546
+22984325~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1484813196578,5,0,An awesome and must take course for the aurduino.,0,0,Dikshant Chadha,22984325
+22435563~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1483659342101,5,0,love it,0,0,Kenneth Fossen,22435563
+22130373~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1482380319399,5,0,It's useful and practical!,0,0,安思,22130373
+20944338~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1481642707677,5,0,Best Course with good assignments and quizzes.,0,0,Rahul Mallappa Kudgi,20944338
+19924020~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1481372376192,5,0,IT WAS VERY GOOD ..WITH CLEAR CUT CONCEPTS,0,0,Sumanth Samala,19924020
+14491600~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480916602514,5,0,"First I really appreciate Coursera community because they gave me  an opportunity to follow this course module.Now i completed it and i have a valuable certificate .If you didnt give chance for me, i cant get this achievement.I give feedback for Interfacing with ardunio with in few words. ""It is GREAT"" .It was done rally good by professor Harris .thanks for all",0,2,Udayanga  Dinesh Rathnayaka,14491600
+22696996~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480901958605,5,0,I learned a lot! thank you ,0,0,Carlos Olivas,22696996
+9105387~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480865222695,5,0,Great,0,0,Gireesh Suresh,9105387
+4355095~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480554435816,5,0,This is great course to understand foundation of IoT and Arduino.,0,0,Nguyen Van Tin,4355095
+17631570~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1480459413511,5,0,It is a really good course to introduce the Arduino and basic electronic components! :),0,0,Sebastian Lopez Ramirez,17631570
+3701997~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1479495284627,5,0,Great course!,0,0,Jorge Leonardo Santa Moreno,3701997
+7862636~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1479494740279,5,0,"Great course to learn the different options that you have on the Arduino platform, the structure helps you to learn more than by looking at ""videos"" or reading online documentation.",0,0,Diego Soto,7862636
+8450721~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1479466741398,5,0,great course,0,0,Craig Stobbs,8450721
+19338325~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1479381058039,5,0,Great Course. Learnt Alot,0,0,Ahsan Memon,19338325
+21108530~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1478292317648,5,0,Nice courses with a so good lecture as usual... it is amazing how Ian Harris can present complicated things in a so simple way ! Very easy to understand even for people whose english is not their native language as myself.Thanks Again !!!Just sad that in the next courses of IOT Raspberry PI devices are not programmed in C++...Bye & Thanks again !,0,2,Georges-Emmanuel PALLUD,21108530
+20890824~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1477948383313,5,0,"good course, more hands on practice",0,0,Trudi Noonan,20890824
+6778414~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1477765829240,5,0,Course is very useful and easy to understand.,0,0,Deva Devan,6778414
+19914815~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1477738302499,5,0,It was really clear for me a person who introduce my self into the IoT,0,0,Erick Francisco Lazo Valdivia,19914815
+20417365~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1477178421986,5,0,Pretty Good,0,0,Javier Fernandez Heras,20417365
+16789282~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1476346080169,5,0,"Great course, really informative",0,0,Alec Lane,16789282
+8614791~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1475076410383,5,0,"Absolutely loved this course. Despite a very seemingly 'casual' method of instruction, the content surely keeps the student on their toes. There is just oodles of stuff to learn in this Course! You'll leave enlightened in the Arduino Space! Great course, I recommend it to everyone who wants to learn how the shields work, internet connectivity with Arduino and even basics of Arduino.",0,3,Adamya,8614791
+3284844~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1474907142369,5,0,Very good course! Thank you very much.,0,0,Louie Juera,3284844
+21596023~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1474378287266,5,0,Good classes,0,0,Thomas Terance,21596023
+670492~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1472106594884,5,0,"Great, Easy & Well-explained",0,0,Muhammad Isa Aldacher,670492
+20447931~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1471265315818,5,0,"Muito o bom o curso, recomendo",0,0,Bruno Chacon,20447931
+7382026~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1470685863853,5,0,cool,0,0,Juvonal,7382026
+7890706~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1470595356720,5,0,great work!,0,0,srujan ravindra,7890706
+15458526~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1470578226814,5,0,learnt a lot ,0,0,Krishna S Gowda,15458526
+11716004~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1467574288370,5,0,"Neatly explained. Easy to learn and must for beginners. Thank you University of California and Coursera. Best IoT course on the Internet
+
+",0,0,Saravanakumar Ramachandran,11716004
+8057830~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1466718663792,5,0,"Very educational. Would highly recommend
+",0,0,Renaudt Nunez,8057830
+10701990~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1466275395422,5,0,"
+A good progression from the previous courses. Lots of hands-on programming.
+",0,0,David Fernandez,10701990
+18874853~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1466232790053,5,0,"
+loved it !!!!!!!!!
+",0,0,Karthic CM,18874853
+12566897~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465845743742,5,0,Excelente !!!!,0,0,Pedro R. Castillo A.,12566897
+11915304~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465756705826,5,0,Good Course.,0,0,Ahmed Abdullah Mohamed Ahmed,11915304
+13641053~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1465515180384,5,0,Assignment was awesome.,0,0,Paras Mani,13641053
+4920896~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1464145913946,5,0,This is an outstanding course.  It really builds confidence fast when using Arduino.  ,0,0,John Vylasek,4920896
+9265977~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1463301823790,5,0,Amazing course,0,0,Anil Sagar,9265977
+18587288~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1462714961527,5,0,"great course, very useful for me",0,0,Miguel Lacosta Canut,18587288
+8019845~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1461513649945,5,0,I highly recommend this course!,0,0,Paul Porpiglia,8019845
+17660097~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1461444873799,5,0,Awesome I am a fan of Sir Harris,0,0,Shivam,17660097
+18805175~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1461233904376,5,0,Fantastic... Very helpful... Just what I needed!,0,0,Varun Jana,18805175
+1867014~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1459098333691,5,0,"Easy to follow, great introduction to topics. Very good to have a quick overview of interfacing with Arduino",0,0,Viebone,1867014
+5957350~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1458897048256,5,0,Great,0,0,Ashish Anand,5957350
+10547731~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1457805554086,5,0,Excellent course.,0,0,Emmanuel Castillo,10547731
+11824791~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1457689511419,5,0,Easy and straightforward.,0,0,Utku Kalkancı,11824791
+116936~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1457378950620,5,0,Great 101 basics in brief. All what you need for quick start.,0,0,Rostislav Pashuto,116936
+14842722~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1457003048443,5,0,Very well done course!,0,0,Alessandro Gignoli,14842722
+5417589~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456963392992,5,0,Project submission to videos changed compared to other classes,0,0,Dj Sauer,5417589
+14545690~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456504658039,5,0,Very good,0,0,Nithin Mohan,14545690
+5661947~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456504326229,5,0,"Great course for newbies and also for professionals from related disciplines. This was the first course i enrolled, and after finishing it, it left me with hunger for more knowledge on Arduino platform and IOT development, so i enrolled for the whole specialization. ",0,2,Nuria Martin,5661947
+8902662~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456487383062,5,0,Great course from a great University,0,0,Leau Ioan Robert,8902662
+378295~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1456413064662,5,0,Really enjoyed learning this course.,0,0,Ahmed Amer,378295
+3180632~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455998836159,5,0,"As have the first two been, this course is also spectacularly well done. By this time I can almost think things through without going to the books. Almost, but not quite. This series of courses is really amazing. A wonderful entry to the Internet of Things. Thank you.",0,2,Clair Dunn,3180632
+16325759~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455996345357,5,0,Excelente curso,0,0,René Daniel Escoto,16325759
+15144812~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455532638990,5,0,Awesome for Beginners,0,0,Kumar Nalinaksh,15144812
+6023944~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455343511463,5,0,I expected more extensive courseworks. Did not involve me in a lot of courseworks. I learnt a lot but got to implement very few.Week3 assignment was good. ,0,0,Md Asif Shahjalal,6023944
+15118891~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1455321241223,5,0,"Thanks , professor.Glad to take this course with you. ",0,0,Mahmoud Abd El Hamed,15118891
+6445540~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1454824535872,5,0,Excellent course.,0,0,Jose Matteo,6445540
+16319002~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1454017476844,5,0,Very nice ,0,0,José Manuel Trejo Peraza,16319002
+1312865~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1453805929559,5,0,Great course! You will learn much on Arduino projects and Arduino Shields.This course earns my highest recommendations and is ideal for someone who wants to learn more on IoT.,0,3,Athanasios Pouchias,1312865
+14688386~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1453551259382,5,0,Great course if you want to learn a bit about electronics and how to attach components and sensors to an arduino.,0,0,Ole Dam Møller,14688386
+2800992~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1453078039019,5,0,"Excellent course, easy to follow and with the appropriate workload!",0,0,Julio César Amador Díaz López,2800992
+16296119~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452921788904,5,0,excellent!!!,0,0,Harshad,16296119
+5116441~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452494934772,5,0,Very good course with hands-on lectures and an insightful introduction to real-world simple applications.,0,0,Anurag Sharma,5116441
+2724711~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452273870962,5,0,Very interesting. Ethernet interface isnnice,0,0,Ernest Murciano i Tomàs,2724711
+384357~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452190305365,5,0,"great learning, i would say  ""great start for IOT programming learning.",0,0,Mohammad Khalid Ahmad,384357
+6340384~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1452120462927,5,0,"Easy to follow, it is very helpful to learn basic knowledge to use with an arduino board. I recommend it",0,0,Christian del Rio López,6340384
+12083337~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451995758287,5,0,really good basics got cleared...thanx to coach,0,0,pranav,12083337
+12692026~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451880683558,5,0,Great class,0,0,Sebastian Sanchez,12692026
+889665~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451794706711,5,0,This was an extremely interesting course.,0,0,Joshua Coman,889665
+16414381~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451744452048,5,0,Very well designed and structured course.  ,0,0,Abhinav Rawat,16414381
+16785431~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451535467132,5,0,"Such a Wonderful Course. I was constantly on the look for a course which will teach me some basics about Arduino, as I had some basic electronics course at college. This course has given me all that I require to further dig in and do the experiments. I right away ordered Arduino and some components from Amazon. Thank you Professor, and thank you Coursera.",0,2,Vijay Sridhara,16785431
+3789586~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1451239843735,5,0,Awesome lectures! Awesome explanations! Awesome examples! Awesome assignments!,0,0,Alexandru Cohal,3789586
+766968~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450650016842,5,0,Nice course.,0,0,Alexandre Moreira Dias,766968
+2972490~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450585435364,5,0,One of the best course,0,0,老叶,2972490
+1566863~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450408277267,5,0,these courses are the need of the hour,0,0,Venkateshwarlu Sonnathi,1566863
+15269214~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1450133533210,5,0,great,0,0,段小风,15269214
+3403843~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449944236191,5,0,Highly interesting. Thank you,0,0,Jean-Francois Bras,3403843
+572936~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449938493168,5,0,Excelente ,0,0,Jorge Duran,572936
+5112883~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449781448774,5,0,Another wonderful course.,0,0,Henry Vo,5112883
+11953110~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449623594408,5,0,Anyone can learn. very interactive,0,0,Rafael Siqueira,11953110
+16050485~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449600163364,5,0,Great and complete course in getting to know IoT by interfacing with the Arduino!,0,0,Giorgos Alexis,16050485
+978224~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449532055882,5,0,Excellent and usfull fo a student not familiar with electronics nor programming,0,0,Juan M. Mitterhofer,978224
+15035054~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449481475574,5,0,great course  for interfacin with a wide variety of arduino features,0,0,Afshaan Londhe,15035054
+4824877~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449455748731,5,0,Good course!,0,0,Steve Swam,4824877
+15510595~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449413698690,5,0,Good jobthanks,0,0,Zafar SHARIPOV,15510595
+9435253~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449394338528,5,0,Really a simple and great course. Anyone can learn from it.,0,0,Saleem Ullah Baig,9435253
+7499165~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1449045530970,5,0,Good,0,0,Thien Truong,7499165
+2443128~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448978160895,5,0,Awesome course.,0,0,sushil kumar,2443128
+15405516~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448764661624,5,0,This course provided me a good amount of information to use the Arduino Board.,0,0,SeeYong.Yee,15405516
+6599748~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448734688867,5,0,Great course!,0,0,Blas López Gómez,6599748
+6168672~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448732887571,5,0,J,0,0,Yacob Woldehiwot,6168672
+2627396~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448661547691,5,0,"Excelent! Clear, with student Interaction   a good course ",0,0,Gabriel Marey,2627396
+15814703~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1448656237181,5,0,"very excellentadd more tutorials regarding GSM, GPS, Webserver devices",0,0,Umer Majeed,15814703
+2042821~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1447937073040,5,0,"great course, very usefull.",0,0,Alain Moles de las Rivas,2042821
+12429989~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1447868999940,5,0,best,0,0,Manikanta n.r,12429989
+2841033~COURSE!~hgw1Nkd5EeW8cBKtDAegYw,1447839041402,5,0,"this course give me wings,to solve my electronics problem,i really happy i can access this course any where in world and can study at my own pace............",0,0,tahir iqbal,2841033

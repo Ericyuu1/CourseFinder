@@ -1,0 +1,138 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+58418566~COURSE!~cCI7RNroEemxthIDmiPlEg,1631572915168,1,0,Outdated and not beginner friendly,0,0,Ankit Chauhan,58418566
+78511656~COURSE!~cCI7RNroEemxthIDmiPlEg,1630652562546,1,0,Mostly all free reading content from Microsoft is given . No additional information or effort to make the understanding clearer done by coursera. Youtube tutorials are better. ,0,0,Subah Oberoi,78511656
+87267577~COURSE!~cCI7RNroEemxthIDmiPlEg,1626666036710,1,0,"It is literally reading MS documents and no class. MS document is not necessarily for beginners and could be complex; keep that in mind that I am currently using Azure in my work and knew many concepts before and saying this. The documents which course asks you to read have many hyperlinks which you have no clue if you should read or not, and to make it even better, some like whitepapers are 64 pages and after reading, if you manage to finish it without any help, then you would be a super expert. Someone should ask if I wanted to do that without need for any guide or supervision from a tutor then why should I enrolled in a course? All you have from tutor is at best 5 lines of written instruction to read the MS documents, Simulation is based on MS free account which might charge you big amount if you make a mistake. All in all, not recommend at all. It is abusing the trust I had in Coursera.It is abusing the trust I had in Coursera",0,2,Hamed Osanlouy,87267577
+79999434~COURSE!~cCI7RNroEemxthIDmiPlEg,1621002331112,1,0,"Barely any original content, mostly just links to Microsoft's documentation. There is no clear focus on a consistent level of detail in this training: some lesson's content is more marketing material than useful basic information, while another's lesson's content links to detailed step-by-step guides about use of a specific API, which lacks context towards the rest of the training.The Quiz questions are sometimes ambiguously worded, some questions are not answered in the lessons' contents.I've seen policy & compliance trainings which are more inspiring than this training.",0,0,Roman Kilgus,79999434
+16108092~COURSE!~cCI7RNroEemxthIDmiPlEg,1619459714995,1,0,Poorly designed course and quizzes. It's as if they get some intern to copy and paste azure documentation urls in no particular order and call it a course. Quizzes did not reflect the information covered in the course.,0,0,Vlad Rud,16108092
+22983199~COURSE!~cCI7RNroEemxthIDmiPlEg,1617570012469,1,0,The worst course I've ever had. The instructor literally don't teach you anything. It's just an assembly of Microsoft docs.,0,0,Mohammad Hadikhan Tehrani,22983199
+75349547~COURSE!~cCI7RNroEemxthIDmiPlEg,1609857435988,1,0,"You may as well just direct people to the whole of the Microsoft-provided learning as many of the lessons do just that piecemeal. The second quiz for the first week references material not covered  (e.g. virtual networks question) and has ""correct"" answers which are demonstrably inaccurate (one answer claimed that you can't create a Linux VM in Azure which is absurd). I have the coursera subscription, so I didn't lose any money on the course, but I would be asking for my money back if I had bought it individually. Update your material or inactivate the course.",0,0,Benjamin Keppler,75349547
+71138623~COURSE!~cCI7RNroEemxthIDmiPlEg,1604078147643,1,0,"This is the second coursera course I have taken, and it is horrible.  If the first course I had taken were this bad I would have thought coursera was total trash, and likely would not taken any more classes.  There are many things in this course that are 5+ years out of date, and some quiz questions that are totally wrong.  Several of the Microsoft tutorials this course directs you to have a warning at the top saying they are out of date.  Many of the quiz questions that are correct focus on trivial details instead of important things.  Do yourself a favor, and find some other way to learn about azure.",0,2, Edward Tyrrill ,71138623
+18689849~COURSE!~cCI7RNroEemxthIDmiPlEg,1604004917381,1,0,Too much reading not enough videos ,0,0,Ashraf Hussain,18689849
+45786755~COURSE!~cCI7RNroEemxthIDmiPlEg,1603852958341,1,0,Hardely any lecture compared to the equivalent AWS and GCP course. Primarily refers you to MS docs for reading which can easily be Googled vs paying for the course... ,0,0,Bret Taylor DeMuth,45786755
+4236187~COURSE!~cCI7RNroEemxthIDmiPlEg,1602168717033,1,0,"This is not worth your time. It's basically just a couple of links to Azure documentation. I don't see any structure with regard to the material. Just a couple of texts on networks and VMs. There is literally no original content. The quizzes are scarce, of little relevance and contain errors. The discussion forum is not maintained. Waste of money.",0,5,Raffael,4236187
+33381699~COURSE!~cCI7RNroEemxthIDmiPlEg,1600293971285,1,0,Not that good,0,1,Muhammad Talha Khan,33381699
+32849265~COURSE!~cCI7RNroEemxthIDmiPlEg,1598904047180,1,0,"this is the worst course I have ever taken.  I will avoid coursera in the future if at all possible.  the training is painful, poorly conceived, and poorly presented.  it was a waste of money that I regret.the only reason this has 1 star is because I could not submit with 0 stars.",0,3,Mark Myers,32849265
+63398060~COURSE!~cCI7RNroEemxthIDmiPlEg,1598592555807,1,0,The course is basically read Azure documentation.,0,4,Jobian Gutierrez,63398060
+62784150~COURSE!~cCI7RNroEemxthIDmiPlEg,1596405780347,1,0,2 minutes videos and then everything is a link to Microsoft's online documentation. Some quiz quiz correct answers don't seem to be correct. Some quiz questions are not for the module you are currently on.,0,3,Ramón Mendoza Campos,62784150
+71933291~COURSE!~cCI7RNroEemxthIDmiPlEg,1622766149185,2,0,"Not really happy with the course.  Came across some typos, and the tutorials are just links to Microsoft documentation.",0,0,Thomas Walck,71933291
+79347747~COURSE!~cCI7RNroEemxthIDmiPlEg,1613057718765,2,0,"A lot of external reading which for me was against the purpose of the course.  It was like here is a tiny bit of detail, now go read for yourself the majority of the subject.  Not good!",0,0,Mark John Harris,79347747
+77458438~COURSE!~cCI7RNroEemxthIDmiPlEg,1610198191524,2,0,Not exiting at all,0,0,Shivam Mishra,77458438
+73662652~COURSE!~cCI7RNroEemxthIDmiPlEg,1605504898058,2,0,"I get that basically you learn Azure by reading the documentation... but instructor should provide more guidance and the Quizzes should be about the lectures, not the external link of the external link of the documentation.",0,0,Juan Francisco Torres Mera,73662652
+74924328~COURSE!~cCI7RNroEemxthIDmiPlEg,1604573757705,2,0,=,0,0,Aldrin Song,74924328
+44985912~COURSE!~cCI7RNroEemxthIDmiPlEg,1587966476584,2,0,N/A,0,0,Ahmet Kandakoglu,44985912
+13580175~COURSE!~cCI7RNroEemxthIDmiPlEg,1633943125022,3,0,i was expecting more videos than reading articles it took lots of time from me.,0,0,mina farajian,13580175
+82763680~COURSE!~cCI7RNroEemxthIDmiPlEg,1617789757069,3,0,Positives : I ended the course having a basic understanding of cloud computing. I enjoyed the tutorials and had fun.Negatives : The Coursera/LearnQuest content was basic at best. 90% of the material was from Microsoft themselves (very good documentation) and LearnQuest has not updated their material to represent changes in Azure...which leads to beginners like me being very confused. I also felt that we dived too fast into the nuts and bolts ,0,0,Steve Bentley,82763680
+67959495~COURSE!~cCI7RNroEemxthIDmiPlEg,1608369511432,3,0,/,0,0,Ravi Hegde,67959495
+57532289~COURSE!~cCI7RNroEemxthIDmiPlEg,1604910011518,3,0,Most part of it was reading documentation from Official site.,0,0,Arshad Mohammed,57532289
+65006107~COURSE!~cCI7RNroEemxthIDmiPlEg,1601466695058,3,0,Less videos in the course.,0,0,Gaurav Sonar,65006107
+62652756~COURSE!~cCI7RNroEemxthIDmiPlEg,1597169151579,3,0,"content was good. However mostly referred to Microsoft documents. It has very less videos. Actually course era should simplify the azure content and provide it. which was my expectation, but it didn't happen.",0,0,Rajesh GP,62652756
+6185183~COURSE!~cCI7RNroEemxthIDmiPlEg,1592754934598,3,0,The course itself is fine. What I didn't like was that most of the content was publicly available material from Mifcrosoft to read while I was expecting more guided content and videos created specially for the course.,0,2,Yin e Marques Investimentos,6185183
+49811450~COURSE!~cCI7RNroEemxthIDmiPlEg,1592636582947,3,0,Great,0,0,MD SABBIR HOSEN,49811450
+46574180~COURSE!~cCI7RNroEemxthIDmiPlEg,1591584322923,3,0,so many documents with less videos,0,3,xiaocui zhang,46574180
+100773095~COURSE!~cCI7RNroEemxthIDmiPlEg,1650651257307,4,0,"I​nterasante, facil de comprender y muy intuitivo.",0,0,BELTRAN MANJARREZ FRANCISCO,100773095
+63844225~COURSE!~cCI7RNroEemxthIDmiPlEg,1644568560852,4,0,the course was informative i am now moticated to enroll for an official certification in Azure,0,0,TSHEPO ANDRIAS MPITSO,63844225
+60657694~COURSE!~cCI7RNroEemxthIDmiPlEg,1631593667720,4,0,Excellent learning platform across globe with experienced online trainers.,0,0,Puran Chand,60657694
+57723914~COURSE!~cCI7RNroEemxthIDmiPlEg,1626757070134,4,0,good  for begineers,0,0,vamsi settipalli,57723914
+87437524~COURSE!~cCI7RNroEemxthIDmiPlEg,1625204078555,4,0,good,0,0,Priyanka Eluri,87437524
+78347096~COURSE!~cCI7RNroEemxthIDmiPlEg,1622311859738,4,0,A good introduction to Microsoft Azure and the Internals that are involved. I definitely recommend this course to anyone (technical or non-technical) who wishes to get started on Azure. However few questions in the Quizzes requires to focus deep on the contents and was little intense for a Beginner course  ,0,0,Vedhasankaran H,78347096
+80948175~COURSE!~cCI7RNroEemxthIDmiPlEg,1622177530081,4,0,Fine for beginner's,0,0,Vivek Singh Negi,80948175
+15038234~COURSE!~cCI7RNroEemxthIDmiPlEg,1620064450652,4,0,Compatibility of Candidates Machine needs to be explained clearly ,0,0,Manish Kumar ,15038234
+43386610~COURSE!~cCI7RNroEemxthIDmiPlEg,1618154427156,4,0,Reading references and integrated hands on guides are great.  Course falls down a bit when you get to a quiz and the referenced reading doesn't correlate as well as it should.,0,0,,43386610
+21105252~COURSE!~cCI7RNroEemxthIDmiPlEg,1618004087425,4,0,"Really good course. Wish it had labs built in like some of the google training. Was stuck in a loop with the free trial with Azure, and one day there was an error message to check back later. Not able to do practice labs with azure trial, I was only able to view portal and make custom dash boards. ",0,0,Ray Palomarez,21105252
+70850314~COURSE!~cCI7RNroEemxthIDmiPlEg,1607705040265,4,0,"A lot of self learning, not too much engagement ",0,0,Xavier Antonio Aponte,70850314
+68077891~COURSE!~cCI7RNroEemxthIDmiPlEg,1606617758795,4,0,Not the perfect on but you can start with it.,0,0,Shailesh Acharya,68077891
+45975185~COURSE!~cCI7RNroEemxthIDmiPlEg,1604444461424,4,0,Muy enfocado en infraestructura y comunicaciones.,0,0,José Luis Lozano,45975185
+75155970~COURSE!~cCI7RNroEemxthIDmiPlEg,1604301773645,4,0,It was an informative course,0,0,Shivam Dharwal,75155970
+72895037~COURSE!~cCI7RNroEemxthIDmiPlEg,1601373733029,4,0,Ve,0,0,Manikandan V,72895037
+41132928~COURSE!~cCI7RNroEemxthIDmiPlEg,1601225296203,4,0,Not student compatible and not explined in detail..,0,0,DIDLA JOEL,41132928
+59541858~COURSE!~cCI7RNroEemxthIDmiPlEg,1600992586078,4,0,"Curso corto y básico, para entender las principales características de Microsoft Azure. Si podes lee aparte, es un curso que en un día lo haces tranquilo. Los Quiz son sencillos y en caso de error los podes hacer otra vez. Lo único que critico es que las preguntas del cuestionario son todas  iguales, por lo que si lo haces mal, las preguntas son las mismas. A pesar de todo es un buen curso para comenzar.",0,0,Dario Torres,59541858
+66303512~COURSE!~cCI7RNroEemxthIDmiPlEg,1598999189670,4,0,Easy and fun to learn,0,0,Abhiram Paturi,66303512
+67021615~COURSE!~cCI7RNroEemxthIDmiPlEg,1598711553252,4,0,  The course frequently links to outdated MS material.  The content of modules and following quizes are misaligned. There was no lesson in IMA altough there was half a quiz about it. Azure is a rapidly developing platform and you need to keep up with the changes and fix this courses internal structure. Even tough there were a lot of problems with the course I still got what I was looking for ie. a basic understanding of Azure.,0,0,Mikko Kaukonen,67021615
+68863710~COURSE!~cCI7RNroEemxthIDmiPlEg,1598237491221,4,0,It's not a complicated course but you need the dedication to read all the documents related to the things that are thought in the course.,0,0,MUHAMMAD IMRAN IMAN BIN MOHD RADZI,68863710
+14735603~COURSE!~cCI7RNroEemxthIDmiPlEg,1597958546027,4,0,Overall gives good understanding of MS Azure. I think my objective is met. But of course I need to do a lot more reading,0,0,Vinit Joshi,14735603
+20598125~COURSE!~cCI7RNroEemxthIDmiPlEg,1597296522015,4,0,Good !! must take course for people interested in learning azure ,0,0,Satvik Shukla,20598125
+4532266~COURSE!~cCI7RNroEemxthIDmiPlEg,1593475241282,4,0,A lot of the content was just reading/following the Microsoft documentation. The structure of the course was helpful for learning and I was satisfied it overall. Only suggestion is to include more videos from the instructor rather than relying on the MSFT wiki.,0,0,Timothy Kozlov,4532266
+59062539~COURSE!~cCI7RNroEemxthIDmiPlEg,1592155776321,4,0,Hubiera sido un poco mejor más ejercicios prácticas en lugar de teoría,0,0,Sebastián Quinto Juárez ,59062539
+43454855~COURSE!~cCI7RNroEemxthIDmiPlEg,1590394998329,4,0,A few misplaced exams but an overall good course. Learnt alot.,0,0,Mandela Midamba,43454855
+44401924~COURSE!~cCI7RNroEemxthIDmiPlEg,1588939651696,4,0,"Course is more on reading, ideally it should be more practical exercise like you actually create Resources, VMs, apply policies locks etc etc.",0,5,Bhavik Chandresh Kaji,44401924
+83007405~COURSE!~cCI7RNroEemxthIDmiPlEg,1674920151439,5,0,Very helpful course. I have learned a lot of skills with this course.,0,0,Asad Noor (Ch),83007405
+119154087~COURSE!~cCI7RNroEemxthIDmiPlEg,1669121967339,5,0,Great and easy learnings,0,0,Nasir Hussain Sanakuppam,119154087
+34736188~COURSE!~cCI7RNroEemxthIDmiPlEg,1667592109857,5,0,"Best refresher course for a beginner into azure, everyone who is planning to build career in azure should go for it.",0,0,Pradeep Rajbhar,34736188
+98962265~COURSE!~cCI7RNroEemxthIDmiPlEg,1666440667754,5,0,n​ice,0,0,Ekta Singh,98962265
+58127473~COURSE!~cCI7RNroEemxthIDmiPlEg,1657705563900,5,0,nice,0,0,Pranchal Kesharwani,58127473
+104409072~COURSE!~cCI7RNroEemxthIDmiPlEg,1653864395243,5,0,Very helpful,0,0,Mahmad Irfan Etwaree,104409072
+95708776~COURSE!~cCI7RNroEemxthIDmiPlEg,1637356481535,5,0,"Great introduction, easy to follow enriching my knowledge. Highly recommend.",0,1,Mohan Prabhu,95708776
+93101514~COURSE!~cCI7RNroEemxthIDmiPlEg,1632826718834,5,0,I​ learned many thing in this course I gained a lot of information about azure and now I'm ready  to learn more about azure ,0,0,Fatimaez-Zahra DAHAOUI,93101514
+91449736~COURSE!~cCI7RNroEemxthIDmiPlEg,1632322345618,5,0,its really good ,0,0,Venkata Siddhartha,91449736
+90864340~COURSE!~cCI7RNroEemxthIDmiPlEg,1629527447610,5,0,Great Course,0,0,Lokesh B,90864340
+79630335~COURSE!~cCI7RNroEemxthIDmiPlEg,1622641151028,5,0,Lots of very logical material outlining the fundamentals and beyond of how Azure works. ,0,0,barry clark,79630335
+75392205~COURSE!~cCI7RNroEemxthIDmiPlEg,1621985248251,5,0,Great course!,0,0,Rishad Farhad Unwalla,75392205
+74363197~COURSE!~cCI7RNroEemxthIDmiPlEg,1621335695312,5,0,best Video for fresher to understand the Azure. ,0,0,Navnath Danawale,74363197
+38904031~COURSE!~cCI7RNroEemxthIDmiPlEg,1621006068952,5,0,Exige dedicação mas foi muito bom!,0,0,Eduardo Claudino,38904031
+56726384~COURSE!~cCI7RNroEemxthIDmiPlEg,1619816524786,5,0,more video content should be provided.,0,0,MAGESH RAJ S,56726384
+75020117~COURSE!~cCI7RNroEemxthIDmiPlEg,1619625544476,5,0,very informative,0,0,Stephen Mokaiwa,75020117
+34645039~COURSE!~cCI7RNroEemxthIDmiPlEg,1619247427512,5,0,"Very nice course, great explanation. Really helpful, Thank you",0,0,Ashok Kumar,34645039
+31789114~COURSE!~cCI7RNroEemxthIDmiPlEg,1619181727593,5,0,I enjoyed the course and understood the basics and best practices of using Microsoft Azure.,0,0,Siyabonga Sarlton Ngubane,31789114
+80988556~COURSE!~cCI7RNroEemxthIDmiPlEg,1616498269100,5,0,This course is very fun and educational,0,0,Themba Sithole,80988556
+69898524~COURSE!~cCI7RNroEemxthIDmiPlEg,1616202196225,5,0,Great course! I now have a better understanding of using Microsoft Azure.,0,0,Laurence Hennis,69898524
+69352295~COURSE!~cCI7RNroEemxthIDmiPlEg,1614799172764,5,0,"This course good for beginners, Thanks for providing it.",0,0,sitharam guggulothu,69352295
+19842164~COURSE!~cCI7RNroEemxthIDmiPlEg,1614342663063,5,0,Very well organized and covers overview of fundamental components of Azure.,0,0,Swapnil Gupta,19842164
+72136921~COURSE!~cCI7RNroEemxthIDmiPlEg,1613764115019,5,0,Nice course,0,0,Yash Sharma,72136921
+73526030~COURSE!~cCI7RNroEemxthIDmiPlEg,1609879246687,5,0,Great Learning,0,0,Rahul Anand,73526030
+71532189~COURSE!~cCI7RNroEemxthIDmiPlEg,1608233937743,5,0,Thanks for this course.,0,0,javier garcia,71532189
+45233883~COURSE!~cCI7RNroEemxthIDmiPlEg,1607887902518,5,0,Strong skills on Azure as well as Firewall configuration with power-shell can be found here,0,0,Benjamin Gakunzi Niyonkuru,45233883
+49475606~COURSE!~cCI7RNroEemxthIDmiPlEg,1607713450338,5,0,nice.,0,0,Jimmy Verkooijen,49475606
+61935222~COURSE!~cCI7RNroEemxthIDmiPlEg,1607378416328,5,0,"Fantastic, practical and easy to understand course. If you have basic knowledge about Azure for sure you will enjoy it.",0,0,José Alberto Gutiérrez López,61935222
+76397582~COURSE!~cCI7RNroEemxthIDmiPlEg,1607292304321,5,0,Very informative tour of Azure !,0,0,Jeff Krause,76397582
+2841565~COURSE!~cCI7RNroEemxthIDmiPlEg,1606693497572,5,0,i have some certifications in AWS and wanted to know how closely related Azure and AWS were.   This short overview gave me this answer.,0,0,Graeme Rider,2841565
+63869378~COURSE!~cCI7RNroEemxthIDmiPlEg,1606242717893,5,0,Good but could use more hands on practice for those not familiar with Azure,0,0,Balminder Singh Dhillon,63869378
+22821254~COURSE!~cCI7RNroEemxthIDmiPlEg,1606218361584,5,0,The best Azure course ever. Im working as Azure Cloud Engineer,0,0,Marc Samuel Galito  Pabilona,22821254
+71675619~COURSE!~cCI7RNroEemxthIDmiPlEg,1605607620276,5,0,God bless Coursera for this gift,0,0,Paul Ajayi,71675619
+74713939~COURSE!~cCI7RNroEemxthIDmiPlEg,1605017580762,5,0,Very helpful and informative. I'd learn a lot from this course about azure. Thank you so much. ,0,0,Roant Z. Saclolo,74713939
+65395573~COURSE!~cCI7RNroEemxthIDmiPlEg,1604822442938,5,0,"Very good contains and information , very easy to understand  :)",0,0,Shailesh Deore,65395573
+50163862~COURSE!~cCI7RNroEemxthIDmiPlEg,1604730361161,5,0,This course is really helpful for beginners.,0,0,Farhin Rizvi,50163862
+38096621~COURSE!~cCI7RNroEemxthIDmiPlEg,1603995783723,5,0,Excellent,0,0,Sanjay Kumar Jain,38096621
+53734399~COURSE!~cCI7RNroEemxthIDmiPlEg,1603908859635,5,0,Good Resource to start Azure,0,0,Sumit Roy,53734399
+74150005~COURSE!~cCI7RNroEemxthIDmiPlEg,1603792681975,5,0,T,0,0,Letitia Lyndsey Aloysius,74150005
+67191666~COURSE!~cCI7RNroEemxthIDmiPlEg,1603347990076,5,0,i learned important things which will helpful me in my career outgrowth ,0,0,Shailesh Naikodi,67191666
+61122238~COURSE!~cCI7RNroEemxthIDmiPlEg,1603268553467,5,0,Good course.,0,0,Bhavesh Raul,61122238
+66064795~COURSE!~cCI7RNroEemxthIDmiPlEg,1602208011880,5,0,Great introductory course about the Microsoft Azure cloud platform.  ,0,0,A.M Ishara Harshana Abeysekara,66064795
+42792948~COURSE!~cCI7RNroEemxthIDmiPlEg,1601840149017,5,0,Great for beginning with Azure,0,0,Edvard Kral,42792948
+69534131~COURSE!~cCI7RNroEemxthIDmiPlEg,1601710318452,5,0,nicd,0,0,babu kagitha,69534131
+68793670~COURSE!~cCI7RNroEemxthIDmiPlEg,1601497065645,5,0,"A thorough and insightful course with a good balance of tutorials and concepts. If you need to understand Azure, this course is a valuable resource.",0,0,Norman Wheelock,68793670
+43560234~COURSE!~cCI7RNroEemxthIDmiPlEg,1600533294558,5,0,Excellent Course,0,0,Gaurav Kumar,43560234
+46606133~COURSE!~cCI7RNroEemxthIDmiPlEg,1599889732000,5,0,it was very help full to increase carrier part,0,0,Gajapathi Rao,46606133
+65649056~COURSE!~cCI7RNroEemxthIDmiPlEg,1599564189143,5,0,Nice and useful,0,0,Rishi Rathore,65649056
+60583125~COURSE!~cCI7RNroEemxthIDmiPlEg,1599455663581,5,0,So useful and easy to learn..go for it,0,0,Kapil Dharmale,60583125
+40223019~COURSE!~cCI7RNroEemxthIDmiPlEg,1599377098107,5,0,Course content is best and very basic best for beginners !,0,0,Hrushikesh Ramesh Potbhare,40223019
+34387068~COURSE!~cCI7RNroEemxthIDmiPlEg,1599013318032,5,0,"The course covered the essential information for familiarizing with how Azure works and is configured. The introduction to Azure PowerShell, CLI, and portal were very helpful. ",0,0,Jeff Donaldson,34387068
+21139825~COURSE!~cCI7RNroEemxthIDmiPlEg,1598898901224,5,0,Excellent course..  I am excited to keep learning Azure!  Thanks,0,0,Ciro J. Fonseca S.,21139825
+68203381~COURSE!~cCI7RNroEemxthIDmiPlEg,1598344858203,5,0,Thank you for the knowledge!!!,0,0,Harshith C Shetty,68203381
+66839096~COURSE!~cCI7RNroEemxthIDmiPlEg,1597415303154,5,0,I am so glad to complete this course and The content provided is simple and understandable. ,0,0,Shivani Sharma,66839096
+65563449~COURSE!~cCI7RNroEemxthIDmiPlEg,1596737014200,5,0,"Todos os conceitos basicos de Azure estão aqui, além da possibilidade de se aprofundar mais e mais com os materiais e links em cada uma das lições.",0,0,Diego Vismara Zupo,65563449
+65494938~COURSE!~cCI7RNroEemxthIDmiPlEg,1596687717388,5,0,Nice,0,0,Mauricio Antonio Muñoz Palma,65494938
+64370945~COURSE!~cCI7RNroEemxthIDmiPlEg,1596541100166,5,0,Awesome!!!!!!!!!!,0,0,Qudus Balogun,64370945
+39389177~COURSE!~cCI7RNroEemxthIDmiPlEg,1596491006788,5,0,Great knowledgeable course for starting with Azure,0,0,lebogang bassie,39389177
+46520280~COURSE!~cCI7RNroEemxthIDmiPlEg,1596290074056,5,0,"This course really helps me in understanding the fundamental concepts of Azure.Thanks to instructor,learnquest and coursera in helping me achieving this feet.",0,1,Nikhil Dogra,46520280
+67296541~COURSE!~cCI7RNroEemxthIDmiPlEg,1596289708869,5,0,good,0,0,Rexin Issac,67296541
+66912374~COURSE!~cCI7RNroEemxthIDmiPlEg,1595427614520,5,0,Its a nice course. I am started with Azure LearnQuest certification. To improve my knowledge utilizing like this in free time.,0,0,G Pranaya,66912374
+62304393~COURSE!~cCI7RNroEemxthIDmiPlEg,1595269654549,5,0,informative,0,0,Aditya Upadhyay,62304393
+59602844~COURSE!~cCI7RNroEemxthIDmiPlEg,1595052606602,5,0,GOOD COURSE .As a beginner Im able to know more about Azure,0,0,KRIUTHIKA S,59602844
+64402587~COURSE!~cCI7RNroEemxthIDmiPlEg,1594570055095,5,0,Great course. Gave me a lot of information and guidance about my career in Microsoft Azure,0,0,Mohamed Ammar,64402587
+47752831~COURSE!~cCI7RNroEemxthIDmiPlEg,1594261799849,5,0,Very Good,0,0,Siddharth Saini,47752831
+50271798~COURSE!~cCI7RNroEemxthIDmiPlEg,1593847540094,5,0,Awesome Journey,0,0,Upendra Joshi,50271798
+62544514~COURSE!~cCI7RNroEemxthIDmiPlEg,1593715542988,5,0,I had so much fun getting started with  Azure,0,0,Kamanda Alain,62544514
+56814523~COURSE!~cCI7RNroEemxthIDmiPlEg,1593552843776,5,0,Greate course,0,0,Manikant Rai,56814523
+39393625~COURSE!~cCI7RNroEemxthIDmiPlEg,1593351923002,5,0,thanks alot for this course now i understand what is the microsoft azure,0,0,Mohammad Alhariri,39393625
+61940502~COURSE!~cCI7RNroEemxthIDmiPlEg,1593127827627,5,0,"Excelente curso, da una vista general sobre Azure, funciones, seguridad entre otras",0,0,Jaisson Andres Vargas S�nchez,61940502
+38658840~COURSE!~cCI7RNroEemxthIDmiPlEg,1593000911231,5,0,I would recommend this course to get clear your concepts on cloud.,0,0,SARITA GANPAT PADIYAR,38658840
+56512624~COURSE!~cCI7RNroEemxthIDmiPlEg,1592971587360,5,0,it was great experience of learning from LearnQuest.,0,0,Nikita,56512624
+48948147~COURSE!~cCI7RNroEemxthIDmiPlEg,1591527821700,5,0,Thank you for giving me the opportunity to attend this course,0,0,Oluwatoyin Idowu Abiodun,48948147
+37747497~COURSE!~cCI7RNroEemxthIDmiPlEg,1591275725299,5,0,Fantastic,0,0,Abdelmonem Ali,37747497
+60414285~COURSE!~cCI7RNroEemxthIDmiPlEg,1590847419237,5,0,tha,0,0,bassam ,60414285
+55096874~COURSE!~cCI7RNroEemxthIDmiPlEg,1590681178358,5,0,good,0,0,Pragathi,55096874
+52227548~COURSE!~cCI7RNroEemxthIDmiPlEg,1590607886394,5,0,Nice!,0,0,Sambhav Jeswani,52227548
+36398537~COURSE!~cCI7RNroEemxthIDmiPlEg,1590034145040,5,0,Excellent,0,0,Lovely Singh,36398537
+60590697~COURSE!~cCI7RNroEemxthIDmiPlEg,1589698530713,5,0,It used me a lot,0,0,KADAMANCHI PRAVEEN,60590697
+42849171~COURSE!~cCI7RNroEemxthIDmiPlEg,1589647476825,5,0,I find this is an excellent course and very much useful for my Organizations initiative of Azure Lift and Shift of the legacy medical imaging applications. Course content had good breadth and depth. ,0,0,Ravi Kumar Bammidi,42849171
+49127196~COURSE!~cCI7RNroEemxthIDmiPlEg,1587399206370,5,0,GOOD BEGINNER COURSE FOR AZURE,0,0,SYED MAHABOOB ALI,49127196

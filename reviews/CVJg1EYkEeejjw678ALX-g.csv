@@ -1,0 +1,267 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+80734580~COURSE!~CVJg1EYkEeejjw678ALX-g,1616771285547,1,0,j,0,0,Ludovica Saccenti,80734580
+10337544~COURSE!~CVJg1EYkEeejjw678ALX-g,1603468282098,1,0,"Waste of time and money, I was expecting to improve my programming skills but this course only gives definitions and there is no valuable practices, this is not something that can be added to a curriculum... very disappointed...",0,1,Omar Alfonso Solís Rodríguez,10337544
+21724484~COURSE!~CVJg1EYkEeejjw678ALX-g,1597942078021,1,0,Practice and rare lecture slides are the opposite of principles they are trying to teach. Assignments are all peer graded and based on one bloated android program,0,1,Тарас,21724484
+2357179~COURSE!~CVJg1EYkEeejjw678ALX-g,1591554619896,1,0,"I have read in some places that Coursera needs to improve its Review system, because the stars of this course do not match reality. Clearly, this course is not in the ""standard coursera"" of quality (if you have already taken some courses, you will understand). The evaluation system is by colleagues, but it does not work, the classes are very weak, you will probably find the material of the wikipedia more didactic and in-depth. Few exercises. In fact, I don't even know if it can be called ""exercise"", it seems more like something for you to get a grade and not learn something. It needs to be reviewed urgently, as Coursera is now paid.",0,2,Afonso Medina,2357179
+40155815~COURSE!~CVJg1EYkEeejjw678ALX-g,1639752971492,2,0,"Basic, should have had more practices and real world examples",0,1,Daniel Camacho Alonso,40155815
+86240422~COURSE!~CVJg1EYkEeejjw678ALX-g,1621981922886,2,0,"Content is good. Discussion forums are not useful. Course assignments are based on Android which adds an extra level of difficulty which is not necessary given the content, and do not demonstrate the value of any of the design patterns taught. If anything, patterns that must be applied in assignments result in over-engineering and excessive duplicate code. Treatment of code smells is superficial as a result. No feedback on assignments is given; marks reflect only if an attempt was made, not whether it was correct.",0,0,Gregory Paciga,86240422
+45859736~COURSE!~CVJg1EYkEeejjw678ALX-g,1616853237575,2,0,"I learned some new things and overall the course was quite informative. However I can only give the course two starts because I was not completely satisfied with how the course was structured and the level of difficulty. I was expecting a much more challenging course, in terms of theory and actual exercises. The main reason I signed up was because I was expecting to go  in to more detail on SOLID, unfortunately it was only until the last part of the course that it was mentioned. In general, I thought the structure of the course was a little monotonous and to mechanic. I understand that trying to explain design patterns in itself can be challenging because its an abstract concept. But I think it could have been much better. Also, the code base that we had to work with in Java, in my opinion was  not very well written and did not convey the key concepts of the course. The course is informative and in general I would recommend it if you want to improve you skills on how to write better code, but don't have high expectation on it. ",0,0,Nicholas Rawitscher,45859736
+5371374~COURSE!~CVJg1EYkEeejjw678ALX-g,1551460809758,2,0,"What a great topic! And what a poor job they did with this one! Its a shame, it feels like they only care about the money.",0,0,Lucian Baciu,5371374
+195046~COURSE!~CVJg1EYkEeejjw678ALX-g,1510478635248,2,0,Content is ok but doesn't go in detail and often just scratch the surface.Exercises instead are quite poor. Many errors in the UML diagrams and code examples.,0,9,Matteo Lovato,195046
+17992609~COURSE!~CVJg1EYkEeejjw678ALX-g,1668200281732,3,0,I'd say 3 to 3.5 stars.  The information presented is fairly clean.  But I have no idea why the class needs to pull in Android as a complication.  I imagine the professor figured it would be fun and interesting for the students.  I was really just looking for a low friction way to learn and practice some of these patterns.    Also having code that's going to depend on a specific version of something complicated like android probably isn't going to age well.  Then there's the complication that android studio wasn't always available on Linux.  I digress ...    ,0,0,Aaron Elmquist,17992609
+118052125~COURSE!~CVJg1EYkEeejjw678ALX-g,1668195861517,3,0,"Overall a good course, but I  found the UML diagrams very confusing. They should recommend another course as a prereq that helps to understand these diagrams.I used this as a complement to a Ruby adaptation of the GOF's ""Design Patterns"", and I found the order of the patterns this course chose to teach really strange. The template pattern is regarded as one of the easiest and most widely used patterns and the Factory pattern is much more complicated and builds on the Template pattern. Yet, they chose to teach Factory before Template? They also completely dropped the Strategy pattern from their curriculum, which is another very widely used and easy-to-understand pattern.",0,0,Ashley Schauer,118052125
+23293146~COURSE!~CVJg1EYkEeejjw678ALX-g,1668178305409,3,0,"I liked the content, but the required install of Android Studio proved too difficult. Some things have changed in Android Studio, and some things in the code was deprecated and I cannot figure out if the fault is mine or it is because some of the content is now deprecated.",0,0,Max Lillelund,23293146
+11484638~COURSE!~CVJg1EYkEeejjw678ALX-g,1660488772748,3,0,"This course comprised everything about good programming and architectural practices. However, I consider that it should be splitted into two courses more to board in detail more concepts and practice them.",0,0,Luis Fernando Pinzon Marroquin,11484638
+6454123~COURSE!~CVJg1EYkEeejjw678ALX-g,1638998876355,3,0,"The course material is really good, but it's not too deep. The assignments don't really help to understand the subject.",0,0,Dániel Szokolics,6454123
+39050503~COURSE!~CVJg1EYkEeejjw678ALX-g,1635663868672,3,0,"I was very pleased with the OO Design course of this same team, however, I am a bit disappointed with this course.
+Firstly, the questions and exercises are not enough to deeply understand the design patterns.
+Secondly, the material is not well enough. 
+The course uses UML but this UML is somewhat different than the UML in the OOP course and I could not find explanation for the different notations, so I have to guess, what the arrow means. There are misconceptions around the MVC pattern (see the discrepancies between the written material, the video material and the solution of the capstone project), I had to check how that works on the internet, I even checked the book of GOF, so I have to think, that also the teachers do not understand this enough.
+I did not say, that this material is bad. Not at all, I learned a lot (I tried to understand design patterns many times earlier), so I understand DP better than before starting the course, but I do not feel, that I am good enough in DP after this course. So I recommend this class for everyone, but I also ask the lecturers to improve the material.
+Overall: Thank you for the material, with only a bit more work, it could be perfect.",0,1,Péter Borkuti,39050503
+70568119~COURSE!~CVJg1EYkEeejjw678ALX-g,1602082206074,3,0,"Bom, porém a qualidade das atividades poderia ser melhor.",0,0,RODRIGO JOSE BORBA FERNANDES,70568119
+57788897~COURSE!~CVJg1EYkEeejjw678ALX-g,1594063738153,3,0,Many of the explanations concerning design patterns are too abstact and there are not enough practical exercise to understand them deeply. For many topics you won´t be able to get a good idea about the practical application. ,0,0,Revelo Alexis,57788897
+6803118~COURSE!~CVJg1EYkEeejjw678ALX-g,1585327929259,3,0,"Forum is not useful, unfortunately. No involvement by teachers, just a bunch of guys asking for assignments to be graded. Grading by others is much too lenient, i.e. even if you make errors, you are awarded too many points.",0,0,Aurel Moussa,6803118
+14897173~COURSE!~CVJg1EYkEeejjw678ALX-g,1579531435299,3,0,"Poor peer-review system, lack of support from teachers in discussions",0,7,Alexander Dvortsov,14897173
+11661535~COURSE!~CVJg1EYkEeejjw678ALX-g,1571643796580,3,0,need more sample usages of design patterns in real world,0,0,Nguyen Thang Ngoc,11661535
+20964016~COURSE!~CVJg1EYkEeejjw678ALX-g,1568286477356,3,0,this course really needs more explanation and going through details in order to be useful. I believe it is just a introduction to design patterns and you cannot learn design patterns by introduction,0,6,alireza rezaeikalat,20964016
+4661383~COURSE!~CVJg1EYkEeejjw678ALX-g,1553532931490,3,0,"Overall, a good course. The only (HUGE) drawback is that your assignments are being checked by students, who often have no clue what they are grading.  ",0,12,V K,4661383
+37268796~COURSE!~CVJg1EYkEeejjw678ALX-g,1541691098616,3,0,Not Bad ,0,0,HarieHaren GV,37268796
+1904349~COURSE!~CVJg1EYkEeejjw678ALX-g,1537549817452,3,0,Very light course... I would say very easy and does not get into depth...,0,0,George Papageorgakis,1904349
+29639953~COURSE!~CVJg1EYkEeejjw678ALX-g,1515432701977,3,0,"Missing course notes, even though there are a lot of references about the GoF Design Pattern. Most of the UMLs and codes are poorly reviewed.",0,0,Raffaele Maffei,29639953
+63755858~COURSE!~CVJg1EYkEeejjw678ALX-g,1676003793901,4,0,This course helped me to understand Java design Patterns easily and clearly.,0,0,Nipun Weerakoon,63755858
+118015969~COURSE!~CVJg1EYkEeejjw678ALX-g,1668867224508,4,0,informative,0,0,Ria Pahujani,118015969
+110629805~COURSE!~CVJg1EYkEeejjw678ALX-g,1663929094459,4,0,g​ood,0,0,GUTHULA JAYA MAHALAKSHMI,110629805
+102530862~COURSE!~CVJg1EYkEeejjw678ALX-g,1661688338124,4,0,"Nice course but only supporting java code base, while design pattern can be in any programing language such as C#, TS, ... etc.",0,0,Muhammad Mujahid,102530862
+97767749~COURSE!~CVJg1EYkEeejjw678ALX-g,1660908416140,4,0,great learning,0,0,MOHAN SATYA VENKATESH PASALAPUDI,97767749
+109374316~COURSE!~CVJg1EYkEeejjw678ALX-g,1658428210204,4,0,Good overall. Some of the discussion links go to expired discussion-groups. And a link to a quick summary of each of the patterns would help.,0,0,Eric Wiener,109374316
+93650755~COURSE!~CVJg1EYkEeejjw678ALX-g,1656260645627,4,0,"I so glat to attend this cource and,
+ it was more interesting than I expected ",0,0,Hassan ALI,93650755
+103095824~COURSE!~CVJg1EYkEeejjw678ALX-g,1653903963832,4,0,"This is a very nice course, I learned a lot from it,I wish to add source files for all java codes in this course to be easy to test it, or upload on GitHub it will be very useful to us.Thanks a lot.",0,0,Kamel Abdelmessih Kamel,103095824
+45087485~COURSE!~CVJg1EYkEeejjw678ALX-g,1639200000445,4,0,"The course is good, but the review is a little slow. Maybe he number of people studying this course is small?",0,0,ruhuang,45087485
+97082440~COURSE!~CVJg1EYkEeejjw678ALX-g,1638212085931,4,0,Guter Kurs,0,0,Philipp Kühnel,97082440
+34512415~COURSE!~CVJg1EYkEeejjw678ALX-g,1633214822143,4,0,I​t was a very educative and engaging MOOC. Thank you University of Alberta for such a great opportunity,0,0,Robert Oyadier,34512415
+17426733~COURSE!~CVJg1EYkEeejjw678ALX-g,1632351461812,4,0,"I think its a decent course for beginners/intermediate programmers. The course doesn't go over all of the design patterns just the major ones which was a bummer. I really like how they explained everything in an easy to understand way in this course but I really wanted the difficulty to ramp up as we went towards some of the harder patterns, unfortunately that didn't happen nevertheless this is a decent foundation in design patterns in my opinion. Definitely recommended to anyone starting out or finding design patterns hard to understand alone. ",0,0,Sarim Siddiqui,17426733
+3818213~COURSE!~CVJg1EYkEeejjw678ALX-g,1631189303468,4,0,Excellent content. I wanted to see more coding assignments. ,0,0,Stefan Vasilev,3818213
+89400707~COURSE!~CVJg1EYkEeejjw678ALX-g,1625468663448,4,0,good,0,0,Mobile Engineering,89400707
+81108708~COURSE!~CVJg1EYkEeejjw678ALX-g,1624268658167,4,0,"The videos and the tasks were very good, but I dislike the dependency on other students to progress on the course.",0,0,Morten Damm,81108708
+3592198~COURSE!~CVJg1EYkEeejjw678ALX-g,1618069172808,4,0,it was good to learn it from here.,0,0,Pawan Kumar,3592198
+47283434~COURSE!~CVJg1EYkEeejjw678ALX-g,1614574701865,4,0,Good,0,0,Pratik,47283434
+32489480~COURSE!~CVJg1EYkEeejjw678ALX-g,1610823735408,4,0,Very Insightful! Not a fan of the peer-graded assignments ,0,0,Rateb Kahhaleh,32489480
+74558713~COURSE!~CVJg1EYkEeejjw678ALX-g,1610514524577,4,0,"good but needed more practical explanations for design patterns , most of the course listing and explaining in general about different types of design pattern ",0,0,Hasan Al Sayyed,74558713
+69463270~COURSE!~CVJg1EYkEeejjw678ALX-g,1607401221217,4,0,"Was having a good start. But I didn't like when it moves to the assignment. Assignments are really un guided and no any real person check for it correctness expect another peer validate based on input from college. That won't give real feedback on the assignment made. My Opinion is, assignment should be checked and given feedback by real instructor since every students have their own approach and thinking that might be different from the given answer for comparison by peers. Some peers do not understand at all and make the rate the assignemtn to be correct. that's so sad",0,1,Muneer Saheed,69463270
+71413772~COURSE!~CVJg1EYkEeejjw678ALX-g,1604314463312,4,0,"Content was good, but some ""starter code bases"" were missing. ",0,0,Ignas Po�ka,71413772
+3919077~COURSE!~CVJg1EYkEeejjw678ALX-g,1600413451533,4,0,Very informative course. ,0,0,John Paul Otim,3919077
+45943281~COURSE!~CVJg1EYkEeejjw678ALX-g,1598555995699,4,0,The course is excellent. It covers a lot of design patterns that we may use. ,0,0,Apurv Arvind Sawant,45943281
+36626382~COURSE!~CVJg1EYkEeejjw678ALX-g,1597862545481,4,0,"Course is great, but I think it can benefit of doing pure java exercises, rather than to have to depend on an application on android, Also, it needs more exercises with refactoring , I do understand there is so many patterns, but it will increase analitic capacity from the student.",0,1,Eddie Romero,36626382
+2201748~COURSE!~CVJg1EYkEeejjw678ALX-g,1597059881976,4,0,I really enjoyed how the concepts are explored. My humble suggestion is to increase the level of examples in the code smells section. ,0,0,Pablo Perotti,2201748
+50589826~COURSE!~CVJg1EYkEeejjw678ALX-g,1595962690840,4,0,Capstone challenge can be even more challenging,0,0,Gayathri Sitaraman,50589826
+17468091~COURSE!~CVJg1EYkEeejjw678ALX-g,1594061666170,4,0,I liked learning about the many different design patterns touched on in this course. I think more could have been done with practically implementing the patterns (starting from scratch). The Capstone project again involved a great deal of overhead which wasn't really justified.,0,0,Matthew Green,17468091
+49220959~COURSE!~CVJg1EYkEeejjw678ALX-g,1590471572641,4,0,"The demo could have been also possible with any simple IDE, as installing and configuring Android Studio could be irrelevant for some students.",0,0,Anuj Awasthi,49220959
+7275198~COURSE!~CVJg1EYkEeejjw678ALX-g,1590427956351,4,0,"Very rich content. However, i don't think the community reviewing system for assignments is the best, if there is a more controlled reviewing option  can be used, i think it will be better.",0,0,Omar Tarek Bayomy,7275198
+41147081~COURSE!~CVJg1EYkEeejjw678ALX-g,1590274968805,4,0,"great content. Instead of just introducing every design pattern, this course chose to introduce some classic patterns for every category and focusing on connecting them on a high level - writing ""reusable, flexible, maintainable"" code.",0,0,Ivan Wang,41147081
+57109347~COURSE!~CVJg1EYkEeejjw678ALX-g,1587450977022,4,0,"Nice course, but slightly faster than I wanted it to be",0,0,Максим Романьчук,57109347
+31078795~COURSE!~CVJg1EYkEeejjw678ALX-g,1587102516844,4,0,very good teaching skills. i understand most of the things very fast. ,0,0,Sakshee Sahu,31078795
+38511856~COURSE!~CVJg1EYkEeejjw678ALX-g,1586786611397,4,0,good,0,0,Isha Joshi,38511856
+47554987~COURSE!~CVJg1EYkEeejjw678ALX-g,1580732806594,4,0,"Nice content and material, very well explained! It would be better if the assignments used more plain console programs instead of an Android App. Even though it's nice to use the patterns in a ""real world"" app, the focus in the patterns get lost sometimes due to the complexity of the environment and the code for such an app. In a simpler environment, It also would be possible to have harder assignments, which would lead to a better overall result.",0,0,Raphael Silva Cury,47554987
+40190471~COURSE!~CVJg1EYkEeejjw678ALX-g,1577300632820,4,0,Very good course content and appropriate assignments. Having more examples before assignment would help little more in my opinion. ,0,0,DHANANJAY SHINDE,40190471
+28102459~COURSE!~CVJg1EYkEeejjw678ALX-g,1576924998067,4,0,There should be more explanation of code examples,0,0,DHRUV SHARMA,28102459
+23050193~COURSE!~CVJg1EYkEeejjw678ALX-g,1576811446875,4,0,Good Learning but too much to cover and easy to loose track of the topic.,0,0,Vinay Kumar Shiva Kumar,23050193
+2926187~COURSE!~CVJg1EYkEeejjw678ALX-g,1570351621232,4,0,"The course provided me a high level vision of Design Patterns and its application to solve main common software design problems. It worth to do the course.In my opinion, some more practical exercises would provide better knowledge fixation, also use Android applications on the Capstone assignments was a poor choice, cause it is high resource consuming and has some limitations depending on the OS you are using.",0,0,Gabriel Felipe Soares,2926187
+9204039~COURSE!~CVJg1EYkEeejjw678ALX-g,1570093480424,4,0,Very good course but I think you should give many practical examples. I searched a lot to get the full knowledge about one pattern. Anyway it's very recommended to anyone need to level up development skills.,0,0,Mohammed Shalan,9204039
+15385075~COURSE!~CVJg1EYkEeejjw678ALX-g,1564551568156,4,0,Quite a good course to understand the fundamental design patterns that we can apply in software design. Liked the amount of student indulgence that is encouraged in the project.,0,0,PLN Rahul,15385075
+13326530~COURSE!~CVJg1EYkEeejjw678ALX-g,1557905352664,4,0,Very Interactive and like the way tutors relate to the real world examples!,0,0,Nagabushan Pandarinath,13326530
+6705849~COURSE!~CVJg1EYkEeejjw678ALX-g,1556212171517,4,0,I learned both fundamental and how to apply design pattens. Especially having assignment is a great merit of this course. I wish it would have more assignment for each design pattern.,0,0,Nozomu Kuwae,6705849
+39469223~COURSE!~CVJg1EYkEeejjw678ALX-g,1555282791854,4,0,"Good. Feedback from assignments is ok. There could be more elboration on the final code-smells stuff (maybe some example solutions). The example code given does not compile, I had to spend a reasonble amount of time fixing the build errors. Course content was good and informative.",0,0,William Chomley,39469223
+30499046~COURSE!~CVJg1EYkEeejjw678ALX-g,1553789089825,4,0,Nice course,0,0,Siddharth Shailendra,30499046
+158723~COURSE!~CVJg1EYkEeejjw678ALX-g,1547098816134,4,0,"Really useful course, it let me understand the patterns deeply",0,0,Hany Sakr,158723
+37746161~COURSE!~CVJg1EYkEeejjw678ALX-g,1545994248677,4,0,"Awesome learning experience alongwith examples.Smaller, simpler and more number of code writing & design making exercises can make it more awesome.",0,0,PRATIBHA JAIN,37746161
+8303132~COURSE!~CVJg1EYkEeejjw678ALX-g,1542071627966,4,0,It's a good course but you do not have the support of a coach (instructor).,0,0,Wilson Tineo Moronta,8303132
+11261778~COURSE!~CVJg1EYkEeejjw678ALX-g,1538326458606,4,0,Well explained & organized. Good coding assignments to better understand & retain the learnt topics. ,0,0,Vishwas Kulkarni,11261778
+11622409~COURSE!~CVJg1EYkEeejjw678ALX-g,1538303722995,4,0,"All in all, it was a good course. However, there were some issues. Firstly, the course notes was full of errors. Secondly, the projects did not always run immediately with the newest version of android sdk and tools. I am not so familiar with android, and each time I had to fight a few hours with these kinds of errors. The third issue was that the rubrics were not precise enough sometimes. For example, some students fulfilled the points in the rubric, but they had not addressed the issues in the assignment correctly.Thank you for effort, and hope you can address the issues above to improve the course in the future. ",0,1,Azadeh Richter,11622409
+5634640~COURSE!~CVJg1EYkEeejjw678ALX-g,1537088824711,4,0,Good for people already know the stuffs and need some kind of brush up. Otherwise have to be willing to study contents from web to truly understand the patterns.,0,0,Farsan Rashid,5634640
+656087~COURSE!~CVJg1EYkEeejjw678ALX-g,1533462103274,4,0,Powerful though I think more updated example could give a richer expierence,0,0,Davis Agaba,656087
+1166335~COURSE!~CVJg1EYkEeejjw678ALX-g,1526564464051,4,0,I love always extra additional optional material for who want to go in deep. Maybe some pdf with other design patterns.I don't like at all android studio as development environment.  In order to study design pattern maybe could be better some simplest and lightest environment. ,0,0,Davide Rabboni,1166335
+2365774~COURSE!~CVJg1EYkEeejjw678ALX-g,1518789842413,4,0,I think it gave a good overview of the content. I felt they needed to have more written content.I understand there is a lot out there already on design patterns but it would have been nice if they had developed texts that went with the videos.,0,0,Shannon Ferguson,2365774
+28334521~COURSE!~CVJg1EYkEeejjw678ALX-g,1517413562134,4,0,Tying the assignments to an Android Studio project was overkill; the same principles could have been demonstrated with a SIMPLE java application.    ,0,12,Xavier Jefferson,28334521
+19272968~COURSE!~CVJg1EYkEeejjw678ALX-g,1515986585259,4,0,Great,0,0,Nguyen Cong Dat,19272968
+23354103~COURSE!~CVJg1EYkEeejjw678ALX-g,1512954831065,4,0,Great course,0,0,Andrés Wong,23354103
+415220~COURSE!~CVJg1EYkEeejjw678ALX-g,1510782703977,4,0,Pros - Simple explanations for some of the most used design patterns. Quick guide for daily use.Cons - Requires some Android programming knowledge. Completing previous course 'Object Oriented Design' helps.  ,0,0,Shalini Keshavamurthy,415220
+13203528~COURSE!~CVJg1EYkEeejjw678ALX-g,1508141254465,4,0,"very good course, is a must if you are serious about Object Oriented Design",0,0,mugnaio,13203528
+35806840~COURSE!~CVJg1EYkEeejjw678ALX-g,1676825576040,5,0,Great course and I'm grant more from this course.,0,0,Sambo Chea,35806840
+39207396~COURSE!~CVJg1EYkEeejjw678ALX-g,1676747688548,5,0,Great course...,0,0,Umar Aftab,39207396
+121058004~COURSE!~CVJg1EYkEeejjw678ALX-g,1675201551153,5,0,Excellent course. As suggestion the explnation during the videos could show us more practical examples.,0,0,Christian Lins,121058004
+119598760~COURSE!~CVJg1EYkEeejjw678ALX-g,1675134774743,5,0,I have learned a lot about different method for doing my code.,0,0,Ruben Luciano,119598760
+117113544~COURSE!~CVJg1EYkEeejjw678ALX-g,1673450347119,5,0,"Good course, which has put together many good practices and concise solutions, definitely be useful to any developer",0,0,Artsiom Misko,117113544
+39991408~COURSE!~CVJg1EYkEeejjw678ALX-g,1672430870217,5,0,Great course,0,0,Chamith Mirissage,39991408
+118414590~COURSE!~CVJg1EYkEeejjw678ALX-g,1670685590340,5,0,Recommend for learners,0,0,Udari De silva,118414590
+119485281~COURSE!~CVJg1EYkEeejjw678ALX-g,1670274448753,5,0,"I have to hand it to the creators of this course, I personally prefer online education because I have a full-time job and don't have much free time, I have taken several other courses in the same modality but still I had never seen very few like this; well structured and very high quality content. Looks like these people know what they are doing, didn't just throw a couple of short videos, a quiz and call it a course. I took the Whole Software Design and Architecture Specialization taken 3 out of 4 and so far the courses have been just great, the narrator did an awesome job, they way she explains keeps you engaged through the whole video.I am looking forward to see more content from Professor Wong and collaborators.",0,0,Manuel Alva,119485281
+66593287~COURSE!~CVJg1EYkEeejjw678ALX-g,1669833143905,5,0,It's really helpful for me. Thank you very much,0,0,Darshana Thamara,66593287
+113170925~COURSE!~CVJg1EYkEeejjw678ALX-g,1668947884606,5,0,was very helpful ,0,0,MAMIDI SRI NAGA SEERSHIKA,113170925
+113636738~COURSE!~CVJg1EYkEeejjw678ALX-g,1668859082441,5,0,I've learned so many topics from this course,0,0,Subhamay Ghorai,113636738
+61808629~COURSE!~CVJg1EYkEeejjw678ALX-g,1668838465797,5,0,Thank you so much cousera,0,0,C. Nithya Hashari,61808629
+36660194~COURSE!~CVJg1EYkEeejjw678ALX-g,1667312291494,5,0,Very useful and thought provoking course,0,0,Prashanth Krishna,36660194
+113123719~COURSE!~CVJg1EYkEeejjw678ALX-g,1666153385546,5,0,Nice job,0,0,Pusuluri Uma sankar,113123719
+111842730~COURSE!~CVJg1EYkEeejjw678ALX-g,1665983497423,5,0,i​t good to be with you,0,0,Sreeshanth reddy,111842730
+43887282~COURSE!~CVJg1EYkEeejjw678ALX-g,1664253577295,5,0,A​ very good course illustrate the principles in a suffiecient and simple way,0,0,ahmed lotfy,43887282
+106061557~COURSE!~CVJg1EYkEeejjw678ALX-g,1663845844346,5,0,E​xcellent presentation by the speaker,0,0,SREEDHAR BURADA,106061557
+114053050~COURSE!~CVJg1EYkEeejjw678ALX-g,1662533855639,5,0,good,0,0,Sripathi Rao Nimmani,114053050
+96265340~COURSE!~CVJg1EYkEeejjw678ALX-g,1661006847778,5,0,This course make me know more about design pattern and every example is so great!,0,0,Trâm. Đặng Thị Huyền,96265340
+713047~COURSE!~CVJg1EYkEeejjw678ALX-g,1660163410119,5,0,Great cpmprehensive review of Design Patterns.  Useful for all designers and developers.,0,0,James F Bonner,713047
+7305670~COURSE!~CVJg1EYkEeejjw678ALX-g,1659491904413,5,0,Very nice!,0,0,Thiago da Silva Moreira,7305670
+67498514~COURSE!~CVJg1EYkEeejjw678ALX-g,1658209483873,5,0,"A very good course, with practice exercises. The topics of this course stimulate you to think about the best solutions for a given problem, improving the quality, reusability, and maintenance of the code. This knowledge can be applied quickly in everyday work.",0,0,PICCININI GIUSEPPE,67498514
+102645518~COURSE!~CVJg1EYkEeejjw678ALX-g,1657888731831,5,0,Very Good Course !!!,0,0,LUIS MARCHÀN,102645518
+99752344~COURSE!~CVJg1EYkEeejjw678ALX-g,1656067954290,5,0,g​reat simplified material to go through,0,0,Pandiarajan Subramanian,99752344
+22727111~COURSE!~CVJg1EYkEeejjw678ALX-g,1655196810422,5,0,Easy to understand,0,0,Hung Dinh,22727111
+8561967~COURSE!~CVJg1EYkEeejjw678ALX-g,1654442705182,5,0,​Fun course and I learned a lot. Highly recommend!,0,0,Elizabeth Kendall,8561967
+50579553~COURSE!~CVJg1EYkEeejjw678ALX-g,1654080342880,5,0,good course ,0,0,Ahmed Ibrahem Abdel-Hamid,50579553
+81562543~COURSE!~CVJg1EYkEeejjw678ALX-g,1652549200680,5,0,Course is good !,0,0,Manh Doan 199x,81562543
+71438744~COURSE!~CVJg1EYkEeejjw678ALX-g,1652440152895,5,0,"Всё хорошо. Есть несколько замечаний: 
+1) курс короткий, за 2 недели можно спокойно без усилий пройти.
+2) Не работают почти все ссылки на статьи в форуме",0,0,Humoyun Yuldashev,71438744
+104731021~COURSE!~CVJg1EYkEeejjw678ALX-g,1651677777178,5,0,Perfect!,0,0,Буяло Дмитро Олександрович,104731021
+73014231~COURSE!~CVJg1EYkEeejjw678ALX-g,1648457904450,5,0,"Amazing course.It helped me so much, thank you.",0,0,Hala Hussein,73014231
+308465~COURSE!~CVJg1EYkEeejjw678ALX-g,1648444072293,5,0,G​reat course and covers the design patterns at a higher level and right level of depth to start using them. ,0,0,Vips Bhargava,308465
+32345266~COURSE!~CVJg1EYkEeejjw678ALX-g,1647632958827,5,0,The course and the instructor was so good. The curriculum was well designed and of appropriate length. I really enjoyed and learnt skills that I would be able to apply while developing real software,0,0,RITVIK JOSHI,32345266
+85577277~COURSE!~CVJg1EYkEeejjw678ALX-g,1647080432397,5,0,This course teaches about all deep knowledge of Design Patterns.,0,0,Emin Məmmədov (emindeveloper),85577277
+10407176~COURSE!~CVJg1EYkEeejjw678ALX-g,1643813491645,5,0,A​n amazing course! I appreciate the use of real world examples without complicating anything as it helped me grasp the course material easily. I highly recommend this course for understanding design patterns.,0,0,Nilanshu V Rajmane,10407176
+3006810~COURSE!~CVJg1EYkEeejjw678ALX-g,1643599827564,5,0,Really enjoyed this course. All the resources and explanation helped to gain understanding on such complex topics and practice new knowledge on a real application.,0,0,Dmytro Tykhyi,3006810
+41890008~COURSE!~CVJg1EYkEeejjw678ALX-g,1643036145446,5,0,Excellent course! Instructor easy description as well as lots examples helps me to solidify my object oriented and design pattern principles. Thank you so much for this course.,0,0,UJJWAL KUMAR,41890008
+17792832~COURSE!~CVJg1EYkEeejjw678ALX-g,1640818310739,5,0,A beautiful course about Design Patterns,0,0,GABRIEL VOICESCU,17792832
+41173733~COURSE!~CVJg1EYkEeejjw678ALX-g,1638514033058,5,0,Very matter of fact course,0,0,Siji Sukumaran,41173733
+94068930~COURSE!~CVJg1EYkEeejjw678ALX-g,1636559549101,5,0,The best course for learning Design Patterns,0,0,Yeskermes Serik,94068930
+24178451~COURSE!~CVJg1EYkEeejjw678ALX-g,1636307376046,5,0,Genial!,0,0,Camilo Tabares González,24178451
+88120342~COURSE!~CVJg1EYkEeejjw678ALX-g,1635581240612,5,0,I have really enjoyed this course. All information was useful and interesting. You will get really essential skills for software development after completing this course. Material is good and assignments are really helpful. Thanks to the creators!,0,0,Lyalikov Nikita Andreevich,88120342
+95072119~COURSE!~CVJg1EYkEeejjw678ALX-g,1635157155462,5,0,good,0,0,Yoimar Moreno Bertel,95072119
+2509193~COURSE!~CVJg1EYkEeejjw678ALX-g,1633861446883,5,0,"Very Educative, thanks to the instructors",0,0,Ibrahim Salihu Anka,2509193
+3875185~COURSE!~CVJg1EYkEeejjw678ALX-g,1632746599351,5,0,Excellent,0,0,vaibhav joshi,3875185
+52603583~COURSE!~CVJg1EYkEeejjw678ALX-g,1629884214916,5,0,"Wonderful course. It can enhance tour knowledge and give opportunity to explore more about design patterns. There are wonderful examples, assignments and quiz. I would highly recommend this course.",0,1,Syed Hamza Hassan,52603583
+5460126~COURSE!~CVJg1EYkEeejjw678ALX-g,1628868011855,5,0,OK,0,0,Thanh Minh,5460126
+90443813~COURSE!~CVJg1EYkEeejjw678ALX-g,1627799034505,5,0,Good,0,0,Thăng Nguyễn Official,90443813
+86919255~COURSE!~CVJg1EYkEeejjw678ALX-g,1626259154396,5,0,Excellent course!! Thank you! Design Patterns are essenctial for a good code,0,0,Hilaida Terán Delgado,86919255
+55215333~COURSE!~CVJg1EYkEeejjw678ALX-g,1626105218527,5,0,Fantastic course which will take you out of your comfort zone in order to push you to the next level!,0,0,Dave Tetreault,55215333
+2768890~COURSE!~CVJg1EYkEeejjw678ALX-g,1624063406300,5,0,G​reat course.,0,0,Bruno Henrique Dias,2768890
+70066357~COURSE!~CVJg1EYkEeejjw678ALX-g,1623908000587,5,0,Great course ,0,0,Vaitheeswaran,70066357
+2329853~COURSE!~CVJg1EYkEeejjw678ALX-g,1622805884004,5,0,The concepts had a lucid articulation. The course covered most of the design patterns including design principles behind them. I found it very useful.,0,0,Babu Subburathinam,2329853
+102722~COURSE!~CVJg1EYkEeejjw678ALX-g,1621999699421,5,0,The examples and way of explanation is very simplified and effective. Thank you for the wonderful course on Design Patterns. ,0,0,MANAS CHHABRA,102722
+41484090~COURSE!~CVJg1EYkEeejjw678ALX-g,1621278409028,5,0,Un curso bastante bueno para introducir a los patrones de diseño. Aunque no se vieron todos los patrones me parece que el curso sienta buenas bases para continuar aprendiendo sobre más patrones y no solo en JAVA sino en otros lenguajes.,0,0,Gerardo Merida,41484090
+83615491~COURSE!~CVJg1EYkEeejjw678ALX-g,1618682550870,5,0,"Nice course! Rich in content and very intersting narration.
+But it would be even better if the assignments could be reviewed by course instructors not by student. Usually feedbacks and reviews by students are not accurate enough",0,0,Soheil Mohammadi,83615491
+35735946~COURSE!~CVJg1EYkEeejjw678ALX-g,1615875680153,5,0,"I think that is a really good course. simply, well explained and has some good assessments(homework). I would strongly recommend this course someone who works as a software developer even if knows design patterns or not.",0,0,Os Ys,35735946
+34464821~COURSE!~CVJg1EYkEeejjw678ALX-g,1614539038562,5,0,Extremely useful for anyone involved in coding tasks.,0,0,Jorge Antonio González Suárez.,34464821
+3101959~COURSE!~CVJg1EYkEeejjw678ALX-g,1613755818513,5,0,"Very nice application. It helps me understand more about the design pattern, which is essential for software developers. I highly recommended this course to software graduate, junior, middle software developers ",0,0,Huynh Van Trung,3101959
+23380336~COURSE!~CVJg1EYkEeejjw678ALX-g,1613398638331,5,0,Excellent. I've applied some concepts of the course right away on my job. It helps you to name things that you usually see in code bases.,0,0,marco sandoval,23380336
+39109765~COURSE!~CVJg1EYkEeejjw678ALX-g,1612847262567,5,0,very very good,0,0,Hamed Ajaj,39109765
+79222156~COURSE!~CVJg1EYkEeejjw678ALX-g,1612616141547,5,0,Very practical approach of explaining design patterns. I also learned new anti-patterns. Thanks instructors!,0,0,Huu Anh Huy Nguyen,79222156
+20067807~COURSE!~CVJg1EYkEeejjw678ALX-g,1611603042654,5,0,Topper,0,0,SydEney Araujo,20067807
+46811686~COURSE!~CVJg1EYkEeejjw678ALX-g,1611414648789,5,0,This is a very very excellent course of which I've ever taken & would like to recommend it to my friends to expore.,0,0,Zhao Hailong,46811686
+62925578~COURSE!~CVJg1EYkEeejjw678ALX-g,1610026561365,5,0,Very nicely and useful course! Highly recommended! ,0,0,Daniele Giorgi,62925578
+70377435~COURSE!~CVJg1EYkEeejjw678ALX-g,1609336565072,5,0,Very Good,0,0,Christophe  NIYONSENGA,70377435
+59956492~COURSE!~CVJg1EYkEeejjw678ALX-g,1609020449670,5,0,This course is awesome. I gained knowledge about design patterns. If you want to take you  on the next level of software engineering career this course is obviously recommended.,0,3,Md. Amir Faisal,59956492
+1134044~COURSE!~CVJg1EYkEeejjw678ALX-g,1608496055244,5,0,really learning new and interesting things ,0,0,Marius Felecan,1134044
+230821~COURSE!~CVJg1EYkEeejjw678ALX-g,1606942957235,5,0,"Excelente curso, muy bien presentado, muy buena bibliografia, gracias",0,0,Ramiro Villegas,230821
+71241238~COURSE!~CVJg1EYkEeejjw678ALX-g,1606570443734,5,0,It was amazing !,0,0,Barış Kaan Bayram,71241238
+73313543~COURSE!~CVJg1EYkEeejjw678ALX-g,1606287705124,5,0,great course,0,0,Chandan Kumar Sah,73313543
+74186182~COURSE!~CVJg1EYkEeejjw678ALX-g,1604064608687,5,0,An amazing course with and an amazing teacher. Its a really great course,0,0,DIEGO SILVA,74186182
+22937421~COURSE!~CVJg1EYkEeejjw678ALX-g,1603816779188,5,0,"This course was not easy, especially when you have zero knowledge on subject. But it is very helpful subject and will certainly be a plus for you career in software development. ",0,2,Konstantin Pankratov,22937421
+72809147~COURSE!~CVJg1EYkEeejjw678ALX-g,1602921686710,5,0,"This course covers exactly how we are supposed to think as engineers, when it comes to using design patterns and writing clear code.",0,0,Zois Avgerinos,72809147
+65781290~COURSE!~CVJg1EYkEeejjw678ALX-g,1602565229563,5,0,The Course was very interesting and helpful. I think it will help to grow up my software development career and drag to the next level.,0,0,Liton Miah,65781290
+62500909~COURSE!~CVJg1EYkEeejjw678ALX-g,1601651280691,5,0,Nice and organized course. Well Done!,0,0,Farouk Salem,62500909
+60792821~COURSE!~CVJg1EYkEeejjw678ALX-g,1600848782399,5,0,fine ,0,0,Sujoy kar,60792821
+37363040~COURSE!~CVJg1EYkEeejjw678ALX-g,1599689844749,5,0,A great course for those who seek good understanding of design patterns and Design principles also provides a good intro for code smells and code refactoring.,0,0,Ahmed Abd Al Mageed,37363040
+66367731~COURSE!~CVJg1EYkEeejjw678ALX-g,1599451555445,5,0,"Nice examples for the design patterns, especially not just the default example for the Decorator Pattern.",0,0,Dr. Tobias Josef Hermes,66367731
+48986357~COURSE!~CVJg1EYkEeejjw678ALX-g,1599125528084,5,0,greate course,0,0,,48986357
+41687098~COURSE!~CVJg1EYkEeejjw678ALX-g,1598192969810,5,0,Great course,0,0,Epic Life,41687098
+25295500~COURSE!~CVJg1EYkEeejjw678ALX-g,1597378738747,5,0,A nice course to get a view on design patterns. Highly recommendable.,0,0,Aishwary B,25295500
+63927961~COURSE!~CVJg1EYkEeejjw678ALX-g,1597050646620,5,0,This course is really content-rich. And the course projects are practical and useful! I am looking forward to the next course!,0,0,LIUZHENTAO,63927961
+30257077~COURSE!~CVJg1EYkEeejjw678ALX-g,1596963615582,5,0,"This course provides the right skill set required to develop a maintainable, flexible and efficient software code using well defined software design principles and tested approaches. It effectively delivered all the concepts with useful examples. Looking forward to taking more courses from this specialization.",0,0,Muhammad Usman Sabir,30257077
+28089752~COURSE!~CVJg1EYkEeejjw678ALX-g,1594844502264,5,0,Thanks to both University of Alberta and Coursera!..,0,0,Serdar Semiz,28089752
+19898928~COURSE!~CVJg1EYkEeejjw678ALX-g,1594095538342,5,0,very intersting,0,0,Ilusm falymi,19898928
+30663192~COURSE!~CVJg1EYkEeejjw678ALX-g,1593740415800,5,0,The course was really recommended for a good kick start in design patterns and it would be more effective if you follow this course along with head first design patterns book,0,2,Sunil Amrutam,30663192
+46646797~COURSE!~CVJg1EYkEeejjw678ALX-g,1593010889657,5,0,A great well-designed course to start with design patterns. ,0,0,Sayan Das,46646797
+25442549~COURSE!~CVJg1EYkEeejjw678ALX-g,1592866092165,5,0,"Great course, some of the patterns in GoF's book are covered in the course and some of the code smells are covered as well in a great way.",0,0,Yusuf Abdelaziz,25442549
+63855894~COURSE!~CVJg1EYkEeejjw678ALX-g,1592470717503,5,0,"I consolidated my previous knowledge, and also learned a lot of new things about patterns and OOP in general. Thank you very much, the course is excellent! :)",0,0,Багиров Юсиф Алиевич,63855894
+14293702~COURSE!~CVJg1EYkEeejjw678ALX-g,1592314034292,5,0,really awesome. I learn a lot more about design pattern,0,0,KhW Weng,14293702
+60288365~COURSE!~CVJg1EYkEeejjw678ALX-g,1591460491553,5,0,Cool teachers)),0,0,Богдан Хасанов Маратович,60288365
+7045832~COURSE!~CVJg1EYkEeejjw678ALX-g,1590836829270,5,0,"Brief introduction to design patterns. The lectures, quizes, assignments are all good. Recommended to take. ",0,0,Maruf Hassan,7045832
+38378336~COURSE!~CVJg1EYkEeejjw678ALX-g,1590799597464,5,0,Very well structured course. Assignments are good and the mechanism of peer review is very good. Quizzes are also very good.  After completing all assignments and quizzes one gets a very good understanding of the subject.,0,0,ajay sharma,38378336
+23827525~COURSE!~CVJg1EYkEeejjw678ALX-g,1590128564546,5,0,The course was good but it should have more assignments,0,0,Saurabh,23827525
+58805588~COURSE!~CVJg1EYkEeejjw678ALX-g,1589316649213,5,0,Very Informative. Captures the most important Patterns with good explanation,0,0,David Kovco,58805588
+40844067~COURSE!~CVJg1EYkEeejjw678ALX-g,1589032962634,5,0,i learned a lot form this great course thinks for every one who contribute for such a course and i hope i finish the rest of it's specialization ,0,0,Ahmed Mostafa,40844067
+50167962~COURSE!~CVJg1EYkEeejjw678ALX-g,1588790553204,5,0,Nice and informative,0,0,Syd Andrij,50167962
+20871086~COURSE!~CVJg1EYkEeejjw678ALX-g,1588641617817,5,0,Beautiful course explained with practical examples.,0,0,Subramanya Sheshadri,20871086
+1726712~COURSE!~CVJg1EYkEeejjw678ALX-g,1588635250166,5,0,Very valuable course. A must taken by all Software Engineers who will be working in this area.,0,0,W M Chandana Bandara,1726712
+54506220~COURSE!~CVJg1EYkEeejjw678ALX-g,1588374814686,5,0,"Great content, I would add a few more patterns, not necessarily for grading, but to have them as guide for when needed.",0,0,Rafael Alejandro Escoto Hernández,54506220
+54470466~COURSE!~CVJg1EYkEeejjw678ALX-g,1588325891170,5,0,Thanks for this opportunity. I think it will be usefull for my job.,0,0,Lorenzo Vergani,54470466
+57347136~COURSE!~CVJg1EYkEeejjw678ALX-g,1588316718269,5,0,Good Course,0,0,Mallikarjun Shekhar Adannavar,57347136
+28623532~COURSE!~CVJg1EYkEeejjw678ALX-g,1588313516656,5,0,"very nice practical and theoretical approach towards the subject.Very well planned assignments.Few of assignments were challenging, but the  guided tutorial help them to understand and solve problems methodically. I love this course.",0,0,Mahesh Shirole,28623532
+2811844~COURSE!~CVJg1EYkEeejjw678ALX-g,1588130287601,5,0,Full of knowledge!,0,0,Adilbek Tumenbayev,2811844
+50173175~COURSE!~CVJg1EYkEeejjw678ALX-g,1588117574033,5,0,Very Good Course,0,0,Stanislav,50173175
+13836967~COURSE!~CVJg1EYkEeejjw678ALX-g,1587566230138,5,0,"great, lecture notes are well prepared, with  hands-on assignment. My design getting more solid and well structured after taken this course.",0,0,chee keong Lee,13836967
+56072591~COURSE!~CVJg1EYkEeejjw678ALX-g,1587392958152,5,0,"  Greate course, it gives you good tools.",0,0,Tan Z,56072591
+53309531~COURSE!~CVJg1EYkEeejjw678ALX-g,1587303038610,5,0,"The course was very interesting and provided a good basic knowledge about design patterns. - I had to study Design Patterns and Code Smells also with other resources, as the knowledge in the course is not very deep. But i'ts completely ok to have some inputs for further investigations.",0,0,Stefan Amport,53309531
+52115490~COURSE!~CVJg1EYkEeejjw678ALX-g,1587109089661,5,0,Excellent,0,0,RAJDEEP SINGH BORANA,52115490
+52517217~COURSE!~CVJg1EYkEeejjw678ALX-g,1586962012459,5,0,Amazing and realy useful! Strongly recommended!,0,0,Alex Kuzhba,52517217
+50724683~COURSE!~CVJg1EYkEeejjw678ALX-g,1586790707721,5,0,Great Course!,0,0,Олександр Петровський,50724683
+7170752~COURSE!~CVJg1EYkEeejjw678ALX-g,1586717798930,5,0,very good course and informative i learned a lot ,0,0,Cristóbal Soto,7170752
+31532463~COURSE!~CVJg1EYkEeejjw678ALX-g,1586529480588,5,0,Best course available on this particular topic,0,0,Mehul Nakra,31532463
+47805979~COURSE!~CVJg1EYkEeejjw678ALX-g,1585919691362,5,0,Nice Course,0,0,Padmashree Nitin Samant,47805979
+39516359~COURSE!~CVJg1EYkEeejjw678ALX-g,1585516769970,5,0,very useful,0,0,Mohammed Bouchena,39516359
+10060689~COURSE!~CVJg1EYkEeejjw678ALX-g,1584368569003,5,0,Great course learn't allot from it.,0,0,Bruno Militzer,10060689
+3834245~COURSE!~CVJg1EYkEeejjw678ALX-g,1582055264668,5,0,Very good course. I could refresh a lot of concepts and learn new practices.,0,0,Ítalo Duarte,3834245
+9073531~COURSE!~CVJg1EYkEeejjw678ALX-g,1581286682986,5,0,Very very very good ... ,0,0, Róger Antonio Ordóñez Flores,9073531
+34594352~COURSE!~CVJg1EYkEeejjw678ALX-g,1579822717078,5,0,This course helped me learn about Design Patterns and better ways to organize things at work. It's a good start to learning Design Patterns.,0,1,Neil Stewart,34594352
+48035925~COURSE!~CVJg1EYkEeejjw678ALX-g,1578619626452,5,0,  good course  ,0,0,JAAFAR ISMAEL,48035925
+8293180~COURSE!~CVJg1EYkEeejjw678ALX-g,1576990680685,5,0,  good course but lacks more practical assignments   ,0,0,Mohamed Ahmed,8293180
+36440833~COURSE!~CVJg1EYkEeejjw678ALX-g,1576364666908,5,0,it's very good course with nice topics and very good examples ,0,0,Mohamed Ali Alajouz,36440833
+13420250~COURSE!~CVJg1EYkEeejjw678ALX-g,1575366295918,5,0,Real Life Examples helps a lot in clearing concepts,0,0,Samine,13420250
+30925320~COURSE!~CVJg1EYkEeejjw678ALX-g,1574090094760,5,0,Very helpful course.  Thanks!,0,0,Cesar Hoyos,30925320
+43381296~COURSE!~CVJg1EYkEeejjw678ALX-g,1573324812796,5,0,Amazing course to start learn design pattern,0,0,Amr Hesham Gaber,43381296
+37010429~COURSE!~CVJg1EYkEeejjw678ALX-g,1573219374010,5,0,it was really fun learning the course ,0,0,K. Sai Bharadwaj,37010429
+28900901~COURSE!~CVJg1EYkEeejjw678ALX-g,1573219349759,5,0,good,0,0,Tejesh K 17MIS0380,28900901
+36920808~COURSE!~CVJg1EYkEeejjw678ALX-g,1570772696620,5,0,good course,0,0,Malykhin Nikolay,36920808
+42499221~COURSE!~CVJg1EYkEeejjw678ALX-g,1570108695566,5,0,High quality!,0,0,Pierluigi Ingrosso,42499221
+18494816~COURSE!~CVJg1EYkEeejjw678ALX-g,1568843615639,5,0,I have never had a chance to study CS at the university so I am always looking for ways to improve my knowledge - to keep up with fellow programmers. And this course met my requirements perfectly. :),0,1,Zlata Podlucká,18494816
+5687823~COURSE!~CVJg1EYkEeejjw678ALX-g,1568311481484,5,0,"It's been a while since I have taken any academic course, however, I found this course very insightful and beneficial in my career. It helped me to fill gaps in my programming knowledge knowledge. I'm intending to use the materials provided as a reference in my day to day activities.",0,0,Mahmoud Abdelaziz Mohammed ,5687823
+34104822~COURSE!~CVJg1EYkEeejjw678ALX-g,1568205642013,5,0,so useful,0,0,Thành Nguyễn Khắc,34104822
+35314719~COURSE!~CVJg1EYkEeejjw678ALX-g,1562341137376,5,0,Great work!,0,0,Mohd Insha Khan,35314719
+23323867~COURSE!~CVJg1EYkEeejjw678ALX-g,1561173561087,5,0,The course is a really good introductory course for beginners to understand new concepts and for intermediates to refresh basic software design patterns and anti-patterns. ,0,4,Akshit Gupta,23323867
+19159630~COURSE!~CVJg1EYkEeejjw678ALX-g,1560520943374,5,0,Excellent course.,0,0,Erick Pacheco Pedraza,19159630
+387506~COURSE!~CVJg1EYkEeejjw678ALX-g,1559186176421,5,0,Great!!,0,0,Diego Mauricio Guerrero,387506
+32809328~COURSE!~CVJg1EYkEeejjw678ALX-g,1557272372189,5,0,"really good content, well presented. Good videos too. ",0,0,david awad,32809328
+2303054~COURSE!~CVJg1EYkEeejjw678ALX-g,1554605658240,5,0,Amazing course,0,0,Sanele mahlalela,2303054
+30319654~COURSE!~CVJg1EYkEeejjw678ALX-g,1554586689910,5,0,Very good. I recommend.,0,0,Samila Ruane,30319654
+19063326~COURSE!~CVJg1EYkEeejjw678ALX-g,1554361429443,5,0,Great explanation of concepts,0,0,RANJITH RAMACHANDRAN,19063326
+2190938~COURSE!~CVJg1EYkEeejjw678ALX-g,1553961429579,5,0,Great!,0,0,Flavio Santos da Silva,2190938
+15705309~COURSE!~CVJg1EYkEeejjw678ALX-g,1552995905145,5,0,Very good course to get a first and clear grasp of various different pattern,0,0,Moussa Diakite,15705309
+6162825~COURSE!~CVJg1EYkEeejjw678ALX-g,1552899013726,5,0,"Good course, really loving this specialization though I am a bit behind with progress as I wasnt well",0,0,Mwenemwami David Buhendwa,6162825
+37309030~COURSE!~CVJg1EYkEeejjw678ALX-g,1552888152425,5,0,esay way  to learn design patterns,0,0,K RAMAKRISHNA ,37309030
+21097796~COURSE!~CVJg1EYkEeejjw678ALX-g,1549599455513,5,0,"wonderfully explained, with rememberable examples. very well documented.",0,0,Heena Hussain,21097796
+2518340~COURSE!~CVJg1EYkEeejjw678ALX-g,1548339004026,5,0,"Great course, I find very useful and clear explanation about the patterns, principles and code smell, with ti has diagrams and code to explain great all the topics",0,0,Eduardo Izurieta,2518340
+6427777~COURSE!~CVJg1EYkEeejjw678ALX-g,1545536143642,5,0,"Excelente curso!!!, felicitaciones!!!",0,0,Gabriel Galeano,6427777
+37439869~COURSE!~CVJg1EYkEeejjw678ALX-g,1544979031089,5,0,"Good stuff, thank you !",0,0,Razvan Udrea,37439869
+24753958~COURSE!~CVJg1EYkEeejjw678ALX-g,1543293340569,5,0,Very very useful to both academician and industry professionals..Thanks Coursera and University of Alberta,0,1,Mohan K,24753958
+14567047~COURSE!~CVJg1EYkEeejjw678ALX-g,1543250644248,5,0,Not great for last minute preparation. Missing some design patterns out of the 23 patterns.,0,0,S W,14567047
+13659903~COURSE!~CVJg1EYkEeejjw678ALX-g,1543165351740,5,0,wonderful! I learnt a lot!,0,0,Light0617,13659903
+205350~COURSE!~CVJg1EYkEeejjw678ALX-g,1539926036097,5,0,Needs more focus than the first course but is totally worth it.,0,0,Muhammed Toufeeq Ockards,205350
+12300978~COURSE!~CVJg1EYkEeejjw678ALX-g,1537062242673,5,0,Very very good 4 week course!,0,0,Xinhe LIU,12300978
+22277693~COURSE!~CVJg1EYkEeejjw678ALX-g,1533297768974,5,0,you can just open the video to look to the beautiful instructor lady and how can she simplifies everything ,0,0,Ebrahim Ali,22277693
+34419815~COURSE!~CVJg1EYkEeejjw678ALX-g,1531680132423,5,0,Excellent place to start a better coding style,0,0,andres aparicio,34419815
+8871550~COURSE!~CVJg1EYkEeejjw678ALX-g,1530206505808,5,0,To me it's a 100% rating just on point,0,0,S. Ahmed,8871550
+31800586~COURSE!~CVJg1EYkEeejjw678ALX-g,1528869506879,5,0,The course is very good. It deals with many design patterns and also anti-patterns.,0,0,Tirumalesh Bodavula,31800586
+21010621~COURSE!~CVJg1EYkEeejjw678ALX-g,1527759036425,5,0,ultimate course material. learned a lot.,0,0,Neha Shukla,21010621
+5810586~COURSE!~CVJg1EYkEeejjw678ALX-g,1525638536726,5,0,"It is very informative course, and the quizzes are very interesting.",0,0,Reda Ramadan,5810586
+20157649~COURSE!~CVJg1EYkEeejjw678ALX-g,1525161163012,5,0,Really Great Course,0,0,Zayar Thant,20157649
+563442~COURSE!~CVJg1EYkEeejjw678ALX-g,1524968783567,5,0,Awesome course! I learn a lot from this course for the ongoing project in my company ,0,0,An Van Nguyen,563442
+32116481~COURSE!~CVJg1EYkEeejjw678ALX-g,1524443583469,5,0,"Excelent course really didactic, and easy to inderstand",0,0,Paúl Alarcón,32116481
+19223894~COURSE!~CVJg1EYkEeejjw678ALX-g,1524017081735,5,0,"Good coverage of design patterns, but a lot of lecture and not enough examples.",0,0,Fabrice Lacout,19223894
+31808368~COURSE!~CVJg1EYkEeejjw678ALX-g,1523855894040,5,0,"Nice, well explained useful design pasterns.",0,0,Edgar Buchvalov,31808368
+16907935~COURSE!~CVJg1EYkEeejjw678ALX-g,1523284972520,5,0,good descriptions,0,0,Thiru Sams,16907935
+6251107~COURSE!~CVJg1EYkEeejjw678ALX-g,1522627405062,5,0,very good of software design,0,0,Yariel Infante Reyes,6251107
+22274372~COURSE!~CVJg1EYkEeejjw678ALX-g,1522570916747,5,0,Its a wonderful course for all the software engineers who use object-oriented paradigm for software application development.,0,0,Ali Saeed,22274372
+30733550~COURSE!~CVJg1EYkEeejjw678ALX-g,1518943175644,5,0,Good Explanation,0,0,Anushiya Subramanian,30733550
+5688105~COURSE!~CVJg1EYkEeejjw678ALX-g,1517243722488,5,0,"Amazing course. I've learned so much about not only design patterns, but also how to make code more usable, maintainable, and flexible as well. I recommend this course to anyone who is interested in extending the capacities of how to write good well designed software. ",0,0,Yassine El Houari,5688105
+2490749~COURSE!~CVJg1EYkEeejjw678ALX-g,1512934172202,5,0,Missing Course note PDF to review the course materialsThank you,0,0,Ahmed El Sayed Ali Hassan,2490749
+25571694~COURSE!~CVJg1EYkEeejjw678ALX-g,1511741720776,5,0,Good real world examples of when and how to apply common design patterns.,0,0,Patty Eilers,25571694
+21220465~COURSE!~CVJg1EYkEeejjw678ALX-g,1510601604200,5,0,This is great! I really enjoyed this course!,0,0,Diego Benavides,21220465
+14817884~COURSE!~CVJg1EYkEeejjw678ALX-g,1506119286725,5,0,Excellent,0,0,Cesar Francisco Chavez Maldonado,14817884

@@ -1,0 +1,6 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+91740315~COURSE!~ilisEXXLEeu5RwqqQbp66Q,1631988154539,1,0,Content needs to be improved,0,0,Sundar Kuppan,91740315
+29564010~COURSE!~ilisEXXLEeu5RwqqQbp66Q,1625843775294,1,0,Very little to no information on how to optimize or tune SQL queries,0,0,Daniel Witvliet,29564010
+22592562~COURSE!~ilisEXXLEeu5RwqqQbp66Q,1652596041465,3,0,"Only very basic content. More interesting parts (index and merge types) is not really explained, just described verbally, without any (even textual) visualisation.",0,0,Daniel Warmuth,22592562
+111674361~COURSE!~ilisEXXLEeu5RwqqQbp66Q,1660280763228,4,0,yes,0,0,Ravi Kumar Chinnathambi,111674361
+87593889~COURSE!~ilisEXXLEeu5RwqqQbp66Q,1625148437773,4,0,This course gives a precise idea about only  checking the timing performance. this will help when there is a big chunk of queries where there are multi level execution is required. otherwise for single chunk limited result  codes these terms are not needed as per my opinion. The instructor should try to explain a more about the function of the things or provide some links for the students to study.As a guided project the content was absolutely fine and to the point. ,0,0,Md Modabbir Rahman Khan,87593889

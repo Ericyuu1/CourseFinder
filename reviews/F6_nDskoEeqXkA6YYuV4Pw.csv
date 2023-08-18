@@ -1,0 +1,15 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+53694637~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1620241013889,1,0,I would have given this 0 if I could. Waste of money. There is no project at all. Bunch of simple codes where you can find anywhere on the Internet and only talking and talking and talking from slides. ,0,0,,53694637
+14436684~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1608144974880,1,0,"Guys, first of all, this is a very basic course. Don't go for it. Waste of money. Second, the code snippet and logic is also not correct. Explanations are wrong. Example - synchronized was not working in AccountWithoutSync example because instructor is not checking awaitTermination on executorService instead he is checking isShudown which generally updated first even before all thread completes execution. Guys Stay away. I already lost my money onto this trap.",0,10,Viraj Bhatnagar,14436684
+48403288~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1598269229622,3,0,Too simple. Doesnt dive deep and not good if your goal was to develop industry standard multithreaded applications on your own.,0,7,SAUMITTRA SAXENA,48403288
+71646231~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1603914432352,4,0,"Nice overall, I would like however to see more depth for an Intermediate level course like this.",0,1,Thanos Koulouris,71646231
+53488673~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1601637822555,4,0,good one but very brief explaination,0,1,Sparsha Kumar Akula,53488673
+116992159~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1671032337085,5,0,Easy to catch-up and learn. I would recommend this for new starter to Multithreaded Application in Java learner.,0,0,Muhamad Khairil Bin Rosli,116992159
+113435793~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1662965954030,5,0,I​ts a great platform to get knowledge on java.Thank you.,0,0,CHALLA SIVANI,113435793
+94969610~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1634906481305,5,0,good,0,0,PIRIYANKA,94969610
+42309625~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1603228212385,5,0,Very knowledgeable instructor with a lot of useful information. I wouldn't say that this is an intermediate level project but you should have the object-oriented concepts down before you begin this project.,0,0,dylan foley,42309625
+61661744~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1602152860592,5,0,I'm felling very special by learning  from this course.,0,0,Sujithra .J,61661744
+61298005~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1598242474727,5,0,NA,0,0,LENISHA SHANKHARVA,61298005
+65465431~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1596607495205,5,0,One of the best Guided Projects I have done ever. I would like to recommend everyone to complete this course.,0,0,Khandaker Mashrur Ahmed,65465431
+39453617~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1596150286253,5,0,Very practical and good explained!,0,0,"Gigi Marcel, Dan",39453617
+67110332~COURSE!~F6_nDskoEeqXkA6YYuV4Pw,1595572568753,5,0,The instructor's speaking accent was very good and satisfactory. ,0,0,Soroosh Taefi,67110332

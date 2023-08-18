@@ -1,0 +1,140 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+11416897~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1653009371401,1,0,T​his  class covers NSX-V which is no longer supported by VMWare. This is not for NSX-T . The Labs are not available anymore either. ,0,0,Mark Saad,11416897
+78801164~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1648450552373,1,0,​The lab link in the assignments are deprecated by VMware long ago. There isn't any substitute or updated link at the VMware website. Just wasting learner's time.,0,0,Yuhang Qian,78801164
+87450243~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1624435654389,3,0,"I have finished it. B​ut, were is certification?",0,0,Yadera Dugasa Gobena,87450243
+86009523~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1621159797875,3,0,Still i am not getting my certificate,0,0,Kunal Gupta,86009523
+30854145~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1613931812810,3,0,"Although
+the course’s topics are highly relevant and the provided info is okay-ish, several
+things reduce the course’s quality.As a
+previous reviewer already mentioned, the NSX part of the course focuses on NSX-V, which is the
+precursor to NSX-T. If you are primarily interested in learning about NSX-T
+and are already familiar with NSX-V, then this course will not be very useful. Although
+there is some overlap between the two, NSX-T uses different concepts, a different
+architecture and different components.The course
+offers (optional) hands-on labs to internalize the theory. Unfortunately all five
+hands-on labs for this course, i.e. HOL-1903-01, HOL-1903-02, HOL-1921-01, HOL-1925-01
+and HOL-1925-02, have been discontinued, severely diminishing the course’s
+practical value. See https://docs.hol.vmware.com/catalog/ for details. The discontinued
+hands-on labs are the main reason why the course forums are abandoned. Almost
+all of the past forum threads were requests to review someone’s lab results. If you want
+hands-on experience with NSX-T or associated topics such as vRealize Automation
+(vRA), you need to search for active hands-on labs yourself and work your way
+through those labs. Doing so can be done independently of this course, since
+the hands-on labs are self-contained and explain things well.As is the
+case in other Coursera courses with multiple presenters, the quality of the presenters
+deviate highly. Some really “take their time”, explaining the material in an
+engaging fashion. Other presenters appear to be in an extreme hurry, focusing
+more on covering as much material as possible and rushing over slides, instead
+of conveying information in an understandable manner.Now some
+generic remarks, not necessarily good or bad. The learning curve can at times
+be steep, especially if you have never dealt with NSX or VMware before. Some
+videos superficially cover topics, neglecting necessary details to fully understand
+the material. This can cause confusion, and might require quite some extra
+study time. A basic knowledge of routing, networking and virtualization is also
+a requirement. If you lack basic networking knowledge, you might want to take a
+look at existing hands-on labs before starting this course. See e.g.
+“Virtualization 101” on https://www.vmware.com/try-vmware/try-hands-on-labs.html.IMHO, to
+improve the course, the course creators need to do the following:(a) update all
+the course content to cover NSX-T.(b) update
+all links to external resources (e.g. the dead link in chapter 8 to the NSX Day
+1 Guides).(c) update
+all hands-on labs, so that the practical assignments can once again be
+completed.(d) consider
+including more practical material, such as a hands-on lab for SD-WAN
+(HOL-2140-01-NET) and vRealize Automation (HOL-2121-03-CMP).",0,6,Edwin Casper van Eersel,30854145
+92468793~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1637855900850,4,0,Nice,0,0,Gogula Udaykiran2204,92468793
+64243256~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1637294050640,4,0,very helpful,0,0,Raghul Akash.R.K,64243256
+60267458~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1623479162213,4,0, IN INDUSTRIAL BASE THIS COURSE IS VERY GOOD FOR MARKTING AND GOOD FOR LEARNNER.,0,0,bibekananda giri,60267458
+65438384~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1598271625086,4,0,Excellent,0,0,Abdul Basheer,65438384
+1918355~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1594243018265,4,0,"Great value for money. Good starting point in exploring VMware’s SDDC. Also it points to very usefull e-books for dummy’s and other e-book resources. Content wise its 5 star. It could use more guidance on when a module is succesfully completed. Also the handson labs very valuable but hard to start, understand the value for a fist time. This is a good starting point.",0,0,Rienk de Kok,1918355
+59943504~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1590832546546,4,0,This is very important and good course and all the teachers are very nice .,0,0,Rudransh Soni,59943504
+45735215~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1587646932496,4,0,Thanks For your course ,0,0,Mahmoud  Habib Hussein,45735215
+44401097~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1567518802475,4,0,"Great content, however part wise outdated. NSX-T mainly missing",0,2,Christian Dudler,44401097
+37455833~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1542610742345,4,0,"I like this course which is well-balanced between presentation of the theoretical aspects and on-hands labs to put to practice presented notions. Presentations are well made and of quality, not too long or short, making them easy to watch.  ",0,0,Nicolas Raess,37455833
+119872643~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1673707423758,5,0,Very Informative Course,0,0,Muhammad Gulfam Butt,119872643
+112120769~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1669228057543,5,0,Very Good content,0,0,Wilson C J,112120769
+107305325~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1663338698061,5,0,Networking and Security Architecture with VMware NSX  Is very useful to my growth ,0,0,Mallikarjuna Achutha,107305325
+110625853~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1663143424687,5,0,g​ood,0,0,Hari babu C,110625853
+96149284~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1658946433495,5,0,"It Helps me to become Fully Linux Engineer from the skills Linux Server Administration, Docker For DevOps, Kubernetes, Redhat Openshift, ELK Database, EDB Postgresql Database, IBM Cloud. ",0,0,Charles Tambunan,96149284
+47969553~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1656690366997,5,0,Great course with great material .... :),0,0,Karam Sami omran,47969553
+109049061~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1655585012151,5,0,good,0,0,Satyam Roy,109049061
+103297390~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1653161672080,5,0,excellent,0,0,"MANAVARTHI JAYASHREE,CSE(19-23) Vel Tech, Chennai",103297390
+68948412~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1653072637012,5,0,good teaching ,0,0,Bala Bhargav Kolagani,68948412
+103347952~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1652287479883,5,0,N​ICE SUBJECT,0,0,"D.L.SRIVATSAVA,CSE(19-23) Vel Tech, Chennai",103347952
+102506293~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1647848962554,5,0,good,0,0,Saloni Mondhe,102506293
+88740651~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1643727571475,5,0,Good Knowleages,0,0,Sirakrit Peraprutchaya,88740651
+96859543~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1640296738438,5,0,Muy buen curso muy completo,0,0,Cardenas Lozada  Diego Alejandro,96859543
+92918255~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1633612908264,5,0,very nice,0,0,"NAGALLI YUVARAJ,CSE(19-23) Vel Tech, Chennai",92918255
+48483340~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1633294584067,5,0,Please make the letters for reading and the quiz bolder. I had to struggle to read them..,0,0,Dr. Binoy Nirmal,48483340
+86170022~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1631352214997,5,0,E​njoyed learning !!,0,0,CHAITANYA SHRIVASTAVA ,86170022
+91167168~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1631264838792,5,0,V​ery useful for system admin,0,0,Ngo Nhat Thang,91167168
+76041631~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1630937720232,5,0,excellent course,0,0,"KALAGANI KEERTHI PRIYA,CSE(19-23) Vel Tech, Chennai",76041631
+89038155~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1629564477355,5,0,good,0,0,suhas vaman Fatan,89038155
+46936127~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1629054629883,5,0,Great . Thank you .,0,0,João Fábio Scurçoni,46936127
+85791628~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1629011200641,5,0,nice and easy to learn,0,0,Hasan Anik,85791628
+88108390~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1627835806598,5,0,Great course,0,0,Arya Chakraborty,88108390
+83073798~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1627723684178,5,0,good,0,0,"SUDA VENKATA RAGHAVENDRA,CSE(19-23) Vel Tech, Chennai",83073798
+88513285~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1624647185985,5,0,excellent,0,0,MRITYUNJOY BAURI,88513285
+86312435~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1623907914482,5,0,very helpful source,0,0,Karun Nit,86312435
+87068973~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1622712389434,5,0,Thank You so much to all my Teachers,0,0,Rinku Samanta ,87068973
+26409413~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1622628395309,5,0,This is very useful course,0,0,Vinh Khuatquang,26409413
+72369833~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1621804294157,5,0,"Una tecnología demasiado útil en estos tiempos, estoy muy feliz con el contenido y todo lo aprendido.",0,0,gonzalo trepiana,72369833
+70104530~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1621171569644,5,0,Excellent certification program,0,0,suresh babu,70104530
+48155708~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1621010517266,5,0,Excellent,0,0,DEEPESH SAXENA,48155708
+2017084~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1617250050816,5,0,Great course,0,0,Gordon Sampson,2017084
+81601090~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1616812553229,5,0,bn,0,0,Henry Wladimir Pillo Ñamo,81601090
+44197932~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1615631191217,5,0,This course is soo cool. thanks,0,0,Samuel Asamoa Yaw Akrasi,44197932
+43115044~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1615388473130,5,0,Very Good understanding of Networking and Security Architecture along with Operations view of VMWare NSX along with vRealize Operations.,0,0,Jeetendra Upadhyay,43115044
+51978702~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1612286563611,5,0,Thanks,0,0,Derly Lopez,51978702
+77849444~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1607638948949,5,0,NSX over ACI is badass.,0,0,Xuan,77849444
+62506174~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1606675296492,5,0,Excellent course,0,0,SUGUNA M,62506174
+21216480~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1606326045714,5,0,"Excellent, thank you.",0,0,Winston Anthony Wheelis ,21216480
+36705988~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1605764359071,5,0,very useful and high tech course ,0,0,Alireza Ghadri,36705988
+24719237~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1605019134529,5,0,Impressive and Good Course,0,0,Shahid Iqbal,24719237
+45849455~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1603362779038,5,0,Excellent course. I gained sufficient knowledge about VMware and networking from this course,0,0,Freddy Immanuel,45849455
+73196945~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1601927654020,5,0,very good,0,0,BISWAJIT RAY,73196945
+59048024~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1601692119622,5,0,Excelent,0,0,MAYORGA AMEZCUA ANA KAREN,59048024
+71409008~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1601556678512,5,0,Good,0,0,Nagarajan Sivasubramanian,71409008
+47781893~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1599320480675,5,0,Fue genial tener la oportunidad de recibir contenido de primera y por personal especializado directamente de VMware,0,0,Alexander Lázaro Gómez Valdivia,47781893
+30225523~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1599125706623,5,0,Great course. Very recommended.,0,0,Miguel Martínez Arenas,30225523
+66043644~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1595000333253,5,0,Great course on Networking and Security Architecture with VMware NSX.  Great course to learn about virtualization.  Very helpful labs to even measure more accurately if you have learned the concepts of NSX.  I feel very happy that I took this course and I have learned so much about NSX and virtualization.  Highly recommended course. ,0,0,Gustavo Adolfo Leon Delgado,66043644
+61808479~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1594671717787,5,0,Excellent explanation very clearly ,0,0,Braulio Vazquez Sarracino,61808479
+32538450~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1592913306049,5,0,  Course is awesome and great opportunity for Virtualization.  ,0,0,Romit Kakadiya,32538450
+55123560~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1592300007749,5,0,so useful,0,0,alireza sabzi,55123560
+60657694~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1592289913676,5,0,"Very informative particular in network & security virtualization NSX concept, thanks to  coursera/vmware for providing useful tutorials.",0,0,Puran Chand,60657694
+58548306~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1592120853531,5,0,Very useful ,0,0,Doss D,58548306
+58169463~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1591884868272,5,0,"A stimulating course about a fascinating topic, going from deep level theory to practical exercises",0,0,DEVID ZANON,58169463
+62340709~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1591298803204,5,0,"quite informative course , discusses all the recent trends involved with the topics, well-explained by good tutors",0,0,Shruti Kumari 18BCI0004,62340709
+36012514~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1591258925945,5,0,Very Good,0,0,SAHIL SUHAG 17BCE1145,36012514
+16171696~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1590402231036,5,0,Good Course with great Labs.some Labs are expired and need to be updated,0,0,Mohamed Adel,16171696
+56965434~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1590126936859,5,0,"good explaination, great labs",0,0,Bipin Bhattarai,56965434
+42262894~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1589691748309,5,0,very hard concept ,0,0,Ritik soni,42262894
+1458122~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1589262586967,5,0,This was an awesome course,0,0,Iqbal Uddin Khan,1458122
+53960146~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1588356209047,5,0,It was a nice learning experience and to understand few new Technical Terms by help of this course,0,0,Manoj Sharad Jadhav,53960146
+53119612~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1587217973510,5,0,good,0,0,GUNDA SAI KRISHNA,53119612
+48346771~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1586269534593,5,0,"El curso es muy bueno, sin embargo los laboratorios estan desactualizados, VWmare los ha cambiado y aqui en el curso no se han actualizado los enlaces.",0,0,Jhon Torres,48346771
+53921877~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1585870851830,5,0,Very interesting and useful course with great material and really challenging tasks. Video lectures are extremely informative and in the same time easy to understand. I really enjoyed it.,0,0,Yekatierina Churakova,53921877
+41978869~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1582888564113,5,0,Good for cloud networking & security; esp. for design and/or architecture. Should do Vmware lab modules in the course for understanding NSX concepts and working principles. ,0,3,Kishore Kumar Teki,41978869
+45515547~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1581576014483,5,0,Thankyou Coursera,0,0,Ibrahim Bali Pamungkas,45515547
+48212386~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1579439554128,5,0,The content is really very good,0,0,Suryakant Suryawanshi,48212386
+39827036~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1577862751448,5,0,Course is Good,0,0,Noor Hasan,39827036
+39121713~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1577750942986,5,0,Execellent course to learn NSX both theoritically and hands-on. I recommend this couse to all Cloud Experts both private cloud and public cloud. ,0,0,Mahfujur Bhuiyan,39121713
+40329513~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1577358190696,5,0,Enjoying the good coverage of this topic.,0,0,Katie Held,40329513
+35220981~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1574643255617,5,0,"This course gave me a great awareness not only the technical aspects of NSX but also about mindset for design, operations, change/incident management.Thank you so much to VMWARE.",0,1,Tomonori Endo,35220981
+40681141~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1573110439807,5,0,The quality is good,0,0,Andrejus Jurjevas,40681141
+35279112~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1572847178232,5,0,nice,0,0,Naman Dutta,35279112
+44995188~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1570863200216,5,0,GOOD COURSE,0,0,Siva Naga sai,44995188
+33130431~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1567321233342,5,0,"Excellent, use-case oriented, and delivered beautifully by the VMware team.",0,0,Taher Oliya,33130431
+43497778~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1564001772938,5,0,It's an amazing course I started my vmware path with these courses.  ,0,0,Alexandros Kreka,43497778
+41235688~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1562563519468,5,0,"This course is very useful for IT Engineer, I love it.Thank to Coursera and VMware team....",0,0,mahendra sahu,41235688
+6733881~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1558124954664,5,0,"My Personal experience with this course, makes me highly recommend it to any network engineer willing to make that transition. ",0,1,Edward Banjo,6733881
+31421424~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1557372466890,5,0,"Awesome Course, but the labs had issue with accessing them, however it wasn't mandatory. Overall great content.",0,0,Alex Maldonado,31421424
+40381486~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1553518045716,5,0,I loved the first week of knowledge,0,0,Olusola Oyetoyan,40381486
+29742104~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1553007369591,5,0,One of the best course till date .,0,0,DEBAYAN DEY (Deb),29742104
+11152570~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1551620977955,5,0,Excellent presentation,0,0,VidyaSagar Uppuluri,11152570
+2645302~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1551552757243,5,0,Very good trainning with excelent material.  ,0,0,Leandro Galante,2645302
+19392040~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1549318580026,5,0,"Great introduction course to VMware NSX, practical and theoretical",0,0,Juan Carlos Romero Benito,19392040
+11806343~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1547648792731,5,0,"Loving it, specially the HOLs",0,0,Ammad Marwat,11806343
+37009263~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1546446143100,5,0,A valuable course on the future of  cloud computing and virtualization of networking and security. ,0,0,Sizolwethu Dlodlo,37009263
+37498324~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1545153685456,5,0,I like the Hands On Lab approach and the practical use cases discussed.,0,0,Claudio Scacco,37498324
+10099458~COURSE!~mmviMR5tEeiUvhKWiCWCXA,1532753017234,5,0,Awesome course. Skilled instructors delivered very solid content. I really recommend this course to any forward looking individual interested in software defined networking and security approach.,0,2,Frantisek Ferencik,10099458

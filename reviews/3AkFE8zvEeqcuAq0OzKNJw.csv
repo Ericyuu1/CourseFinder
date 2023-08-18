@@ -1,0 +1,21 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+59317659~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1627396403357,3,0,"It is a little short and basic, but it is perfect if what you look for is to have a first hands-on experience on how to do the the basic actions with Kubernetes from the command line.",0,0,Luis Cascales,59317659
+47200210~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1622992389667,3,0,Some diagrams could have helped better in understanding.,0,0,Suvra Gupta,47200210
+84125229~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1617893204061,3,0,"This course was okay, but I found parts of it unclear, especially in lesson 5 which did not work particularly well for me. A lot of the yml file editing was rather mechanical, often with a rather scant explanation of the meaning of the various file entries. I think they should have provided some ready-made example files with clear comments explaining the exact purpose of each entry in the file. I also think the course should have contained a better overview of how Kubernetics goes together, as on their own site: https://kubernetes.io/docs/tutorials/kubernetes-basics/",0,0,COWARD ROBERT ANTONY,84125229
+105400675~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1670753984337,4,0,Good for basics and hands on.,0,0,Mangesh Chandrakant Mathe,105400675
+89745914~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1657013205617,4,0,NA,0,0,Govardhanagiri Rao Sirasati,89745914
+4805057~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1622747069439,4,0,"Good content and practice, but need more examples and labs",0,0,rafa buc,4805057
+58995814~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1615006712060,4,0,This is the high level project with nice explanation of the use case.Trainer knowledge is really commendable and the way she explains is pretty understandable.Thanks for the nice session with project,0,0,VamseeKrishna Domakonda,58995814
+74996104~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1603990137398,4,0,Best hands-on projects to kubernetes I could expect,0,0,J,74996104
+49806519~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1671619476785,5,0,.,0,0,Idhres Ahmed M I,49806519
+92907834~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1669017865428,5,0,Awesome Course,0,0,Shivanand Gante,92907834
+109715510~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1656535876085,5,0,The instructor is easy to understand and does not go through steps too fast. She also takes the time to explain why we're running each command and what it does. The Cloud desktop is pretty neat and easily adjustable.,0,0,Cindy Dao,109715510
+36899032~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1649432467603,5,0,Good.,0,0,Fernando Mestre,36899032
+48992026~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1642355325924,5,0,Great learning,0,0,Bharat Chandwani,48992026
+76271112~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1627908152662,5,0,Very good and explanative ,0,0,Sethuraman Palanichami,76271112
+83996612~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1621407292944,5,0,Great,0,0,Amol Chandrashekhar Patwardhan,83996612
+3051270~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1615927232233,5,0,"quite good hands-on introductory course, easier to learn by doing.",0,0,Carlos Ijalba,3051270
+62304798~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1614279242568,5,0,Instructor was excellent. Gave a good foundational course to start using Kubernetes for common basic functions.,0,0,GAN HUI DA,62304798
+61752458~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1612468913227,5,0,top project for beginners,0,0,Mourad Oulmas,61752458
+69463661~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1608579312121,5,0,get ready to edit some .yml files!,0,0,Thomas Olmsted,69463661
+70399275~COURSE!~3AkFE8zvEeqcuAq0OzKNJw,1606774845157,5,0,good course,0,0,Amarasinghe A.K.D.L.I,70399275

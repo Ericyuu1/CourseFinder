@@ -1,0 +1,43 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+8812601~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1673367692791,1,0,Not updated. Courses on Youtube are better structured,0,0,juan ignacio ungredda,8812601
+108037363~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1655728399595,1,0,"The video lecture is showing resources no more available, making it impossible to follow on Jenkins.",0,0,Alexandre Henrique Machado Braga do Carmo,108037363
+101618677~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1652047492221,1,0,The project environment setup errored out. There is no way to work on the project.,0,0,minwencheng,101618677
+93772108~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1635946106714,1,0,C'est pas possible pour moi en anglais :( je n'y arrive pas ,0,0,Thierry Le-Viavant,93772108
+30848692~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1635740924937,1,0,Outdated,0,0,Peter T Alabi,30848692
+81112396~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1632391651952,1,0,"Course is out of date. On third video you cant continue as its not possible to install outdated plugin. Students have drawn attention to this since months but no reaction. For this one star only.
+
+",0,0,Stefan Gröbner,81112396
+84532813~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1650996482385,2,0,"Course: Sadly seems to rely mostly on specific plugins and outdated practises until at the very end there is a bit about Jenkinsfile in SCM with decalartive pipelineLab: The lab's old Jenkins version has broken plugin installation, because current plugin versions are not compatible with this Jenkins anymore.Overall: Would not recommend for >=2022",0,0,Sebastian Racs,84532813
+101671468~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1644257144649,3,0,"The information in this course is good, but the interactive portion has issues. The Jenkins server install/plugin interaction has problems, as some of the components are out of date and won't work togther.",0,0,William French,101671468
+24967602~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1613765603204,3,0,Lab fails and it's hard to follow explanation. It can improve.,0,0,Guillermo Canto S.,24967602
+112823138~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1668166727257,4,0,I thought this course was very helpful at understanding pipeline as a code practice. I like the fact that I was able to follow along with the instructor with hands on experience.  ,0,0,Doreen Avery,112823138
+40200693~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1667548033364,4,0,"Great Course, with a lot of information in an easy, simple way and a short timejust an important note: Jenkins version should be updated to use the course plugin ... I tried to upgrade myself but the cloud session closed before I can complete the upgrade ",0,0,Alaa Alkhatib,40200693
+10770230~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1657794300744,4,0,"Good project for learning the basics about Jenkins pipelines. However, the Jenkins environment on cloud is out of date so I had to update it to be able to complete the tasks in the project. Although it required a few Google searches and a bit of troubleshooting, all in all I think it was a valuable learning experience.",0,0,Monica Licareti,10770230
+99224406~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1642757307961,4,0,Thank u,0,0,Jayasmita Sahoo,99224406
+93994927~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1640185459980,4,0,Good,0,0,Rajpal Diwaker,93994927
+89681386~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1638090574233,4,0,Perfect Course,0,0,Tushar Sharma,89681386
+91116014~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1632246135360,4,0,It was great opportunity to learn with Coursera.,0,0,Shobhnath Khunte,91116014
+87911346~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1626431433993,4,0,really helpful .,0,0,Saptarsi Kundu,87911346
+44026058~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1626321439140,4,0,I​t shows what Jenkins is but some issues with versions on clode workspace.,0,0,Sang Youb Kwak,44026058
+86303990~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1621088345953,4,0,"Good course. Easy to follow. Some of the exercises required debugging. For example, some the of the plugins failed to install and required Jenkins to be restarted. Also the declarative pipeline exercise failed in the deploy step with an unrecognized option error and the Java VM was not built. As a result I was not able to complete all the exercises.",0,0,Cheuk Fung,86303990
+82628073~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1615755118272,4,0,Very good hands-on. It will be perfect if there is no installation error for plug-in.,0,0,Ting Cheng,82628073
+8134651~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1609503105758,4,0,Setting up Jenkins gave some issues. I needed to update some of the plugins first...,0,0,Daam Grund,8134651
+117242348~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1666332554446,5,0,G​ood and useful,0,0,Gurubrahmachary Talluri,117242348
+74005338~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1647198243250,5,0,Nice Tutorial,0,0,Ashwin Vengasseri,74005338
+97623096~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1640752932628,5,0,Excelente curso,0,0,"Bujato Herrera, Syddar Lyonyl",97623096
+98110963~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1639486389636,5,0,the way teaching is good and learned a lot about jenkins tool,0,0,KOILKUNTLA VENKATA MAHESH,98110963
+79924246~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1638965820466,5,0,good course,0,0,Vinay Shriram Patil,79924246
+95739369~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1638965664345,5,0,best course to start learning jenkins,0,0,Rohan Khanvilkar,95739369
+95420810~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1637932696777,5,0,it is really good,0,0,P M Eswar Narayan,95420810
+43263614~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1632598640373,5,0,G​reat course!,0,0,Orlando Jimenez Riquelme,43263614
+92710463~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1631593479674,5,0,good to learn,0,0,Bolla praveen,92710463
+93124131~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1631284812740,5,0,nice,0,0,Martín Jesús García Avendaño,93124131
+91041745~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1629115034109,5,0,well guided course,0,0,Prajwal Kumar J,91041745
+90885278~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1628102055898,5,0,very good content and step by step videos,0,0,akash galande,90885278
+90718814~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1627466805124,5,0,well understood,0,0,P Lakshmi Prathima,90718814
+83996612~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1620052924156,5,0,Great,0,0,Amol Chandrashekhar Patwardhan,83996612
+79584763~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1616142784556,5,0,It was really helpful. ,0,0,dipti,79584763
+68240155~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1615128769740,5,0,This course will give you a very good introductory base to the Jenkins environment.,0,0,Alejandro Vasile,68240155
+49161639~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1612349919743,5,0,Excellent!,0,0,Jorge Rivero Ronquillo,49161639
+46783357~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1606287187588,5,0,Many thanks - for some old hands trying new tricks this was an excellent session,0,0,"Anil Jigger Shah,",46783357
+6282033~COURSE!~Z-wtBczwEeqDEQ4mUXQPhw,1605793943186,5,0,Good project! Learned the basics which was what I expected :),0,1,Diane Erika Casas,6282033

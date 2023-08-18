@@ -1,0 +1,343 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+123057831~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675284295224,1,0,"its not easy for me. sometimes the pictures don't guide you well and you have to figure it out. they aren't clear as to what you should be seeing. they also mention things but its not clear what you should do, i kinda just guessed through and eventually it worked. the labs expect you to use steps and commands that were mentioned in the videos but theres no easier labs that introduce you to using them for basics tasks first. ",0,1,Victor Rafael,123057831
+117598262~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672164280062,1,0,Full of bugs. SHAME !!!,0,0,Daniel Simion Pinca,117598262
+115333719~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669924798290,1,0,"Os cursos do Coursera em geral possuem mais textos que vídeo, e este não foi diferente. Muitas legendas sem sincronia com o áudio, algumas legendas diferentes do áudio, atividades fora de ordem (te pergunta como foi o laboratório prático antes de você o faze-lo de fato). Por mais de uma vez aconteceu de eu marcar uma determinada resposta no teste true or false. Ao corrigir, diz que está errado. Eu marco a opção seguinte, diz que está errado novamente, aí volto pra opção anterior, aí diz que está correto (???). A maior parte das atividades práticas são avaliadas de forma automática com pouco ou nenhum feedback. Pode estar tudo certo, se tiver um espaço fora do lugar o resultado será errado e você que se vire pra achar a diferença. Cada problema que encontrei registrei no link ""Relatar problema"" em cada aula. Contudo, são cursos com milhares de alunos já matriculados. Isso significa que muitos outros já devem ter feito o mesmo mas provavelmente não há ninguém acompanhando, só vendendo curso.",0,0,Wagner Gaspar,115333719
+110502304~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668781690855,1,0,Mistakes on test so you have to answer with the wrong answer. A lot of information is old. A lot of information is missing. I had to go to Youtube and do a course. It was much better presented. Then I came back and worked through. ,0,0,Leigh Robinson,110502304
+40325424~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666712616610,1,0,O​n the first lab the instructions they place out are out of date due to updates that github has pushed out. The lab cannot be completed if you follow the course's instructions. ,0,1,Nicholas Gracey,40325424
+1154441~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662925336660,1,0,"U​nfortunately Version Control is quite confusing for the beginners. I somehow managed to finish it, but would need to look for other sourses to really understand what was going on. ",0,0,Oleksii Ivancha,1154441
+120542867~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672861286896,2,0,"While not as bad as the Introduction to Mobile Application Development, this second course in the sequence was still marked by errors that are difficult to resolve for students who were promised a ""beginner"" level course.  In working with the command line and GitHub, essential steps are frequently skipped and portions of the course have not been properly updated to work with the current configuration of GitHub.  Some commands will not function outside the lab environment because they are not installed by default (I'm using a Mac terminal).  At times students are told to type commands without further explanation, impairing the ability to use what is learned flexibly in future situations.",0,0,Jeremy Taylor,120542867
+114074076~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668439063691,2,0,A little boring.,0,0,Mojuba Amakurugbonwo,114074076
+39393383~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661369932600,2,0,not good explanation of commands,0,0,Parth Chib,39393383
+75216060~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675069044837,3,0,"Course is useful but it was rushed, the instructor was speaking fast, didn't take their time with every new concept, application wasn't  in depth. There were some mistakes in the quizzes.",0,1,Salim Haddad,75216060
+15540957~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674627044906,3,0,Being graded on unix commands was tedious and unnecessary. ,0,0,Julian Harris,15540957
+28131603~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672721509891,3,0,"great course diving into the world of git , github and command line for efficient and skillfull collaborations with your team.",0,0,Pilot Goyal,28131603
+106973450~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671686841331,3,0,"Very good intro to version control, got me interested in the history of linux and version control. However, I wish more was said about resolving merge conflicts and more practical labs were dedicated to this scary, yet important workflow of git.",0,0,Sam Omekara,106973450
+65796612~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671208656107,3,0,It is a little basic. Some advance concepts also need to be covered. But whatever was taught was really nice.,0,0,AYUSH CHAUHAN,65796612
+1710787~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670956157657,3,0,Does this need to be updated? Several tasks required a lot of extra information from external websites to complete. ,0,0,Kirk Woolford,1710787
+64793235~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670009654400,3,0,"I'm in the Meta Database Engineer program and have had no knowledge of the command line, Git and GitHub. I can say that this course isn't a good one for absolute beginners. I just used this course as a guideline and had to watch some YouTube videos and searched on my own to understand what the topics were about. After reviewing the videos and doing the exercises several times, I'm not confident enough about my learning and have to work on it more to have a better understanding.",0,0,Sahar Sobhani,64793235
+118859333~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669384341501,3,0,"Course is served as not user-friendly. My technical advancement allowed me to overcome problems, that could be avoided by better structioning and re-organizing material and errors which are present in this course.",0,0,Rodion Samoilov,118859333
+83877174~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668450005226,3,0,"It can be challenging to follow along with the labs. Lab instructions make it straight forward, but even with using the terminal that opens in a tab, there are some hiccups. The instructor was pretty good at going over content thoroughly but it might benefit some users for slower tutorials. ",0,0,Allie French,83877174
+92729703~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667465744672,3,0,"Pretty good, I felt some parts of the lessions were a bit fast and not clear, also some of the demo videos were hard to follow",0,0,Andre Ramratan,92729703
+85491712~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667237147593,3,0,i​t was a bit boring ,0,0,Rafael Ramirez,85491712
+114317465~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667086487226,3,0,"N​eeds a rework, missed topics, disordered videos, missing videos, etc. But what it explains it does it well.",0,0,Alexis Arredondo,114317465
+82272684~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665513157415,3,0,I​t was great to learn version control but I'm still sceptical about the usefulness of command  line interfaces over their GUI option. ,0,1,Sidney Isoe,82272684
+30175286~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665321183874,3,0,I​t's boring and miss a lot of exercises ,0,0,Omar Hesham Ahmed,30175286
+112892397~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664989480738,3,0,i​t would be much better if it had more practical project ,0,0,Dawoud Alfaris,112892397
+44334860~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663648872532,3,0,L​ot many things could be covered likeR​ebaseSoft and Hard Reset Reset ,0,0,Bhuwan Pandey,44334860
+98787547~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661487813138,3,0,"It works as an introduction, but don't think you'll gain any sort of mastery of git and version control once you complete the course. That will require you doing your own homework and finding other resources to learn Git/Version Control. With that said, I appreciate Meta for developing this course and all the specializations.",0,1,Jeffrey Concerto,98787547
+35174675~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658420493847,3,0,"Mediocre!!!Yes, it will get you to start using version control (git), but its just 20-30% of the commands you will need in your everyday developer life. And most of the course teaches you basic command line commands which does not involve version control at all.",0,9,Jahedul Anowar,35174675
+98250263~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677384678300,4,0,for me a lot of commands ,0,0,Vicente Quijandria Araneda,98250263
+106082662~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677199530098,4,0,This course was clear to understand and I enjoyed the hands-on parts,0,0,brent zitsman,106082662
+104013870~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677091312909,4,0,"Overall, the course was good.  However, I felt it could have provided much more detail for those working with Git bash and GitHub for the very first time.  ",0,0,Christine Brown,104013870
+103454870~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676253482000,4,0,"I honestly don't know how to edit a file and I swear I paid attention, still a great course!!",0,0,Abdoulaye Sanyang,103454870
+108570365~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674749574442,4,0,Best Ever Course,0,0,M.Utbah 240,108570365
+106622012~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674245736977,4,0,This Course is very good for me,0,0,Mani Ramezanpour,106622012
+117171024~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673646755495,4,0,The course was quite informative and easy to follow. Notes and video tutorials explain concepts in such a manner that is easy to follow. ,0,0,JO Olayinka,117171024
+88707305~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673277001598,4,0,"Great overview of Git. I wish that there were more variation and difficulty in the labs, but otherwise this is a good, short, course",0,0,Christian  Cordy,88707305
+2248805~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672940424838,4,0,Excellent course!!I think more practice is needed to really grasp all concepts. It's a very good course.,0,0,Juan Martin Ortega,2248805
+69485380~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672823286346,4,0,"It had a great walkthrough of the software development and version control workflow, although the bash section of the course was not up to par and has room for improvement.",0,0,Savindu Liyanage,69485380
+99345663~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672809684940,4,0,"Good, but not enough",0,0,Imad Ez-zahi,99345663
+58579586~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672769465708,4,0,pretty good,0,0,Jawahar R,58579586
+54865343~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671806270816,4,0,Some points were not clearly in assessments,0,0,Gokhan Baris Sayin,54865343
+71877251~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671608910918,4,0,"more practical exercise would make would make big different, plus place to types them out onpage just like in JavaScript course",0,0,Majur Juac,71877251
+102340830~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671506570073,4,0,I had a lot questions and challenges and wasn't able to find online support.,0,0,Livia Alves,102340830
+7772462~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671435421112,4,0,more hand-on practicesmore resource sources to practice,0,0,HARI NUR PERMADI,7772462
+1323017~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671414700088,4,0,Solid presentation and useful exercises.  Great help in getting setup on my Macbook.,0,0,Kenneth D Day,1323017
+117729533~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671195486720,4,0,Excellent Course,0,0,MAHMUD REZA KHANDAKAR,117729533
+36670560~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670972786036,4,0,"Nice intro course. There are few items that need to be fixed. For example, Vim is not installed and thus I was unable to edit text files during the lab. There were a few other minor things which I cannot recall. The videos were great. I cannot thank you enough for creating the videos with people that can speak in normal tones. I've been on the internet since the early '90s and I've watched in horror as the quality of spoken English has gone drastically downhill over the years. ",0,0,Livia B,36670560
+115596317~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670971053366,4,0,"Ok to learn about this course, yet I haven't worked on any project with other developers a lot. From this course, although it felt like unrealistic to learn this, also it will be helpful to googling and grab things which I need to use for a project. ",0,0,Debora Kwon,115596317
+96159141~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670512737226,4,0,"Great course , hand on experience of git and GitHub , learned about unix commands and how important version control is as a developer .",0,0,Mehul Vairagi,96159141
+60559092~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670488718097,4,0,"the course is good for beginners, just wished it covered advanced git commands and conflicts.",0,0,Vidhant Maan Thapa,60559092
+83362012~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670376771848,4,0,Very concise and straight forward.,0,0,Olotu Ayomide,83362012
+116826229~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669573404907,4,0,this's a great course but some areas has some lack of explanation,0,0,Ahmed Hesham,116826229
+63782378~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669447247190,4,0,Amazing Course,0,0,Daniyal Aslam,63782378
+104886232~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669192130663,4,0,"This course is very good. But it is a bit easy. 
+I hope it will go deeper in merge conflict and resolve some problems when using Git. Anyway, thank you very much for making this course so easy to follow.",0,0,Phuong Hoang Thanh Nguyen,104886232
+116905244~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668779286373,4,0,Nice ,0,0,Deepak S,116905244
+101071390~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668357139970,4,0,"it was really great experience , but i think having more exercises is needed in order to apply more and learn more ! ",0,0,bettaieb walid,101071390
+115337054~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667314709973,4,0,"I think unix command would give learners a lot of troubles as some command can't be used on window terminal. Anyway, great job!",0,0,Thet Lwin,115337054
+114650552~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667225836145,4,0,"I​t's good, you learn many things here.",0,0,Melvin Keu,114650552
+10221299~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667157344823,4,0,S​ome of the instructions were not very clear and the videos were really hard to follow because there were too much of new information to take in and we couldn't even think about it.,0,0,Adriana Leite,10221299
+50261577~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666547768766,4,0,"A​ little too brief. With zero prior experience, I've got decent basic understanding, but do not feel confident enough. More videos of, for example, how to work with reposotory of 3+ files would be awsome. ",0,0,Nikita Potokin,50261577
+113268956~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666025500152,4,0,M​ore about big merging conflicts and how to solve them! ,0,0,Korbinian Kunst,113268956
+18026962~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665765382364,4,0,"precise instructions.
+Although I do feel it could cover some of the more advanced topics related to git such rebase, cherry picking etc.
+I came across while reading the documentation.",0,0,Arjan Singh Mundy ,18026962
+104680954~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665510479317,4,0,Great course but B​it Confusing  ,0,0,Pruthviraj Chauhan,104680954
+33232288~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664770395794,4,0,T​he VSCode in the browser was buggy i could never consistently push my code to the forks effectively. ,0,0,Diego Cue,33232288
+15210237~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664270417084,4,0,"I​t is introductory course, but it shouldn't be so easy. Laboratories and quizes can be done within 5 minutes although it says you need 1h. You should make those more difficult",0,0,Zejd Imamović,15210237
+46424119~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663705093070,4,0,​good course for beginners ,0,0,Mostafa Nasser,46424119
+41443091~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663508825888,4,0,It was Great.,0,0,uvesh menpurwala,41443091
+49186106~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663484233367,4,0,G​ood,0,0,Ahmad Saleh,49186106
+54189029~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663340278088,4,0,"G​ood course , providing an overview of Version Controll using GitHub",0,0,Humza Sajid,54189029
+106759622~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663313800127,4,0,"I​t's a decent course.  I think that, like all of the Meta courses, it dumps a lot of information on you very quickly without making you do very much with it.  I think they should do a separate course on bash commands and then allocate more time to the git material.  ",0,0,Richard Creek,106759622
+106972048~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662990439542,4,0,"d​uring lab some github login process change, it necessary to update guideline",0,0,Narin Srikornthai,106972048
+114091424~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662821505992,4,0,"A g​ood, well-paced, and thorough course. The course is beginner friendly and the instructors were great. But not enough hands-on practice in my personal opinion. ",0,0,Eric Kuo,114091424
+27006956~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662298721288,4,0,Decent content. Some important content is missing.But soo many errors in labs and quizzes.,0,0,Sameera Weerakoon,27006956
+70144464~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661119782373,4,0,"Week 2 had some problems with Bash on Windows part. Other than that, great course!",0,3,AHMET BERKAY KÜRKCÜ,70144464
+100784279~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660933059583,4,0,"I think that this is a really helpful course if you have never used version control.  In all honesty it can be done in about an afternoon if you understand what you are doing.  Make sure that before you go into this course though that you set up and become familiar with Git and Github.   By knowing just a bit, this course will be a breeze.  If you are someone who has used version control and are looking for a brush up, it is ok.  I mean it doesn't really talk about Github/Git until the third week, and even then does not go much deeper than Git Pull, Push, etc..  If you have used version control, there might be a nugget or two in here that you find useful, I did.  But for the most part it felt like a quick refresher that took some time to get to the meat of the content.",0,3,Timothy Preskenis,100784279
+34515954~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660719877671,4,0,"It was a great course and learn about Git, Github, and CLI  to download, manage, and update a project. The only problem was the second week which did not explain to download the git bash first to follow the instructor's instructions.",0,2,Amanullah Ahmadi ,34515954
+111002311~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660237137578,4,0,Well explained,0,0,Orbie Ezeilo,111002311
+17580202~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659336379172,4,0,"N​ot a bad course, pretty well done",0,0,Iziren Okhamafe,17580202
+107800490~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658333215108,4,0,C​ourse was very informative.,0,0,Dennis Swinford,107800490
+124368544~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677465983926,5,0,Un excelente curso para entender cómo funcionan los controles de versiones,0,0,Bryan Guillermo Arévalo,124368544
+82346569~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677386771838,5,0,best cours for Version Control,0,0,Abdessamad Taibi,82346569
+47052458~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677262201514,5,0,Step-by-step learning bash and git. ,0,0,Sabbir Ahmed,47052458
+37443712~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677166677355,5,0," ""Version Control with Git"" course by Meta on Coursera is a great resource for individuals looking to learn about VCS  ",0,0,Tobiloba Lawal,37443712
+119922586~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1677121804418,5,0,great course,0,0,Thanh Nam Nguyen,119922586
+120477305~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676968908865,5,0,This course reallt teaches me A LOT,0,0,孫維辰,120477305
+106855875~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676928582430,5,0,Very good for beginers,0,0,Малий Ігор Леонідович,106855875
+98027756~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676886937558,5,0,This course completed  important things about git and github.I frankly understood this much better than taught in college.Thanks coursera.,0,0,Gautham G P,98027756
+43296180~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676805901649,5,0,"even for beginners, this course is taught very well, well done !!",0,0,Adarsh Patil,43296180
+96150554~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676780417617,5,0,amazing course,0,0,Muhammad Ahsan Farooq ,96150554
+106501940~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676618941340,5,0,"The course is very useful. There may be a need to update the walkthroughs in the course due to changes made to some user interfaces, related to online resources and programs. Having to feel your way through a system or resource that doesn't quite match the in-course example does help with remembering the material and newly learned skills.",0,0,Iglehart,106501940
+58647318~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676567570627,5,0,a very insightful course outline and video ,0,0,Alex Habonimana,58647318
+123579457~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676516384838,5,0,An excellent course to learn basic commands and advanced GIT.,0,0,Muhammad Hassan,123579457
+121529440~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676412501948,5,0,The best course for a web developer.,0,0,Adil Zaman,121529440
+106282218~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676405715794,5,0,nice course,0,0,ifunanya Judith Mmeremikwu,106282218
+2120577~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676371836313,5,0,It was very well presented.,0,0,Muhammad Shahid Sadiq,2120577
+88666929~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676353936645,5,0,Great course...well articulated lessons,0,0,Mbitjita Kurija,88666929
+122202609~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676337953369,5,0,Me encanto,0,0,Alejandra Lucia PEREZ LUCERO,122202609
+16694867~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676313467270,5,0,Thanks a lot for this course.It is perfect for beginners.,0,0,Omid Kashani,16694867
+54968588~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676135938303,5,0,It is really the best one of all I learned so far!,0,0,Abdissa Michael,54968588
+75575333~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1676023169345,5,0,"Overall, this course was great! I felt that I really discovered something new and fascinating when learning about version control systems. Knowledge about Git and GitHub was something I've wanted to obtain for a long time, and finally, the mysterious coding platform has revealed its secret and I feel myself in a programmer's flow!😎👌☘️✨I definitely look forward to continuing with this certification's courses!I wish you all the best of luck with achieving your goals and aspirations!Thank you, Coursera, for providing me the financial support and helping me with my career goals!🥰 ",0,0,Kateryna Horeva,75575333
+94788989~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675964034914,5,0,Comprehensive,0,0,Ernest Ahorgah,94788989
+110598626~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675836211259,5,0,Awesome! Learnt all concepts related to Version Control with Git and GitHub. I highly recommend this course for any developer.,0,0,Gebreigziabher Abadi,110598626
+5393793~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675808210496,5,0,Exhaustive course and pratice,0,0,vignaux,5393793
+115382267~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675800193631,5,0,This course is very beneficial and It is very important to learn the skill. It helped me a lot to learn about how to keep track of changes and collaborate with different developers in a team working on a project. Must have Skills. Must learn !! ,0,0,Fatima Safdar,115382267
+35813778~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675787158311,5,0,Well taught,0,0,Anthony Udeh,35813778
+37713979~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675781085512,5,0,A good course for beginners.,0,0,LE VAN BAO,37713979
+26599718~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675707663512,5,0,This course is comprehensive training manual to beginners in Git,0,0,Baurzhan Aubakirov,26599718
+123179175~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675676396209,5,0,Level up!,0,0,Viktorres,123179175
+30991251~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675675639106,5,0,Great intro to version control,0,0,Michael Mudziviri,30991251
+117969141~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675511416373,5,0,must learn,0,0,Azhar Khan,117969141
+120272748~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675448213376,5,0,great learning,0,0,Gabriel Messias,120272748
+10267286~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675243068286,5,0,"concise , great and clear!",0,0,Jonathan Peralta,10267286
+116541476~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675194046175,5,0,Good basics!,0,0,Patryk Orłowski,116541476
+110657608~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675112816650,5,0,The best way to master GIT and version control.,0,0,Ratnam Raju Bandi,110657608
+102343734~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675106672876,5,0,very perfect course and usefull,0,0,sina archin,102343734
+92282472~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1675101993048,5,0,great content covered important topics instructor was  perfect in explaining ,0,0,Romany Nasrt Shawky,92282472
+118539905~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674970801804,5,0,Thank you soo much for  such a help full topic,0,0,Kavana Ketan Honnegundi,118539905
+94281797~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674907870379,5,0,Very well explained especially bash commands and git cloning and forking process,0,0,Kuku Gullu,94281797
+116647368~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674895727105,5,0,Very Good,0,0,Tahmid Arafat Nabil,116647368
+119314436~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674889656163,5,0,5 times try to pass I am totally shocked but try my best and pass this course power full please enroll. I love this course and Thanks to META.,0,0,MD REZU AHMED,119314436
+114718789~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674837317803,5,0,grate course i really recommend these course for students that are struggling on Git. The lecturers are really good at explaining theory. And the Quizzes are much fun,0,0,Amminadab Elias,114718789
+116257412~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674822923382,5,0,"I learned new things about CLI, Bash and Git, in an easy way to work with version control.",0,0,Miguel José Romero F.,116257412
+114970399~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674732473503,5,0,"It can help me to be organized in code and collaborate with my co-developer as a student. Thanks a lot, Meta",0,0,Thirdy Gayares,114970399
+118022218~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674730593842,5,0,is good and contain of  mach of information about git ,0,0,mostafa emam,118022218
+61915419~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674662477601,5,0,The course was beneficial; I enjoyed learning Unix commands and the Github procedure for software collaboration. ,0,0,Affan khamse,61915419
+84374235~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674628606806,5,0,"This Course was amazing. I'm excited to have the next course of your, Thanks a lot for making this so much easier for us to learn. Thanks a lot.",0,0,ASM Fahim,84374235
+82493173~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674592718766,5,0,Congratulation to the Meta Staff family you all did a good job at teaching me this course. I must say for a newbie I  have had no challenge in learning from you all. ,0,0,Audeth Cooper,82493173
+118456217~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674584596960,5,0,it is very ,0,0,Ye Swan,118456217
+121544990~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674508069996,5,0,good overview of git and bash,0,0,Jarred J,121544990
+38504701~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674416160386,5,0,Excellent,0,0,Daniel Gohoho,38504701
+120732056~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674403876645,5,0,basic concepts well explained,0,0,Max Mena,120732056
+15184448~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674131171419,5,0,Great course,0,0,olajumoke anjoyin,15184448
+113662651~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674057970731,5,0,good!,0,0,Kimchiman In Sweden,113662651
+56795149~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1674047598906,5,0,That was a brilliant course!,0,0,Shahzaib Khan,56795149
+68591602~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673823660138,5,0,"This is one of the best online course on Version Control for many reasons. I want to explain some. First and foremost, the course's structure is really good. Secondly, the teacher knows deeply and use it in her daily job and most importly the course is well paced, giving you a time span to finish on time. Beside grasping git and hithub  you will use comfortably the bash command line that is a very usuful tool  IT. If you don't know till now which oneline course to take on the subject, I strongly recommend it. ",0,0,Antonio Pataca,68591602
+115492575~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673812169471,5,0,"It is a great introduction to version control. The course focuses on git and GitHub. Since GitHub changes rapidly the course screenshots were sometimes outdated. Figuring out things on your own add to the learning experience. All in all, this is a great course. Well suited for beginner to intermediate learners. ",0,0,Chaukat Wolfgang Kamareddine,115492575
+104802838~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673778987129,5,0,"Well explained course, good instructor as well.",0,0,Youssef Samir,104802838
+95442694~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673711248438,5,0,Great course,0,0,Rejsal 123,95442694
+56393049~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673641658515,5,0,It was a fantastic experience with lab-based learning in this course. I learned a lot about version control using git and GitHub.,0,0,Nandini Chauhan,56393049
+115965395~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673598905176,5,0,"Excellent content, teaches you the theoretical and practical sides of version control systems mainly Git. 
+Pros:
+- Lots of quizzes to revise what you learned.
+- Lab assignments to practice.
+Cons: 
+None that I can think of at the moment.",0,0,Mohamed Yahia,115965395
+87709922~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673510218937,5,0,Great course,0,0,oyenola philip,87709922
+95334535~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673460531227,5,0,"I strongly recomend ! I have some experience with couresera courses, and meta courses are in the top. I didn't expect that ttbh ;D ",0,0,Filip Kosowski,95334535
+67017870~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673445304736,5,0,"Nice & easy to complete. The labs are outstanding, providing much needed hands-on practice",0,0,Muhammad Iqbal,67017870
+107243400~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673394803496,5,0,"The course was well organized, clear and easy to follow.  I highly recommend this course to anyone who wants to become a more qualified software developer in Version Control.",0,0,Mikail Simsek,107243400
+116507740~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673379242095,5,0,great course. Very informative,0,0,Maximilian Jansen,116507740
+108640294~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1673016467930,5,0,Thank you so much for the opportunity to learn for Version Control learn New things with crisp and clearly Taught Menter and Meta and Coursera thanks for help me..,0,0,Logeshwaran P,108640294
+107231621~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672975478807,5,0,"This course will teach you collaboration, version control with git/github, and terminal commands",0,0,Kevin Miller,107231621
+35346977~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672827859404,5,0,The course is ease to understand.,0,0,Popoola Azeez ,35346977
+102651292~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672430864527,5,0,good,0,0,Mohammed Irfan Raza,102651292
+118259062~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672382165408,5,0,this Course is amazing,0,0,prince radadiya,118259062
+43342807~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672260713245,5,0,"I enjoyed it every bit.
+This was well-organized, straightforward, and easy to follow. The instructor was very knowledgeable with excellent presentation skills.
+Excellent rating",0,0,Timilehin Adenaike,43342807
+110757334~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672239688531,5,0,Please add extra exercises ,0,0,Anas Salah,110757334
+4662912~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1672063899392,5,0,A great course to understand the fundamental of version control. ! It break down break down complex problems and make it easy to understand. A big thanks to the Mata teams and coursera :),0,0,Abdelkader LOUKAL,4662912
+114088543~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671989994798,5,0,It is a really nice course. I recommend it to every aspiring developer.,0,0,SIMON PETER WAKOKO,114088543
+114733794~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671977769803,5,0,Great course thank you,0,0,Amr Reda,114733794
+110415977~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671949876749,5,0,G​ood course.,0,0,Usama Shaukat,110415977
+97321638~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671854704679,5,0,Great course. Was very interactive . I'm very glad to partake in this great course. Thanks to Meta and Coursera. ,0,0,Ebenezer Aikins,97321638
+109883884~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671832506363,5,0,"I really liked the content of this course, I think it covers almost every important aspect of Version Control",0,0,Saad Out03,109883884
+77973793~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671545924041,5,0,It Was GGGraet,0,0,Jamil Badenjki,77973793
+118693595~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671538406230,5,0,Very Informative and Useful Clear all the basic concepts of Version Control system using git and Github.,0,0,Jawad Haider,118693595
+111980323~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671531794583,5,0,EXCELENT COURSE,0,0,DINESH 212002824,111980323
+109383450~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671456143620,5,0,"Learned alot about CLI, Git and Github it workflow. Pretty much in details and Imp topics covered, Highly recommended to the beginners.",0,0,Guna Sekhar Vintha (US),109383450
+105836072~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671408761010,5,0,"Kudos to the team for making such an interactive and well organized course. Really loved the built-in lab setup, which made the practise a breeze.",0,0,Mayank Kumar Sohanda,105836072
+117901640~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671254353167,5,0,Resolves all my doubts about version control.,0,0,Pushpender Yadav,117901640
+95571261~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1671052090536,5,0,Good Course,0,0,Rachman Nul Hakim,95571261
+88629936~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670989996509,5,0,Best course,0,0,Liakot matubber,88629936
+105546907~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670856466285,5,0,"Great introductory course to Unix Commands, Version Control. Git and Github. ",0,0,Shivani Jaitly,105546907
+88104576~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670855391077,5,0,This  course help me a lot for my career path and i was able to understand Git and Github and much more. i really recommend you to all go through this course.,0,0,Nirmal Chandrasiri,88104576
+52534104~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670845326453,5,0,"Over all I would rate this course 9/10, I loved the content in it, and it is the best course  for learning Version Controlling tool after 10Pearls Version Control courses I have found on the online learning platforms.Thanks to Meta.Recommendation from my side: I would like to say that please add a usage of Git Visualisation tool for elaborating BRANCHES, NODES and how commit id works behind the curtain of such commands like ""git commit"",  ""git add"", ""git push"" etc, and how branches merges works behind ""git merge"" command.
+I have seen this visualisation tool for git learning in 10Pearls Version Controlling course and it worked really amazing in understanding and  memorising by visualisation.    ",0,0,Mustafa Siddique,52534104
+90764302~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670794973995,5,0,The skills I learned from this course were directly applicable to my current job. Learning how to use git is crucial for programmers and this course explains how to use GitHub as well as work with git in the local environment as well. I recommend it for anybody wanting to differentiate themselves from novice programmers and elevate their skills.,0,0,Nathan Sargent,90764302
+12300637~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670786590994,5,0,Great Course! Thank you so much!,0,0,Prakhar Chanauria,12300637
+11925198~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670759553902,5,0,Thank you so much for this great course!,0,0,Pinaet Poonsarakhun,11925198
+64561255~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670731979529,5,0,Nice ,0,0,Anh Minh Nguyen,64561255
+4919213~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670671610652,5,0,Thanks for the great experience! It looks so useful and helpful! And I suppose to use it a lot in all further projects!Special thanks to the announcer! She is an amazing teacher!,0,0,Nataliia Muzhytska,4919213
+72461897~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670496711788,5,0,Very cool !,0,0,Rabe Moutari Ahmet,72461897
+26091773~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670461386813,5,0,"this is an amazing course, full of details, motivating, everything is very goodTHANKS",0,0,Mohamed El-Sharkawy,26091773
+112473495~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1670360466051,5,0,I found the videos and the readings really explanatory and easy to understand. It was nice,0,0,Abdulsalam Oguntola ,112473495
+117615544~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669905752113,5,0,"It was very useful to learn about unix commands, and also a gread practice to work with git",0,0,Bahinska Anastasiia,117615544
+112531825~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669568938121,5,0,"Very simply explained. Great guidance. I went from knowing little to nothing about version control, git and github. This course will help you gain a good understanding with good practice. ",0,0,Brandon Solomon,112531825
+95712430~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669475889241,5,0,This was most required course for the most required skill to be a developer.Teachers were clear with their goal of  what to teach and how to teach.Assignments were so good but there was one problem that these assignment were not graded.Overall course was awesome. andThank you for this course,0,0,we tube tech,95712430
+116525098~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669269144458,5,0,nice,0,0,Richard Robert,116525098
+22211006~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669236093960,5,0,Great overview of Git.  ,0,0,Sebastien Gamache,22211006
+42726440~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669203829461,5,0,Thanks for Teaching. This course is best!!! for those whose learn from zero to one. Once again Thanks for sharing  valuable resources documentation.  ,0,0,Muhammad Rizwan Jamali,42726440
+114558624~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1669050243808,5,0,it was really Great.thanks Meta,0,0,Morteza Rohani (programmingwithmorteza),114558624
+111064472~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668964336537,5,0,Awesome! Anything else is understatement,0,0,SANUSI BLESSING (dukebee),111064472
+82730654~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668930950812,5,0,Outstanding course curriculum and material.,0,0,Prabir Singh,82730654
+90177084~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668862290434,5,0,Wonderful course. Learned a lot. ,0,0,Sarvar Merjonov,90177084
+110133283~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668771545320,5,0,great teacher,0,0,Bhuvnesh Gupta,110133283
+114588102~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668619930652,5,0,this course is essential for everybody who wants to become a Pro frontend developer,0,0,Ahmed Zaalani,114588102
+71363873~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668562717737,5,0,really good stuff,0,0,Luis Caceres,71363873
+64506123~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668557348315,5,0,"Some of the parts went a little bit fast. But if you pay attention, it was almost easy to learn. ",0,0,Rohit Pillai,64506123
+9885654~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668467760010,5,0,This was a good Git and GitHub fundamentals course! It helped me refresh a lot of things I've forgotten and learn a few new moves. ,0,0,Zeddikia Chisholm,9885654
+111198676~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668459789095,5,0,Love the way thnigs are explaned in this course Thank You for this amazing course <3,0,0,Zillalsen Mesrane,111198676
+98259397~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668450999497,5,0,I was a great course. I learned a lot. Thanks to teacher and Coursera. ,0,0,aung nhkum10,98259397
+116890360~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668421206968,5,0,Very Good I recommend for all,0,0,Graciano Manuel Henrique,116890360
+670744~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668222544688,5,0,Good foundation on Git and Github,0,0,Carlos Rangel,670744
+110473479~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1668070414365,5,0,Really enjoyed this course. Thanks!,0,0,Pieter Bothma,110473479
+112601612~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667842380573,5,0,"Great course, it is detailed",0,0,Owolijah Victoria,112601612
+112223501~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667755248397,5,0,Its challenging and educative,0,0,Muwaga Micheal,112223501
+115280091~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667695352015,5,0,I've learned a-lot through this course ,0,0,jjmiclovin 03,115280091
+33614272~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667645248177,5,0,The instructor and the contents are awesome! Well-structured contents taught and presented very well.,0,0,Bello Shehu,33614272
+92381212~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667642278820,5,0,I really like and good content if you are beginner and the way of teaching is also good. ,0,0,Meshv Patel,92381212
+92126040~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667483389241,5,0,GREAT,0,0,lorenzo medici,92126040
+117957624~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667475330919,5,0,nice,0,0,OGUZHAN UGUZ,117957624
+79814736~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667471595468,5,0,This course will teach you the foundation of  Version Control I highly recommend it!!,0,0,Eslam zaid,79814736
+113820115~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667469605815,5,0,Great,0,0,Hicham Abderrahim,113820115
+103022786~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667408279574,5,0,great crash course on git and a nice repetition of skills in BASH that is always welcome,0,0,Carl Smith,103022786
+27056902~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1667284131383,5,0,"Great details were provided, and labs and quizzes were helpful. ",0,0,Antonio Jimenez,27056902
+85668773~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666949454062,5,0,"v​ery good material, not just the basics which you can find on youtube this is a step beyond that.",0,0,Abdallah Nasser,85668773
+107226009~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666917565021,5,0,"A​ great course to build foundation on version control. Really apprtiate this course.T​ips for learners: dont get upset when your commands are not working , always google your problem & read the additional resources well . Happy Learning",0,0,MD Shihabul Islam Zishan,107226009
+93681328~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666787559917,5,0,G​ood course!,0,0,Tu Le Nguyen Anh,93681328
+2468162~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666784176273,5,0,"V​ery clear, detailed course. ",0,0,Ekaterina Bilenko,2468162
+92786097~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666605790466,5,0,g​reat course!,0,0,Muhammad Umar Al Fajar,92786097
+87259960~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666604913255,5,0,"E​xcellent content, useful and nessary for developers",0,0,Kyaw Tun Aung,87259960
+61850541~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666416573428,5,0,T​here should be combined pdf notes for all the commands in git and github,0,0,Abhishek Hanmant Bedare,61850541
+96750464~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666357798792,5,0,"Version Control is an awesome course indeed. My confidence level is pretty good now to work in any global development team. I knew Git for years now. But this prominent course added advanced features to my skill set.
+I would like to thank a lot to Meta.",0,0,Md. Mostafizur Rahman,96750464
+23398919~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666345461412,5,0,V​ery good course for learning Github. This will comes handy for new developers for sure. ,0,0,Golam Dostogir,23398919
+42358867~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666286045314,5,0,Best Course  with the best teacher Thank you Meta and Coursera,0,0,Tahir Munir Faraz,42358867
+10887381~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1666071986313,5,0,g​reat course,0,0,Wenbao Li,10887381
+89948364~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665680170161,5,0,e​xcelente curso,0,0,Aurelio Marques,89948364
+38042239~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665658397026,5,0,g​ood,0,0,BALAKRISHNA GOPALAM,38042239
+113724747~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665637523422,5,0,"T​he instructor is friendly and understandable, great course! Plus she encourages you to learn more than what is taught  ",0,0,Godoy Liam Muñoz Solorzano,113724747
+115986675~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665615914264,5,0,T​eaching approach is top notch. It makes learning easy.,0,0,EMMANUEL NTAADU GYAMFI ,115986675
+73303284~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665568402597,5,0,A​mazing tutors and explanation. Thanks Coursera and META for this experience!,0,0,Elie Hanna,73303284
+68666562~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665437578213,5,0,"​A great introduction to the Unix ecosystem and Git. I have never encountered other version control systems other than Git (and Perforce) at work so learning about the topic more in detail was useful.The lesson contents are good enough for Unix commands but I would have liked a few more exercises to practice the commands as you end up leaving behind a few if you don't use them daily. 
+The GitHub material was also pretty good and modern.
+
+",0,1,Alberto Valdez Quinto,68666562
+112786513~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665367372120,5,0,v​ery nice lesson,0,0,再见二丁目,112786513
+3803593~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665327220792,5,0,"This is by far one of the best courses on Version Control. 
+As a person from a non-tech background, the practice tests allowed me to develop confidence in coding. 
+GlenMate.com",0,0,Sam Yeboah,3803593
+21177100~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665316702065,5,0,G​OOD,0,0,darpan pal,21177100
+75557059~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665302048890,5,0,c​oncise and practical in every way possible that only Meta can do...,0,0,Davood Qaragouzlou,75557059
+1658320~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665159552356,5,0,G​reat course!!,0,0,Masinda Samuel,1658320
+116086663~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1665069362295,5,0,G​reat course for begginers. Everything was clear and informative. Thanks,0,0,Tilek Koszhanov,116086663
+32749886~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664995709148,5,0,G​reat course for whoever is starting with git. The teacher in this course is great!,0,0,Andre Newton,32749886
+110767879~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664920947994,5,0,T​he course was pretty well explained. The material is easy to understand.,0,0,Aldo Cortes,110767879
+12760848~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664725518621,5,0,"T​his course was fairly good for people who wants to understand the basics of git and github. Understanding how the git workflow, diff command, forking and pull request works was charming. ",0,0,Maruf Hossain Sany,12760848
+94517213~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664682713140,5,0,You will be well-versed in the subject of version control. Highly recommended!,0,0,Rajitha Hashen De Silva,94517213
+72318974~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664606138844,5,0,I​ Love It,0,0,AGBAJE OLUWATOFUNMI REBECCA,72318974
+90115969~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664493667950,5,0,"I​t was a classic session. 
+
+i live the presentation from the Instructor and moreso, the chaneging las that made me revist the lessons i brushed through.",0,0,Jacob Ayinsakia,90115969
+85367026~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664384388035,5,0,P​erfeito! ,0,0,Pedro Henrique “Drope” Drope,85367026
+111691513~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664369968798,5,0,S​em palavras para o conteudo excelente da plataforma que nos faz aprender coisas novas diariamente!!!,0,0,Matheus de Brito Alves ,111691513
+114339663~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664062315980,5,0,A​wesome course! Strongly recomend! ,0,0,Zelenchuk Serhii,114339663
+111757738~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1664043019792,5,0,I​t's that a super course with amazing flow,0,0,ahmed doko,111757738
+79432361~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663979464988,5,0,V​ery good course. People always just give you a cheatsheet of command line arguments to use Git without explaining anything and I could never find good ressources I liked for my style of learning. This is a pretty perfect course. It's so well explained everything feels easy.,0,0,Ndiaye Ndèye Fatou,79432361
+101260280~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663967016950,5,0,"G​reat course, I really enjoy it and it will well explained, I am looking forward.",0,0,Piercel Moussa,101260280
+41581189~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663907517672,5,0,V​ery Informative course for beginners and gain fundamental knowledge of git commands .,0,0,Vivek Maddeshiya,41581189
+45113354~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663861302975,5,0,G​reat practical path.,0,0,Best 5,45113354
+24323352~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663757992182,5,0,V​ery amazing!!!,0,0,Abdoulaye Sedego,24323352
+55751625~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663749207962,5,0,It was very useful. i have learen how to use command line and how to create a repo and how to work with others.Thank you Meta team!,0,1,Abanoub Adel Thabet Zaky,55751625
+14823390~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663697030759,5,0,i​t was interesting courses,0,0,Mukhtar Haris,14823390
+13401908~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663691904876,5,0,E​xcellent course.  Good hands-on exercises.,0,0,Michael N,13401908
+109190625~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663667497782,5,0,V​ital topic for every developer to learn.  The instructor made it easy to grasp it all.,0,0,Mahmoud Moussa,109190625
+83465084~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663599648250,5,0,"g​reat course , very informative",0,0,Mohamed Bentaher,83465084
+114235102~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663589861944,5,0,v​erry good ,0,0,Stanley Occean,114235102
+35779190~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663581612686,5,0,I​t's a great course for beginner...,0,0,,35779190
+26654458~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663562364184,5,0,I​t's easy  and great in terms of info ,0,0,Dharma Teja,26654458
+110718085~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663457919943,5,0,g​ood knowladge ,0,0,karem mohamed,110718085
+103013589~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663436836404,5,0,T​his course make me understood how dev working together and the process they did.,0,0,DONN,103013589
+78816956~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663408310763,5,0,I​t was a great course. Thank you so much!,0,0,Ahsan Ali,78816956
+115080182~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663378631593,5,0,V​ery Satisfied,0,0,Ricky Septiandy Pratama Putra Husmildin,115080182
+45860321~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1663261779246,5,0,"I​ think this course has great informational material going over topics such as CLI commands, version control systems, and Git!",0,0,Al Bondad,45860321
+11417183~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662983139927,5,0,E​xcelent ! Congrats!,0,0,Flavio Garcia de Oliveira,11417183
+113883739~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662870944178,5,0,T​his is really a great course! Everyone should take this!,0,0,Kenneth Fullbright,113883739
+56713600~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662848329228,5,0,g​reat!,0,0,Mücahit Uçkun,56713600
+95967618~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662659113198,5,0,noice content,0,0,Venkata Aravind Marni,95967618
+107881352~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662626489405,5,0,Thank you Meta and Coursera 💙,0,0,Damilola Akinbi,107881352
+10898774~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662575092285,5,0,T​he course is a stepping stone towards software development,0,0,syed muneeb ul hasan,10898774
+105898780~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662545232255,5,0,A​ll the fundamentals of version controls are covered here. Very good and well explained!,0,0,Affan Amrish,105898780
+90084414~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662513489253,5,0,This course is amaizing to understanding version control as a begginer.Great work.,0,0,Muhammad Ubaidullah,90084414
+47919842~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662476690118,5,0,Comprehensive information,0,0,Kwadwo Opoku Agyeman,47919842
+85101617~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662361952555,5,0,Compressed and concise.  ,0,0,Mahesh Lalwani,85101617
+27235493~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662341650260,5,0,"T​he course is thrilling all through, I totally love it.",0,0,lanre ajikobi,27235493
+47939265~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662328148932,5,0,"B​uen curso.E​ntendi cosas que en mi trabajo las hacia porque tenian que ser asi. Con este curso me abrio los ojos y pude entener varios conceptos y solidificar las bases. N​o es muy avanzado, es una introduccion basica-intermedia pero con variedad de ejemplos, documentacion y bases para ir explorando y aprender por uno mismo. ",0,0,Aarón Isaac Calixto Andrade,47939265
+2659123~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662310941348,5,0,"Great course. Git was always confusing to me. It's getting much clearer now. It's better to apply new knowledge to remember material. And review it again and again if you forgot something. That's totally ok, that's how our brain works.",0,0,Artem Goncharenko,2659123
+111536739~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662270480648,5,0,"Very helpfull, clear and easy to understand",0,0,Elizabeth Teresa-Ramirez,111536739
+109079070~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662208167931,5,0,v​ery good,0,0,OMAR AL SAIED AHMAD,109079070
+112913771~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662062863961,5,0,i​nformative and easy to learn. ,0,0,roscoe bassett,112913771
+111222488~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1662037137629,5,0,I​ love this course.,0,0,Huy Hoang Tran,111222488
+112065274~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661986517291,5,0,i​ was great and very instructive thank you ,0,0,gougheilt zakaria,112065274
+83978815~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661952888324,5,0,"the tutor is amazing,",0,0,CHIHAB EDDINE LAKEHEL,83978815
+110319786~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661624507456,5,0,Very nice course for starting with git and GitHub,0,0,Roman Kulynych,110319786
+110593582~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661611338093,5,0,They are as practical as ever,0,0,Gbadamosi Olayinka Abubakar,110593582
+109768302~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661563555372,5,0,Awesome instructor and content,0,0,shaza attwan,109768302
+59517445~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661533837841,5,0,very  useful course,0,0,Mohamed Abdelgadir,59517445
+91050744~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661253230944,5,0,Loved it.,0,0,Roman Strogoteanu,91050744
+100965302~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661091462761,5,0,Good GIT Bash and GITHub fundamentals ,0,0,Alexey Begeshev,100965302
+111825420~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1661079257526,5,0,great course,0,0,Anshul Ranjan,111825420
+79632181~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660917131413,5,0,"This is a wonderful course, made with soul.
+This is a wonderful story in simple words about complex topics.
+Huge thanks to the amazing creators and Meta Corporation.
+I am a refugee from Ukraine studying to find a job and this course has been a huge support for me and my family during a difficult time after russia's dastardly attack on Ukraine.",0,5,Viktor Kuntsevych,79632181
+84323030~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660821270687,5,0,"It's a great introductory course on github, learned a lot. ",0,0,Avirup Banik,84323030
+79265522~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660610087532,5,0,Thanks for constructor,0,0,Hamou Nasreddine,79265522
+54085409~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660497044205,5,0,Great Course!!,0,0,Khalid Shawki,54085409
+30496072~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660428758920,5,0,"While this does not get beyond the basics, it is good to have a real solid understanding of the fundmentals. As a self-taught hobbyist, I really appreciated it and feel like I now have a much more solid foundation to build more complex methods on top of.",0,3,jwsarge,30496072
+20125430~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660398479769,5,0,"Covered basic git and command line and gave ineresting ways to use them both. Introduce more compelex logic like head nodes in git and provided options to actually use git, clone, fork and even make pull requests that might one day be merged. A well rounded Beginer friendly course.",0,2,Emmanuel Neni,20125430
+106490119~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660158744761,5,0,Professional and detailed Course. I like it.,0,0,Youssef El-Hrouzi,106490119
+40970332~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660086697459,5,0,A great introduction to git and github!,0,0,Roberto Torres (robtowers),40970332
+110700656~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660033170440,5,0,very powerful course thank you meta and the instructur ,0,0,CHARRAFI MOHAMED,110700656
+23747760~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1660016506611,5,0,Great course!,0,0,Tiago Iesbick,23747760
+77813214~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659991437736,5,0,"well structured, this is a great content for both new and experience developers",0,0,Zubairu Muhammad Ahmad,77813214
+82753361~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659871564051,5,0,It was great I benefited from this course how to control the version. I thank the management of Meta,0,0,Jamal Nasser,82753361
+41626058~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659824461387,5,0,great to get background.,0,0,Saulius Gražys,41626058
+54950035~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659792427654,5,0,This course is a fantastic course for learning the basics of version control.,0,0,Alireza Raei,54950035
+32149210~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659791874924,5,0,It was a great course,0,0,Vuqar Agazade,32149210
+64518235~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659447240209,5,0,1,0,0,Mamoun Iqtait,64518235
+75348563~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659397780521,5,0,Well detailed,0,0,Willie Valverde,75348563
+109090717~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659367859308,5,0,Thank you meta,0,0,Mohammad Almasri,109090717
+107696126~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659223011888,5,0,"Excellent course I learned a lot.
+
+nice :)",0,0,Moises Cisneros,107696126
+70535645~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659112175770,5,0,i like it ,0,0,mubashir khadim,70535645
+107703177~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659091401658,5,0,Great,0,0,Shahd Khalid Ashour,107703177
+84705775~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1659038362755,5,0,"Great course, tutors and learning materials(useful addiional links).",0,0,Angela Raphael,84705775
+110175054~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658904882166,5,0,Quite a detailed and hands-on course.,0,0,chris mutugi,110175054
+13427893~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658822987587,5,0,Great learning materials.,0,0,Jason Luo,13427893
+15059042~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658801679775,5,0,This course has be very useful in helping me learn how to use git and github. I enjoyed this course thoroughly. ,0,0,Infinite Intel,15059042
+109111400~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658668305746,5,0,Perfect Course for biggeners and for mediums one. Excellent Course I Appricate it.,0,0,Hamid Ali,109111400
+109900730~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658277970337,5,0,with the certificate it will be better ,0,0,Manel Messaoudi,109900730
+19345312~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658268324831,5,0,Great!,0,0,Mahamud Hasan,19345312
+50108867~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658164810849,5,0,Very good instruction and introductory course to Git/GitHub.,0,2,Jim Hall,50108867
+91002716~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658115311414,5,0,"This course made Git, GitHub, and Command Line a lot easier to understand and took away a lot of the intimidation with working without a GUI. It demonstrated and went step by step on all the commands you need to know while collaborating on a project and setting up projects. And the additional readings contained a lot of useful resources that I'll come back to. ",0,0,Michael,91002716
+39603956~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658063395329,5,0,Beyond my expectation and the instructor knows what she was doing.,0,2,Obembe Sunday Dapo,39603956
+76316478~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1658046321206,5,0,This course is amazing,0,0,Hasan Ziad Kanaya,76316478
+91374630~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1657962849936,5,0,Excellent explanation of the course content!,0,0,Morish Wilson,91374630
+45075272~COURSE!~ERIzRKCGEeyFDhLpwtOZqw,1657936104262,5,0,Very good course to learn version control!,0,0,Matthew Michalski,45075272

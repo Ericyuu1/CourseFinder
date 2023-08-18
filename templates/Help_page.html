@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!---<meta name="keywords" content="HTML, CSS, JavaScript">--->
+  <meta name="description" content="Help">
+  <meta name="author" content="TTDS Group">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script></script>
+
+  <noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+  <title>Help</title>
+  <style>
+    :root {
+      --primarycolor: #6fcacc;
+      --primarycolor2: rgb(57,162,164);
+      --primarycolor3: rgb(0,128,128);
+      --othercolor: #efefef;
+      --bgcolor: #53a970;
+      --text-color: #333333;
+    }
+    div {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    P {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 150%;
+    }
+    span {
+      font-weight: bold;
+    }
+    .button_a {
+      font-family: Arial, Helvetica, sans-serif;
+      height: 40px;
+      width: 200px;
+      background-color: var(--primarycolor);
+      border: none;
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+      border-radius: 5px;
+    }
+  </style>
+</head>  
+
+<body data-new-gr-c-s-check-loaded="14.1101.0" data-gr-ext-installed="">
+
+<!--- Page Head --->
+<table width="1000px" border="0">
+  <form action="/search.py"></form>
+    <tbody><tr width="100%" align="left">
+      <td rowspan="2" align="center" width="200px" style="border-right:#cccccc solid 1px;">
+        <a href="/"><img src="static/CF2.png" style="height:60px; width:auto"></a>
+      </td>
+      <td rowspan="2" width="20px"></td>
+      <td></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td width="650px" align="left" style="color: var(--primarycolor2);font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;vertical-align: bottom;">Format of Query</td>
+    </tr>
+
+</tbody></table>
+
+<table width="1000px" cellspacing="3" cellpadding="1" border="0">
+  <tbody><tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="80px"></td>
+    <td>
+      <p style="font-size: 16px;">Except for inputting a word, a phrase or a sentense, our website also supports
+<span>Phrase Search</span>,
+ <span>Proximity Search</span> and <span>Boolean Search</span>.</p>
+      <p style="font-size: 20px; font-weight: bold; color: var(--primarycolor2);">1. Phrase Search</p>
+      <p><span>Format:&nbsp;"phrase"</span></p>
+      <p>You can search for an exact word or phrase to find specific information.</p><p>&nbsp;</p>
+
+      <p style="font-size: 20px; font-weight: bold; color: var(--primarycolor2);">2. Proximity Search</p>
+      <p><span>Format:&nbsp;#(distance){term1, term2}</span></p>
+      <p>The number <span>'distance'</span> means the distance between <span>'term1'</span> and <span>'term2'</span>. For example: <span> #(10){python and java, course}</span>.
+      </p><p>&nbsp;</p>
+
+      <p style="font-size: 20px; font-weight: bold; color: var(--primarycolor2" );="">3. Boolean Search</p>
+
+      <p><span>Format:</span>&nbsp;<span style="font-weight: lighter">#10{term1, term2}</span> <span>AND </span>website <span>OR</span> "phrase search"<span> AND NOT</span> link</p>
+<p>You can use "AND", "OR", "NOT" in the Query. Parentheses not supported yet.</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><a href="\" style="font-size: 16px;font-family: Arial, Helvetica, sans-serif;"><input class="button_a" type="button" value="Return"></a></td>
+  </tr>
+
+</tbody></table>
+
+</body>

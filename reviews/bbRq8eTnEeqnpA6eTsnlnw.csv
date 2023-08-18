@@ -1,0 +1,10 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+10582611~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1650969407370,1,0,"There is no AI here in this project, it's simply recursion. Misleading.",0,2,Nilesh Arnaiya,10582611
+2262752~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1634109671215,1,0,P​oor content and poorly made course,0,0,Bipin Jethwani,2262752
+458872~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1615756718624,4,0,"Very Good walk-through and instruction.  You have to know recursion already to understand the backtrack algorithm.  You have to 'listen through' the instructor's speech mannerisms, but the project is sound. ",0,0,Chris Harman,458872
+6478918~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1651007589933,5,0,"This has been the best Python guided project I have taken so far (of six). The instructor explains everything clearly, and provides additional code snippets to illustrate the algorithms and data structures they generate. The solver strategy is explained well, as is the recursion. Where I struggled to follow, there was usually a clear illustration in the following code block, and I took my time to comment each of the sections to improve my understanding. ",0,0,John Concannon,6478918
+17568469~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1632157519394,5,0,Nice example of using recursion implemented in Python to solve Soduko,0,0,Yaron Klein,17568469
+71010930~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1628586041200,5,0,good,0,0,121910309055 KONDRAGUNTA SAI DINESH,71010930
+62419222~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1628585683319,5,0,Good,0,0,121910309040 NULU AKHIL KUMAR,62419222
+41499624~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1609334759118,5,0,Thank you,0,0,Rohit Pandey,41499624
+39968831~COURSE!~bbRq8eTnEeqnpA6eTsnlnw,1600174115188,5,0,"It is a really good coursera project. You just need a basic understanding of python syntax, lists, dictionaries and functions. The instructor is very good and explains each concept and step very clearly.",0,0,Sudeshna Das,39968831

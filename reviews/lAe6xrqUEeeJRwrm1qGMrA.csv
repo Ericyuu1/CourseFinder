@@ -1,0 +1,731 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+32928557~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1661789164207,1,0,t​he lab sessions are full of errors,0,0,Michele Bruno,32928557
+47372496~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1605655528428,1,0,"Spent 5 hours on this course just trying to get through the first lab. I am software engineer myself, so I am pretty sure I executed all commands as I should. The environment is broken, leading to authorization issue, issue with the bash commands, etc. Support is not very helpful as well, keep saying everything works on their side. ",0,0,Emilija Pereska,47372496
+74182267~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1604852991335,1,0,I couldn't complete this course,0,0,Chinonso Amadi,74182267
+62176647~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1604584721922,1,0,Zero support.  No response to anyone having the same error on one lab to complete the useless course.  Horrible experience.  I would not even give it one star and never take another class from Coursera or from Google,0,0,michelle sanford,62176647
+71402018~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1602332255380,1,0,"This course needs a review and a overhaul. The instructors made this course unnecessarily more confusing. The Labs had to many errors and mistakes, that I had to fix my self- this had a knock on effect on achieving my grade. ",0,0,Ma'asuma Naqvi,71402018
+22794101~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600794786866,1,0,Terrible course... a complete waste of time...,0,0,Sk Golam Saroar,22794101
+48868096~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1599261260302,1,0,"Concepts are not at all clear. Its very hard to understand different pieces of Kubernetes architecture are connected and what is what. It is difficult to understand how node, pod and container are connected. I hope they provide a clear explanation of the architecture with a clear example of an application in CI/CD mode.",0,0,Rohith Potheneni R,48868096
+55062114~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1593625961876,1,0,"You have to read the comments in the reviews and the discussion. I didn't. This course was more of a list of commands and topics to self-research in order than an actual class. The instructors clearly did this in a single take and were speaking extemporaneously. If you look at the transcript of the video, sentences just don't make any sense. I still appreciated getting the list of topics to self research and would have given this a 2, but then the lab for ""option 2, spinnaker"" which I don't need and wasn't listed in the course overview has a known bug that appears an hour in and cannot be worked around, cannot be passed, and ultimately resets your lab, losing your work to date and blocking completion of the course. If you look it up in the forum, this problem has existed for a long time and nobody even bothers adding a note like ""don't do lab option number 2, you'll lose all your work and waste your time"". The quiz questions and multiple choice answers not only aren't answered in the materials, but are actually pretty difficult to even interpret meaningfully enough to research an answer for.",0,0,Nathaniel Rink,55062114
+5520777~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592921173367,1,0,"While the first half is somewhat useful in grasping different k8s elements and how they relate to one another, the part about continuous integration is a complete waste of time and effort. Also, they course has not been updated in a while, so some of the instructions are outdated and referring to the forum is a must if you wish to pass it.",0,0,Ivo Pieter Spijkerman,5520777
+50794478~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592188865511,1,0,"I think this could be better, I think the most interesting thing is the concept of cluster, pod and node, jenkins and spinnaker labs are so long, boring and buggy",0,0,Deleted Account,50794478
+55883097~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589911679280,1,0,The concept should have explained in detail. The tutorial were not much comfortable.,0,0,Akshay Shankar Agrawal,55883097
+39087900~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589841356865,1,0,One of the worst f**king courses i have ever done in my life. WTH were these guys even thinking when they designed this course? Horrible horrible content.,0,0,Pramod Venkatesh Kulkarni,39087900
+19994714~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589480572919,1,0,"Can't do labs without paying. ""Auditing"" language is not very clear at all or is intentionally misleading to get you to commit some time to the first few free videos.",0,0,Chris Thacker,19994714
+4569206~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587739323154,1,0,"Before pay for the course, go to the Discussion forum to know what happen with the quality of the course labs.",0,0,Jose Luis Munoz de Morales Silva,4569206
+8631997~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585865940203,1,0,"Disappointing course.  There are 2 instructors.  One seems to know what he is talking about, but only delivers high level descriptions of things. The other instructor seems not to know what he is talking about and just reads through the slides in the videos like he's never seen them before, often misreading words on the slides and saying the wrong words.  The labs are basic and you don't really understand what you are doing.  The quizzes seem unrelated to both the labs and the videos.  Most of google's trainings are pretty good, but this one is poor.  Don't expect to know what you are doing at all after doing this course. ",0,0,Nick Eve,8631997
+45757934~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585592974053,1,0,There is bug in the last step preventing you to finish the course. And no one really cares about the problem even after 1 month and many people complaining about this. Please avoid this course in particular. There are other good courses available in the platform.,0,0,Navaneeth Chirammal,45757934
+44731425~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585492107748,1,0,"I regret taking this class...the presentation of the material can be described as HORRIBLE... very abstract and too generic. Note to the instructors: EXAMPLES GO A LONG WAY!! When you are introducing a theoritical concept, follow it with a simple example! The quizzes were OVER-simplified and did not really test any of the supposed knowledge gained. As far as the labs go, i found myself just copying and pasting the commands with no real understanding of the steps that i was performing. There were too many applications that were introduced in the lab that should have been presented FIRST in a video instruction. Too many concepts are ASSUMED TO BE KNOWN ! ...i am sorry..but this class needs to be re-edited...especially the annoying ""OK"" coming out of the 2nd instructor every 15 seconds. EDIT THAT OUT!! It gets very very very very very very annoying....anyways...i wasted $49 for this class. Lesson learned, i guess.",0,0,Peter Katopodis,44731425
+15605541~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584802037553,1,0,"It took sooooooo long to solve the problem with Spinnaker, that I cannot give more than one *, sorry.",0,0,Fran Camacho,15605541
+23932508~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584743229497,1,0,There are not prepare and configure some commands.,0,0,Klaudia Dziedzic,23932508
+4071860~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584461236842,1,0,"Broken – see numerous posts in the forum. Even when it's working, the labs merely consist of copy/paste exercises. This is both tedious and a poor means of learning and retaining the course content.",0,2,Doug Eich,4071860
+11022014~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584241187652,1,0,can't finish the course since one of the lab/ workshop is broken ,0,0,oWen Ho,11022014
+27953447~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1583254571223,1,0,"The final lab (using Spinnaker) has been broken for a month now.  Despite the language used in the course (being able to choose lab option 1, or lab option 2), BOTH labs in the final module are required to pass the course.  So, not only is there a logic flow problem with completing the course, but the additional fact that the lab is broken makes the course unfinishable.  Don't take this course until they've fixed at least one of the above two issues.",0,7,Jeff Hazen,27953447
+10176069~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1583236780478,1,0,"The obligatory lab has been broken for over two months and they have not fixed it, what a waste of time and money",0,0,Leon Fedden,10176069
+138029~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1582638504608,1,0,"This is a shame, I could not complete the course due to Quizlab issue. the course was due and i did not get my certificate. There is no way to have a direct contact with coursera. I need a solution for this or a full refund. ",0,5,Vahram,138029
+32885411~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1582119398781,1,0,"HI Team, I am not able to perform hands-on on qwik-lab tool is not working for me. It is asking me for purchasing certificate. ",0,0,kaushal kanjariya,32885411
+5489454~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1580062271891,1,0,Very basic information on Kubernetes. This is more marketing material than a training course.,0,8,Yuriy Artamonov,5489454
+43925720~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568120757153,1,0,Expected better explanation of stuff. Even Quiz does not discuss the answer why they are correct.,0,0,Raj,43925720
+33765461~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565512610062,1,0,"Very poor presentation by the instructors, the quality of presentions (they were simply reading from the slides and that too making mistakes even in simple reading). Horribly boring as well. This course has brought down the overall quality of Coursera.",0,0,Aparajita Singh,33765461
+967677~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559995861870,1,0,"Uncompanionable English at some points.  I struggle sometimes to understand the narrator. He is using terms without explanation. I am struggling with the quality of the entire content.I tried to open the Qwiklabs Course Labs without success, even if I tried the suggested Browser Incognito mode. ",0,0,Rossen Radev,967677
+95264~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559533386602,1,0,One guy deer in a headlight reading off a script.  The other is reading notes like reading a fiction.  Non-engaging course.  ,0,0,roger a,95264
+10435831~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559292710652,1,0,A parte gratuita é apenas teorica,0,0,Lucas Licursi,10435831
+40848805~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1555760757040,1,0,The entire course is full of script errors every few words. Sometimes words are spoken in such a way that it completely changes what is being said to the point where it complete differs from diagrams on the screen.On top of this much of the tutorials are not available without paying for this course which you should not even waste your time on if it was free. Really disappointing and surprising for a course by the creators or Kubernetes.,0,4,testing,40848805
+33991349~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1552083298856,1,0,need more practical very basics ,0,0,Deleted Account,33991349
+22366147~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549729365765,1,0,d,0,0,Krasilov Dmitry Fedorovich ,22366147
+36661708~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1542367873781,1,0,"I feel disappointed.The course ought to take 1 week and 2 hrs of lectures in total according to the abstract. Maybe there were 2 hrs of lectures in total, but followed with at least 6 hrs of labs! I wasn't prepared for that and struggled to complete the course within week time. Please adjust the abstract, or, better, split the course in 4-5 consecutive weeks so that each week there's manageable amount of content to cover (1 - 1,5 h of lectures and labs).Secondly, my personal opinion is that the teachers were speaking too fast and without good contact with the audience. As a result, all the time during course I felt in pressure of time and without solid understanding of the content presented.Still, thank you for the course. I made my first step in Kubernetes!",0,0,Robert Matuszewski,36661708
+1156090~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1534763622631,1,0,The course should mention if the labs are not available to access for free. The important part of the course which is labs is not available for free.,0,1,Dharmik Thakkar,1156090
+25760950~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532277671126,1,0,"The last lab, which should have been the most important and interesting one, was broken.",0,0,Josep Colom Ikuno,25760950
+15509867~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527770104281,1,0,nao gostei do curso,0,0,Elias Junior,15509867
+13704016~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1512934549973,1,0,"Too superficial. The use case with Jenkins is pretty nice, but it is not enough. The labs are just a sequence of instructions and it is better just going to Google's tutorials. ",0,17,Victor Soares,13704016
+108824038~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1673674466276,2,0,Average,0,0,Shuvojit Kar,108824038
+90077168~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1630445030261,2,0,G​oogles courses look rather like a marketing pitch than a lesson and the practical exercises only teach how to copy and paste.,0,1,Silvio Sisto,90077168
+79016977~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1610965355244,2,0,"Text below the videos is clearly fabricated by Google Cloud Speech API. Number of misinterpretations is huge. Translates pods as parts, writes as rights, egress as ingress, up to the point of ununderstandable mire.",0,0,Jaap Koning,79016977
+4513185~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1598399812834,2,0,"I cannot recommend this course. Also should have checked the reviews first myself.It more like a collection of Google Cloud Labs exercises than an actual course.Otherwise would be a nice overview and a place where you can try these out with practical demos, but that's it, nothing more. Absolutely not worth the price.I had LOT of issue with the labs (instructions not working anymore is a very common case), especially for the more complex topics. I had to spend a lot of time talking to customer supports to get help, and finally really only fellow course users came up with possible workarounds.",0,0,Peter Braun,4513185
+15255515~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1596849873717,2,0,Course materials and labs need revision. Seem like they were done in a hurry. ,0,1,Usman Qazi,15255515
+62682298~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592888985814,2,0,Three of the Qwiklabs malfunctioned/did not work.  ,0,0,Dennis Pidduck,62682298
+26264081~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591964974970,2,0,The labs don't work at all. ,0,0,Peter Popov,26264081
+27073201~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589829643598,2,0,"Didn't learn much, since the videos are short and the lab had all the commands stated, I just had to copy and paste it to the console, there were lots of complex scripts but a very short explanation was provided. The length of the course should definitely be more than a week with more detailed explanation.",0,0,Sunil Rana,27073201
+41852541~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589363780281,2,0,"Course useful, however one of the istructors talks in a confuse way, much as if he does not know what he is talking bout (or at least this is my take)",0,1,Marco De Pascale,41852541
+3353866~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587319604486,2,0,"Not splitted by weeks, so small theory material, I regret to pay for that course. It's ""Getting started with"", but not ""We assume you know a lot before"". Every part of Kubernetes must be review better with more info and explanations.",0,0,Max Knyazev,3353866
+19072~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586162956457,2,0,"Lectures are not good. Without prior knowledge this course would have been of very little utility for me. I am sorry to see such poor quality of course still being offered by Google and hosted by Coursera. Labs are useful, but you need prior knowledge and comfort with subject matter. Spinnaker and Jenkins labs are not well written.",0,0,Ankur Agarwal,19072
+1593855~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585331946053,2,0,too much copy and paste,0,0,Charles Epaillard,1593855
+600864~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1582173485015,2,0,Trainers are sub-par,0,0,joyan sil,600864
+8001771~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1573349342713,2,0,"The labs are good, but the videos are sub par. I think the person spent more time saying ""OK"" than saying things of substance. I feel he often sounded incoherent, reading off a script he didn't really understand. It seems the videos were just quickly put together without much thought and effort. They make for confusing and frustrating experience. I ended up googling stuff, just so I don't get lost. Very disappointed! ",0,0,Boyko Todorov,8001771
+224470~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571563913195,2,0,"I'm dissatisfied with this course because*since labs are time-restricted, there's not much room for exploration*due to the time pressure, doing the labs boils down to copy&paste of the prepared code snippets*several key concepts are not explained sufficiently or not at all (e.g. how do Cloud Build, Cloud Pub/Sub, Cloud Sourcecode repo etc. relate to each other;  why do we need all of them etc.)*none of the Unix command line tools used are explained (I'm an old-time Unix user and know sed, curl, tar etc. by heart, but I guess someone who's new to the Unix CLI will quickly get lost / overwhelmed)*the commands in the last lab (building a CI/CD pipeline) are highly repetitive; almost every command sets the Project ID as an environment variable before the ""real"" command is run. This is cumbersome and distracting.*some of the ""right"" answers in the quizzes are in no way more sensible than the ""wrong"" onesOverall, I got a good glimpse of what Kubernetes can do (canary deployments, CI/CD, source code hosting, ...), but I don't feel like I can start my own Kubernetes project without a lot of additional reading. Kind regardsFrank",0,7,Frank Schmitt,224470
+33742446~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568265769360,2,0,"I didn't learn anything much as the guidelines were clearly stated in the labs and we just had to copy paste. Had the course been 4 weeks long and we were prompted to work on our own google clouds, it would have been an amazing course. I felt like I was being spoon-fed. The course would've been much better if there were videos explaining what exactly the lab content meant. Also there was literally very less content explained in the videos, given that this is a intermediate course. I suggest you to please make the course more newbie-friendly and justify the name 'Introduction'. Thank you & please review the course",0,10,Gautam Shah,33742446
+7919284~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563526798470,2,0,Too superficial and without lab access absolutely useless! Need more value for free course and more real-world examples!,0,0,Konstantin Belyavskiy,7919284
+1300644~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559584452754,2,0,Hard to follow. The videos are hardly helpful to understand much. All is about the assignments which are of course behind the paywall and possibly that's the reason the main part of the course is in only them.,0,0,ASEEM DUA,1300644
+3885375~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1556201993236,2,0,Very shallow. It feels closer to a marketing material than a real course. ,0,0,Luis Capelo,3885375
+36789791~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538571342122,2,0,"The last lab cannot be finished without fixing the Jenkins file in your dev branch, as the ""Fixed configuration"" option that the lab tells you to pick isn't available. Several labs weren't graded after having completed them; ended up taking them twice or thrice before it was picked up.",0,0,Jasper Bogers,36789791
+35345505~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532903053322,2,0,"Way too fast for beginners, even with Docker experience. Concepts are barely explained before being used.The course seems to be getting old, many times in the labs you get DEPRECATED messages.Worse, some of the labs don't work, or the provisioning has errors.Good course to get kubernetes concepts, needs rehashing and more time.",0,0,Carlos Pérez-Gándaras de Ron ,35345505
+3834909~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528561791067,2,0,"The content is so huge, may be a different approach to the course is necessary. May be links to appropriate sections in k8s website and ask course taker to read those and the take a quiz on those. It gave me introduction (i.e. first 7%) and then I had to understand the details by going through the entire k8s documentation. We need to setup a k8s cluster in house.",0,0,Amit Roy,3834909
+34195293~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528410615218,2,0,Curso raso demais e direcionado a público intermediário para avançado. As primeiras lições até a antepenúltima são maus explicadas com poucos detalhes básicos.,0,0,Leonardo Lehnemann Agostinho Martins,34195293
+71136718~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1639539045155,3,0,M​akes an OK overview.,0,0,7066414 Canada Inc,71136718
+97649912~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1638973090078,3,0,The course was untidy and some videos dont have the caption.,0,0,Keith Denysiuk,97649912
+80879681~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1634390638412,3,0,add some more stuff and labs,0,0,Ahmed Tariq,80879681
+93544648~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1632783173143,3,0,"this course doesn't cover any Jenkins (Software) as described in the course intro SKILLS YOU WILL GAIN.
+",0,0,Jie-Chau Huang,93544648
+82805966~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1619277228638,3,0,Very brief course. And the information for some of the tests are not provided in the lectures before them,0,0,Saif Ali,82805966
+25248020~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1617472418353,3,0,"I learned what Kubernetes is and how it works on a high level. I missed a case, to explain the concepts along. It became super abstract and the usage of a lot of acronyms does not make it easy to follow.",0,0,Karsten Stiegler,25248020
+60680424~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1603349889863,3,0,"There are some errrors in some of the labs, but altogether it's a good course.",0,0,harsh chandrakar,60680424
+18113496~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601579125081,3,0,"There needs to be material which challenges you to try and make things work on your own. There is far too much which is just given to you. Overall, I like the course, I did learn a good amount about GCP and Kubernetes. ",0,0,eiranpreet khangura,18113496
+17431199~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1597956417984,3,0,"I wish I could rate the video portions of the course separately from the hands-on labs.  The labs were fantastic (5 stars), and I learned a lot from them.  The instructional videos, on the other hand, were very poorly done, in my opinion (2 stars).  I'm sure that both of the instructors are very knowledgeable and experienced; however.... The one instructor just read from a script in a very monotone voice, which made it difficult to stay engaged.  The other instructor spoke as if he was seeing the slides for the very first time - it felt like he was making up explanations of the material as he went along, sometimes doing little more than reading some of the key words from the bullets on the slides.  Very disappointing.",0,0,Dale Georg,17431199
+41844986~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1596491307386,3,0,No enough references in the actual course for learning about what is going on behind the commands and copy paste within quiklabs.,0,0,LAWRENCE J KAUFMAN,41844986
+4979575~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1595537331515,3,0,Broken excercises.,0,0,Mario Mayerle Filho,4979575
+66249615~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1595424403075,3,0,"Labs were exactly as videos before them, so all tasks were just about ctrl+c & ctrl+v.",0,0,Andrey Tuvaev,66249615
+47203879~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594146215425,3,0,This course had a lot of information packed into a short time.  The instructors went over the material too quickly for me.  The Labs helped reinforce the material.,0,0,Edward Williams,47203879
+55836528~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592999913486,3,0,exercies need to be improved,0,0,Rajesh Kumar Ratanparke,55836528
+58892296~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592432836569,3,0,"The first bits were fine, the jenkins and spinnaker parts... just, ""why""? I'm never going to use either of these (we're on a different CI provider), the install process -- which is the bulk of the labs -- has nothing to do with Kubernetes outside of watching things get deployed, and, frankly, I don't need a lab to learn how to watch install scripts. (Rather, I know how to make an intern do that.) The first part of this course was good, the last part was really _not_.",0,0,Joseph Rose,58892296
+63193427~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592217510139,3,0,"Few issues with the labs, it's quite frustrating.The quiz's answers are sometimes really mysterious.",0,0,Hugo		Meloni,63193427
+44594868~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592170037409,3,0,"Not bad materials, trainers where difficult to follow at times.",0,0,Terry Wikoff,44594868
+6632681~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591402151211,3,0,The labs didn't actually explain what was going on. It was just a series of copy and paste exercises.,0,0,Sam Julien,6632681
+12164788~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591158055284,3,0,Shorten the labs to small chunks. Most of the time goes in typing cmdline. Spinnaker lab is horrible because there is no time for the user to understand what's going on inside the script that user is executing...,0,0,Tapas Sarangi,12164788
+10269644~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589748608014,3,0,Expected to see more details. It was too short for my taste..,0,0,Azamat Guseynov,10269644
+43347602~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588603573458,3,0,Great but quite difficult and the teaching is highly superficial,0,0,Yash Gavhane,43347602
+6494658~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587481621982,3,0,"This course was more GCE specific, that just any Kubernetes enviroment.I'll advice this course only if you are already in good Terms with GCE, in other cases you just do all provided commands without real understanding of those commands, especially in later stages",0,0,Pavel Lobashov,6494658
+55899113~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586644272582,3,0,"The course was tepid at best without the labs and quizzes.  Good videos, but failed to bring it home without the parts missing.  I understand that you need to make money, but don't bother offering a half-baked course that isn't all-inclusive.  I did not feel my time was well-spent watching videos without the labs and quizzes.  I have learned more on Youtube with hands-on labs than I did with this course.",0,0,Mike Stavros,55899113
+37269982~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586017352576,3,0,The videos do not explain much. The labs are good.,0,0,Himadri Banerjee,37269982
+49861998~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585333156330,3,0,It can be more descriptive regarding few technical stuff. Diffficult to comprehend for the person who desnt know kubernetes before.,0,0,Kale Brahmendra Sai Kumar,49861998
+48719562~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584619433160,3,0,Over All the course is very nice but last lab makes the experience a hell,0,0,ANIRUDH CHAUDHARY,48719562
+38076445~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578676216077,3,0,labs wont work properly,0,0,Rushikesh Yeldari,38076445
+13037902~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578613078316,3,0,"Pros: Info on how GC/k8s works, actual labs and tests.Cons: labs became partially repetitive by the last lessons, and copy-paste of commands didn't work for some reason. Lectures can be very confusing for someone not familiar with containers concepts.I used the course to get a hands-on experience with k8s. I worked with docker before and had some playing around Openshift, so it was a nice addition to existing knowledge. Would not recommend as a standalone first time course into containers in clouds.",0,0,Кирилл Бучарский,13037902
+40944801~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1577703547954,3,0,"I think the course is ok to get some feeling for Kubernetes. My comment on the course is that it is more like a cookbook, especially during the labs. In my view, more instruction on content aspects and theory on the usage of specific commands would be more effective in order to get to lasting knowledge especially when these instructions are followed by labs with exercises in which more initiative is requested from the student rather than copying commands and have them executed.",0,0,Franc van Trigt,40944801
+45743098~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574580621682,3,0,"Very hands-on and less theory, but for some new software and technology, you would need more time than ~3 hours of lab time.",0,0,Divya Sharma,45743098
+23980323~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1572175050639,3,0,"The Labs are not fully bug-free, I had multiple credentials issues, not all of which I could resolve by myself.The presentations are very poor. If you listen to one of the lecturers, you'll have no idea what he is trying to say, as he struggles to even read the screen correctly, while adding useless junk words to make things sound as if he speaks freely. In the end, you hear useless garbage that only distracts you from the slides, which are of pretty decent quality.",0,0,Alexander,23980323
+3167082~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1569166897069,3,0,The deployement  and docker images in the labs has issues and the commands are not complete.else its good,0,0,Ravi Kumar S C M M,3167082
+39773252~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1569056260605,3,0,topic is great but the labs are just blind copy-paste so it doesn't really help to fully understand what you are doing. The 1 week timeline is also too short for working people and I think this should be a multi week course. I had to switch sessions several times to complete it,0,0,Paul Janes,39773252
+44573441~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568787093775,3,0,Videos are too short to justify the lab activities,0,0,"Acharya, Srinivasa",44573441
+40920841~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568525004272,3,0,damn errors in qwicklabs,0,0,Desmond Kim,40920841
+8853501~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563922473794,3,0,"There were several topics that I felt were not properly explained. Also, a few of the videos (I think with Lozano), had audio that seemed very improvised. With long sentences and circular definitions of terms. Other Google courses that I have done were much better.",0,0,Guido Juarez,8853501
+40123972~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1555248532724,3,0,"This is just an overview, without going in deep.",0,0,Steve Rain,40123972
+40469498~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553958439381,3,0,실습 난이도가 좀 높습니다더상세히풀어쓸필요가있는거같습니다,0,0,Lee Seo Taik,40469498
+35167542~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553888131319,3,0,mejorar quicklabs,0,1,Jorge Castro,35167542
+24159711~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553737475309,3,0,More explanation on the yaml files with jenkins and spinnaker would be good.,0,0,Juan Luis López,24159711
+7535762~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553403149850,3,0,"I think it's not a proper lecture to the novice who are not familiar with cloud container. For the novice, I recommend other lectures to understand more about cloud infra.",0,0,Jason Nam,7535762
+40312223~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1552871312147,3,0,thank you,0,0,KimNamho,40312223
+17639451~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1551779220819,3,0,The basics not covered thoroughly. It should be taught in detail with simple examples.,0,0,Khaleel Ahamad Nadaf,17639451
+38586346~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1550271086971,3,0,Too complicated for someone who is new to Google Cloud Platform,0,0,Tian Xie,38586346
+36975102~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549302829042,3,0,Good. Need some more documentation to understand the concepts better.,0,0,Sreeharsha Sathyanarayana Rao,36975102
+2500014~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549293514663,3,0,One thing that would have been useful is to export the instructions to pdf for later reference.,0,0,Dughall Halliday,2500014
+8654349~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1546406357843,3,0,course needs further refinement. it's not for beginners & it actually requires prerequisites skills that are not mentioned as well.   ,0,0,chuni lal kukreja,8654349
+15232950~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545399217297,3,0,There is a lot of paid stuff.,0,0,Matúš Cuper,15232950
+5835783~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545121492705,3,0,Good intro to the concepts but definitely too short. A great choice if you don't have time for something more in depth.,0,0,Tomasz Nowak,5835783
+35437146~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1542655136417,3,0,This course was decent for learning more about Kubernetes.   I still want to learn more but this is a good start.  ,0,0,chris,35437146
+3557969~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535951720185,3,0,Basic introduction and good lab exercises.,0,0,Saurabh Sharma,3557969
+6715852~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535396100950,3,0,I was expecting a more in-depth architecture dive. ,0,0,Gilberto Arnaiz,6715852
+34475045~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532725299337,3,0,ok,0,0,rustx,34475045
+35168311~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532718772418,3,0,I was unable to complete the last lab because the files that were supposed to be in jenkins/k8s/...was not present. I wasn't able to recreate the files because i didn't know the contents nor did the github links work. ,0,0,Colby Harvey,35168311
+34959413~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532251001352,3,0,"very good, but a little bit hard to understand",0,0,Ahreum Lee,34959413
+29572139~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531737975574,3,0,Not good enough.Speaker needs more formal language.Test needs cutting to the core and needs to be well-refined.,0,0,NamHoon Jung,29572139
+27691491~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530288983579,3,0,"Too much copy pasteHad many problems building my own application (that means, using what I learned)",0,0,Luiz Fernando Pessoa Lustosa Cabral,27691491
+826430~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529725490842,3,0,i dont like the labs.. are a lot of copy paste...,0,0,Paulo Reyes,826430
+34356259~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528959085850,3,0,Little explanation behind copy/paste commands and too much 'go to manual to read about it' content.,0,0,Radosław Dopieralski,34356259
+6796259~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528866317075,3,0,"Just execute comands isn't the best way to learn. You could ask some questions in the lab, so, we need to execute the correct comand to provide the correct anwser",0,0,Alex Almeida,6796259
+34277486~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528825365116,3,0,Good One !,0,0,Shivakumar Patil,34277486
+24898353~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528678744087,3,0,"i expected create the files from zero, not pre created projects or files",0,0,Rodolfo Sancho,24898353
+18811405~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528003704830,3,0,"Labs can still be improved a lot. Some slides are confusing, the instructor is not really good at teaching.",0,0,Marcio Arakaki,18811405
+7982559~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527594460407,3,0,No much explain about the commands,0,0,Murilo Francisco Schaefer,7982559
+1477212~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526174092545,3,0,"The labs are very detailed, but it needs more content explaining the labs.",0,0,Kurt Rayner,1477212
+3271549~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523542090519,3,0,"I felt like it was a nice over-view, but I didn't get very much out of the cour",0,0,Ian Price,3271549
+32362940~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520321693658,3,0,"If this is a course as a trial before enrolling into more courses, it needs to be improved, for example, referencing to terms and definition mentioned and more explanation other than just some videos skim thru the steps. Particularly the quiz asked some questions not mentioned in the videos. Because if I have to pay for a course like this, I better use google search.",0,0,Emmanuel Chan,32362940
+5675370~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1514581863348,3,0,too many topics for just one week,0,0,Victor Moreno,5675370
+109723775~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1664008617822,4,0,T​oo short for my liking :),0,0,Izzrra Bal,109723775
+112228107~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1662281797235,4,0,"easy to deal with deploymentsmaybe need more practice for pvc (distributed storage, etc)",0,0,한승희,112228107
+100657134~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1643395958255,4,0,"The GCP section lab did not allocate enough time and I felt like I was just rushing to complete a lab, and wasn't actually learning anything. The rest of it seemed fine.",0,0,"Stinemetze,David",100657134
+60150987~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1635517984873,4,0,A good introduction to what kubernetes on gcp is capable of and basics of controlling it,0,0,Jonathan Rynd,60150987
+90996996~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1629399739501,4,0,The workload section seems to be misplaced. Previous test includes question about volumes which was not taught before,0,0,Paola Cortés,90996996
+56304982~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1613069631661,4,0,"Could have added labs for exposing the services, volumes and pod networking",0,0,Ravindra,56304982
+48909563~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1612880492590,4,0,"It's a good start, but it's just a start, you will need more. Sometimes the lab time is a bit short if you run into technical problems, but you can restart and do them again. By the end of the course, it's a little bit ""Monkey see, monkey do."" It's not just about getting through the training but to understand. I was surprised at how much there is in Google Cloud and Kubernetes.",0,0,Thomas Olsson,48909563
+55863163~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1609055923508,4,0,Good course for beginners looking for an exposure in Google Kubernetes Engine. Labs are great place to practice and play,0,0,Amit Anand,55863163
+50083807~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1603172201424,4,0,There was one error in one of the graded external tools. Needed extra troubleshooting to pass.,0,0,Recto Arieta,50083807
+31020371~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601930164481,4,0,"Excellent Overview of GKE with practical labs.Would have wanted to see more around GKE networking and storage, even if a lot of this is abstracted away inside the GKE Master (managed by Google).The labs on deployment are also very detailed, and possibly difficult to follow if you're either new to Jenkins or Spinnaker.",0,0,Alan Tan,31020371
+70752194~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601328133888,4,0,Please add a GitLab case in the future. Thanks a lot!,0,0,Alberto Ticianelli,70752194
+7488431~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601142487776,4,0,"Everything great, just did not enjoy Spinaker at all. Cannot see why it is useful for the course.",0,0,Lucas Frecia,7488431
+59132777~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600969900105,4,0,"Practical Use cases, hands on labs were good. But, knowledge of K8s is required.",0,0,Sudipta Pandit,59132777
+46590535~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1598288908830,4,0,"The labs are great, but in many stages the instruction ask only for blind obedience instead of trying to explain what is actually happening. I think this would be useful if you already know Kubernetes, CI-CD, Jenkins, or Spinnaker and you just want to see how to use these tools within the Google Cloud Platform.",0,0,Mostafa Tajic Hesarkuchak,46590535
+68472288~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1598107320392,4,0,"Very High Level Introduction to The Use case and Hands On Practical Lab Allowed Me to Experience and Learn How The World Of Cloud Computing Operates With the Knowledge Of the Fundamentals of Container,use case of Kubernetes engine and its Application like Jenkins It Well Help Me to Prioritize Cloud Over anY other Technology as It Offers Continuous Integration and Delivery.",0,0,Jasmeet Singh Bali,68472288
+8283044~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594307904738,4,0,Some aspects of kubernetes could be thoroughly explained.,0,0,Herman Diessongo,8283044
+64958506~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594013175772,4,0,Some explanations could be enhanced with more examples but overall it was a great experience.,0,0,SAID AGAOGLU,64958506
+61116627~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1593012580509,4,0,I want to first say thanks for the work that has gone into creating these labs.  Some really good information and a good start with Kubernetes Engine.  A few steps in several labs don't work.  The first lab I was able to find suggestions on the internet in correcting the error.  The 2nd lab I wasn't.,0,0,Matt Cragg,61116627
+1017612~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592914813143,4,0,"some labs didn't work, though they were quick to provide feedback and fixes. Was great to get to build both a Jenkins and Spinnaker pipeline",0,0,Aaron Pritzlaff,1017612
+11555901~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592666003101,4,0,lab has some issue,0,0,Priyanka hooli,11555901
+62593537~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592040423024,4,0,It's a great course to get started with kubernetes.,0,0,ASHVIN ROKADE,62593537
+46018180~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591512300786,4,0,more useful,0,0,Saviti dinesh,46018180
+49818343~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1590154252902,4,0,Good introduction to GKE and types of deployment and using pipelines to automate this,0,0,Martin Bötticher,49818343
+27145367~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589985955667,4,0,"Some Labs especially on Jenkins has output error, so we can't achieved the full score.",0,0,Patalo,27145367
+25720211~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589621465916,4,0,Videos are not enough,0,0,Menghe Lu,25720211
+30297233~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589322033038,4,0,Lots of terminal commands but a decent overview of kubectl interface and GKE / Jenkins.,0,0,Luke Griswold,30297233
+57887712~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588165738666,4,0,The advanced lab was very complex to understand for the very beginner in the technology. Overall Content could have been more informative and descriptive.,0,0,Sahil Kumar,57887712
+57482898~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587874711352,4,0,"Pretty good course that summarizes and provides a good starting point for all these concepts, since everyone needs to start somewhere.  Next time, make sure all the labs are working without outdated software and configuration file versions on a regular basis.",0,0,Keddy Liu,57482898
+15857027~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587559392201,4,0,"The course was great, well explained. Hand-on labs were a bit of high level for a beginner learner.",0,0,Adhaya Jain,15857027
+54898440~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587431641698,4,0,thanks for your class,0,0,강희재 선임,54898440
+46960724~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586887836368,4,0,Well written examples.,0,0,Renee Cutler,46960724
+49922611~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586612646601,4,0,Nice introduction to Kubernetes. The hands-on labs were useful to get a feel of the entire dev-op cycle using google platform.,0,0,"Kamath, Vijay",49922611
+41969828~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586376927243,4,0,Excellent course if one is looking to continue with GKE. However labs can be more interavtive.,0,0,Rajat Katara,41969828
+20134900~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1585668219036,4,0,"Almost ideal, can have more atomic tasks with  a bit more detailed commands explanation and  more real usage examples",0,0,pavlo skorodziievskyi,20134900
+10554802~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584471916745,4,0,Hubo muchos problemas en los laboratorios que no se pudo completar.,0,0,Baron K,10554802
+17019347~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1583153477190,4,0,"The fact that you have the option in the labs to not only ""follow the line"" and execute the commands described, but also execute whatever you want and use Linux CLI knowledge was fun.However I think there is an issue with the last lab, the one with Spinnaker, while using helm to install Spinnaker, it returns a time out error. After that, when trying to clean everything to start over, I received a version mismatch for helm client-server sides; upgraded and tried again but the time out error remained.",0,0,Albert Carballo,17019347
+48943752~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1582717489626,4,0,the last lab has issues else a good course,0,0,Tanvi Kumar,48943752
+41289738~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1581323314654,4,0,"It is a good course.  The instructor lectures are pretty bad but the resource files provided by Google make up for it.  Overall, this course helped me understand GKE much better!",0,0,Robert Johnson,41289738
+41903679~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1580721405342,4,0,"Good introduction course for beginners to understand container, Kubernetes and CI/CD. But need more practices to get familiar with the technologies. ",0,0,Anuar Musa,41903679
+12339851~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1579998335256,4,0,"Sometimes the contents of topics were described too fast, or got skipped totally. E.g. Selectors was described like you already knew about it. It was not properly explained.",0,0,Saon Saha,12339851
+38191932~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1579840823699,4,0,not enough explanation in the lab. ,0,0,Lei Zhu,38191932
+46670425~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574777744951,4,0,Good,0,0,Deleted Account,46670425
+41582322~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574616320251,4,0,some parts need to be updated and debugged.,0,0,Felix Tran,41582322
+3653421~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574267317843,4,0,the lab of doing cd with Jenkins is a little fuzzy,0,0,陳宇恆,3653421
+17406843~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1573871896950,4,0,Great course to get started. Would have given 5 stars except that this is a fast paced lab in terms of ramp up needed to complete the labs. ,0,0,Sai,17406843
+3842313~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1573346732983,4,0,Well designed course with a few slight flaws in the Jenkin's Lab. The Qwiklabs staff are extremely helpful.,0,0,Han-Chung Lee,3842313
+36276221~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1572535395498,4,0,"This was a great course. i feel like I have a better understanding of GKE. However, I'm still feeling like I wouldn't know how to know when to use GKE in my solution and implement it.",0,0,Steve Weetman,36276221
+38448515~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571607786419,4,0,"While the labs were especially helpful, I feel that I am still missing a lot of the background to understanding Docker and Kubernetes.",0,0,Milan Reichmann,38448515
+30018889~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571037533666,4,0,"Last exercise has to options (which seems like you need to complete either Jenkins or Spinnaker). At least I had to finish both in order to complete the course. It did not matter for me, but maybe this is not the intended. ",0,0,Pekka Reijula,30018889
+42698339~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1570502333258,4,0,There were a few issues with quiklabs but otherwise a really good course. I sort of wish the labs spent more time on what the commands were actually doing. but i get that theres some setup required thats not a part of the course content. might be better if that was scripted then if its not going to get elaborated on.,0,0,Gary F Poppelreiter,42698339
+1158460~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1570336584302,4,0,This is little tight to complete,0,0,Gatsby Lee,1158460
+3852691~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1570088836851,4,0,It is a very simple and a short course. It introduces important CI CD technologies and qwiklabs hands-on setup is an extremely valuable component of this course.,0,0,Senthil Kumaran,3852691
+22949099~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568962258084,4,0,Great learning experience along with hands-on experience.,0,0,Vishakha,22949099
+42979719~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1568051025958,4,0,"A very good materials on learning how the basic concept of containers and kubernetes as its orchestration tool for managing the containers. The course also propose two useful CI/CD tools, Jenkin and Spinnaker, for code pushing.",0,0,Chun Yeow Yeoh,42979719
+42569540~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566571555639,4,0,"It was a good course, but I needed to find some more articles to undertand this fully.",0,0,SONG WON LEE,42569540
+37165884~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565707778161,4,0,"If you want to start Kubernetes, keep this!",0,0,서영웅,37165884
+40171144~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563863208269,4,0,"Labs are good, make it easy to understand containers and K8s",0,0,Pengbo Xiu,40171144
+43349074~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563829645633,4,0,There should be an option to download all the labs instructions to PDF format,0,0,Joaquin Mendoza Garcia Leo ,43349074
+2596065~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562840031345,4,0,"Great practical course, the only - for me was the lack of theory/explanation",0,0,petr philipp,2596065
+40024472~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562417438843,4,0,Good Lab Assignments ,0,0,Neeraj Kumar,40024472
+42679119~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562247775401,4,0,"El curso es bueno, pero no me gusta mucho la forma en que se relata. ",0,0,Jorge Wemyss,42679119
+42002610~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1561956054670,4,0,Good ,0,0,MJ,42002610
+655270~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559581532498,4,0,It was a good intro to Kubernetes concepts and terms. ,0,0,Ananth,655270
+79196~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558964332303,4,0,It's a good high-level overview of what Kubernetes is and how you can use it to setup CI/CD and blue-green deployment process. This course information is not enough and supplementary self-study will be required if you'd like to start using Kubernetes. There was one issue with with a final lab in which I wasn't able to install Helm.,0,0,Dmitriy Morozov,79196
+219082~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558713684098,4,0,"Good introduction to basic steps using GKE. The last labs had a couple of small glitches, but were still very useful.",0,0,Urko Masse,219082
+1140557~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558282282401,4,0,"awesome course, but the final assignment with Spinnaker had some integration issues ",0,0,Roman Ivanov,1140557
+39973572~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558217857824,4,0,It's a good course but I think it doesn't cover all the topics used in the labs. =) ,0,0,Alexander Baquiax,39973572
+36341957~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1556420045013,4,0,"pros:- Short course, covered many topics. kudosCons:-Getting in depth knowledge is left to us",0,0,Suhail Ahamed F,36341957
+396571~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1555859866070,4,0,Thanks for this course,0,0,Ashutosh Kumar Srivastava,396571
+39610334~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554758559573,4,0,Not sure about when to use Kubernetes and Jobprocs.,0,0,Vicente Gonçalves dos Santos,39610334
+40578093~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554389913226,4,0,it was good but there were many error and crash in Kubernates's basic lab.,0,0,???,40578093
+40449429~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554313076391,4,0,good,0,0,YUNHANKYU,40449429
+40314187~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554302109383,4,0,very good!!!,0,0,YoungkyunKim,40314187
+40311655~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554296711777,4,0,It`s helpful to test ,0,0,???,40311655
+40334454~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554208980593,4,0,need more quiz,0,0,SeHeon Choe,40334454
+40396671~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554163525500,4,0,좋아요,0,0,Lee BongLim,40396671
+39622483~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554133214518,4,0,Good to understand Kubernetes. Thank you.,0,0,ByungJoo Park,39622483
+40311230~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554122197969,4,0,This course is very useful. thank you.,0,0,SON JUHO,40311230
+40313319~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554043218453,4,0,시나리오를 가지고 직접 처음부터 수행해보는 과정이면 더 효과적이겠습니다.,0,0,송용익,40313319
+13713315~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554023181600,4,0,"Very useful, But there are a few errors in Qwiklabs courses",0,0,Jongwon Kim,13713315
+21515014~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553934750255,4,0,its to hard,0,0,JiDaecheol,21515014
+40309811~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553524722082,4,0,훌륭쓰!,0,0,nayalnal,40309811
+16238719~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553370650823,4,0,Very hands-on course on Kubernetes using GCP. I'd recommend it for any beginner,0,0,Fahd Akbar,16238719
+40310328~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553258899524,4,0,.,0,0,Hyeondae,40310328
+38402814~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553207218647,4,0,Buggy occasionally,0,0,Andrew Yin Li,38402814
+18247657~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553084729634,4,0,It is easy to learn kubernetes using google cloud platform.,0,0,Junho Kim,18247657
+34062261~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553053601905,4,0,Very Nice Course!,0,0,Eugene Jeon,34062261
+1207140~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1552895922689,4,0,"spinnaker, kubernetis, jenkins ",0,0,Terry Lee,1207140
+1064181~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1550507017366,4,0,"This is a great introduction course to Kubernetes on GKE.  It provides some great step-by-step labs to help you get started with GKE.  The videos are easy to follow and well done. The only complaint I have is there are some repos that you clone that give you a perfect setup for success. It doesn't explain in detail how a yaml is created, what those magic configurations actually do. I wish it also covered connection to google cloud sql from docker in kubernetes with Nginx. That would be AWESOME. :-)",0,0,John Mann,1064181
+18127542~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549574876896,4,0,Good beginner course. Maybe some more resources for students in the end.,0,0,Gerrit Wheeler,18127542
+38969211~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549032156211,4,0,The course goes to the relevant items.,0,0,Hami Chanon,38969211
+4079704~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1548664787950,4,0,very well  designed. Got some issue while connecting cluster in last 2 labs due to resource issue.,0,0,Paresh Rane,4079704
+35918070~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1547109141867,4,0,"Overall, the course was helpful for an initial overview/introduction of Kubernetes. That being said, I thought the technical speaker in the videos was not always clear in his explanations. The labs were indeed useful, but some of the commands used in the labs need to be updated. In my opinion, the ""Continuous Deployment with Jenkins"" lab was the worst content, with at least one incorrect/broken command, and should be rewritten.",0,0,Bobby Dennett,35918070
+28167131~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1546167684882,4,0,course design awesome.   but it is only for beginners,0,0,J K,28167131
+34353141~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545589852258,4,0,"CLear and detailed instructions by the instructors, enough time allowed to practice them,  overall now experience!",0,0,Sulthan Subahan Basha ,34353141
+37412338~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545348596649,4,0,The course contains a lot of useful tutorials and instructions. Lots of time is needed to go throught the labs and understand what is happening,0,0,Athanasios Kordas,37412338
+34097676~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1544842207939,4,0,"Gostei muito do curso por apresentar de forma clara as vantagens de se utilizar Kubernetes. Talvez seria interessante ter alguns outros pequenos apps que fossem mais simples e práticos para se desenvolver, ainda mais para quem está iniciando nesta área. De qualquer forma o curso é muito bom e acredito que deve ser mais divulgado para que pessoas interessadas possam ter contato com este ambiente.",0,0,Marcio Souza dos Santos,34097676
+21344801~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1544629977369,4,0,"The CD section feels a bit outdated, but again that's  a section which isn't of the ut most importance. This course gives a solid basic understanding of containers and orchestration and is great for anyone who wants to dive into the world of containers for the very first time!!",0,0,Shrey Dabhi,21344801
+32943384~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1543155191687,4,0,"Good content.  Constant flubs and backtracking by the instructor could be improved by re-recording over mistakes, but more or less, you'll be able to follow, regardless.",0,0,Robert Fuller,32943384
+37199719~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1542882440372,4,0,Good Self learning course recommended for others,0,0,Gopinath,37199719
+36723434~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1539901006125,4,0,thecourseistooshort,0,0,Newton Best,36723434
+14820285~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538317131573,4,0,Excellent !!! course in quick time to get the foundations clear in GCP.,0,0,Biswajeet Dasmajumdar,14820285
+35772884~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1537570375194,4,0,The labs were helpful enough that the course overall was pretty informative. But the videos/lectures were really bad. Most of them gave the impression that the lecturer was seeing these slides for the first time as he was presenting them; there were several instances where it seemed like he was stumbling through the content to the point where what he was saying wasn't even logically equivalent to the material in the slides themselves. ,0,0,Richard Herndon,35772884
+9800252~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535927289977,4,0,"Some of the labs were pretty amazing and I learnt a lot of amazing things, but also some were exceptionally hard to understand like the last lab which talked about deploying to jenkins which I found to be hard to understand and I think I might have to go through the lab again after some research into it by myself first. Anyway the course was worth it.",0,0,Kartik P Kulkarni,9800252
+35072113~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535795650473,4,0,"Covers a lot of ground and gives valuable insight, IMHO the only drawback is that is targeted to Google Cloud, so the examples would need significant effort to be reproduced in other environment i.e AWS, Azure or Minicube. I also have to mention the very good support, while I needed it, been stuck in one of the labs.",0,0,Ioannis Prekezes,35072113
+25046653~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535372361456,4,0,I loved the Jenkins lab. Hope to see further Jenkins or CD/CI tools with Kubernetes,0,0,S Brown,25046653
+33267473~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1534373954056,4,0,Overall lot of topics were covered it's really good start to understand Kubernete basics,0,0,Gopi Alagar,33267473
+35373370~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1533096575649,4,0,It is a good foundation course for Docker & Kubernetes.,0,0,Mohibul Hasib Mahmud,35373370
+35246080~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532817262668,4,0,"De modo geral o curso é muito bom, intuitivo e as perguntas fazem sentido.Porém infelizmente não consegui concluir o lab no último módulo, o que para mim era o mais importante por se tratar de uma configuração de ambiente que ocorre muito no mundo real.Se não fosse isso, seria 5 estrelas sem dúvidas.Obrigado.",0,0,Rafael Silva Oliveira,35246080
+9354664~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531649525964,4,0,It was great to know how kubernetes work in GCP.,0,0,Silva P,9354664
+34829029~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531276262941,4,0,좋은 강좌 잘 들었습니다.,0,0,이화수,34829029
+33830198~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531194455415,4,0,nice course to learn about Kubernetes. hope there is script in other languages...!,0,0,Somi Yoon,33830198
+7815803~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530459887507,4,0,Buen material de apoyo en los laboratorios.,0,0,jose de la rosa,7815803
+32059992~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530036987125,4,0,"Pretty good, but everything could be improved. I would like more details and also some info about Helm. But for intro it's OK.",0,0,Mikhail Terentev,32059992
+100726~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529807949741,4,0,Great if you are new to GCP and want to learn the basic's.,0,0,Keith Nowosielski,100726
+3309902~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529592580288,4,0,Overall topics coverage and Labs are good. Videos could have more details. To fill the gap I suggest take this course along with course on edx.org named 'LinuxFoundationX: LFS158x - Introduction to Kubernetes'.,0,0,Mohit Gupta,3309902
+32920603~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529540543414,4,0,Nice fast track introduction course,0,0,Venkata Maruthi Tumuluri,32920603
+34344695~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529523512778,4,0,"Generally a good introduction to Kubernetes. The text spoken on the videos is not 100% accurate, but you get the idea. To seriously study Kubernetes Engine, you need more, e.g. read the docs and play around. The labs don't really teach latest best practices in my opinion, so don't copy past the solutions (e.g. Jenkins pipeline) for your real world project without further studies. The course material could also use some copy editing. Disclaimer: I had some previous knowledge of Kubernetes.",0,0,Michael Paesold,34344695
+34526013~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529454656250,4,0,"It's a nice introduction, but doesn't go deep at all, or explore different flags and features. Also, one of the lecturers mostly just reads the slides and doesn't add any value.",0,0,Martin Petkov,34526013
+2132998~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529429840424,4,0,"Really good course, it's hard to follow since if you don't have previous knowledge of docker and kubectl has so many arguments it's hard to follow",0,0,Rafael Avaria,2132998
+27955482~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529335179246,4,0,"Esta bien como introductorio a la tecnología, se extraña el español pero se entiende. Los laboratorios perfectos. cuidado que cuando se omiten pasos cuesta mucho darse cuenta de la falta de ellos.",0,0,Cristian Edgardo Rivas Rivera,27955482
+34163780~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529084786659,4,0,"Muito bom, explicativo e pratico.",0,0,Paulo Roberto Rodrigues Candeia,34163780
+34057107~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528938798228,4,0,Goodenoughforafreecourse,0,0,Soham Jambhekar,34057107
+34254277~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528735826651,4,0,"Simple, y muy introductorio para saber en que consiste kubernetes en general.",0,0,Hugo A.,34254277
+30433155~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528576391001,4,0,Algunos labs se traban,0,0,Héctor Urbano Maza,30433155
+24901884~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528426590032,4,0,"For me, this was a good introduction to Kubernetes capabilities, but the labs are to rushed and more time to study will be necessary for me to really understand all the concepts.",0,0,Jorge Luiz Moreira de Assumpção Santos,24901884
+33069900~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528383510800,4,0,"Independently if obtaining or not the certificate, the knowledge check should be opened! ",0,0,Lucas Cavalare,33069900
+32264842~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528087711801,4,0,Very detailed and informative,0,0,U Roy,32264842
+16988341~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528087349434,4,0,"Thanks for all contents, i  learned to use kubernetes on google cloud platform.",0,0,Gustavo Rojas,16988341
+5108089~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527912680814,4,0,"It would be perfect. But I had permissions problems in last lab  Error from server (Forbidden): clusterrolebindings.rbac.authorization.k8s.io is forbidden: User ""google495114_student@qwiklabs.net"" cannot create clusterrolebindings.rbac.authorization.k8s.io at the cluster scope: Required ""container.clusterRoleBindings.create"" permission.  ",0,0,Patricio Sánchez Alvial,5108089
+7985244~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527790182452,4,0,muito bomvery good,0,0,IVAN PEREIRA QUADRINI,7985244
+34112182~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527620706058,4,0,Em alguns momentos achei os laboratórios um pouco confusos,0,0,Lucas Tavares,34112182
+33975784~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527475241252,4,0,The labs are very good and well explained. Maybe the videos should be more detailed.,0,0,Eric Hainer Ostroski,33975784
+821164~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527447055724,4,0,Very good for starters,0,0,Liaw Mike Djoesman,821164
+34112798~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527363360704,4,0,"Even with little knowledge on the platform, the content is very easy to be understood. I am very pleased and looking forward to the next lessons.",0,0,Felipe Pinheiro,34112798
+19323329~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527297992800,4,0,THe course is good. more explaination about the diagrams would be better,0,0,Rohan Digambar Gawade,19323329
+33914945~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527195966739,4,0,It is a good intro,0,0,Mauricio Diaz,33914945
+33962199~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527125272472,4,0,GOOD,0,0,Shenbaga velrajan panchatcharam ,33962199
+6012043~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526877265131,4,0, It's bit quick to rush the materials and the lab. It provides a quick overview with guided lab instructions.  Follow-up with github exercises later will be helpful to reinforce the learnings and concepts. ,0,0,Ganges,6012043
+18259189~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526863268017,4,0,"Course content is good for starters, would like to see Advanced projects and concepts ",0,0,Narasimha Bharadwaj,18259189
+12905681~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526846325317,4,0,"The content was very good and a little high level. It took me sometime to learn, understand and repeat some modules and then proceed. But overall excellent content and delivery.",0,0,Varsha Jambunathan,12905681
+33792143~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526842204053,4,0,"Necessita de tradução, ao menos das legendas em português.",0,0,Victor Souza Nascimento,33792143
+8277148~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526795105191,4,0,Overall good course. Course video and quiz seem bit off. Had to do additional reading on Kubernetes. Labs were missing a few instructions. There is no option to rate 4.5 out of 5.,0,0,Rahul Patwardhan,8277148
+33397870~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524980553837,4,0,The Lab sometimes goes down suddenly.,0,0,Andri Hanryansyah,33397870
+33435680~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524979943870,4,0,excellent hands on overview,0,0,jorge mazzei,33435680
+13138921~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524639284949,4,0,"Good course. But at some point I felt that I it more about simply executing the commands which were provided in labs, I think more information on commands and concepts should have been included.",0,0,Himanshu Agrawal,13138921
+1589522~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523480522339,4,0,"The labs have small issues, but the content of the course is great.",0,0,Deleted Account,1589522
+7092246~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523373445778,4,0,very useful. sometimes the labs are more a lot of commands than a path to learning the hands-on part. Could be better to explain the path during the lab in order to have an outlook of the work to be done.,0,0,Davide La Valle,7092246
+11426402~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523248130462,4,0,"muy buen curso, con buenos laboratorios",0,0,David Martinez Rodriguez,11426402
+33019338~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522858318976,4,0,Muy claro e interesante para tener una visión general,0,0,Loles Monedero,33019338
+32710123~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522644168834,4,0,"Labs were great.But the videos need to be improved, especially the explanations of the topics with the audio.",0,0,Jorawar Singh,32710123
+32897482~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522636688607,4,0,"Good introduction, won't cover anything in depth, but will give an overall view on how to work with Kubernetes",0,0,Tom Pierantoni,32897482
+6427123~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522629782592,4,0,some labs need more detailed instructions,0,0,Martin Trejo Chávez,6427123
+32787464~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522560166084,4,0,It is a great course. However the labs were interesting.  ,0,0,Javier Carrion,32787464
+2638266~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522072681380,4,0,"good course but some knowledge on Docker, kubernetes prior to this course will be required.",0,0,paras mamgain,2638266
+1210529~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522035039721,4,0,"Interesante introducción a Kubernetes, con laboratorios inlcuidos.",0,0,Adolfo García,1210529
+14693208~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522032945117,4,0,The course was very helpfull to star in this world. I think in the module 3 and 4 must add more basic concepts to get much better the info. ,0,0,Rafael Dario Ernesto Brito Villamar,14693208
+32664702~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521185289428,4,0,Quite good in becoming familiar with Google Kubernetes Engine. I would suggest trying not to make it obvious that the instructor is reading as they are presenting.The steps in the labs were spot on.Sometimes it can be beneficial to learn from mistakes or own experimentation as long as the students have somewhere to go if they need help.,0,0,James Thomas,32664702
+8547~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520699554172,4,0,"Liked the emphasis on using cloud shell and not the console. Liked the fact that the instructions point out the use of templating inside the kubectl commands. Some instructions were misleading in the labs and some were just missing. But, a very good learning overall. I feel confident that I can take this learning and apply it to my work project, and in the process educate my colleagues and impress the bosses. :)",0,0,Prafulla Subhash Kotecha,8547
+30891788~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520665967399,4,0,Good,0,0,do ly viet Hung,30891788
+32281961~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520140385785,4,0,An informative and useful introduction to Kubernetes ,0,0,Lewis Cividin,32281961
+31962366~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518415654074,4,0,Great content but grammar or text is sometimes off so it's hard as a non-native speaker to get the right sentence. Qwiklabs environment sometimes need quite some time to build a session.,0,0,Desiree Brunner,31962366
+21328176~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518319217703,4,0,"Concise.  Lecture material a little rushed, occasionally being read off slides.  Labs are useful, although need to focus on understanding what each of the commands (and all the prepared code) is doing.  Ran into errors with Jenkins authorization and realized that restarting a lab is difficult, so important to ensure you're following instructions carefully.",0,0,George Jacob,21328176
+31793148~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517793791428,4,0,G,0,0,somboon seree,31793148
+14629514~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517606738907,4,0,"A bit difficult for beginners, may have more theoretical videos with explanations. Videos are too fast, imo",0,0,Yevgeniy V,14629514
+3184060~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517198044149,4,0,Some concepts are new for non-developer folks who are taking  this course ,0,0,Oludele Adeolu,3184060
+1327566~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1515587478275,4,0,"Great video and lab, some content needs update though.",0,0,hsin-cheng Chao,1327566
+28090669~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1513808324006,4,0,Quiz questions could be clearer.,0,0,David Allen,28090669
+122291037~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1675922056378,5,0,great intro,0,0,Harry Tsoi,122291037
+72058561~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1674910598095,5,0,Amazing course,0,0,Taufik hidayat,72058561
+120904601~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1672631556389,5,0,Awesome and Amazing,0,0,Sanjay varma,120904601
+116016421~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1667494528025,5,0,great,0,0,MOHAMMED SAAD MOHAMMED AL TARISH ,116016421
+7874155~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1666963552042,5,0,I​ really liked this Kubernetes and Google Kubernetes engine introduction course. Good video material and aditional reading information. I liked labs and quizes too.,0,0,Jonas Vaitkevičius,7874155
+116046430~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1666479617319,5,0,Please provide the Arabic language,0,0,SALMAH ALI RUBAYH ALAMMARI SALMAH ALI RUBAYH ALAMMARI,116046430
+28759396~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1662480690988,5,0,Pretty good for starters with some systems knowledge.,0,0,Manuel Martín-Vivaldi,28759396
+111455779~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1662471567533,5,0,Very interesting view of Kubernetes landscape,0,0,Guillermo de Miguel Gómez,111455779
+41617421~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1659988617618,5,0,I want to unenroll ,0,0,HaeyoonJ,41617421
+107144781~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1654610522638,5,0,Good training,0,0,David Tello Morales,107144781
+102142720~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1653570135317,5,0,Good,0,0,Eric Shen,102142720
+104120621~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1652041563453,5,0,"A great course! Really practical and fast, without large videos or really heavy tests.",0,0,Julián Ramos,104120621
+101068249~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1649096718316,5,0,A very good introduction to Kubernetes / GKE. Good topic coverage.,0,0,Olli Hollmen,101068249
+43111018~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1648202371836,5,0,Super insightful!,0,0,Eyram Kwame Ekpe,43111018
+97623096~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1641529924785,5,0,excelente curso,0,0,"Bujato Herrera, Syddar Lyonyl",97623096
+99432528~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1641358835753,5,0,Good and Easy to understand for someone has knowledge on VM's and cloud basics,0,0,Naga Suresh Babu Giddaluru,99432528
+47254063~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1641152608572,5,0,This is the most critical course among the five in this path.  I like the explanation of how and why behind the commands and architecture.  While most of the other online videos never really manage to explain it in a clear way. ,0,0,Ruchun Ji,47254063
+23632707~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1637807788245,5,0,Very good! excellent.,0,0,Genilton Nascimento,23632707
+65331073~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1636824885067,5,0,Good,0,0,Srinivasan N A,65331073
+96110407~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1635846334951,5,0,"t​his course took me through all of the fundementals neccessary to get a good understanding of the product. im sure a lot of the early stuff was necessary even though id seen it before in other courses, but id definitely recommend it for hands on experience of google cloud and Kubernetes",0,0,Dale Annous,96110407
+17820553~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1634384306783,5,0,This course guide you to know the Kubernetes steps by steps with GKE exercise. It's very useful.,0,0,Michael Tsai,17820553
+93670709~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1632955708175,5,0,Great!!,0,0,Reinaldo Firmino da Silva Jr,93670709
+81821481~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1630237514510,5,0,Great Experience. Well presented and explained.,0,0,Sreenivasa Rao Dogiparthy,81821481
+89748764~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1629844731174,5,0,APROVEITADO,0,0,HUDSON NOGUEIRA DE OLIVEIRA	,89748764
+5950264~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1629488329190,5,0,The explanation about Kubernetes Open Source and GKE is very neat. ,0,0,Sergio Humberto González,5950264
+78197993~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1628590374575,5,0,"Some of the text did not capture the words from the audio of the instructor - something to look into perhaps, otherwise the course is very useful.  Thank you",0,0,Jennifer Tan,78197993
+89577276~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1627982588106,5,0,It was an awesome training on GKE. Thank you !,0,0,MUKESH KUMAR THAKUR,89577276
+65047920~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1626529372348,5,0,nice course,0,0,Subhasis Behera,65047920
+88284285~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1626296976042,5,0,Excelente,0,0,David Torres Urbano,88284285
+48650480~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1625395514400,5,0,excellent content and presentation,0,0,Richa Gupta,48650480
+62305935~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1624005170604,5,0,great,0,0,Surya Sn,62305935
+85456388~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1622815117846,5,0,Completo,0,0,PABLO ANTA TARREGA,85456388
+84574961~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1620989049954,5,0,Excellent and detailed introduction course for GKE.,0,0,Alan Jefferson Nascimento,84574961
+84537291~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1620114330185,5,0,"Amazing course, I've got a lot of info from it!",0,0,Danylo Kazakov,84537291
+83968174~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1620025178230,5,0,good job,0,0,Thanasan Meunsri,83968174
+82045094~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1615054201014,5,0,Great for me.,0,0,beck_hsieh,82045094
+35469888~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1614571770974,5,0,"Good as basic intro for newbies (as me)Just to understand: this is very-very beginning. You'll met some important concepts and no valuable practical skills, although there are three 1hr long labs with real working Google Cloud Engine infrastructure",0,0,Leonid Samarkin,35469888
+1759100~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1614518749738,5,0,awesome course!!!,0,0,Han Lei,1759100
+41405318~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1613926143159,5,0,Great introduction to GKE!!,0,0,John Jensen,41405318
+21837436~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1613583141673,5,0,Excelente Curso Practico y Teorico,0,0,Jorge Alberto Guerrero Pincay,21837436
+67184690~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1613199948280,5,0,Great course with hands-on qwiklabs!!!,0,0,Branford T Gbieor,67184690
+80825581~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1613053054267,5,0,It is very benefit to understand The GKE!,0,0,hanseo park,80825581
+1213844~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1612537546288,5,0,good course,0,0,Vu Duc Toan,1213844
+59775799~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1611905478958,5,0,so realy very good,0,0,Thouzeau Edgardo Hernan,59775799
+76637568~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1611752027730,5,0,Excellent hands on introduction to Kubernetes Engine. ,0,0,Yogesh Muthuswamy,76637568
+34885505~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1611418381566,5,0,The best ever course to begin learning about Google Cloud Kubernetes!,0,0,Izmilia Prastika,34885505
+46698650~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1610784153605,5,0,A thorough introduction to google cloud technologies,0,0,Juan Hanekom,46698650
+64124101~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1610347419273,5,0,A very good course to start Kubernetes.. True to its name - Getting started**.. It explains the concepts as needed for beginners.,0,0,Kailash Sharma,64124101
+63449907~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1610213966784,5,0,"Good course, very clear explanation of Kubernetes concepts, but would like to get more of practical tasks",0,0,Uladzislau Arlouski,63449907
+76622707~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1607885623185,5,0,"I already learnt GKE from Qwiklabs courses. But there are new things that I learnt now, like Architecture of K8s, Edge presence of GCP (GKE), Still there are things that can be taught about Anthos.",0,1,shiva hari kumar balasubramanian,76622707
+73919654~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1606743952369,5,0,Very good course,0,0,Mohamed Alibi,73919654
+74544699~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1603837843940,5,0,Awesome course! Thank you.,0,0,Tom Wilson,74544699
+6523629~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1602995031371,5,0,"I ve learn a lot, thanks",0,0,Jose Luis Muzikant,6523629
+67452849~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1602290239335,5,0,"Good course, I like the Jenkins lab",0,0,Raúl Andrés Olivares Pasten,67452849
+55143784~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601994930510,5,0,Very good,0,0,Prosenjit Bose,55143784
+63244675~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601216059065,5,0,One of best course that I studied,0,0,Wahid Romdhoni,63244675
+30102247~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1601076048813,5,0,It is very easy to learn . Gained lot of information.,0,0,Azhagesan Rajendran,30102247
+59194912~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600929534415,5,0,puas,0,0,Akbar Satria Dinullah,59194912
+58028705~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600882361133,5,0,Being able to do the labs it's the best feature of this course.,0,0,Vampaerr,58028705
+56101350~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600753755953,5,0,Buen material para los laboratorios.,0,0,JUAN SEBASTIAN AVILA MARTINEZ,56101350
+65035866~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600320113408,5,0,"Me gusto mucho, es curso práctico, donde aprendí todo el flujo de desarrollo con Google Kubernetes Engine. Desde la construcción hasta el despliegue. Muy recomendable.",0,0,Juan Pablo Cánepa Alvarez,65035866
+4613864~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600165363119,5,0,"Fantastic crash-course that crams a vast amount of information into a small learning window.  The slides can be difficult to understand, but the labs are excellent for solidifying knowledge as they are provisioned with long time periods to slowly absorb the online descriptions.",0,0,Antony Jackson,4613864
+71392602~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1600032398278,5,0,Very learning! many fun!,0,0,Miguel Escalada,71392602
+68817950~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1599785760686,5,0,Excelente curso para poder obtener los guidelines que permiten implementar infrastructura para obtener un ambiente CI/CD,0,0,Cesar Christopher Alviz Choque,68817950
+44169355~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1599610013086,5,0,Hard and interesting,0,0,Roman Kukin,44169355
+67770337~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1599384629694,5,0,"thanks, Coursera for the information about Kubernetes",0,0,FIKRI AL WAHID IPB,67770337
+47530853~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1599330234363,5,0,it was very well documented. Lab environment worked perfect most of the time. I could complete the course in a single day.,0,0,Sathish Krishnan,47530853
+67506241~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1598799342280,5,0,"Es bueno, es mejor realizar el curso en tu computador personal, para poder disfrutar de todas las actividades.",0,0,Carlos Gomez,67506241
+437661~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1598477793196,5,0,It is an excellent course with very well documented and educational labs.,0,0,Leonardo Yamasaki,437661
+62858439~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1597844674338,5,0,"A comprehensive course for starters that is rich in hands-on exercises. An advanced course is, however, a required next-step. Concepts like StatefulSets, ConfigMaps, PersistentVolumeClaims are integral parts of many modern applications, but are not covered in this course.",0,0,Mohamed Nadjib Mami,62858439
+50075997~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1597468304989,5,0,Very good course which gives an overview of complete google kubernetes components,0,0,Rengarajan Ramachandran,50075997
+66051290~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1597072045429,5,0,It was so nice experience to learn Kubernetes. Resource and Lab works are very helpful to gain knowledge. I am looking forward to learn more about Kubernetes in advance level. Thank you! ,0,0,Shovon Dhar,66051290
+57834019~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1596102785093,5,0,Excellent sessions,0,0,Sharan Srj,57834019
+62570210~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1595998767104,5,0,nice introduction to many services done in GCP.,0,0,안진우,62570210
+49161639~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1595607024447,5,0,jorgerr@gmail.com  I'd like to be infomed next courses and material. Thanks.,0,0,Jorge Rivero Ronquillo,49161639
+21421213~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1595096568884,5,0,Very good introductory course to GKE.,0,0,Carlos Fernando Tezna Sanz,21421213
+61520606~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594483965212,5,0,"Great learning experience, the hands-on lab was a very good experience and learning curve.",0,0,Kakan Ghosh,61520606
+20685813~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594411690655,5,0,Great Corse !,0,0,Tim Tadeo,20685813
+11448890~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594217340843,5,0,"It was nice. I felt some practices gone over my head. I would like to have more detailed lab sessions. I would like to thank the instructors for making this course interesting,",0,0,MOHAMMAD ASIF UDDIN,11448890
+58234163~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1594110291739,5,0,"I really had an awesome experience on this course with Google Cloud Platform for Kubernetes Applications and a working Continuous Delivery pipeline architecture. If you're interested in Kubernetes and CI/CD pipelines for using it on GCP, this course will give you everything to kick start your applications with those mentioned technologies. The lab sessions were somewhat lengthy but more comprehensive with hands-on experience. Thank you!",0,0,Ganindu Dhananja Jayalath,58234163
+41601412~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592975212771,5,0,Great !,0,0,Pratap Jantua,41601412
+39574641~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592746251557,5,0,Nice Course Overview good for starter,0,0,soubhagya panda,39574641
+60057404~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1592112632586,5,0,Excellent course must recommend for beginners.,0,0,Mitul Shah,60057404
+61104516~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591618951722,5,0,Bueno para tener una aproximación inicial,0,0,Juan Jose Puga Germany,61104516
+58440170~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1591015704301,5,0,If you want to understand the basic workflow as to how the CI/CD works then refer to this course.This could clear your concept by significant margin as it did to me. It helped me a lot and hope the same experience for others as well.,0,0,DINESH PRATAP SINGH,58440170
+50300653~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1590959374326,5,0,Greate Course ,0,0,Johirul Amin Rizve,50300653
+61512292~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1590599084549,5,0,Excellent. Thank you!,0,0,Jose Mora,61512292
+53957478~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1590144711939,5,0,"Concise, comprehensive, and hands-on.The practice labs are a bit technical, i.e. you can complete the course with copy-paste, so you need self-discipline to actually follow and understand.A few minor bugs in a couple of labs, but the forums provide solutions.Comment: the last two labs are not optional, despite the wording, you have to complete both.",0,0,Yoel Shapiro,53957478
+49375216~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589898689702,5,0,"Very good course, I recommend  it",0,0,Cristian David Gomez Lezcano,49375216
+60739067~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589829163532,5,0,Course was good.,0,0,Ravi Kant Prasad,60739067
+57819337~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589743024608,5,0,Sir Course was very Informative and Practically the contents are more clearly understood.,0,0,Sujata Atul Oak,57819337
+45873469~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589709722741,5,0,"It is a finest & well designed course, Easy to understand as well !!!",0,0,Swapnil Deshpande,45873469
+3184578~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589476231442,5,0,Very good and summarized course with hands on samplesThis is the best sample I found to be engaged in google cloud platform,0,0,Muhannad Alhariri,3184578
+53220478~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589411549749,5,0,"I like spinnaker, great job!",0,0,Reinaldo Baron,53220478
+37227181~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1589220402710,5,0,Very great brief course to get started with GKE ,0,0,Jose Carlos Rodriguez,37227181
+409418~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588883741617,5,0,"Super b course, thank you so much",0,0,Ismael Soto Galindo,409418
+54214241~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588585472593,5,0,Amazing Course. The Hands-On Experience through Lab was just wonderful !!!!,0,0,Ravindra S Kini K,54214241
+54993750~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588424223613,5,0,Thank you for providing a useful lab session with the right resources to practice.Thank you both of you guys. I did not remember your name. Sorry about that.,0,0,Venkatesh Nithyanandgowda,54993750
+49751414~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1588379590912,5,0,in some jenkins lab build faied. ,0,0,VIRAT LEELAPATTANA,49751414
+56813598~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587941722928,5,0,Very nice course that I finished in 5 hours straight! I liked the Spinnaker lab and the fact that it's the first time I have seen 78Gb memory cluster running on a 12vCPUs without having to pay.,0,1,Brice Setra Robert,56813598
+48094954~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587574236766,5,0,I want to join this course on free.,0,0,Ritu Khanal,48094954
+31317376~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587451602642,5,0,Practical labs are very nice. Thank you for providing an opportunity to learn this course.,0,0,Deep Thakar,31317376
+28703844~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1587020383438,5,0,Complex subject matter explained well,0,0,Vinayak Sharma,28703844
+14108971~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586283152011,5,0,awesome hands on with qwiklab!,0,0,Shunya Ueta,14108971
+39081372~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586260456021,5,0,this is a nice course with practical knowledge,0,0,Anant Jajoo,39081372
+43210441~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1586220260621,5,0,Hands on experience good for resume.,0,0,James Hizon,43210441
+49436812~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584705799805,5,0,Amazing course!,0,0,Guillaume Goisset,49436812
+6029621~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1584365037648,5,0,"Apparently dozens of learners can't finish because one of the labs (marked ""optional"", interestingly) has a code problem and can't be done for full credit. From what I can see, complaints about this are referred to support at Quiklabs, and they have done nothing about it. And the course designers apparently refuse to drop this broken lab. I was enjoying the course and looking forward to finishing. And it is impossible to finish. So, in the absence of any thing done to fix this, I can't recommend this course all. There are other Kubernetes courses, so, take them instead.",0,1,Nancy J Melucci,6029621
+11719633~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1582627114547,5,0,"I was really glad to take this course.Completing labs I managed to understand what Google Kubernetes Engine is. It's really useful to deep into cloud environment by using services just to understand how they work together.By the way, support team are awesome! ",0,0,Nikolay Sokolov,11719633
+29429173~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1579857085409,5,0,A very nice course to get get to know about kubernetes and it's ease of use on GCP. The intro to CICD spikaker and jenkins lab was nice.,0,0,Nataraj Purudappa,29429173
+17597911~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1579732806574,5,0,Contents are good to get basic understanding of Kubernetes Engine and various advantages of it. The deployment models exercise is too good to grasp and visualize what the various models are and internals in brief.,0,0,Pradeep Dubey,17597911
+37888692~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1579503905828,5,0,"good material and pace, excellent lab examples. I liked this very much and can only recommend it.",0,0,Jörg Weis,37888692
+47223451~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578863069182,5,0,"Good course, learnt lots new things, but need to have some intermediate knowledge",0,0,Sachintha Udara,47223451
+45949387~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578259082854,5,0,Great introductory course for GKE.,0,0,Janos Chau,45949387
+45262234~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578244990292,5,0,Esse curso foi ótimo para minha formação,0,0,Geraldo Tomaz,45262234
+10445971~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578244076277,5,0,Great course for learning basics of kubernetes,0,0,Cleberson Vidotte Costa,10445971
+11048928~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1578237553947,5,0,great stuff :-) ,0,0,Peter Dickten,11048928
+35220981~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1577780457610,5,0,I learned usefulness and advantages of CI/CD with Kubernetes on GCP. ,0,0,Tomonori Endo,35220981
+30868562~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1577666571025,5,0,Well documented intro that touched all components of cloud-native development automation.,0,0,Jeff Cunningham,30868562
+42597672~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1577641939650,5,0,This  course is very useful. ,0,0,Jayram Mahadevrao Kharkar,42597672
+47121550~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1577439927499,5,0,Useful and nice,0,0,Joan Marin,47121550
+40646667~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1576441765206,5,0,"This is an excellent course, thank you very much!I've been using Kubernetes for two years as a software engineer, but I definitely learned a lot from this course.",0,0,Davit Hakobyan,40646667
+47144303~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1576434265247,5,0,Simple to follow and extremely interesting in the hands-on laboratories,0,0,Emanuele Tozzato,47144303
+33903880~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1575866121545,5,0,Learned Kubernetes and CD,0,0,Andrew Lam,33903880
+6788639~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1575853477129,5,0,"This was an ideal course for a beginner like me. Though the labs were a complete copy paste affair , one can still grasp the basics of dockers and containers by attending this course to take their learning forward towards more extensive in depth courses . By no means does this course comprehensively covers all the concepts but nonetheless a great course to kickstart this aspect of devops .",0,0,Subhojit Roy,6788639
+42884659~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1575822999622,5,0,"Nice and useful tutorial, thank you to the Team!",0,0,Evangelos Papadopoulos,42884659
+40104340~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1575469182632,5,0,Excellent,0,0,Tapas Sahoo,40104340
+46299443~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574613615800,5,0,good,0,0,Maruthi Prasad,46299443
+34355701~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1574000830544,5,0,Very good for introduction only and understanding the use cases of Kubernetes with docker and other techs,0,0,עידן גולדשטיין,34355701
+46660530~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1573859624931,5,0,"Easy to understand and learn new technology. Labs are very detailed and easy to fol,low",0,0,Dmitri Godunov,46660530
+24470435~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1573155838195,5,0,Great stuff,0,0,Uchenna Edeh,24470435
+12672445~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1572900247742,5,0,Very informative,0,0,Jared Godfrey,12672445
+34341114~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1572382732127,5,0,"great course, with fantastic lab exercises",0,0,Stefan Job,34341114
+28904030~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571840892914,5,0,Really good Introduction to the technology,0,0,Travis James,28904030
+45831816~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571395864899,5,0,On point. ,0,0,Duanel Garrido Milán,45831816
+36266760~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571216202574,5,0,"Good labs!Thou, it would be better if we had practice labs with skipped steps, so a student would make some steps by himself.",0,0,Rafael Valiev,36266760
+27586839~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1571029015173,5,0,Great Course!,0,0,Roque Raborg,27586839
+44565650~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1570432783975,5,0,Extremely good hands on labs.,0,0,Ishan Aggarwal,44565650
+44393148~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1569373308338,5,0,A perfect way to understand how Kubernets can help and improve fast environment!!,0,0,Edson Morais,44393148
+39579790~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1569252560503,5,0,Great introdouction to Kubernetes we need to continusly learn to be an expert on the topic. ,0,0,Daniel Zecena,39579790
+1724949~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1567918325990,5,0,Excellent course. Lots of hands-on and good amount of videos. I need to redo the Jenkin's lab and Spinnaker's lab again to be able to apply the concepts in real world.,0,0,Deleted Account,1724949
+38941241~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1567878345417,5,0,This course provides great introduction to Kubernetes.,0,0,Minh Thai,38941241
+37736695~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1567605261392,5,0,Very Good structured  Training content with Hands On Lab,0,0,Harisha Yadav Chintakunta,37736695
+43111729~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1567132247153,5,0,good,0,0,Wei H. Huang,43111729
+24630465~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566964907640,5,0,grate nice class,0,0,HongYeol,24630465
+9175980~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566860394562,5,0,"This course is very comprehensive, it gives me a whole picture of docker, kubernetes and spinnaker.",0,0,Wu Wenmin,9175980
+43901194~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566409973061,5,0,i hate k8s,0,0,junyeong,43901194
+43866152~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566232194803,5,0,Awesome!!,0,0,guanjo goo,43866152
+42477830~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1566105435568,5,0,nice,0,0,ANKIT PAREKH,42477830
+43825445~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565868734931,5,0,Very good!!,0,0,Kyoyoon Jung,43825445
+43802770~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565536425735,5,0,i learned kubernetes through this qwiklabs with ease. well prepared documentation and lecture resources. ,0,0,Robert Lee,43802770
+43821363~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565534214990,5,0,수고링,0,0,Jinuk So,43821363
+43822257~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565530386565,5,0,good,0,0,박종찬,43822257
+9601213~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565489572828,5,0,Both GCP Trainers are very knowledgeable and know how to convey complex concepts.,0,0,Arnold Villeneuve,9601213
+43820740~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565427606357,5,0,ㅊ,0,0,Han-Jae Jea,43820740
+3622909~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565380621517,5,0,very good,0,0,Dirk Asmus,3622909
+37780424~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565369190268,5,0,좋은 강의ㅇ,0,0,Gyungsoo,37780424
+42630891~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565254233833,5,0,Excellent Job :) great experiences. Thanks a lot. ,0,0,조형준,42630891
+1213338~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565187268679,5,0,very good course for k8s in GCP.,0,0,YongHyuk Lee,1213338
+41493038~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565157772856,5,0,Excellent course by Google and very aptly curated by Coursera with the labs and assignments.,0,0,Aditi Gidra,41493038
+41699727~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1565019340874,5,0,"This Lecture is very interesting. Have a good time. I have a study that Docker, Kubernetes in basic, Pods,Service and Deployment to Kubernetes with Jenkins and Spinnaker. Have a nice day. I hope that I study more advance level. More... More.... More!!!! Thanks!!!!",0,0,Jang Wonseok,41699727
+42822832~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564990483800,5,0,Great to get a quick working handson to the CD and deployment strategies !,0,0,Satadru Basu,42822832
+29608215~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564990118523,5,0,The labs were great and really insightful,0,0,Adramé Ndiaye,29608215
+43802419~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564942757224,5,0,Thank you for helping me to learn Google Kubernetes Engine.,0,0,이원구,43802419
+43820757~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564932071654,5,0,Good!! Thanks!,0,0,Dongho Seo,43820757
+43824228~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564929696785,5,0,"thank you, google",0,0,Hogwon Choi,43824228
+41401228~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564849558374,5,0,good,0,0,ParkJaeHyun,41401228
+2588361~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564463345412,5,0,Amazing course on learning Kubernetes. The labs were excellent. Highly recommended. You'll spend a lot more time in the lab than listening to videos.,0,0,Peter Tran,2588361
+33731164~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564364843763,5,0,"Excelente todo, Raúl Lozano es lo MÁXIMOOOOOOO, su entusiasmo activa el espíritu de todos. Larga vida y prosperidad. ",0,0,Nestor Reveron,33731164
+43239339~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1564067541711,5,0,This is an excellent course to understand basics of Kubernetes.,0,0,Ashok Kaza Venkata,43239339
+43417216~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563579295689,5,0,"En general bien, pero tuve problemas con la paltaforma",0,0,Pablo Ubeda,43417216
+1288615~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563313119847,5,0,"Very good course, a lot of details to keep / remember for later use. Very good explanations during the sessions as well as good labs. It wasn't easy, many things to understand, training etc. Recommended course.",0,0,Dor Ben Dov,1288615
+43110072~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563143933353,5,0,"
+
+I liked the course, even though I do not use it day-to-day.
+Very interesting to obtain knowledge.  ",0,0,Bruna Lopes Costa Kauffman,43110072
+40813805~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1563030867068,5,0,Awsome Course on GKE!,0,0,Mohammed Amir Khan,40813805
+15589750~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562516390645,5,0,Very useful tutorial. ,0,0,Glazov Vladimir,15589750
+39514205~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562353502406,5,0,Muito Bom!!!,0,0,Ozames Nunes Neto,39514205
+42988382~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562240720424,5,0,Great Learning. everything is very detailed and good to understand for new lerners,0,0,Lipsa Das,42988382
+16183966~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1562167932068,5,0,"Really nice course, well organized and provide nice Lab for hands-onI was able to pick up the general concept and hands on experience through the course",0,0,Changik Choi,16183966
+42081250~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1561458685988,5,0,Practical and straight to the point. Provides real world alike labs.,0,0,Mauricio Trindade,42081250
+15496219~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1560877689841,5,0,Super!!!,0,0,Tomás Tapia Silva,15496219
+42526991~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1560613889590,5,0,nice,0,0,Gerd Koetje,42526991
+42006078~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1560326456539,5,0,"Amazing course content, espcially the handson Lab was awesome. Really appreciate !",0,0,Govind Raju Araswilli,42006078
+39769933~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1560073457302,5,0,"Unmatched experience for the newbie, thanks a lot to instructors.",0,0,indrajeet gour,39769933
+40317135~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559646292494,5,0,good,0,0,???,40317135
+18371498~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559643962146,5,0,very good! help me a lot!,0,0,Aaron Chen,18371498
+41805138~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559592190459,5,0,getting up to speed with basic notions from kubernetes,0,0,Dragos CIULICA,41805138
+35240228~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1559555490981,5,0,It's a great course on kubernetes. It described most of the features of containerizing applications on google cloud using Kubernetes orchestration mechanism. Also it describes in depth about how to build CI/CD pipelines for Kubernetes deployments on Jenkins and Spinnaker.,0,0,Parag Ghosh,35240228
+41670436~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558958877836,5,0,Very Informative,0,0,Janeesh Jayaraj  Pookattukunnath,41670436
+17740684~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558633014418,5,0,Solid acknowledgement on first step into Kubernetes,0,0,Minh AnhHa,17740684
+5231279~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558614796157,5,0,"Great course, with a complete list of commands to deploy CI/CD pipelines using Kubernetes, Jenkins and Docker",0,0,Filippo Loddo,5231279
+2106934~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1558145563276,5,0,"Fast-paced and worth it! This is a fantastic introduction to Kubernetes focusing on the basic terminology and deployment/administration of docker containers to a cluster. It introduces labels, containers, pods, services, namespaces, and several different types of deployment along with a whole lot of different CLI calls to understand what is going on in the cluster.I'm a developer with a very strong systems background and this course was easy to finish in a couple of days. The videos are good but not sufficient -- the real high quality content is in the course labs, which are DEFINITELY worth the purchase price.",0,0,Lucas Burson,2106934
+1305572~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1557727832630,5,0,It a good introduction to Kubernetes and help build a foundation to provide CD through spinnaker or Jenkins.,0,0,Srinivasan K,1305572
+40309997~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1556019240408,5,0,Good,0,0,유지영,40309997
+34389702~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1555824140471,5,0,Best.,0,0,Róbson Martins,34389702
+9349348~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554735473112,5,0,Great and Short Course for Learning Kubernetes and Ecosystem,0,0,Kwangsun Noh,9349348
+18800268~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554615126095,5,0,Very good session to grow up my kubernetes base infral skill,0,0,현우 오,18800268
+36644441~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554409280109,5,0,Exelente,0,0,René Martínez Bravet,36644441
+40309735~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554349530407,5,0,Good,0,0,TTT,40309735
+39686044~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554272515743,5,0,"Very useful, didactic and with amazing labs (specially the last two).",0,0,Sergio Daly,39686044
+40336972~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554272290200,5,0,"Thanks for your kindness guide, I could progress totally with our teammates. These kind of online guide can be learned by un-majored colleagues such as me. Thanks again and I would really want to register next time at this kind of education.",0,0,Cho Hee-seung,40336972
+37269414~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554209429281,5,0,Very good course. Need more on such topics.  ,0,0,Anurag Bhatia,37269414
+40336732~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554209151421,5,0,좋았습니다.,0,0,???,40336732
+40314064~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554207550951,5,0,Very Good Time to me. I learn about Kubernetes and docker. It is very powrful tool. Thank you for teaching me!! ,0,0,choihyunbin,40314064
+40335695~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554201791531,5,0,it was very helpful course for me!,0,0,"Kiro, LEE",40335695
+32192906~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554176998522,5,0,"Overall, it was great to get to know about Kubernetes for beginners like me!",0,0,Jungwoo Kim,32192906
+23300774~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554155797515,5,0,Very Good course for get familiar with how kubernetes works and all kubectl commands. Highly recommend for you guys to take this course as your basic understanding for Kubernetes. ,0,0,Yixuan Dang,23300774
+40314504~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554131203138,5,0,Good. Best explanation about kubernetes.,0,0,Ukjae Jeong,40314504
+40312829~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554112431372,5,0,very good,0,0,Lamos,40312829
+37443101~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554106779458,5,0,good,0,0,김태호,37443101
+40315925~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554081700642,5,0,good,0,0,정영석,40315925
+40335957~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554042300142,5,0,쿠버네티스의 기본 개념을 잡기에 좋은 강의였습니다.마지막의 배포 실습도 흥미로왔습니다.다만 실습 컨텐츠를 만드신 개발자들이 각 실습마다 다른 분들인지 스크립팅 실력의 차이에 따라 실습이 조금더 편한 것과 아닌 것이 있었던 것이 조금 아쉽네요. ,0,0,Honux,40335957
+34857757~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554041366331,5,0,Study Jam is one of the best programs I've seen in web based tutorials.,0,0,Jesung Koo,34857757
+33405638~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554041323455,5,0,It was a good experience on K8s,0,0,Jake Geunseob Song,33405638
+19576480~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1554010553920,5,0,It's very useful course for trying kubernetes.i could experience kenernetes by creating code step by step.thanks for giving me such a great experience.,0,0,Yoonsung Jung,19576480
+28164525~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553963938022,5,0,"
+
+I was able to learn systematically about K8S.  ",0,0,kugjin lee,28164525
+40317942~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553783623915,5,0,Best tutorial process ever!,0,0,Ricardo Kim,40317942
+40389008~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553705788244,5,0,Good,0,0,Jeongwon,40389008
+40320554~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553521561630,5,0,"It was good experience for me, I start Docker and Kubernetes and GCP. It was so simple and easy, because I just was followed the comments ;). But I think my first time is very good with coursera.",0,0,Yunhee Jung,40320554
+40389685~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553488360167,5,0,nice,0,0,JUNGTEAK LIM,40389685
+40309756~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553487249651,5,0,"그 동안에는 Docker, Jenkins 만을 이용하여 인프라 환경에 대한 운영을 진행 했었는데, Kubernetes 및 Spinnaker 라는 좋은 도구를 알게 되어서 좋았고, 전체적인 배포 자동화를 경험할 수 있어서 너무 좋았습니다. 다음 달에도 또 참여할 예정입니다. 구글 스터디 잼 화이팅 !",0,0,Seongbeom Jeong,40309756
+40379879~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553439917977,5,0,d,0,0,KimHJ,40379879
+40203406~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553438243416,5,0,"Overall, I liked the course that was designed to be easy to follow.",0,0,정종오,40203406
+40338932~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553427104809,5,0,very good!,0,0,Yang-Siyong,40338932
+40238784~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553410600565,5,0,very  good experience  bb,0,0,YongJikKim,40238784
+40379406~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553359298677,5,0,thx,0,0,SongChiOh,40379406
+40273533~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553336967119,5,0,"I can understand the basic of kubernetes, so I can handle this later!!",0,0,HYUNJAE JO ,40273533
+40323039~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553332694125,5,0,good lab if u want to learn about google cloud with kubernetes.,0,0,e,40323039
+3466999~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553265564443,5,0,"Thank you, It's good for me to understand Kubernetes Engine, docker",0,0,Tae Ho Kang,3466999
+40311061~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553244735327,5,0,힘듭니다.,0,0,hyunggil,40311061
+40403321~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553097393894,5,0,Goood!!!,0,0,moa2app2,40403321
+40374430~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1553083096020,5,0,"It was an good experience for me to use Kubernetes Engine. I could understand  why we use docker, kubernetes and jenkins. If i have another chances like this I wanna participate. ",0,0,Ki Seong Sim,40374430
+40316209~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1552901542170,5,0,구글 쿠버네이트에ㄷ,0,0,HeeHun Kang,40316209
+37456680~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1552137959245,5,0,excellent course for beginner ,0,0,Poongavanam E,37456680
+13876734~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1551466590573,5,0,Great course to start with Kubernetes.,0,0,Aitor Aguado Velázquez,13876734
+39086445~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1550368596967,5,0,great,0,0,Lorena Gallegos,39086445
+39661552~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1550228520417,5,0,Una introducción bastante interesante,0,0,Luis Manuel Montoro Marchal,39661552
+39452147~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1550070155541,5,0,Very useful for beginers!,0,0,Viacheslav Chervanov,39452147
+554528~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549338601487,5,0,labs were nicely prepared and very user friendly.,0,0,pradhyu shrestha,554528
+10636888~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1549232557910,5,0,Great course,0,0,Mohammad Reza Tajvidi,10636888
+15062834~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1548828342580,5,0,A good course if you already have basics for kubernetes.,0,0,Elie GAKUBA,15062834
+38974299~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1548740498239,5,0,Excellent course with detailed labs.,0,0,sandeep chennamaneni,38974299
+31059942~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1548566088325,5,0,This course gave me a better understanding of kubernetes and how it can be incorporated to a CI and CD pipeline for automation and container orchestration.,0,0,Arturo Quintanillaa,31059942
+36183777~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1547839066715,5,0,Awesome,0,0,Nikhil Nagesh Pandarge,36183777
+535463~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1546685164810,5,0,"This course was really helpful with its simple yet striking videos and awesome lab wherein all the magic happens. Come and get your hands dirty and go with an exhilarating feeling.Last but no the least, thank you Google and Coursera for bringing the course to the masses.",0,0,Anil Mohapatra,535463
+38357023~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1546470458026,5,0,great to know the course,0,0,qingjie zhao,38357023
+26689314~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545372288088,5,0,Excellent course with nice hands on labs.,0,0,Janarthanan Kesavan,26689314
+20606980~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545298941282,5,0,Very helpful,0,0,Vivek Maswadkar,20606980
+34339066~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1545047684568,5,0,Super útil el curso,0,0,Jaime R Romero,34339066
+20279050~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1544421437099,5,0,Really good course to study,0,0,Prasanna Brabourame,20279050
+25163430~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1544292708062,5,0,Course content is good with hand on.Thanks team,0,0,Tummalacharla Shanmukha Sreenivas,25163430
+37230132~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1543488817537,5,0,this course will helps broaden your devops knowledge,0,0,Bernardo G Parinas Jr,37230132
+23605476~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1543068588426,5,0,"My suggestion is that since every lab recommends stealth mode for browsers, better to tell the students at the beginning to take this course in stealth mode.",0,0,Mingzhe Huang,23605476
+776802~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1542899628615,5,0,good course for beginners,0,0,Ragul Balakrishnan,776802
+5912317~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1542597385771,5,0,very good intro to GKE! ,0,0,Catherine Cruz,5912317
+30715879~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1541833185050,5,0,good course and material,0,0,Ahmed Alansari,30715879
+34211396~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1541735798738,5,0,"Fue increíble, sin duda las herramientas que ofrece Google son maravillosas el siguiente paso es darles el correcto uso en el mundo.",0,0,Erik Javier Garcia Garcia,34211396
+37445611~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1541597608347,5,0,"Good getting started, nothing in depth but it was not expected.",0,0,"Kiwi. com, Palachovo namesti 797/4, Brno, 62500",37445611
+34457005~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1541001187835,5,0,very good,0,0,Josemar Lisboa Miranda,34457005
+35361386~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1540896185579,5,0,"great course, content, amazing labs. thnx google",0,0,Ermir Hoxhaj,35361386
+37194050~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1540103163042,5,0,Completed But Not Ge ting Certificate ,0,0,LALIT TANY SUDHAKAR,37194050
+2069488~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1540097900637,5,0,"As a Cloud Software Engineer this course is great plus you lear about dockers, containers and even setup a Jenkis, just great to put you ahead",0,0,Francisco Eduardo Balart Sanchez,2069488
+6948555~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1539886639679,5,0,Great!,0,0,Claudio Quinteros Cortes,6948555
+5038602~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1539717801348,5,0,"Good course, it requires some prior knowledge of HTTP, Unix CLI. It gives a good overview of Google Kubernetes Engine.",0,0,Andrea Fuggetta,5038602
+32605406~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538916711456,5,0,Awosome for Google Kubernetes Engine!,0,0,Manish kumar,32605406
+4229200~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538909287031,5,0,Excellent explanation with guided labs.,0,0,Ashish Patel,4229200
+34634979~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538590980228,5,0,bueno bueno,0,0,andres espejo,34634979
+21376388~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538392223035,5,0,awesome,0,0,Ubaidali Sayyed,21376388
+6937813~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538201908889,5,0,Excellent!  Covered a Range of topics and the Labs were very well documented and informative.,0,0,Jerry Robinson,6937813
+35794611~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538192644569,5,0,Me gustaria que fuera mas largo y explicito. Pero se entiende bien.,0,0,Jonathan Simanca,35794611
+34450317~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1538143784655,5,0,thank you,0,0,Sagar Ashok Bhamare,34450317
+36501030~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1537533481734,5,0,Excellent content and course,0,0,Abhaya Deshmukh,36501030
+35706637~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1537027362286,5,0,"Except for a few minor issues, the course content was very easy to understand and the hands on labs were very useful to understand the concepts well.",0,0,Peratla kalyan babu,35706637
+2710080~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1536548096831,5,0,A very practical course. This was so useful to getting started with kubernetes. Great!,0,0,German Alfonso,2710080
+29704632~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1536051274645,5,0,Very Informative,0,0,Anmol Aditya Sinha,29704632
+1578226~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535669433628,5,0,"Excellent overview. I would certainly recommend reading beforehand a bit about Jenkins and Kubernetes, but this course is certainly a great beginner course. Glad I took it and had the time to complete it. ",0,0,Dnyanesh Tembe,1578226
+2005143~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535610683931,5,0,This course was fantastic. I was successfully able to finish all the lab work on time. Gained good insight about using Kubernetes ,0,0,Sreenath Venkataramanappa,2005143
+32168975~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535587429650,5,0,great intro course. lightweight yet informative.,0,0,Jose Sierra,32168975
+13848528~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1535244012900,5,0,"This course is very insightful and covers most of what any developer would need to get started with k8s. There is just so much to do learn, but what is covered in the course should be sufficient as introductory to Google Kubernetes Engine",0,0,Alain Mbuku,13848528
+29783153~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1534748224609,5,0,Well documented and easily understsandable,0,0,Balakumar Kopula Sivakumar,29783153
+35581433~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1534348787887,5,0,Awesome course!!,0,0,Fellipe Paes Ferreira,35581433
+19196061~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1533324426004,5,0,Muy bueno,0,0,Janneison German Galindo Rivera,19196061
+33442046~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1533223621414,5,0,Very good course to deepen knowledge in Kubernetes. Very good instructors.,0,0,Juan Daniel Perez,33442046
+18102243~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1533005908169,5,0,"
+Totally practical, great course for the use of kubernetes in the real world
+
+",0,0,Enrique Zapata,18102243
+34747019~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532365751429,5,0,I have been using openshift for quite some time and I am familiar with Kubernetes. I think this course is the right one for someone to get started onto Kubernetes and be able to build upon the knowledge to take up advanced topics.,0,0,Shyam Unnithan,34747019
+11746591~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1532190221962,5,0,Poderia ter mais experimentos práticos com mais cenários.,0,0,Marcelo Airton Noskoski Batista,11746591
+34828741~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531704825435,5,0,감사합니다^^,0,0,전병걸,34828741
+33974974~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531350419592,5,0,Muy buen curso,0,0,Hugo Martinez,33974974
+17929731~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531246758687,5,0,"awesome course, but I had a problems with the labs.................:)",0,0,Cesar Paredes Jr.,17929731
+5853657~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1531173043721,5,0,good~!!,0,0,09 duriepark,5853657
+34590945~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530719070846,5,0,I really appreciate this introduction and the labs. Very useful.,0,0,Claudia E Abad,34590945
+2827666~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530678478010,5,0,nice course,0,0,Khoa Trinh,2827666
+6230914~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530273981328,5,0,Muito bom! Aprendi muito sobre kubernetes e Jenkins,0,0,Marcelo Módolo,6230914
+18049611~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530208734746,5,0,Very good for beginners who wants to learn about kubernetes.,0,0,Sai Bharath Gottam,18049611
+16218543~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1530045354106,5,0,content well organized and easy to understand.,0,0,Abhir Elandasserry,16218543
+6286080~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529353576378,5,0,Bom curso.,0,0,Luiz Augusto Mesquita,6286080
+23869593~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529333841060,5,0,"Excellent course, I really enjoyed it.",0,0,Daniel Monteiro,23869593
+7414295~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529282771830,5,0,Amazing course and content.,0,0,Sérgio Peres,7414295
+25432162~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529235328335,5,0,Very interactive.,0,0,HafisBabatunde,25432162
+34372517~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529128592368,5,0,"Es genial este curso, aprendes de todo en el y sinceramente esta completo para iniciar en este mundo de Google, Gracias por esta oportunidad!!",0,0,Emmanuel Omaña Zempoaltecatl,34372517
+34501731~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1529098669162,5,0,Gostei de ter participado do treinamneto da Google Cloud! Muito bom o curso!,0,0,Rodrigo Britto Calovi,34501731
+16053579~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528909819510,5,0,Muy bueno el curso.,0,0,Carlos Romero,16053579
+8592218~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528821946003,5,0,Great Course on Containerization and Scaling with CI/CD using Jenkins.,0,0,Shardul Arun Padaki,8592218
+32828602~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528748741950,5,0,Very good introduction to the Kubernetes world!,0,0,Xosue Ramirez,32828602
+6137078~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528699418965,5,0,A great course.,0,0,Rafael Fernandes de Oliveira,6137078
+1981811~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528689780098,5,0,"This is an amazing course to have hands on experience with Kubernetes and also get an understanding of how it can be utilized for your own apps. Labs are designed in such a way that by the end of the course, you tend to remember the commands and use them almost unconsciously.",0,0,Siddharth Jain,1981811
+1253713~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528661343508,5,0,Great introduction !,0,0,Eduardo Briguenti Vieira,1253713
+34301839~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528467920264,5,0,Excellent,0,0,Franco Quijano,34301839
+30049839~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528424048038,5,0,Instructions are very clear and the growth of each step taken feels natural.,0,0,Yair Bautista,30049839
+14561510~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528297150063,5,0,"O curso vai direto ao ponto, as aulas são curtas o que torna o curso mais interessante e nada cansativo, além da da explicação em vídeo é possível também colocar em prática o que o instrutor fala no video com os labs que são disponibilizados, ótimo curso e recomendo ele a todos que tenham interesse nos serviços do gcloud.",0,0,Lorhana Americo da Trindade,14561510
+33919772~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528218185592,5,0,Excelente curso!!,0,0,Leonardo de Souza França,33919772
+6542711~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528209730723,5,0,"The 2nd, 3rd and 4th Labs of this course are amazing. I gave me enough knowledge to architecture how the company I work for can benefit with the use of k8s and Google Cloud.The 1st Lab is pretty good also, but covers a lot of basic stuff. The other one are pretty much amazing.",0,1,Eric Reis Figueiredo,6542711
+5468779~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528197444842,5,0,Very good kubernetes hands-on course with devops practices as well.! ,0,0,K.M Ruwan C Ranganath Senarathne,5468779
+34197715~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528180418037,5,0,Amazing course!,0,0,Luis José López Lora,34197715
+14581379~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528170715214,5,0,"Very good, I learning somethings so important for my current job and futures projects.",0,0,Felipe Brum,14581379
+34099844~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528167044259,5,0,"Very good job, thanks for all",0,0,Marcio Mendes,34099844
+34167270~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528153511933,5,0,Explanations and labs are simply perfect!,0,0,Antonio Tolentino de Castro Junior,34167270
+21793987~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528137497611,5,0,"78/5000
+Content of great value, despite being the basics of kubernetes. I liked it a lot.",0,0,Davi Rocha de Oliveira,21793987
+31644205~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528112527135,5,0,Very good learning experience in very short span of time and i loved it. Especially qwiklabs-gcp training LAB setup done was really awesome and i was able to learn & understand the command quickly and no headaches during learning instead more knowledge than what i was expecting. thanks and more to read and explore on the GCP and K8S offerings.,0,0,Bharath Palanivelu,31644205
+6901651~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528096854393,5,0,I am new to containers and i've found Kubernetes to be a little hard for me to understand. But the course and professors were great and i could understand many things about containers and continuous integration.,0,0,Diego Victor de Jesus,6901651
+7929385~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528092821650,5,0,Good to start for kubernetes basics.,0,0,suman gayakwad,7929385
+494426~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528059686294,5,0,Awesome easy.,0,0,Srinivas,494426
+25021373~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528050644189,5,0,This course I learned a lot things . I loved so much!,0,0,Valdisnei Fajardo,25021373
+34151431~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1528002288022,5,0,Excelente ,0,0,Lucas Henrique Rosa,34151431
+19676190~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527803945007,5,0,I got to know the lot of DevOps process and Kubernetes is the ultimate solution for most of your problems.,0,0,UdAy Reddy,19676190
+34146553~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527727193764,5,0,"Muito bom, as aulas praticas são excelentes.",0,0,Paulo,34146553
+34097545~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527668470375,5,0,Excelente conteúdo! ,0,0,Diego Custódio da Silva,34097545
+19177710~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527633106205,5,0,Great course and great lab tooling! I'll recommend the Coursera courses for my friends!!!!,0,0,Maximillian Arruda,19177710
+34142170~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527534129301,5,0,Muito bom! Rápido e prático.,0,0,Almiro Lopes,34142170
+1765842~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527524050472,5,0,Course has basics of the Kubernetes engine. also the instructors presentation skill is high.,0,0,Harshana Madusanka Jayamaha,1765842
+12794592~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527522802043,5,0,Nice course..,0,0,Marcos Belarmino,12794592
+9421926~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527518469015,5,0,I Strongly recommend,0,0,Edmar Neves do Lago,9421926
+33958529~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527390517282,5,0,Great tool to working,0,0,Alex Werle Baulé,33958529
+15055152~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527350365733,5,0,"Muito bem elaborado pela equipe da Google. Este é o nosso futuro. Eu sou Google, seja você também.",0,0,CESAR RAMOS,15055152
+5135122~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527345527219,5,0,Uma introdução interessante ao Kubernetes e ao Google Cloud.,0,0,Wellington Pinheiro,5135122
+15679427~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527299860730,5,0,Verry good course. The video lessons were very good and especially the labs were excellent and helped a lot in learning,0,0,Neuber Sousa,15679427
+33958090~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527292675546,5,0,"
+Well didactic. Very good labs.
+
+",0,0,Rogério Lopes Junior,33958090
+3189474~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527270251344,5,0,Interesting to know more about the tool and apply it somehow to some daily activities,0,0,Matheus Pinheiro de Oliveira e Silva,3189474
+32067012~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527228695986,5,0,Good course in Kubernetes.   Make sure you have a valid GIT account and username to fully enjoy the Lab: Continuous Deploying with Jenkins.,0,0,Tgo168,32067012
+33600146~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527186474374,5,0,"I wish it was longer; the instructions are flawless; I do wish it was a longer course, but for an introduction it's perfect.",0,0,Bruno Henc,33600146
+33958516~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527177594305,5,0,"Excelente curso, acredito que estou trilhando o caminho certo ""CLOUD"" e agora com mais conhecimento nessa plataforma magnifica, obrigado Coursera e Google por esse treinamento.",0,0,Alexandre Monteiro,33958516
+33974584~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527050942104,5,0,"Curso muito bom, realmente ensina muito sobre criação e utilização do kubernetes",0,0,Matheus Fornazieri,33974584
+33994894~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1527003675436,5,0,Very well laid out and the two hosts were great at conveying the material and pleasant and engaging. ,0,0,Benjamin Baez,33994894
+32767306~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526993654946,5,0,Excelente curso para tener una aproximación a kubernetes en GCP.,0,0,Marcelo Clavel,32767306
+6322712~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526933807183,5,0,Excelent,0,0,contardo acuña,6322712
+33755403~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526865613122,5,0,Muito bom,0,0,Washington luiz Alves Jardim,33755403
+33742222~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526760242817,5,0,A good introduction to Kubernetes and GCP Kubernetes Engine. It covers all the basic understanding needed to create and manage your microservices.,0,0,Stian André Johansen,33742222
+25655321~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526343950388,5,0,good general introduction to kubernetes,0,0,shengtian zhou,25655321
+28714654~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526235397691,5,0,  Great introduction to GKE including hands-on !,0,0,Bruno FERGANI,28714654
+33814187~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1526199346893,5,0,A lot of useful information and content about the plataform. just great,0,0,José Welliton,33814187
+33762291~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525978495198,5,0,It course was very good!!!,0,0,Carlos Júnior,33762291
+22609450~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525659354733,5,0,"The course can help deep understanding docker and learn about google Kubernetes that amazing product from google help deploy software or web app ,scaling, and management of containerized applications.
+
+",0,2,Phuong Nguyen,22609450
+26260325~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525536911859,5,0,"Amazing course. I have got good insight about Kubernetes, Google Kubernetes Engine and learnt many new techniques. Thanks for Google Cloud and Coursera for offering a valuable course.",0,2,Manikandan K,26260325
+104953~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525367167521,5,0,Very good introduction-level course.,0,0,Stanislav Vitko,104953
+33422211~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525361729650,5,0,"Excelente curso, lo recomiendo",0,0,Felipe Jerez Roman,33422211
+29101746~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1525208950914,5,0,"Excellent labs, very useful!!!",0,0,Sergio Conejeros,29101746
+33406126~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524872501632,5,0,great course - really helpfull,0,0,Deleted Account,33406126
+33444897~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524661559625,5,0,Very useful tutorial,0,0,Phani Madgula,33444897
+29849287~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524607256119,5,0,Excelent Course ,0,0,Jorge Meixueiro,29849287
+28379525~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524518455369,5,0,Great course to sharpen your ground breaking skills for the future of software development. Thanks Google and Coursera :clap:  ,0,0,Sandipan Banerjee,28379525
+295393~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524457770045,5,0,Very good course. I have some knowledge on K8s before I started. This course gave me proper knowledge I missed when I studied myself.,0,0,Anugoon Leelaphattarakij,295393
+33405295~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524413894555,5,0,One of the best Courses about Kubernetes so far.,0,0,Sebastián Moreno,33405295
+31520358~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524317024865,5,0,a good starter course for people to get some hands-on experience in using docker and cloud for running web app,0,0,Tak Chan,31520358
+16518811~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524249943014,5,0,nice course,0,0,Guanlin Hou,16518811
+3105026~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1524243211407,5,0,very useful,0,0,Raffaello Ciuca,3105026
+3354087~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523884402185,5,0,Great intro to Kubernetes! I love the hands-on approach.,0,0,Brian Roy A. Tan Seng,3354087
+32383102~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523880624593,5,0,great platform,0,0,nitin awasthi,32383102
+32298268~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523405657079,5,0,Excellent course materials,0,0,Khoi Le,32298268
+26776815~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523346017350,5,0,Good introduction to Kubernetes Engine,0,0,Javi Serrano,26776815
+6404185~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1523183923472,5,0,Wow! such an amazing explanation. I feel confident on my learning. Thanks for such a good time. :),0,0,Utkarsh Sahai,6404185
+32918076~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522977852703,5,0,"Excelente curso, bien explicado y con casos prácticos para un acercamiento inicial !",0,0,Adrián Rosendo Fuentes (Draxyz),32918076
+18395504~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522975125163,5,0,Great course for beginner to enter into cloud and operations world.,0,0,Yasheshkumar Mistry,18395504
+4012663~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522806645085,5,0,Great course!,0,0,Victor Espinosa,4012663
+32850296~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522355693361,5,0,"Un curso magnifico, sencillo e intuitivo, sin duda alguna los genios de la gran G pusieron todo su talento y esfuerzo en compartirnos su vasto conocimiento en el no tan nuevo trending de contenedores el futuro de el computo e Internet hoy.",0,0,Manuel Alejandro Montalbo Rodriguez,32850296
+32512194~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522336198664,5,0,"Good course, I get a lot of informations",0,0,TRAN THANH LONG,32512194
+32852025~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522280665704,5,0,Great course for getting started with google Kubernetes,0,0,Víctor Martínez,32852025
+1078442~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1522234194182,5,0,"This course is great. To make it better, I think for lab, the course should provide more explanation. ",0,0,zhangzhenfang,1078442
+9651041~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521919931085,5,0,Es un curso básico pero explica muy bien los conceptos.,0,0,Vicente Cubells,9651041
+32835241~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521793147405,5,0,excelent,0,0,Yasser Razo Martínez,32835241
+7895563~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521758924211,5,0,Simpleandgreatcourseforbeginners.,0,0,Ravishankar Narayanan Nair,7895563
+30216422~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521712446620,5,0,"Great course, strongly recommend for all)",0,0,Oleksandr Bakun,30216422
+2961207~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521648962856,5,0,Great introduction to Kubernetes in a controlled environment on Google Cloud.,0,0,André Hamel,2961207
+32262815~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521418328123,5,0,Nothing about ingress. Unfortunately,0,0,Dmitry Kirilyuk ,32262815
+9366528~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521382576805,5,0,It's so cool! I really enjoy it!,0,0,Luciano Teixeira Borges,9366528
+567398~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521214984232,5,0,This course is really good that you will get practical experiences with lab sessions after each topic. It is awesome to study on google cloud.,0,0,julia_lcx,567398
+32621566~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521135988548,5,0,"Very interesting, I have learned a lot about containers, kubernetes, nodes,... and how useful they are for application development",0,0,Tuan Nguyen,32621566
+32608385~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1521011667087,5,0,"its wonderful about everything. Coursera is best you ever use. Content and guide clearly, easily for any developer.",0,0,vinh bui thanh,32608385
+32478906~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520815243584,5,0,awesome!,0,0,Darren Taylor,32478906
+32512154~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520748194272,5,0,Very good overview and concept for Kuberneter which can management docker container in google cloud platform,0,0,Dat Quach,32512154
+22740732~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520728847209,5,0,great course!,0,0,Deleted Account,22740732
+32515951~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520728537901,5,0,"
+very useful
+
+",0,0,Huynh Thanh Tuan Anh,32515951
+32530467~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520727219826,5,0,I love it,0,0,Nguyễn Bảo Xuân Trường,32530467
+5238930~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520472896203,5,0,This was a very good course on Kubernetes. The topics included in this course are priceless. ,0,0,Harold Marzan,5238930
+32258385~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520167824817,5,0,Great course. A huge amount of content has been covered in a well organized format which is easy to understand.,0,0,Nahid Jawad,32258385
+5207137~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520160114609,5,0,Gives a broad overview of containers and Kubernetes,0,0,callan winfield,5207137
+16443900~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520149600528,5,0,It gave me a very good idea of Kubernetes engines. It is also a resourceful way to train commands for my own applications.,0,0,Piotr Katolik,16443900
+32366346~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1520116574274,5,0,Nice trip for understanding a scale of my future trobles. =)  It help me a lot.,0,0,Персиянцев Александр Евгеньевич,32366346
+32279063~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1519951304790,5,0,Awesome! Clear explanation of great technology.,0,0,Craig Lavender,32279063
+32258418~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1519825314482,5,0,Great course. Easy to follow.,0,0,Viet Luu,32258418
+433105~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1519818936710,5,0,Good,0,0,Sun Jinjun,433105
+8619911~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1519629442274,5,0,Good overview course,0,0,Prasanna Ramaswamy,8619911
+29157617~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1519566495275,5,0,Excellent !,0,0,Sridharan Rajendran,29157617
+2692836~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518582089656,5,0,awesome course,0,0,Paul Aan,2692836
+932868~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518399610934,5,0,"This class has very well constructed and had detailed labs that go through the fundamentals of using Docker and Google Kubernetes Engine.It provides a great overview of Kubernetes general concepts as well as practical usage and impacts.In my opinion, this is one of the best courses on this subject matter to date. Highly recommended for IT professionals that are trying to retrain their skills and stay relevant.",0,0,Bryan Miletich,932868
+28017652~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518232410050,5,0,"Overview of how to user kubenetes and jenkins. Better than just go straight to document, learning those tools yourself.",0,0,Roonglit Chareonsupkul,28017652
+3324274~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1518167400667,5,0,"This course does require some prior knowledge of vi (or text editor via Command Line) in order to make the Lab sessions (Google Cloud Console) smoother. Other than this gripe, the presentation and pacing are fine for introductory material for using the Google Kubernetes Engine (formerly, Google Cloud).",0,0,Pan Seng Tat,3324274
+31800568~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517747478064,5,0,Excellent labs to get started with Kubernetes! Google rocks!!,0,0,PS,31800568
+16076170~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517415674205,5,0,Good and concise introduction to Kubernetes,0,0,Sebastian Titakis,16076170
+1059054~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517382731816,5,0,Very straightforward!,0,0,Tanat Tonguthaisri,1059054
+31609779~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1517381071499,5,0,Nice opportunity to learn the course and tutorials are very good.,0,0,Varada Rajulu Gourabathuni,31609779
+917736~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1515009105776,5,0,Very easy to follow and understand. The labs were set up in a true introductory format and were able to demonstrate the ease at which the tools can be used. ,0,0,Noah Curhan,917736
+1676600~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1513430515588,5,0,"The journey shown in this course is very interesting, simulating a real-world case in a pragmatic way.",0,0,Rodrigo Braga,1676600
+10209516~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1513277238566,5,0,"The lab work is very useful for me. I am glad to use Google Cloud Platform first time, and the lab work went well. I had already some experiences on docker, k8s, etc, which might help my lab work. I am now quite confident to use Google Cloud services in future if there is such project at work.",0,0,Peng Zhang,10209516
+30273301~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1512081487681,5,0,"Nicely presented in very reasonable chunks.  Good concepts, and ends with a larger example than is typical of online courses.",0,0,Mark Waite,30273301
+30234177~COURSE!~lAe6xrqUEeeJRwrm1qGMrA,1511817353919,5,0,"Good introductory in getting started with Google Kubernetes Engine. Everything went smooth, and it showed the basic possibilities. Perhaps adding additional resources on more complex situations might be be an extra bonus.",0,0,Michaël Rigart,30234177

@@ -1,0 +1,812 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+86448563~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1655417651177,1,0,I am not a computer whiz and this course hurts my head. I never want to see it again,0,1,Joshua Moton,86448563
+62254750~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595385987364,1,0,The assignment for the course is too lengthy too understand.,0,2,Ashwin Joshi,62254750
+502389~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587404678621,1,0,"In itself, a good course. If you want to take this course, I recommend it. If you are, however, taking this entire  specialization I suggest you walk away. The final course (course 5) is a  course by someone who has not been lecturing in the course, presenting  something they obviously are very fond of. The course work is, and I  quote, ""a project with minimal scaffolding. Expect to use the the  discussion forums to gain insights! It’s not cheating to ask others for  opinions or perspectives"". In other words, part of the learning target  is to work through bad or incomplete documentation and to solve an  exercise that is stated without providing the information you need to  solve it. Unless someone else already went through the moves, the  lecturer fully expects you to fail by yourself. If I wanted to feel the pain of learning without help or instructions, I would have just worked with the online manuals ... which is what this exercise openly tells you they want you to do. Its a shame for the other 4 courses, which are well done and have passionate lecturers.",0,3,Hanno Hildmann,502389
+23298395~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566771754923,1,0,"The course material and videos are good, but it is impossible to get help from anyone from the University of Michigan if you have questions.  You might get lucky and a fellow student may help, but if you want help from U of Michigan don't hold your breath.",0,2,David Potrubacz,23298395
+102150815~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652097032864,2,0,This course is very difficult for beginners and very crumpled.,0,0,Ismailov Vugar,102150815
+4213427~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578697978015,2,0,"Course is very easy for someone with some background in Python (or programming). What I didn't like is the fact the coding exercises are repeating themselves within one course. You can c/p and change a value to pass all exams... Another issue is the instructors answering all multiple questions or practice quizzes during the lecture videos. This does not allow someone to really practice, think and learn.",0,8,Anastasios Papadiamantis,4213427
+102360706~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652101151822,3,0,Good,0,0,Mohd Shahil,102360706
+26830471~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607016658639,3,0,"The course was very good, but the lack of support and the staff not answering our questions is unacceptable. ",0,0,Mohammad Hashemi,26830471
+62784813~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604071654490,3,0,this course is challenging,0,0,Amsebrid,62784813
+61249040~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598528536409,3,0,Good,0,0,D dinesh gopal,61249040
+66114574~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598373101393,3,0,  The final project explanation is not complete.  The peer reviewed part of the final project shouldn't be there. I think the peer reviewed part of the final project is not necessary to prove the acquired knowledge in this course.  ,0,0,Raul Colino Singh,66114574
+37219471~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598187050011,3,0,"csv, break and continue were not so clear",0,0,ASIF SHAH,37219471
+56696065~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597641468826,3,0,tough ,0,0,Riya Bajpai,56696065
+67324223~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595651392063,3,0,"The content is good, great even. I took one star off for the CONSTANT flipping back and forth between a short video (like 1-8 minutes) and their external resources. Give me an actual lecture, not a lecture tidbit. I took the second point off for the course ending with a ""peer review"" assignment that tested your ability to create a graph in excel (which is wholly outside the scope of this course) and seemed just plunked onto the end to ensure waiting time before you can ""officially"" finish the course because you're sitting around waiting for peer reviews on a project that required excel, not python, knowledge. I've got coursera pro so the delay didn't much hinder me, I just went to the next course - but I bet that peer review nonsense is a manufactured hurdle to thwart people trying to learn quickly on a 7 day trial. Pretty sleazy in my opinion.",0,2,Kristin Jones,67324223
+62939349~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592644519904,3,0,thanks,0,0,Weerachai Yaemvachi,62939349
+24045293~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590626688078,3,0,Some more coverage on csv files especially practice would have been nice,0,0,Jeffrey Been,24045293
+6726393~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579249608460,3,0,The course is good and the material is good too. The peer review is useless and doesn't make any sense due you have to wait until other decided to pick your work what can be ages.,0,0,Gabriel Contreras,6726393
+45498385~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1574865022369,3,0,peer review takes lot of time and that was the only thing remaining for my course to be completed. ,0,0,Swetha S,45498385
+39999382~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1569870693730,3,0,"The course is very sloppy. The negligence is just beyond my understanding. There are typos in the text. There are false statement in what is said (e.g. about some Windows operating system long ago not supporting long file names - Windows 3.1 wasn't an OS, and Windows 95 already supported them). There are obvious lapsus linguae in what is said. There are arrogant mistakes in TESTS! E.g.: it asks ""sort-5-1: What will the sorted function sort by?and says: ""first country name (alphabetically), then temperature (lowest to highest)"" but in the task script are ""Reykjavik, Buenos Aires, Cairo, Berlin and Caloocan ""Since when Reykjavik, Buenos Aires, Cairo, Berlin and Caloocan are countries?!?And it gets even more interesting in the next question! I.e. ""sort-5-2: What how will the following data be sorted?"" and among options:A. first country name (reverse alphabetically), then temperature (lowest to highest) C. first country name (reverse alphabetically), then temperature (lowest to highest) The answers A and C are exactly the same. BUT! - The ""A"" is correct, while ""C"" is not!And the microphone used within the specialization is very sensitive - so you hear them swallow every time. And since they are visibly uncomfortable being in front of a camera, they gulp down A LOT.The course should be proof-read, proof-heard, the videos should be edited and the exams revisited. So far it is a disgrace to Coursera and american education.",0,3,Ivan Mishchenko,39999382
+41569512~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567044214001,3,0,"The course went well until the final.  There was content that was not taught in the class, but you were expected to know how to do it.  I think the curriculum was fine and was content was interesting to go through. ",0,1,Josh James,41569512
+14425820~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1674478512263,4,0,"It is an excellent, well-designed and easy to follow course for beginners. ",0,0,bharath reddy,14425820
+112211034~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1668056244814,4,0,"It's good course to learn function, files and dictionaries ",0,0,Pravin Balu BHADANE,112211034
+100071705~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1668012566471,4,0,nice course to learn python functions in a short span of time,0,0,Deepali Gupta,100071705
+28176041~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1657120914790,4,0,Great pacing and reinforcing of concepts.,0,0,Stephen Silbert,28176041
+104031417~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652177237630,4,0,T​res bonne  methode d'apprentissage,0,0,Mohamed Coulibaly,104031417
+42443825~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1645472875389,4,0,I've leaned many advanced techniques to manipulate data in csv and txt formats using Python.,0,0,Ahmed ALRiyami,42443825
+5519342~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1641231267207,4,0,This course was presented very well.,0,0,James Mason,5519342
+14912718~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632771141377,4,0,"It was an exciting course and I learnt a bunch of skills. I have only two comments:1- The instructors need to be active more than this to attract the audience.2- The final project needs more clarification and the instructors need to correct us not our colleagues since there is no clear reference. Finally, I have to say thank you so much!",0,0,Ahmed Ragab,14912718
+48741285~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632314113860,4,0,"Sort of a long and tedious course with a handful of confusing assignments. Otherwise, another good Python course from UMichigan that I would recommend to others.",0,0,Mike Albanese,48741285
+88260622~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626852184039,4,0,course was good. but  a little bit tough.,0,0,Shashank Agrahari,88260622
+63531223~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626037926672,4,0,Everything except for the final project was good,0,0,Ashish Radhakrishnan,63531223
+84433329~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1621900432794,4,0,Very good course with excellent practice opportunities. The spaced repetition available in the digital textbook is a great way to reinforce understanding and the lecturers are top notch. ,0,0,Wayne Katz,84433329
+5203900~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617223658375,4,0,"This was a good course, however, the exercises in the homework and on the graded tests could be more challenging -- not just for the sake of making them challenging, but in the spirit of letting learners developer their thinking and programming skills. The final homework was fine; the only problem with it is that the Runestone environment is buggy and it will leave you scratching your head sometimes. Overall, a good course and I would recommend it.",0,0,Hector Ariel Gutierrez,5203900
+62096235~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1613021413424,4,0,It was wonderful experience. ,0,0,Bhagyashree,62096235
+78682871~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611888421045,4,0,"This is a great course! To be fair, I (as a Python neophyte) did have some trouble for the Final Project of the course and would maybe recommend a bit more hand-holding in that section. But I would still recommend it :)",0,0,Jon L,78682871
+37456550~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606430933488,4,0,amazing thanks all teachers,0,0,Sadik Abdi Hussein,37456550
+73475201~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606186742634,4,0,Excellent course. ,0,0,Jorge Leon,73475201
+64807929~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1605701062069,4,0,"Very good course, but final project was a little bit buggy and it took much time to deal with exel. Course programming environment doesn't support csv module, while it's the most natural way for processing csv files. Forum is silent and your questions aren't answered.",0,0,Kaminskaya Sofya,64807929
+59018656~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1605633444849,4,0,Its a really good course with amazing teachers and i really enjoyed it a lot. Thank you so much.,0,0,ANGARA NAGA GAYATHRI,59018656
+46089035~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604491726260,4,0,"no doubt this is the best course n Coursera , but you have to raise the difficulty level of the assessments so that we can execute the project even more faster without cracking our heads. ",0,0,Bavan M Y,46089035
+72419090~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602223888494,4,0,It was a nice course starting from basic topic to some of advanced topics clearing concepts as well as their application in practice environment is a perfect blend to help grasp things to its optimum level.,0,0,KIWANS BHARATBHAI KANKOTIA SVNIT,72419090
+64719983~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601825638649,4,0,This is where the real python programming begins. You learn more structures and methods which you will use in the future to help streamline your work environment.,0,0,Samanth N,64719983
+61007332~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599721622818,4,0,very helpful to learn little more details about python functions and very interesting.,0,0,JABEER PAIKKADAN,61007332
+5103557~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599719910225,4,0,"  The course materials are good, but would have preferred a more ambitious final project.  ",0,0,Gerson Rodríguez,5103557
+10047909~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599673051017,4,0,It is a very useful well organized course...The interactive tool is really helpful in trying different things to clear the doubts & experimenting new things.,0,0,Pankaj M Nadge,10047909
+63088974~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599667968803,4,0,"The course was excellent!!  Some parts of the assessments seemed to be outside of the material presented, but it was exciting and inspirational!!  Thank you!",0,0,James D. Colteryahn,63088974
+60014603~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599617536665,4,0,great .....thank you steve oney & paul sir ,0,0,SUJAY P,60014603
+62467355~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599288328647,4,0,Perfect,0,0,Amir Shrestha,62467355
+60512995~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598913383992,4,0,"Great course, with good classes and an excellent textbook. The only thing that in my humble opinion could be better is that sometimes the assessments' exercises are repeated on the same test, only with a change in variable names or context. It would be nice to have a more varied set of exercises (or talking simply, to have  slightly harder assessments).",0,3,William Chaves Lima,60512995
+62095714~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598892932807,4,0,good,0,0,Kharat Pooja c,62095714
+63064314~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598848816789,4,0,"I loved this course series, how it's going on. Everything taught is in a very easy way. Also, the last project part was very fascinating. Still, I was expected more from it, especially with CSV portion. However, I have learned the other perspective to deal with CSV file. Thanks a lot. This course has improved my knowledge.",0,0,MPD17I018 VINEET SENGAR,63064314
+55359052~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598805717466,4,0,Great experience,0,0,Yash Zadap,55359052
+49726179~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598537774990,4,0, I enjoyed the course overall but  project was difficult though and file handling tutorials need to be updated more ,0,0,Saurabh Pandey,49726179
+1961501~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598226067119,4,0,"there was a problem in the last assignment, because my code was right but the runestone platform always showed a timelimiterror. I had to change the web browser twice so that it could be finished. Despite of that, I learnd a lot form that course. Thank you!",0,0,Stenio Woney Ramos da Silva,1961501
+50309841~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598010438128,4,0,Overall -- good course.  I know have a greater appreciation of the Dictionary algorithm.,0,0,Ricardo Davila,50309841
+65545860~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597648968100,4,0,"The last assignment is complete shit, it has nothing to do with python.",0,0,Bohdan Kolvakh,65545860
+62233828~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596812303681,4,0,Great experience and good online platform to develop basic knowledge of python,0,0,Sakif Rafid,62233828
+60505113~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596676011244,4,0,Good but could put in more projects and less reading,0,0,Saaz Mahadkar,60505113
+63308056~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595422274867,4,0,Peer graded assignments weren't clear had to struggle there a bit apart from that thing teaching is well and good Happy Learning :),0,0,Sai Varun,63308056
+16771~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594980069229,4,0,Great basics tricks for the Python developers,0,0,jorge acosta,16771
+53044777~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594921603811,4,0,Concept clarity provided by the amazing faculty is very good. The only areas of improvement would be in increasing the no of questions and also raising the difficulty of assessments.,0,0,Nikith chandra sai,53044777
+60474563~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594712667283,4,0,"the final assignment is not what the course teaches exactly, but still a really good course.",0,0,Gautam Malhotra 18bme025,60474563
+54142688~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594572967005,4,0,wonderfull,0,0,ANISH KUMAR,54142688
+62209783~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594538355497,4,0,good,0,0,Vineetha Bandarulanka,62209783
+45034292~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594453290379,4,0,Excellent follow up of the previous course..,0,0,Apurv Sharma,45034292
+45881767~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594156023095,4,0,It was great learning about file management and file processing in python programming,0,0,Saurabh Chauhan,45881767
+44864443~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593753066771,4,0,the project really only had to do with week 1 and some of 2. Week 5 exercise are a joke. Exactly identical to video. You do not get any opportunity to write code till the end.,0,0,Gabriel Guerra,44864443
+60021172~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593689174481,4,0,"Really good course, especially for the exercises and the problems provided for the student to solve. You can learn a lot. However, the readings are sometimes redundant with the explanation in the video.",0,0,Alfian Tan,60021172
+48191612~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593341011578,4,0,"The course is quite good, especially for the final assignment, thanks.",0,0,Setiadi Setiadi,48191612
+63116987~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593276332120,4,0,very good,0,0,Taraksa Ruchopakarn,63116987
+64041501~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592975552044,4,0,Good explanation and example level is amazing they are easily understandable.,0,0,Amit kumar Singh,64041501
+46736321~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592833591539,4,0,"The overall course was easier than the basics I, however, the final project made me think and understand to finish it in time. I deferred the course for a long time but it was all worth it in learning. ",0,0,Vikas Shivaprasad,46736321
+58757382~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592820848456,4,0,Instructors are a less energetic.,0,0,ABHYUDAY SINGH,58757382
+53040194~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591877180470,4,0,Excellent course for beginners!....,0,0,NANDAGOPAL,53040194
+60045630~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591717417773,4,0,should give problem-solving questions as well,0,0,MUKUL UPADHYAYA,60045630
+57834671~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591525988525,4,0,💯💯🙌,0,0,albuquerque johny,57834671
+48850666~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591191544122,4,0,Somewhat superficial. PY4E is NOT required prior to this course (in my opinion.) ,0,0,Joseph Reckson,48850666
+55288874~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591182787107,4,0,great course for python newbee's .,0,0,Pulkit Gaur,55288874
+58324586~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590772518751,4,0,  I am very pleased to complete this python course. Thanks,0,0,Ghulam Mustafa ,58324586
+45674201~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589821776947,4,0,"Osm, Except few douts",0,0,Vikram Sharma,45674201
+48571758~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587647526291,4,0,More in detail than e.g. Py4everybody but unfortunately everything has to be done in runestone.Runestone is a nice tool but i would appreciate if students would be more encouraged to install python on their own computer and use an editor or IDE of their choice. You could at least provide the files used in runestone for practicing purposes.,0,3,Kamran Philipp Adler,48571758
+50133751~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586938615311,4,0,good teaching ,0,0,MEDABALIMI VAMSI,50133751
+49415294~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586891948366,4,0,"very good course, i suggest to everyone try this course, you will get a lot from this course",0,0,Abhishek Jaiswal,49415294
+30537295~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1583049364657,4,0,the course is good for beginers wo want to start career in pyhton,0,0,Zafar,30537295
+47495015~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581263001961,4,0,I learned a lot in this course. I do feel however hat you need to do a lot of research and studying on your own as the test and check your understanding questions have some code and problems that isn't covered in the reading and videos.,0,0,Erickson Smith,47495015
+42666754~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579056441759,4,0,"Giving ONLY 4 stars here because the auto-grade assignments were sometimes not described very well. But the main reason for the 4 and not 5 stars is the final course assignment, where there is not event explained what the Net value needs to be. Further than few sometimes annoying stuff, I think this course is solid. ",0,0,D. Mozol,42666754
+15926225~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578347018598,4,0,I had wonderful experience learning Python from Coursera. The chapters and practice questions are well organized. It helps to apply concepts and I feel confident to write code in python,0,0,Ramu Ganapathi,15926225
+45487657~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1576279395086,4,0,The course is well designed and whatever I have learned from this course is more than what I learned from my college teacher.,0,0,Zahid Ali,45487657
+46063793~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1573392293537,4,0,Really enjoyed this course.  The practical elements really test you're learning.,0,0,Nigel Pond,46063793
+40874690~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1572238240009,4,0,"it was good ,but i would suggest please add more examples",0,0,Aditi Khedkar,40874690
+18451682~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1571667814382,4,0,"It's great, because it is detailed and gives deep understanding. But a little bit easy exercises.",0,0,Нэля Парфенова,18451682
+44418882~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570634552303,4,0,It is easy.,0,0,Jesus Enrique Miranda Blanco,44418882
+42659463~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570366243249,4,0,"I find this course very useful. Only one observation -At the end of this course, it is asking for sentiment analysis, where you need to upload csv file to excel or google drive and then needs to generate scatter plot. How to do this is need explained anywhere in the course. Moreover, required libraries to perform this activity is not present in coursera and I have to install Python Anaconda and using Jupyter notebook, I could able to generate this scatter plot. How to process csv file to generate scatter plot, I have search in google and learn it outside this course.",0,0,Sourav Chatterjee,42659463
+29689878~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570247447100,4,0,"This course is extremely well organized and offers not only a lot of practical programming tools, but the best practices for implementing them successfully. Unfortunately, a lot of the assignments (including the last assignment) depend on files that the learner can't actually access, so some of the assignments are painfully tedious with a lot of guess-and-check work to figure out how the theoretical file is formatted. That said, the extra challenge does make you think more critically about your debugging options and the course as a whole is definitely worth it.",0,2,Christopher Moller,29689878
+38047448~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567605726537,4,0,"Sometimes coding on roomstone bit of hassle, as it doesn't always give correct compiler error, so hard to debug at times.",0,0,Bharat Bhusan,38047448
+42122379~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566739854211,4,0,I enjoyed this course and learned a lot!,0,0,Melvin Mathew,42122379
+40613781~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566203867723,4,0,Good introduction,0,0,Cevat Aykan Sevinç,40613781
+11101076~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1564271440864,4,0,Quite good material and exercises.,0,0,Alvaro Gajardo Becerra,11101076
+7373351~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1563053096772,4,0,Great course. Loved the dad jokes. Good pace. I'd recommend a little bit of extra practice before the final project as it deals with material that may already have been forgotten.,0,0,Motti Sigel,7373351
+42647630~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562861426937,4,0,The content wise it is perfect.I have had some issues with the box where we type the code. Sometimes while resizing the box would minimize to a small line that can not be resized any further.I always had to refresh the whole page to load the container properly.,0,0,Pranav Sharma,42647630
+40084003~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561654326665,4,0,Good materials. Just that grading peer's assignments seems not so attractive. Not much one can learn from doing so. A simulated code review case will be more fun.,0,0,Yongjian Feng,40084003
+1306462~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561352409198,4,0,"Really enjoyed the course, learned a lot, even though I've been using Python for several years now and I'm not a beginner. But it's a very good beginners course, if you ask me. And you will definitely learn the basics and fundamentals that you need for the future.",0,0,Alain Rouleau,1306462
+30757560~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1559886953707,4,0,I liked the course. It helped me to understand the concept of python programming language,0,0,Mohini Bansal,30757560
+39552748~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1556743423082,4,0,"It is  avery good course to take. Nevertheless, there are some things that I couldn't understand very well, like uses of the while loop. Maybe more exercises or another video would be useful. ",0,0,Cristian Manuel Pis Diez,39552748
+9257366~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554240992475,4,0,very good,0,0,George Spak,9257366
+9468591~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553716370737,4,0,I love it,0,0,Alejandro Oyarbide,9468591
+28717083~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553624388233,4,0,good,0,0,Akash R,28717083
+21379701~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1551329995828,4,0,Too simple,0,0,julia5258027@gmail.com,21379701
+117817972~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1676300360130,5,0,  Very Helpfull,0,0,PANCHIWALA UMANG JITENDRAKUMAR,117817972
+119340669~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1675899480037,5,0,The end was a bit too hard compared to what was teached. But it was a good challenge,0,0,Paulo Felipe Nunes de Lima,119340669
+67365797~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1675831129026,5,0,Muy claro e interactivo. ¡El proyecto final es interesante y retador!,0,0,Diana Sánchez Barrios,67365797
+108882151~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1674461977044,5,0,"This is the best way to learn coding (at least for python, but also a good understanding for coding in general). The way they have you practice things is perfect.",0,0,patrick Fintel,108882151
+104127899~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1674264970761,5,0,"PURE GOLD! the explanations and excercises were clear and easy to undersyand (but challenging hehe), the instructor teached very well. This is the best course of Python for begginers",0,0,José Eduardo De Valle Lara,104127899
+41957419~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1672321946856,5,0,You obviously can't finish this specialization and not become a good programmer. Thanks to our instructors learning is amazing.,0,0,Ebenezer ikechiamaka,41957419
+114277401~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1672071107378,5,0,nice,0,0,VISHWAKARMA SHAILESH VINODKUMAR,114277401
+5127338~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1672029571373,5,0,Great first four courses,0,0,Ginger de Ridder,5127338
+76534520~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1671266130867,5,0,Love the runestone interactive text book. Lectures also great.,0,0,Henrik Brenning,76534520
+16369475~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1670231542904,5,0,I like it very much!,0,0,Iryna Kushnir,16369475
+5973698~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1670175411516,5,0,Great course to follow the Python Basics course. The instructors have a great method of teaching and then reinforcing the basics in more advanced situations. I'm even surprising *myself* with some of the problems I've been able to solve and the code I've been able to write.,0,0,Zach Hill,5973698
+113023497~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1669797509546,5,0,Amazing course! ,0,0,"Reda, Zaid Fissha",113023497
+29265387~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1669207691174,5,0,it's a great course and is challenging enough even if you have prior experience in python,0,0,Alejandro José Muñiz Siqués,29265387
+99384631~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1668791648795,5,0,This course really teaches you how to write functions.,0,0,Joseph Grippi,99384631
+118466848~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1668590476808,5,0,Verry good,0,0,Hà Nguyễn Đức,118466848
+81465937~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1667485568918,5,0,"detailed and professional courses , exercises are very useful to clarify the lessons ",0,0,mohammad saniee,81465937
+482518~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1667470072346,5,0,Great course with awesome practices~,0,0,周峰,482518
+73890788~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1666943461565,5,0,"​I've learned so much from this Phyton fundamental course. The assessment tests, exercises, the tools, such as codelens are just amazing.  I'm off to a great start to learning the next in the 5-series specialization courses which is Data and Processing with Python. Kudos to the people who created this course. THANK YOU! ",0,0,Michael Jardinico,73890788
+51877544~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1666877062494,5,0,"I​t is awsome very rich of information , examples and practical ",0,0,A7med S7aker,51877544
+103827843~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1666270286049,5,0,F​antastic course with great teachers and easy explanation!,0,0,Cosmin Albescu,103827843
+49242360~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1665180877976,5,0,"A​mazing course, full of excercises with a well structured content.",0,0,Christian Cuadra,49242360
+84226338~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1664099187886,5,0,Y​ou may still benefit from reading a few books on the subject outside of this course but overall this is a solid course,0,0,MP,84226338
+111547545~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1662791431834,5,0,V​ery Useful topics and Superb teaching,0,0,kalai mannan,111547545
+67368065~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1662753644444,5,0,E​xcellente contenido,0,0,Derick Benítez Cano,67368065
+107456425~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1662229850814,5,0,a little more challenging than python basics which is to be expected but overall amazing course. ,0,0,Monicah wangechi,107456425
+112069647~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1661968360956,5,0,Excellent course !,0,0,EL HARTI ANWAR,112069647
+101092070~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1661704388007,5,0,Thank for course,0,0,Xếp Trần Tất,101092070
+90997239~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1660415675463,5,0,A,0,0,mostafa mohamed mostafa zaki,90997239
+99816498~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1659706800749,5,0,Amazing! Very helpfull and easy to understand! Thank you a lot!,0,0,Dana Kotova,99816498
+111329177~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1658784697146,5,0,good,0,0,bilalox boudad,111329177
+111242648~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1658687499130,5,0,amazing   Course of python,0,0,Amal khoubaba,111242648
+101587364~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1657398947149,5,0,Excellent,0,0,B08 Vishwajeet Tripathi,101587364
+107406290~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1657017721030,5,0,Enjoyed the course so much as i was fully involved in the learning. This has greatly improved my problem solving skills using python,0,0,Akumawah Nwalahnjie,107406290
+108607086~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1656706672667,5,0,"Рекомендую всем, кто уже прошёл курс Python Basic",0,0,Вася Пупкин,108607086
+40825923~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1656574101535,5,0,Course Material and exercises provide excellent understanding and practice. I experienced some difficulty in the final project but that can be cleared once you consult the discussion forums.,0,0,Ashutosh Desai,40825923
+104294129~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1656200002242,5,0,"E​xcellent, I lear a lot, and exigent, i lot the variety of excersices, each time you go develepment and development more and more python skills",0,0,Adonys Betancourt León,104294129
+56694981~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1656081959678,5,0,"I​ thought that the course was excellent. Quite challenging and fairly fast-paced. The teaching materials were excellent as was the presentation. Everything is taught from various angles - videos, reading, exercises, practice drills and more so the material is really well revised as new material is being taught. Great presenters each with their own individual style. I would highly recommend this course to anyone interested in Python.",0,0,Carl Thomas Taylor,56694981
+106113964~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1655896069938,5,0,Excellent course . No complaints ,0,0,Daniel Richards,106113964
+106796197~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1655693164249,5,0,The course material is excellent and the way the Professors conveyed that is exceptional. I am thankful to coursera and University of Michigan for providing this learning plateform and assisting learners accros the globe.  Now I am confident that I can prove myself on educational level and upcoming industry level.,0,0,Muhammad Adil,106796197
+23981709~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1655668802892,5,0,T​his is an excellent second course in Python that builds on the Python Basics course.  The only downside is it relies on running Python solely within their pre-built environment. The textbook and the lectures are quite useful. ,0,0,Ben W,23981709
+94844936~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1655388428709,5,0,This course is well designed to give its learners the best learning experience. Every concept is explained in a simple manner with good examples.  All of the tools available for reading and practicing  have been really helpful throughout the course.,0,0,Sahitya Pasupuleti,94844936
+94230989~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1654781742124,5,0,Very interesting and accessible for understanding. ,0,0,Anna Pobedonostseva,94230989
+104738045~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1654558953647,5,0,great,0,0,Lina m’çaouri,104738045
+42165259~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1654085481130,5,0,"W​ell done.  However, there were some Runestone lessons that were poorly worded as to the action required to achieve a passing score.  Also, at least one of the lesson was flat wrong (according to the way the question was worded and the solution that resulted in a passing score). ",0,0,Scot Haire,42165259
+103915811~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1653304634162,5,0,.,0,0,otman,103915811
+106092100~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652874372624,5,0,​cetais excellent,0,0,imane ait oufella,106092100
+104291134~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652711728878,5,0,good,0,0,Amine Fargouch,104291134
+105797853~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652478747799,5,0,excellent,0,0,Nisrine sajid,105797853
+65135976~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652146606118,5,0,So good in all aspects ,0,0,Diego Ferney Urrea García,65135976
+104243542~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1652043678541,5,0,exellent  course,0,0,omara abderrahmane,104243542
+104195252~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1651509183093,5,0,very good ,0,0,yassirjerrari,104195252
+54398346~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1651001255708,5,0,Thanks,0,0,Maros Poliacik,54398346
+104522660~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1650800112233,5,0,very helpful,0,0,nacer allah zaizi,104522660
+102910614~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1650631831799,5,0,Lots of tricks and how to's in a simple way of learning.,0,0,Mauricio Moraes,102910614
+104874249~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1649800428561,5,0,very helpful,0,0,Hamza EL Madani,104874249
+104052318~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1649527627051,5,0,Good course,0,0,Omar Jarmouni ,104052318
+14103918~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1649279346089,5,0,"Excellent course that allows you to review the basics. The codelens is really very useful, very educational teachers.",0,0,Dominique Cancel,14103918
+104078473~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1648752827039,5,0,"Thanks, you helped me a lot",0,0,imad faouzi,104078473
+93910130~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1648734207371,5,0,"A​ more detailed look into the use of Python. the daily practice with writing code was especially helpful.S​o greatful to the team that collaborated to put this together!A​nother winner, from Michigan U.!",0,0,O Sharpe,93910130
+28556245~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1648674420608,5,0,"Great comprehensive course. The code lense wouldn't work in all cases sadly, but that didnt' hurt much. It definitely worked for the pre-written examples. It was really helpful to see what is going on inside Python when dealing with dictionaries and functions. I'd like to have more problem sets for practicing in my IDE though.",0,0,Irène Nastatchenko,28556245
+102623404~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1648590975075,5,0,"Review of the course:1. Best course so far I've ever taken. I actually feel like I have learned something.
+2. Several assignments are done for Python 2 and that throw me off cause it required extra steps for it to work on Python 3.
+3. Python engine version for assignmets itself is outdated, would be nice to update. For example rsplit function isn't working etc.Overall very good course, thank you! ",0,0,Gastons Tiltins,102623404
+90140228~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1648287831907,5,0,"Great teaching techniques, and amazing teachers. I learned alot!",0,0,Mohamad Bezreh,90140228
+93260810~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1647967796509,5,0,👌,0,0,Francisco Alejandro Flores Arias,93260810
+23351131~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1647889785637,5,0,This course is a MUST. You have to take it cause it will change your life. Absolutely recommended. ,0,0,meisam esmaeeli,23351131
+102989914~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1647238462157,5,0,good,0,0,Lê Long,102989914
+58720525~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1646782306470,5,0,"Curso totalmente recomendable, toca los puntosmasimportantes que hay que conocer, puedes estudiar donde quieras y el tiempo que quieras.",0,0,Juan Eduardo Tarifa Baños,58720525
+34432179~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1646466738416,5,0,Excellent and very productive courses by University of Michigan.,0,0,Samad Karim,34432179
+6777757~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1645476540618,5,0,Steve Oney is a very powerful instructor! Thank you!!!,0,0,Jide Williams,6777757
+17284772~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1644689965727,5,0,G​reat course!! Very useful tools you can learn with !!,0,0,Carlos Alejandro Martínez Guzmán,17284772
+99337042~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1644202453508,5,0,"Good course for proceding with a bioinformatics programming course. The mechanics of the final peer-reviewed project could be improved, but the instruction was organized and useful.",0,0,Gary Hansen,99337042
+53390509~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1643411272445,5,0,The instruction for the second part of the final project needs to be more clear. It is not clear how the learner can download data for making the final plot.,0,0,Tt Tran,53390509
+90737583~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1643293857651,5,0,G​reat course.,0,0,Randy Quillen,90737583
+97386076~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1642857330752,5,0,T​his was a very good way of refreshing more advanced Python fundamentals. I really like the textbook environment.,0,0,Dustin Laukhuf,97386076
+77196908~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1642419716170,5,0,Outstanding!,0,0,Med Shah,77196908
+96122373~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1641904495218,5,0,amazing course,0,0,apurva kedari,96122373
+61775089~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1641838736139,5,0,"Very well explained, useful examples.",0,0,Emanuele Palescandolo,61775089
+68279581~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1641751546970,5,0,Muy buen curso ,0,0,Andres Felipe Cuervo Diaz,68279581
+9327105~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1641253487435,5,0,Great course to review the fundamentals!!,0,0,PREMDEEP AMUDALA,9327105
+84156287~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1640831674914,5,0,I learned a lot. Challenging but not impossible. ,0,0,Susan Bickford,84156287
+85955952~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1640561759923,5,0,.​..,0,0,Nikolay Sychevskiy,85955952
+95159971~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1639340050174,5,0,L​ove it. From this part of the specialization it started to get challenging and make me use my brain! Love Steve and Paul! If just I had them in my school!,0,0,Mattia Finocchi,95159971
+84558497~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1638156949841,5,0,excellent ,0,0,Rammohan Kummera,84558497
+92313416~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637998812554,5,0,T​his course is artistically well designed. I am able to complete this 35 days'(five weeks) course in just 23 days due to its well suited teaching mechanism.,0,1,Majid Butt,92313416
+66396217~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637769608176,5,0,"An awesome and interactive course for python language . Perhaps , these courses can be alternative of  manual programs and classes.",0,0,Abdur Nur Tushar,66396217
+85937357~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637554282513,5,0,"E​asy to follow for newbies, but huge affect on improving!",0,0,秦少立,85937357
+92853393~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637533055461,5,0,"Comprehensive videos, lectures, activities and assessment that enables the student to deeply learn the concepts.",0,0,SHEFFIELD CLAIRE LOPEZ,92853393
+25686387~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637329752657,5,0,It's really a grear course. I learnt o lot from this course.,0,0,Jie Wang,25686387
+3270798~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1637107677130,5,0,It is a great course.It will teach you a lot of details,0,0,Osama Kadhim,3270798
+11892157~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1636914732252,5,0,"I've dabbled with Python three for about four years now, trying much to learn it on my own. I was always getting tripped up over defining functions and working with dictionaries. But University of Michigan's MOOC, ""Pyhton Functions, Files, and Dictionaries,"" made those concepts so much easier to grasp. It helps that the videos are short and succinct, and the daily review questions through the Runestone text fosters retention of the material. I highly recommend this course. ",0,0,Alex J. Caffarini,11892157
+79034739~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1636494546693,5,0,"G​reat content, well planned agenda and solid projects. ",0,0,Nomaan Latif,79034739
+91963377~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1635947104552,5,0,Fantastic Team!,0,0,Marcelo Q,91963377
+53110422~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1635920232959,5,0,I learned many new topics like how to realize all parts of a programming problem and how to advance code.,0,0,Mozhdeh Besharati Far,53110422
+92299088~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1635543658789,5,0,Very good!,0,0,Michael Prete,92299088
+92771327~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1635427453140,5,0,"Great materials, Excellent tutor",0,0,Rongzhe Zhu,92771327
+37976149~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1634828384965,5,0,Thank you!,0,0,Jiaying Xu,37976149
+45256424~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1634468387382,5,0,E​xcellent course for ython beginners. Realy enjoyed the content ad learnt a lot of new stuff. The interactie textbook is excellent.,0,0,Ravi Paul Bansal,45256424
+72912806~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1634043069419,5,0,Great course!,0,0,Thomas Kreischer,72912806
+47392587~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632975924552,5,0,All is explained in great details. ,0,0,Niraj Dubey,47392587
+78100409~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632975731923,5,0,"it was a fantastic course, thanks prof Resnick and its team.",0,0,Ahmad Ahmadi,78100409
+82005527~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632591537633,5,0,very good course ,0,0,Wajdi Saad,82005527
+92525550~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1632331065959,5,0,I've seen this material covered in other classes and this course was by far the clearest introduction I've worked through! It answered all my questions and I found the practice problems to be very helpful and illuminating.,0,0,Delaney Aydel,92525550
+49312679~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1631491567210,5,0,Great course,0,0,Nour Mohammad,49312679
+79664960~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1631485881988,5,0,It's a nice learning experience.,0,0,Abbey Omisol,79664960
+51450192~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1631117414197,5,0,Excellent course in how to deal with files ,0,0,Abd-El-Rahman Nasser,51450192
+86505042~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1630416697762,5,0,Excellent!!!,0,0,DIMITRIOS VORDONIS,86505042
+43176732~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1629924086984,5,0,T​horough coverage of Python basics. The course really helped me achieve a deeper understanding. Thank you!,0,0,Jeff Jackson,43176732
+63385649~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1629809534571,5,0,R​eally usefull.,0,0,Ahmed Hussein Sayed Abdeldayem ,63385649
+39372106~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1629642832170,5,0,Wonderful course with the help of interactive textbook I solved a lot of problems I faced since now. The assignment in the end was very instructive and useful also.,0,0,Dimitrios G. Kontopoulos,39372106
+1413961~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1629157468945,5,0,Great course!!!! Excellent!,0,0,Manuel Hernández Rosales,1413961
+67380435~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1628941154245,5,0,excellent,0,0,Dr Chandra Shekhar Yadav,67380435
+4227426~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1628859472708,5,0,"I​ have always been scared of dictionary, mixing between tuple, list, etc...However, this course had changed everything. I'm so confident working with these type of data. Highly recomment this course, very details, a lots of exercises to practice, instruction is easy to understand and follow. Thank you all!",0,0,Ha Thi Lan Anh,4227426
+71746743~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1628224189673,5,0, definitely worth a journey!,0,0,Thomas Hammann,71746743
+1912672~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1627796894009,5,0,This is a wonderful course to learn Python.  Very systematic and professional approach of teaching makes this course a real fun to learn. ,0,0,Sandip Bandyopadhyay,1912672
+85259215~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1627561039050,5,0,Excelente curso muy bien explicado. Solo en la traducción del contenido si fue regular.,0,0,José David Melo Díaz,85259215
+87886026~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1627157032677,5,0,"I​ loved the teachers! This course is perfect, advise: Do not go too fast ;)",0,0,Brandon Josue Medina Campero,87886026
+87996165~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626861030656,5,0,Good course - highly recommend to cover the fundamentals of python.,0,0,Steven R Bentley,87996165
+86998606~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626694107865,5,0,best material for specialization in python. Very helpful course for building the basics of python.,0,0,Anshuman Singh,86998606
+53486511~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626601199133,5,0,E​xcellent course and instructor i hope that both of the instructors that taught in this course to teach other course too,0,0,Syed Haris Ahmed,53486511
+68879958~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1626120467192,5,0,Excellent!,0,0,Michael Cuddehe,68879958
+85168306~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1625744367020,5,0,"A great course to take upon completion of ""Python Programming for Everybody"". 10/10 recommend for anyone trying to master basics",0,0,Jordan Brocker Rudow,85168306
+84499840~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1625620394433,5,0,"Muy bueno el curso. Aprendí muchísimo practicando, es lo mejor de estos cursos, que luego de explicar la teoría uno debe practicarla.",0,0,Quelix Xiomara Pérez Alzate,84499840
+1036667~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1625434565852,5,0,"Excellent introduction course, very thorough and slow paced.  One downside is that you aren't working in an actual IDE, so are missing the experience of reading/writing files ""for real"" on your computer, so be aware of that.  The repetitive practice in the textbook exercises and the spaced repetition of the textbook daily review feature are good for cementing concepts.  Highly recommended to do them both even though not required as part of the course.  The course is 5 weeks but plan on it taking a lot less than that if you have any programming knowledge already.",0,1,Renee,1036667
+4053711~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1624537344223,5,0,Amazing course for someone who really wants to have an in depth knowledge.,0,0,Akshat Goel,4053711
+77014882~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1624535888083,5,0,it was very good ,0,0,Anitha Singh,77014882
+4439218~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1624460418562,5,0,I really enjoying the course.,0,0,Vijay Jayaraman,4439218
+2555023~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1624072264253,5,0,"Continuing on the previous course, ""Python Functions, Files, and Dictionaries"" provides a solid introduction to handling files, dictionaries and functions, and also little nuances and quirks that are unique to Python. Well-paced, and extremely enjoyable.",0,0,Fabian de Alwis Gunasekare,2555023
+39712504~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1623675266893,5,0,This course very helpful and suitable for beginner level learners. I learn a lot of things from this course.,0,0,VISHAL PATIL,39712504
+85244226~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1623536505432,5,0,"Not only does the course make python easy to learn and understand, but the professors have an amazing ability to transcend space and time and make the student feel valued and cared for.",0,0,Madeline Legler,85244226
+56374226~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1623336481062,5,0,This specialization is by far one of the best sources for learning a programming language on the internet.,0,0,Gaurav Tiwari,56374226
+61904442~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1623291066837,5,0,T​his course is really awesome!!!..IN this course the lab sessions(Fopp tool) made me learn efficiently.,0,0,M Pranav,61904442
+86009065~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1623250970288,5,0,"I am very grateful for such well planned and detailed materials, and a super intuitive platform for newbies like me to poke around and getting familiar with the python environment. Definitely an amazing course for beginners. ",0,0,Millicent Trieu,86009065
+9931022~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1622435042647,5,0,R​eally good ,0,0,Subhodip Panda,9931022
+2005353~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1622209975324,5,0,"Excellent course, great instructors and an awesome textbook. Even though I have taken another Python course before , I learned a lot of new stuff in this course.
+
+The interactive textbook was superb. It helps you trace your code, gives excellent feedback and suggestions for corrections. The final project was well designed and the incremental manner by which it was presented guided me in completing the project
+
+Definitely recommend this course ",0,3,Rameses,2005353
+75004675~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1622064209465,5,0,Great course,0,0,Danny Tram,75004675
+84517733~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1621516783517,5,0,I would  like  to  thank all  my instructors  for preparing such  a  nice course .,0,0,Anushree Chavan,84517733
+38145283~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1621374303085,5,0,Very detailed and informative!,0,0,Feiyang Deng,38145283
+46635108~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1621327522133,5,0,I really appreciate the effort put in by the University of Michigan. The course content is best suited for new comers to programming.,0,0,Shahzad Anwar Khan,46635108
+67997038~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620927004440,5,0,Good course to understanding collections and files in Python,0,0,Saurav Kumar,67997038
+76888249~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620616048548,5,0,Thankyou for a giving me a chance to learn python. This course will definitely add an important skill to my profile.,0,0,RAHUL SHARMA,76888249
+176021~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620520035944,5,0,good intro to Python,0,0,Jennifer Randall,176021
+20108756~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620492779776,5,0,"Hands down the courses in the specialty are the best online learning experience I've had. Lectures were short and clear. Practice was well designed to achieve full comprehension. Interactive textbook that incorporates practice without leaving the text allowed reading and practice to happen nearly simultaneously. 
+Excellent balance between theory and practice. 
+
+",0,0,Steven Pikaart,20108756
+55700107~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620464600050,5,0,+,0,0,Nurbol Sabyrov,55700107
+68198488~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620307875678,5,0,ok,0,0,Nguyen Quang Tu (K15 HL),68198488
+13715147~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620267035650,5,0,"Very good course for beginners in Python. Detailed explanations, good practice examples. I would really recommend it.",0,0,Olga Egorova,13715147
+82485002~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1620182609936,5,0,"Steve Oney and Paul Resnick are terrific as teachers! Thank you very much for your didatism, soft pace and your skill to teach!",0,0,Lucas Mariano Maciel Baqueiro Miranda Rodrigues,82485002
+4091179~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1619629353437,5,0,This course is a great way to continue learning python. The lectures are well structured and the interactive book is one of the best tools I have seen for learning a new programming language. It is also not too intensive so it is very easy to complete. ,0,0,Eduardo Sepúlveda Palacios ,4091179
+59231171~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1619424360634,5,0,It's an amazing course with great interactive textbook (Runestone) ! ,0,0,Shruthika Sujit,59231171
+78663787~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1619330255252,5,0,This course is awesome.,0,0,MOHAMMED AHMED KHAN,78663787
+83556935~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1619264389183,5,0,it is very useful,0,0,CHENNAREDDY GAYATHRI,83556935
+36475260~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1619035393064,5,0,"This is a terrific course! Well done. Great pace, great reinforcement, and well taught!",0,0,Stacey Bruestle,36475260
+12065985~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1618796709914,5,0,Its helpful with fundamental knowledge refresh and build confidence.,0,0,Chung-Chi Tsai,12065985
+81030379~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617658121793,5,0,A good course. Gives an understanding of the basics of the Python language.,0,0,Rabot'ko Dmitry Nikolaevich,81030379
+3044461~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617608049529,5,0,Great Course (a bit challenging :)!,0,0,Yves-Heng LIM,3044461
+49980021~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617440776810,5,0,"The course was very well-paced, suitable for both beginners in programming and those who have previous programming background.",0,0,POUYA POURAKBARIAN NIAZ,49980021
+63081186~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617305925249,5,0,It's an amazing course,0,0,Alejandro Díaz,63081186
+66228441~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617207551984,5,0,"I really loved so much this course, Its really useful when you want to study everything about tupples and sort method.",0,0,Luis villalobos,66228441
+71438994~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1617064937795,5,0,"Fantastic course.  This course and specialization so far are superbly taught and very enjoyable and I am learning the material well.  I have two degrees from Michigan and the instruction in this course is as good, if not better, than what I have experienced even in the most excellent of courses in my prior experience.  Great job!",0,0,Kevin Meek,71438994
+37838748~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1616924983516,5,0,I love this course. It gave me just the right pace for my learning,0,0,Pitchaya Phookpun,37838748
+82459115~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1616330866598,5,0,"Excellent intro to file ii//o, sorting and dictionaries with programming exercies",0,0,Wojciech Gałązka,82459115
+60187659~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1616322505058,5,0,Great online course to kickstart a career in python programming,0,0,19E-113 SURIYA MU,60187659
+77282419~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1615796888143,5,0,Very detailed and well curated.,0,0,Santanu Bera,77282419
+55551734~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1615634088359,5,0,This is one of the best specialization. I have studied a lot of languages from a lot of places but this is the best. ,0,0,Mayank Monu,55551734
+60140391~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1615222392139,5,0,one of great of  course offered by counrsera ,0,0,Shashwat Jain,60140391
+78336790~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1615199903037,5,0,"Honestly, I have to say this is one of the must-learn courses if we want to build a solid knowledge base in python.",0,0,Duc Phu An Nguyen,78336790
+43251727~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1614981764589,5,0,"best course ever!! very good content, materials and professor! I'd give it 100 stars if I could",0,0,Elena Andreea Ban,43251727
+81584742~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1614158446312,5,0,Neat,0,0,Lukáš Hozda,81584742
+43732793~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1613985784413,5,0,Great,0,0,Purple Mangalindan,43732793
+5094507~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1613570098371,5,0,Great course for Python beginners!,0,0,Javier Sorella,5094507
+9803334~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612985911297,5,0,Excellent course.  Great teachers and a very good platform.,0,0,Robert Warren,9803334
+43167762~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612773201800,5,0,thank you for the confidence,0,0,TEJA MADU,43167762
+43724237~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612724745714,5,0,"It is good course which covers Files and Dictionaries. I learnt about lambda expressions and how to use them as key in sorted function, through which I can specify the comparison criteria. The textbook was also good, providing all the key information. Overall it's a great course to learn more of python.",0,0,Bijoy Kumar Biswas,43724237
+36325128~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612539646234,5,0,Good course for me,0,0,Tran Chi Phuc,36325128
+64665969~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612269677031,5,0,Usefull!,0,0,SarcasticSounds,64665969
+49463817~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1612114177689,5,0,Amazing lectures and professors. Love the dry humor of professor Resnick. The textbook is super helpful. The final project might need a little more explanation and also emphasize the method of csv output. But overall very engaging class,0,0,Dakota Fan,49463817
+10617082~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611951367862,5,0,"excelente curso, aprendí los temas a profundidad y con muy buenos ejercicios de prectica",0,0,yeisson ivan fajardo peña,10617082
+44970166~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611915109994,5,0,I really enjoyed the teaching materials for this course. Lots of opportunities for practice! I am starting to fall in love with python!,0,0,Dakore Porbeni,44970166
+38264521~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611775550636,5,0,Great material in this class,0,0,Jonathan Porter,38264521
+1198031~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611755176647,5,0,"Nice mixture of exercises, lectures are clear and runestone is a good practice tool.",0,0,Steven Ward,1198031
+78579993~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611670629677,5,0,"Great course to understand the basic concepts and constructs of Functions, Files and Dictionaries",0,0,Vinit Gohil,78579993
+65867417~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611571981642,5,0,It is the best course to learn python,0,0,shivani sharma,65867417
+77271930~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611439805032,5,0,Thanks!,0,0,KUO YAO GEORGE SU,77271930
+75600640~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611107041857,5,0,"Thorough, the video follows the reading almost exactly (reinforcement), and Runestone allows for tons of practice and repetition. I'm getting started on the next course in the series right away. I took this course as a free yearly course offered to students, and then took advantage of Coursera's 25% off discount for a Coursera Plus account, which this and many other courses are included in. Looking forward to more great content from UM (GO BLUE!) and Coursera! Thank you to all involved.",0,1,Brian Lichon,75600640
+58319443~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1611093320851,5,0,"I absolutely enjoyed this course. Not only did it help me gain an insight on Python files, dictionaries and functions, but it also helped me use these concepts smartly to create a project. A very well paced and well structured course. I would definitely recommend it to anyone interested in Python, and especially to those who have completed the first course of this Python specialization.
+
+",0,0,FAYEZ QADIR,58319443
+38999785~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1610466632904,5,0,Thank you.....this course really helps me to understand python easily,0,0,Axel Dawne,38999785
+77288538~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1610313523652,5,0,Excellent!,0,0,Roberto FORTI Santos,77288538
+71081231~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1610298455642,5,0,Excellent course ,0,0,Sabareesh M,71081231
+61133233~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609843388779,5,0,Good Teaching  for Python Function & Dictionary,0,0,Mr. Pattara Tepnu,61133233
+17980328~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609788564081,5,0,I am feeling more confident as I write longer programs! The final project was a fun and challenging culmination of everything I learned in the course. Ready for course 3!,0,0,Lauren Denomme,17980328
+65585471~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609736627829,5,0,"The lectures did a good job of conveying the information contained in the interactive textbook beforehand and provided the learner with foundational information from which to apply and practice in the concept checks, assessments, and exercises. My only suggestion would be to include a section on writing and formatting csv files as this skill was necessary for the course project. Aside from that, I would highly recommend this course to anyone interested in beginning to learn how to code with Python.",0,1,Collin Marshall,65585471
+48280235~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609667915186,5,0,Excellent,0,0,Chris Hanratty,48280235
+70564167~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609644507201,5,0,This Course is very helpful who has already completed the first course of these series. The Runestone environment is very helpful for practicing. I have a strong recommendation to complete this course for better underesting.,0,0,MD MEHEDI HASSAN 1804106,70564167
+50950385~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609268506346,5,0,One of the best courses in Python I have ever done.,0,0,MOINUL ISLAM,50950385
+45412554~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1609131043618,5,0,GOOD TOLEARN,0,0,rhk vineel,45412554
+45640415~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1608916277645,5,0,"Of the courses I have taken so far, this one was one of the best. I almost did not watched the videos, only read and practiced using the book.I was not 100% happy with the instructions provided to use google sheets on the last assignment. I think this should be improved, as many people may not have experience using it.",0,0,Santiago Fermin Moreno Solana,45640415
+13898106~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1608467191589,5,0,This course is an excellent tool to learn Python 3.  I definitely recommend it !!,0,0,Miguel de Luis Lopez,13898106
+75641101~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1608202715115,5,0,Excelente material de estudio y manuales prácticos. Todo muy claro.,0,0,jose insfran,75641101
+65329149~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1608127492550,5,0,It is a very organized course. The only problem is the limitation of the inbuilt python interface. I have been using Jupyter notebook.. New students may not be aware of that option.,0,0,VARUN SHARMA,65329149
+4413825~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1608094801175,5,0,Great course. A lot to practice,0,0,Luis lauro Leiva Linan,4413825
+58431080~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607973510669,5,0,This course has helped me in different ways. I hope to take more course on coursera. ,0,0,Joshua Adebayo,58431080
+65826000~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607961718360,5,0,best python specialization i took so far,0,0,Paul Gregor Holderbaum Ondoua,65826000
+11287359~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607888518575,5,0,Great Course! Highly recommend this course. Runestone environment helped me so much in understanding the concepts and putting them to practice at the same time. Codelens is awesome.,0,0,Aditya Bhatt,11287359
+69834782~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607874046048,5,0,"Very informative. Great textbook and exercises. The lectures were a bit basic for me, but that's just because they were thorough. I was able to skip them and just use the online textbook and complete assignments to go faster when I wanted. Do yourself a favor and download PyCharm or another code editing program to make it easier to experiment on your own as you work through the assignments.",0,0,Scott Kehoe,69834782
+15862459~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607632480926,5,0,Very good course!,0,0,Shamira Palma,15862459
+25213472~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1607407203215,5,0,Great course. Enjoyed doing the assessments.,0,0,Saurabh Potdar,25213472
+72313833~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606803528798,5,0,The best you can have,0,0,Syed Mishkatul Haque,72313833
+65191385~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606802348268,5,0,Great course! Thank you very much!,0,0,Orkhan Pashayev,65191385
+71853671~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606665868944,5,0,"Excellent course, Im really please about the skills I got the improve and learn",0,0,LUIS MARTINEZ,71853671
+70838728~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606369485270,5,0,"it was a wonderful course ,i learned many new things, thank you very much :)",0,0,Joel John,70838728
+838154~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606344802550,5,0,I love the final proyect,0,0,Andrés R. Chacón B.,838154
+56154421~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606238181216,5,0,Really well planned and Explained.,0,0,Josiah Nunes,56154421
+52179862~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1606149992896,5,0,Very good course,0,0,KRAKOU Danho Guy Sylvestre,52179862
+74397195~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1605684321537,5,0,Before starting the course i dont have the confidence in programming but now i gained the confidence!! Thank you!!,0,0,Vivekraja,74397195
+74210828~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1605590931558,5,0,I liked it!,0,0,Тараканов Данил Дмитриевич,74210828
+48195855~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1605417770963,5,0,it's a good one to the next level of python basics.,0,0,Unnikrishnan p,48195855
+66581455~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604760052565,5,0,GOOD,0,0,SAMARTH P SHET,66581455
+48680387~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604756844175,5,0,Thank you ! ,0,0,WISSEM REDJEM,48680387
+60066114~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604681576574,5,0,was able to do what was taught ad the kind of teaching they gave was amazing ,0,0,Rishabh Kumar Hota,60066114
+67168362~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604669144585,5,0,Excellent instructors.  The online interactive python interpreter is really useful to practice.I will definitely go on with this series of courses by the same instructors,0,0,pietro varisco,67168362
+60345692~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1604004807492,5,0,AWESOMEEEEEEEEEE!!!!! YOU GUYS HELPED ME GET OVER MY CODING PROBLEMS,0,0,Kanishk Goswami,60345692
+163593~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603832422643,5,0,great,0,0,DANIEL ALBERTO REYES RAMIREZ,163593
+63662869~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603735290039,5,0,excellent for beginner to learn and learn,0,0,Syed Hasnat Haider Shah,63662869
+59352409~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603474849433,5,0,Contents were good from my point of view. Learned a whole bunch of new stuffs,0,0,Kazi Shihabul Islam,59352409
+65036848~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603305623816,5,0,awesome course,0,0,Nikhil Gaur,65036848
+27749411~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603224482189,5,0,very good course,0,0,sourabh chouhan,27749411
+15759315~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603119514649,5,0,Great course & great teachers.,0,0,Magdalena González Prat,15759315
+63239665~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1603095347031,5,0,Excellent Course. They should upload more videos like these on other programming languages as well,0,0,Minal Rai,63239665
+22490416~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602947760084,5,0,"If you are a beginner, this course would be the best place to start and build your base. The interactive book used in this course in extraordinary and really gives you an opportunity to practice a lot. I would thank Prof. Resnick and Prof. Oney.",0,0,Mohammad Anees Raza,22490416
+72553423~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602872065928,5,0,Very Good Course ,0,0,mitali koley,72553423
+38858137~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602795627970,5,0,"  The class is very basic. Excellent for people without a programming background. Slow for those who do, but you can skip through concepts you already understand. The exercises are very useful.   ",0,0,Sherlyn Hilton,38858137
+33703482~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602698784951,5,0,Good Course,0,0,Aniruddh Mallya,33703482
+69828702~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602689408255,5,0,The course is well structured with content and daily practice.  ,0,0,Mahalakshmi Devi Dhanappalan,69828702
+62466228~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602670249655,5,0,The course was very good and well explained everything. Especially the final project.,0,0,YOGENDRA KUMAR PATEL,62466228
+55104576~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602468694537,5,0,Excellente course!,0,0,Jesús Carlos Martínez González,55104576
+55834073~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602277690309,5,0,Muy buen curso cumplió mis expectativas,0,0,gilbeth romero,55834073
+48795650~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602237232345,5,0,Thank you for offering such a wonderful lecture,0,0,PAMARTHI KANAKARAJA,48795650
+64690978~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602164639666,5,0,excellent course,0,0,Deeksha Shetty,64690978
+72500540~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602111853952,5,0,"Excelente material, se aprenden conceptos básicos
+fundamentales para programar, me parece un curso muy bueno.",0,0,Federico Rios,72500540
+2793464~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602072791259,5,0,pefect!,0,0,phương linh,2793464
+52727505~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602044442718,5,0,It's worth to take it.,0,0,TC Lee,52727505
+4406251~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1602014224185,5,0,I really loved the course and deeply appreciate it for providing the opportunity to learn everything in depth ,0,0,Maryam Moradbeigi,4406251
+9638829~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601992595461,5,0,Es de los mejores cursos que he tenido en Python en manejo Funciones y Diccionarios. Me llenó las expectativas en cuanto a poder practicar y entender el trasfondo. Lo recomiendo,0,0,Edwin Leonardo Quintero Castaño,9638829
+10320134~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601652612455,5,0,Amazing course ,0,0,Garish Sharma,10320134
+66419622~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601586667609,5,0,"Great tutors, amazing content and awesome assignments. top-rated course",0,0,Nsangu Phiri,66419622
+55814971~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601567740561,5,0,Very useful and well explained!,0,0,Rodrigo Surculento,55814971
+62819784~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601446842450,5,0,"Excelent course, fun and full of practical knowledge.",0,0,David Sauce Martín,62819784
+57559289~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601402945819,5,0,Very good,0,0,Jomon K Sebastian,57559289
+2790415~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601299979526,5,0,Amazing course!,0,0,Felipe Delgado,2790415
+11693524~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601263064581,5,0,Covers the fundamentals to start coding with python. Great introductory course,0,0,Gabriel Gabian,11693524
+67258088~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601261239556,5,0,This course is amazing and the instructors have special skills of explanation. I now feel very confident to complete the overall specialization. I also like the special bonus jokes made by Prof Paul Resnick at the end of each section. ,0,0,MAMADOU ALPHA HAWA BALDE,67258088
+41435366~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601221838987,5,0,Very useful,0,0,Yeliz Kilinc,41435366
+3761311~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601215460074,5,0,"Well paced, right level, good supporting material.",0,0,Harry Koch,3761311
+31756039~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1601051617687,5,0,the best specialization to learning python on the internett,0,0,أحمد ماهر فوزى محمد سلام,31756039
+60432344~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600960118734,5,0,This course is the best!,0,0,Nawshin Atia Keya,60432344
+65731359~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600741170718,5,0,Can really learn Python at last.,0,0,Abdul Hamid Abdullah,65731359
+69019435~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600687923734,5,0,"Great course which begins to show some real life applications of the topics we are learning, looking forward to the next course.",0,0,James McGrath,69019435
+34722174~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600663508724,5,0,Amazing and confidence-boosting course.,0,0,Siddharth Bardiya,34722174
+58210108~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600535382203,5,0,"This course really challenges your basics of handling files,lists,strings, dictionaries and functions in Python. The exercises and practice problems were very helpful and I learned a lot about using these python features in a practical context. The final assignment was also a very fun project. Overall, this course will definitely help those trying to hone their basics in Python.",0,0,Muhammed Jawaad Zulqernine,58210108
+65164173~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600445652924,5,0,good,0,0,POOVITHA R,65164173
+67695928~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600417526149,5,0,Michigan University this course was very beneficial for me as an Electrical Engineering student .My coding skills was very bad but this course help me a lot and uplifted my coding skills.,0,0,ANCHAL JHA,67695928
+4701081~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600336849046,5,0,Excellent course,0,0,AVNEESH DIXIT,4701081
+47260840~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600287609553,5,0,greatly designed course as always,0,0,shaif iqbal,47260840
+49101732~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1600187888550,5,0,Really impresses by the way teachers have taught this course. The assignments were also helpful in getting  a grip over the concepts,0,0,Himank Sehgal,49101732
+62621432~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599988731477,5,0,Great Course!,0,0,Ooi Chun Sung,62621432
+65157617~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599970847683,5,0,"Excellent, by being more clear in content and in explanation. Thank you so much for the course",0,0,O161247 DUDYALA VENKATA PRAVEEN KUMAR,65157617
+58419341~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599833767609,5,0,It was a great one! I learnt so much basic concepts,0,0,Hein Htet Thu,58419341
+55673545~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599771396134,5,0,so useful,0,0,KBenMansour@etihad.ae,55673545
+41599226~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599766529882,5,0,Good ,0,0,Souhardya Gayen,41599226
+71043328~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599736965859,5,0,Easy to follow and learn,0,0,Temmam Asbai,71043328
+57825753~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599637684426,5,0,Thank u!,0,0,Avantika laxman Antwal,57825753
+48525654~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599479448449,5,0,This Course is most important of python programming...,0,0,SAJIB SHAHA,48525654
+41863248~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599384689246,5,0,"This course is just great I have learned many skills in this course and the way the professors teaches everything in detail and with patience without rushing  is to be applauded but the thing I like the very most is the codelens it provides you real demonstration of what's actually going inside the program I really appreciate their efforts, Thank you so much",0,0,Zainab Shaikh,41863248
+64973065~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599365204436,5,0,project doing give a confidence to your potential,0,0,AMAN VERMA,64973065
+56707078~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599284624895,5,0,"The Course was really great. Learnt a lot.The final project was really challenging and took my whole brain (sarcasm), completed though after a great effort.Liked those kind of challenging questions.",0,0,DEVI BALAN A,56707078
+56090683~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1599235108350,5,0,"This is a great course for those learning Python for the first time, or for others (like me) that have learned Python through tutorials but never understood of the basics about dictionaries and lambda functions.",0,0,Rodrigo Adolfo Cañas Vázquez,56090683
+22832234~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598966712810,5,0,Good course to extend and embed Python knowledge,0,0,James Baird,22832234
+61146619~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598940051983,5,0,Great professors... Wonderful lecture sessions.. Best way of teaching a programming course... Code Lens and Runestone runtime environment are class apart... Very creative assignments which enhance our learning by understanding,0,0,Vinitha M. Rajan,61146619
+59159438~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598884121504,5,0,"Very interesting and challenging continuation to Python Basics. Highly informative about files, functions, dictionaries and sorting techniques.",0,0,Gowrishankar G,59159438
+19450080~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598846105728,5,0,"I like this course very much! Actually, I am from BY and I feel a great difference in education approaches! ",0,0,Yauheni Kavaliou,19450080
+58334840~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598699702538,5,0,Axtardığım bu idi,0,0,Pənahlı Ayxan,58334840
+1086310~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598643860557,5,0,"Very well explained, good amount of excercises to apply the content. Final project very well developed and somewhat challenging.",0,0,Angel Rodrigo Campoy Sousa,1086310
+24507439~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598556087335,5,0,Best one!,0,0,Jayu Chawla,24507439
+58888048~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598526985571,5,0,Excellent ,0,0,Shubhra Verma,58888048
+5192428~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598375024974,5,0,Excellent course!,0,0,ashok m,5192428
+55773633~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598189783109,5,0,"Very interesting course, cleverly prepared tools, it was hard at the end, but I really liked it, thank you very much",0,0,Juratė Daubarienė,55773633
+4499320~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598131046168,5,0,"Very clearly, and very interesting course about python. The instructors are very professional.",0,0,Antonio Añorve,4499320
+58288667~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1598027538751,5,0,Excellent Course.I fall in love with the teaching process.,0,0,Md Rafiqul Islam Rafi,58288667
+34564019~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597985114757,5,0,I've done two courses by now and this is just an awesome package. Instructors are good at what they do. They just put everything they know on the table. Thank you guys for creating such an awesome specialization.,0,0,Varun Pratap Singh,34564019
+28514022~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597929528064,5,0,Very helpful,0,0,질라Tv,28514022
+22046691~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597924780362,5,0,I have learned a lot from this course. Highly recommended  ,0,0,Faizan Ahmad,22046691
+37355761~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597763314897,5,0,"Got to understand the concepts of parsing and reading csv files. The course was smooth and fluid, and the runestone textbook were brilliant!",0,0,Cornelius Supreeth Lazarus,37355761
+19148272~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597690540870,5,0,"If any one wants to learn Python, this is the place. Excellent professors and innovative teaching and projects .Thank you all",0,0,Waleed Saad Alkalla,19148272
+19590812~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597641685480,5,0,The course is very well defined. Sometimes the questions seem too easy but  actually are very time consuming. Well taught and well balanced. ,0,0,Supreet Sai Chivukula,19590812
+4990574~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597529183296,5,0,It is perfect for learning how to deal with python data. The materials are good and engaging. Really worth the time and effort.,0,0,Malgorzata Popadycz,4990574
+49634258~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597512337321,5,0,very good course for beginner in programming with such a good practice tool.,0,0,ADITYA PRAKASH,49634258
+43659211~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597497900896,5,0,"Nice course for the beginner with nice explanation on function, dictionary, tuple, sorting, accumulation and so much.",0,0,Darshan Javiya,43659211
+56046999~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597477913427,5,0,Awesome course,0,0,Shivam Singh,56046999
+62203587~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597453974222,5,0,interesting,0,0,Dr. Shaik Razia,62203587
+65933740~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597424606166,5,0,Excellent course! Was really helpful!,0,0,José Antonio Gonzalez Perez Junior,65933740
+49249760~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597208672122,5,0,This Course is much helpful to Know how to play with Functions!,0,0,Hasibur Rahman,49249760
+10323658~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597202711436,5,0,"This  course,  which  is a part of the specialization course,  is one of the skillfully crafted courses. It equips learners with  the very important conepts  of python programming in a step wise approach. Also, it allows you to practise  it through intesively  in such a way that helps learners solidify their knowledge and practise.  It is  definately one of the best courses I have ever taken and would reccomend it to anyone who  is committed to learn the course.I",0,1,Habtamu S,10323658
+41886703~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597160470348,5,0,I would like to take this course again. It's so much fun and so much of a challenge :),0,0,waleedkhan jadoon,41886703
+32539502~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1597010132375,5,0,This course (and the specialization as well) is a bit more challenging than 'Python for Everybody'. I enjoyed a lot. Runestone is an amazing feature that really helped navigate through the course.,0,2,Ahadul Islam,32539502
+57442313~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596991725219,5,0,Overall it's a great course. The textbook has been very helpful; I find some of the exercises too easy though. I didn't watch most of the videos because I could understand the content very well just by reading the textbook. The final project offered an opportunity to solve a very close to life problem. I look forward to seeing more exercises like this in the following courses.,0,0,Tingting Yang,57442313
+7333415~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596947363478,5,0,great course and hands-on training project to polish programming skills.,0,0,Muhammad Sajid Iqbal,7333415
+6422843~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596915458380,5,0,very wonderful basic course on python. need it to learn more advanced topics.,0,0,Hari Raman Pokhrel,6422843
+56263287~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596898031138,5,0,interesting lessons!,0,0,W F,56263287
+63343026~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596861094938,5,0,useful course ,0,0,Sandeep Kushwaha,63343026
+49962586~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596802792270,5,0,the runestone textbook is do good. i did not even think learnng coding could be actually so interactive. the codelens also helps alt to undertand how python actually sees our code,0,0,Ammar Pasta,49962586
+64879539~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596688786882,5,0,Excellent course!Very detailed explanations are provided for all the concepts. The practice (runestone) exercises are very nice. Textbook has been very helpful and the assignments were practical. Thank you so much for this wonderful course.,0,0,Pratiksha Hegde,64879539
+60707280~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596529174886,5,0,"Great course. Go for it if u want to learn about Named & Anonymous Functions, Files, Dictionaries, Sorting etc",0,0,Arjun Visakh,60707280
+55507783~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596425582006,5,0,superb superb superb.........................lots of love from india.....need more classes from steve oney,0,0,Aquib Javed T,55507783
+54382544~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596228214554,5,0,Excellent course for beginners and for those with intermediate expertise in other programming languages,0,0,A B Rahul,54382544
+57319136~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596190323253,5,0,very useful and easy to learn,0,0,Ivan Muhammad Ihsan Izetbegovic ,57319136
+46525356~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596109588355,5,0,nice course,0,0,Techno Tips and Tricks,46525356
+47211069~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596102361518,5,0,"Nicely paced and instructors are really fantastic. I love Coursera courses and this python specialisation from Michigan university is wonderful, their interactive workbook needs special appreciation. Full credits for Coursera",0,0,murali manohar,47211069
+13558702~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596066522470,5,0,Nice pace. Very thorough.,0,0,Anthony Bloomfield,13558702
+34430943~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596040140032,5,0,Very beginner friendly. The interactive textbook is the best part of the course.,0,0,Munem ,34430943
+62041475~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1596005557573,5,0,"Very informative. If you are a beginner, you must take the first course of the specialization and then this one. Week 4 materials were the most awesome one, especially, lambda tags. In the end, there was a very interesting assignment. Hopefully, you will like it whether you are a beginner or not. As always, massive love for professor Paul Resnick.",0,0,Enam Biswas,62041475
+63060063~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595975577857,5,0,"Incredible course, i feel like i am not a beginner in Python Programming, anymore! ",0,0,Jorge Alejandro León Delgado,63060063
+30559313~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595961299566,5,0,"very helpfull course, I'm looking forward to take the next one",0,0,Xuanin del Molar,30559313
+61401035~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595949818645,5,0,good,0,0,PRAWIN KUMAR  P,61401035
+24507420~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595896022634,5,0,"Effective course who are planing to practice about pyhton file handing regarding dictionaries, tuples csv or text. Interactive textbook is still amazing for hands on practicing. Final assignment is a little bit challenging task but it's really fun.     ",0,0,J A M SAMIUL ISLAM,24507420
+39239204~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595865612485,5,0,A really great course,0,0,PRANAVA PRAKASH J,39239204
+55703194~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595837909283,5,0,"This course gave me an in-depth knowledge on Python using various concepts such as Functions, Files and Dictionaries. And I think this is the course which could be my first step into Data Science career.",0,0,Aravind Swamy Bala,55703194
+62332366~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595830030210,5,0,excellent,0,0,Royal Dsouza,62332366
+42704687~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595776651538,5,0,"It's a very helpful course in building knowledge of  files, dictionaries and function also. I have learned sorting  based on some particular property of a sequence.",0,0,BISHWANATH SHAW,42704687
+58138564~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595759053215,5,0,"Great course. The questions in the graded exams were too repetitive, but otherwise everything was very well explained. Final project was challenging and fun.",0,0,Rohan Sathish,58138564
+20183599~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595729044560,5,0,Good for getting a general understanding of python.,0,0,郑松林,20183599
+62188920~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595716753529,5,0,"its really good course, that teached us  really complete so we can understanding with the lesson",0,0,Nurul Izzah Luthfiah Nur,62188920
+31271403~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595692300203,5,0,courses are very good.,0,0,Shivam Soni,31271403
+59941895~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595648517284,5,0,A very good course for getting started with python.,0,0,Aravindhan S,59941895
+64115994~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595608031852,5,0,Great Instructor and great lectures. The excercises are well thought. The only thing to remark is that the course is a little bit easy.,0,0,Tomas Chamorro,64115994
+49189971~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595595748946,5,0,BEST COURSE FOR ME SO FOR..I AM SO GLAD TO GET THIS COURSE ,0,0,Shubham Singh,49189971
+6165458~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595593301952,5,0,I had very high expectations for this course after taking the first course in the sequence and a couple of Dr. Chuck Severance's courses. The combination of the online Runestone textbook with short videos and daily practice is fantastic. I look forward to my 5 practice questions every morning.,0,0,Brian Urbancic,6165458
+63180680~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595577285210,5,0,"Very Happy with completing this course, specially thanks to Paul Resnick sir for his teaching style and jokes. ",0,0,Shivam Singh,63180680
+33846800~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595535525170,5,0,"Great and professional instructors, ample practice tools, and easy to follow materials. Would recommend this course for anyone looking to advance their Python knowledge",0,0,Hyelda Dzarma,33846800
+66738548~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595452058959,5,0,very good,0,0,Thomas Rydberg,66738548
+49761718~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595443265311,5,0,Absolutely enjoying sessions.I just love this course.,0,0,K Kishan Kini,49761718
+30937751~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595402669927,5,0,"I really enjoy this course, the guidelines they put in for the final project were too useful, with that I was able to guide myself and have a better vision to carry out the program",0,0,Manuel Isaac Suyco Montalvo,30937751
+53437293~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595309027799,5,0,The course was very well explained and in detail. ,0,0,RAMPARIYA JAY PRAFULL,53437293
+26783781~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595270778339,5,0,Worth time and money.,0,0,Mrityunjoy Nath,26783781
+59623178~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595146008212,5,0,Excellent Course!,0,0,Vaibhav Yogesh Tiwari,59623178
+62576255~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595140255768,5,0,This is a very excellent python course that have a very clear lecture video and a very good material.,0,0,Chong Lee Ying,62576255
+65209559~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595139484381,5,0,Good course,0,0,Neha M R,65209559
+63352939~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595129699208,5,0,Its really helpful for people who wanna become with python. Tks all teacher for this course,0,0,Khue Le Huu,63352939
+30116400~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1595048749209,5,0,This course is great for learning concepts of python. It has great exercises.,0,0,Sankarsh P,30116400
+42765398~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594900608961,5,0,Excellent course! Very good practice tools,0,0,Hernan Martin Rodriguez,42765398
+64574684~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594878354572,5,0,"I extremely enjoyed this course. Both Steve and Paul are great instructors. This course clears your concept about files, dictionaries and sorting in python. ",0,0,Amrit Kunwar,64574684
+50264056~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594845595279,5,0,excellent resources,0,0,Natalie Saunders,50264056
+11261432~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594783071798,5,0,Excelent course for beginners,0,0,samuel cuevas juarez,11261432
+37788663~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594659017812,5,0,"Amazing course to be honest,learned a lot and also enjoyed along the way.The course material was perfectly structured. Looking forward to the further courses in this specialization.",0,0,Sudeep Kumar K V,37788663
+55904094~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594635752884,5,0,Very helpful ,0,0,Mohammad Jalal Khan,55904094
+35451812~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594608730929,5,0,Awesome course! It goes at the perfect pace.,0,0,Ajitha Kalidindi,35451812
+3110873~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594606648767,5,0,Excellent course. I love the lectures and exercises. Thank you!!,0,0,Carlos Benjamin Honorio Briones,3110873
+55295307~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594549376698,5,0,"Excelente curso, contiene material de muy buena calidad, la plataforma para practicar es una maravilla ademas que se cuenta con interacción con otros estudiantes, recomiendo el curso",0,0,Oriana Pedroza Palomar,55295307
+60553895~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594538062276,5,0,I learned a lot from this course. Thanks teachers. I plan to pursue more of this course.,0,0,Ken Wood L. Segundino,60553895
+28903326~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594326249308,5,0,This course is quite interesting all the concepts were so nicely explained.I'll suggest you first go through readings then for videos,0,0,Ashish Santosh Tiwari,28903326
+61171129~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594221665046,5,0,Great this helped me a lot.,0,0,Stephen Dias,61171129
+38250598~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594219722060,5,0,"Extremely fun and challenging this, even better than the last one. The lessons on dictionaries were exceptionally good. The project was a little bit intimidating at first but once you know what to do, it's easy peasy lemon squeezy.",0,0,Abhinav Raj,38250598
+60972606~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594158366220,5,0,los mejores cursos son los de la universidad de michigan. Claridad conceptual y ejercicios para fortalecer los conocimientos de python,0,0,Sebasti�n Montes Isunza,60972606
+15266673~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594037368635,5,0,The Course content was light and a good start for Beginners...,0,0,bharath kumar,15266673
+47336594~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1594012873694,5,0,Very in-depth course content ... Simply Awesome !,0,0,Arunaggiri Pandian K,47336594
+32715520~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593982169250,5,0,this was a great course! I truly enjoyed learning.  Material and exercises are very helpful.,0,0,kostas gaitanos,32715520
+64374734~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593952421226,5,0,"This is a great course.  the explanations are clear, there are the interative page that allows us to run code and test many times what we have learned. I really like that the videos are not too long and we can do exercises watching them. I am learning a lot.",0,0,Christiano dos Santos,64374734
+62236306~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593936065908,5,0,good platform,0,0,Manjula,62236306
+53447188~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593927640193,5,0,A grest course as the first! I've learnt a lot and I pretend to continue with the following coursr in the especialization. Recommended 100%!,0,0,Brandon Raúl Zuluaga Peláez,53447188
+62641150~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593881321853,5,0,Este curso me permitio mejorar mis habilidades con python. Me permitio mejorar en como puedo solucionar problemas siguiendo un orden logico,0,0,Juan Sebastian Yule Giraldo,62641150
+53978361~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593861264172,5,0,Best Course for Python. ,0,0,ADITHYA PRADOSH,53978361
+42054258~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593836108087,5,0,Wonderful course with well structured material and presentation!,0,0,Teng,42054258
+62383192~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593787094417,5,0,good,0,0,maligireddy likitha,62383192
+27486852~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593714045624,5,0,Great Course. ,0,0,Ankush,27486852
+54711047~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593700541582,5,0,Really Awesome,0,0,Ajitesh,54711047
+64552386~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593518523182,5,0,This course is exceptional.,0,0,Toluwalemi Israel,64552386
+49039882~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593508497815,5,0,Great course to clear your basic concepts in python,0,0,Pushpendra Jain,49039882
+61248311~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593508433531,5,0,good course,0,0,Aminul Islam Saqib,61248311
+57296007~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593458503145,5,0,"Excelente curso!La actividad final permite aplicar todo lo aprendido durante el curso, ya que simula un caso real de manejo de datos. ",0,0,Felipe Aldana Bello,57296007
+44353539~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593427594800,5,0,This is a complete course!,0,0,Maria Clara Mendes da Silva,44353539
+48001684~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593347152558,5,0,THANKS FOR YOUR GREAT WORK HELPED ME LOT TO KNOW,0,0,Anisa,48001684
+57006583~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593290299955,5,0,"Excellent class!  I've tried other online resources to learn Python, and this learning specialization on Coursera is easily the best.",0,0,Ryan B Goebel,57006583
+48506708~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593275729972,5,0,"I had already taken two graduate school courses in Python, and yet I still learned a lot in this course",0,0,Robert Fischer,48506708
+63746560~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593213780925,5,0,"A very interactive way to learn complex structures like functions and dictionaries in Python, and hands-on exercises manipulating files. Great course!!.",0,0,Angie Carvajal,63746560
+59108344~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593168424642,5,0,Very nice small project with peer review at the end of the course.,0,0,Frank Ruschmeier,59108344
+24051939~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593141447014,5,0,good,0,0,Li Ke,24051939
+41619661~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1593082521464,5,0," Good course, had a great hands on practice with the Runestone Notebook Environment.Appreciate the efforts of the instructors and whoever has designed in making the course and helped delivering it.",0,1,SAPTARSHI DAS,41619661
+7299629~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592991990386,5,0,very articulately explained,0,0,Sourav Ghosh,7299629
+30812924~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592924001286,5,0,Great course! Definitely recommend it! ,0,0,Maria Eleni Naoum,30812924
+62877344~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592907193907,5,0,"The course goes on a prefect pace with great in depth insights and knowledge. Great instructors and course material with practice tools, interactive textbook, and exercises are the perfect way to learn programming.  Many examples to follow through and sense of logical reasoning is also included for each examples.",0,0,Jinesh Shah,62877344
+48247271~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592857789785,5,0,Best online python course I ever have.,0,0,jaid jim,48247271
+41705107~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592793422461,5,0,The lecturers did a good job explaining everything in great detail.,0,0,Hector Vergara,41705107
+27058635~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592693366863,5,0,"Great course! Why? Because of the combination of videos, runestone environment and practice quizzes. It is a great course for anyone who want to learn Python programming",0,0,Alexandra Kafka Larsson,27058635
+56063354~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592559529628,5,0,AWESOME :D,0,0,Mainul Islam,56063354
+21698836~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592319109650,5,0,This course is very practical,0,0,Arthur Cho Ka Wai,21698836
+60253713~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592298576115,5,0,Amazing ... Good Start need for beginner ,0,0,Sowmya Kulkarni,60253713
+43889525~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592212167596,5,0,Covers all the important topics. Great one!!!,0,0,Ayushi Mistry,43889525
+3320164~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592167885860,5,0,It was an interactive and informative experience of learning python.,0,0,Pramod Haribhau Kachare,3320164
+57169305~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592123506395,5,0,excellent,0,0,Mrutyunjaya Behera,57169305
+14115429~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592044043662,5,0,it was an excellent course,0,0,Basset Naoura,14115429
+60937270~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1592004623679,5,0,best course ,0,0,Nirbhay Garg,60937270
+24387242~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591928012948,5,0,El curso es muy completo y consistente me ayudó a comprender cada concepto para desarrollar el proyecto final de manera adecuada. ,0,2,Jose6alejandro,24387242
+56769582~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591900301900,5,0,buenas cosas en el contenido y una explicacion muy buena de parte del equipo de profesores,0,0,Fabian Camilo Heredia Rodriguez,56769582
+42894870~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591894570772,5,0,"Everything is nice in this course, easy explanation, sufficient practice exercise and complete theory for better understanding",0,0,Umesh Kumar Paikra,42894870
+23516968~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591856165388,5,0,very good course,0,0,echochio chio,23516968
+60477662~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591803777330,5,0,Runestone environment developed by UMich faculty helped my learning to great extent! easy to use and comprehend. ,0,0,Srushti Shetty,60477662
+58135129~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591784399072,5,0,it is a very good experience during this courseit helps a lot,0,0,PANCHUMARTHI MAHESH BABU,58135129
+19369601~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591735718557,5,0,"Great Course I've learned a lot. Good level on the assignments, some were very challenging but manageble",0,0,Markus Schultz,19369601
+9575632~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591628677232,5,0,Awesome Course,0,0,Rajan saha,9575632
+27795095~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591582983487,5,0,Great!,0,0,Oleg Andriychuk,27795095
+59014814~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591580554158,5,0,This course was good and really i got better understand . Thank you sir  and Thank you for Michigan University .,0,0,RAMKUMAR R,59014814
+41581352~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591544637577,5,0,"Love the format, the tools provided, and the focus on practice!",0,0,N. K. Weis,41581352
+57048384~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591534530353,5,0,Good course. Learnt a lot of things,0,0,Shriniwas Shankar Uplanchwar,57048384
+25820469~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591525577882,5,0,The course content is great and the instructors are brilliant because they can illustrate the course content to people with basic knowledge and make them understand every single detail. Thank you for explaining in a very simple way and giving us such assignments to check our understanding and engage us better in deep learning.,0,0,Sara Taha,25820469
+8053876~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591467226881,5,0,"This course is well prepared and it worth hard working, you will gain great experience",0,0,Mohammad Abdraboh AbdAllah,8053876
+46403367~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591426971827,5,0,very good course ,0,0,Prajwal V,46403367
+4416856~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591397874214,5,0,Very challenging but rewarding journey! ,0,0,Zekarias Weldegiorgis,4416856
+45624328~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591368171709,5,0,Excellent course.,0,0,Andy Hawkins,45624328
+44272232~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591323522469,5,0,"
+very interesting
+
+",0,0,Gonzalo Alexander Morante Ortiz,44272232
+59608343~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591303535968,5,0,Very detailed course. The Last graded assignment was best and gives you a real taste of the kind of work one can do!,0,0,Shubhangi,59608343
+50151471~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591290573246,5,0,It helped me a lot as i had many issues with functions and files,0,0,yash verma,50151471
+48298556~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591282214598,5,0,"The Runestone plateform is sometimes not working and the revision feature crashes a lot. Moreover, I wish there was a book to revise some things... other than that, it is a great course and you do learn a lot. The lecturers do a good job at explaining.",0,0,Ines Steiner,48298556
+31305742~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591264670605,5,0,i loved it ,0,0,Anshuman Biswal,31305742
+48919121~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591262598538,5,0,Great course structure and teaching! It was a wonderful experience through the entire course.,0,0,Pavan Kiran Reddy,48919121
+56713131~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591253707995,5,0,its a great course.,0,0,Palak Aggarwal,56713131
+47530373~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1591017213678,5,0,cool,0,0,A-011 Shantanu Yelmame,47530373
+39838472~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590876555564,5,0,Very Good Introduction with function and Dictionaries. Love the way they try to teach!! ,0,0,Fahim Rahman,39838472
+60912649~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590844424793,5,0,Nice Course,0,0,Palak Agrawal,60912649
+46948786~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590806345634,5,0,This is the course for beginner CSV data analysis!,0,0,Evan Carpenter,46948786
+50592663~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590770024901,5,0,Very helpful and informative. The assignments were really really great,0,0,Mashfiq Shahriar Zaman,50592663
+44384612~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590726642206,5,0,Super cool Course. Great content. ,0,0,Herath Mudiyanselage Charuka Nishala Kulathunga Bandara,44384612
+44082129~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590708952651,5,0,This course was great. I learned alot and my concepts are very clear now.,0,0,Mursaleen Ahmad,44082129
+34570361~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590643547618,5,0,Challenging but sufficient for a beginner/intermediate coder.,0,0,Joe Keller,34570361
+57403185~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590479109332,5,0,"Great course to develop on the fundamentals of Python Files , Functions and Dictionaries.Course pacing is perfect.The practice tools and assignments provide  great assistance in understanding the concepts.",0,0,SUGANDH D NAIR,57403185
+51495010~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590422695695,5,0,useful,0,0,KAVIPRASATH V,51495010
+49765652~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590375977967,5,0,"Really,such a wonderful course it is !!..and IDE tool is more impressive.",0,0,DODDAKA NAVEEN KUMAR,49765652
+44387071~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590275063078,5,0,This is a very nice and practical course. I found the final assignment very challenging but I liked it a lot,0,0,David Andres Gomez Arango,44387071
+49118511~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590248586794,5,0,"great courses: provide very useful knowledge about functions, dictionaries and basic skills for files creation  ",0,0,Oleksandr Kalinichenko,49118511
+59712643~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590151317289,5,0,Great learning experience from this course,0,0,Aninda Dey Sarkar,59712643
+48877886~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590140440280,5,0,very nice course and very interested subject,0,0,Ujjval Kumar sinha,48877886
+15258255~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590069552435,5,0,"Very Detailed, Very Good!",0,0,Soham Shevade,15258255
+53501574~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590054487244,5,0,Very Informative course. very well taught,0,0,Shashwat Prem,53501574
+35368630~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590039361156,5,0,great one!!,0,0,Kalyani,35368630
+59729715~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1590035102901,5,0,The interactive text book was very very helpful,0,0,abhinandan s,59729715
+38138582~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589859456508,5,0,Excellent course material and course instructor. Definitely I'll try to finish to finish the specialization. ,0,0,Shahriar Hasan Fahim,38138582
+695335~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589733003775,5,0,This course provides a solid grounding in Python and I managed to finish the whole course within a week. It was both engrossing and enjoyable.,0,0,Ve. Elanjelian,695335
+55856173~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589731361875,5,0,the final project is the most interesting part of this course,0,0,Rajdip Saha,55856173
+54235991~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589726563558,5,0,The course content and the instructions was awesome and the step by step approach of guidance in the project helped me a  lot in the fact that I have learned how to approach any problems statements.,0,5,Annamalai I,54235991
+54560610~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589710326862,5,0,"This course is great, helped me to understand the working of dictionaries and files better. Also eventhough Iam a computer science student this is the first time I am hearing about a nameless function which I think is going to be very useful.",0,0,Savio Sajan,54560610
+36563250~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589664214237,5,0,"Although learning to code can be very challenging and frustrating, the professors at MU make it fun with their pun jokes and easy with their lessons.",0,0,Gonzalo Conde,36563250
+28303852~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589628413542,5,0,The course content is organized in an orderly fashion and its much easier to understand what power and simplicity Python has to offer.,0,0,Haasha Bin Atif,28303852
+59510705~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589618857250,5,0,Good course but a bit slow,0,0,Manav Bagga,59510705
+43012339~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589598054372,5,0,it is a good series of class and it helps me to learn a lot of things,0,0,Liu zeyuan,43012339
+59346233~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589537660634,5,0,Very Nice Course....,0,0,SUPRIYA  SUNIL KADAM,59346233
+47859776~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589537332424,5,0,"It was an amazing experience in learning. Thank you, Team.",0,0,KANTARIA DIPABEN MEHULKUMAR,47859776
+60264378~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589510362261,5,0,很可以了，越来越好,0,0,汤潘锐,60264378
+55907989~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589465186622,5,0,good,0,0,Bhargavi Vemula,55907989
+60266984~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589458720122,5,0,thank you ,0,0,Rahul Bhimani,60266984
+54558846~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589449288570,5,0,Very Good. :),0,0,Wiyada Yawai,54558846
+49623044~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589364791027,5,0,Great course!,0,0,Catherine Martinez Freire,49623044
+59515687~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589352871155,5,0,"Loved the course curriculum and lot of exercises to practice  although it was tough during the project making . Any one should try this course to gain insights to  Files , Dictionary .",0,0,Amanullah Shareef,59515687
+43050233~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589263748577,5,0,A challenging course which taken in the right spirit has a lot to offer.Keep learning Keep growing,0,0,Yogesh Sureka,43050233
+58910938~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589143604738,5,0,Thank you so much to every faculty member of this course.,0,0,Ridhwan Hossain Afridi,58910938
+36836512~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589123223467,5,0,What a  brilliant course. I thoroughly enjoyed it. ,0,0,Javed Ahmad,36836512
+56713572~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1589020021815,5,0,A great boost toward Python programming for beginners. Felt very much interactive while doing the course until its completion. ,0,0,sharath pukkalath,56713572
+54954118~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588872484931,5,0,Really well structured,0,0,Shivang Singh,54954118
+25027168~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588853234257,5,0,it is a really good course. Help me to understand python more than any other course I have done. Especially as a beginner. ,0,0,Saurabh Bhardwaj,25027168
+47278290~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588763640265,5,0,nice,0,0,Rishita Singla,47278290
+54982715~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588751745188,5,0,Its really a great course to deep dive in python core of files dictionaries etc.. The lectures are too good . The way they teach is really good,0,0,PALLI PRANATHI NAGA SAI,54982715
+55964839~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588742055858,5,0,very good,0,0,venish patel,55964839
+53221902~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588709224181,5,0,"It was enjoyable, and I learned a lot :)",0,0,Esra Issam,53221902
+36035781~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588613046628,5,0,Very clear. Videos and the interactive textbooks are both pretty useful.,0,0,Jin Huang,36035781
+33636166~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588588092678,5,0,Awesome,0,0,Rifat Rahman,33636166
+2387466~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588539122629,5,0,Great Course,0,0,Saood-ur-Rehman,2387466
+57150758~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588483850646,5,0,This course is super!! I highly recommend everyone to take it! Many thanks to the instructors and my peer  assessors!,0,0,Simao 'Alice' Chen,57150758
+47373268~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588426778518,5,0,it's a very good course with a good Explanation and gives a maintained time to Read and do the Exercise.,0,0,Brij bhushan Maurya,47373268
+49985898~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588271628112,5,0,"  This course and the balance of courses 1-4 of the specialization were fantastic - I would highly recommend each. Course 5 (the capstone project) was an abomination. Basically zero instruction / guidance and very frustrating for anybody except decently experienced programmers. If courses 1-4 are your only exposure to Python, you could easily spend a month or more on this project. If getting the Specialization Certificate is very important to you, there are resources online that you can leverage to complete the project but that is done largely at the expense of any real learning, so I really hope UofM comes up with an alternative final project that is more consistent with the level of expertise attained in courses 1-5 (maybe something on implementing classic algorithms?).   ",0,1,Alexander Amy,49985898
+38559207~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588262016385,5,0,Excellent basics and very smooth transition from the easier to the slightly complex concepts. The way they were explained made this an excellent course and any beginner can be confident coding in Python.,0,0,Pranay Verma,38559207
+6372478~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588228168522,5,0,Its good for the beginner like me!,0,0,KAIWUSAIER ABUDULA,6372478
+54910249~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588166106567,5,0,Nice. Keep it up,0,0,Pushan Paul,54910249
+48924593~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588146714003,5,0,"This course was a bliss to complete. I loved the way it takes you through the various concepts. The tutors make it so much happening that you will not feel bored about it, especially Paul Resnick's jokes, haha you can giggle for minutes .Thanks to all the tutors and Coursera for making such a course. ",0,0,Tushar Srivastava,48924593
+19550146~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1588046950704,5,0,"Interesting, deep and serious lessons.",0,0,Oleksandr Yakovenko,19550146
+42304772~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587999006590,5,0,Great Course,0,0,Rahul Khairnar,42304772
+50119404~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587965778532,5,0,Gud..,0,0,AMARA VENKATA VYSHNAVI,50119404
+47339574~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587914304262,5,0,One of the best course.,0,0,SHUBHAM KUMAR,47339574
+38237725~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587907738975,5,0,"It was an amazing , yet basic & necessary course by UMICH.",0,0,Shankar Hariharan K,38237725
+12079593~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587879262724,5,0,Lucidly explained concepts with illustrated examples. Clears the fundamentals in a good way,0,0,Partha Mishra,12079593
+4464938~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587836379359,5,0,well structured and great content with assignments,0,0,Pravini Fernando,4464938
+951705~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587827389126,5,0,Excellent course for anyone looking to learn the basics of Python and how to manipulate objects and files. Highly recommended. ,0,0,Michael John Casciato,951705
+5910713~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587814767919,5,0,"An Excellent Course, really helpful!",0,0,Binyan Constance Lu,5910713
+54029554~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587802853224,5,0,There are many things new to me! I am going to apply them in my own lessons.,0,0,Євген Гаєв,54029554
+27919337~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587673760370,5,0,Thank you! The last assignment has really been great. The overall course was amazing. It's simple and starts from scratch and builds you up slowly. Thank you. ,0,0,Bassem Adel ,27919337
+52629602~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587622586442,5,0,"  This was a super-fun course! The materials were very easy to follow, and delivered in a very friendly and engaging manner. I highly recommend this course to anyone just getting started in programming.I feel incredible that I knew almost nothing about programming just a month ago. Now I have done two of the courses of the specialization and I can actually understand other basic codes. Great course!  ",0,0,Shubham Thakur,52629602
+4043987~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587603212739,5,0,I enjoyed the final project !,0,0,Xinyuan Gu,4043987
+55811678~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587578458702,5,0,"Great interactive course. The online coding platform makes learning easy and convenient. Teachers are very good as well, thoroughly explaining topics and giving lots of examples.",0,0,Luis Fernando Rodriguez Cabrera,55811678
+46326390~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587505528245,5,0,"In this course, I have learned about the importance of the user defined functions, to reduce the length of the code for a complex problem statement , and also learnt how to create and operate on files, and this course helps me to learn about the importance of Dictionaries when multiple types of Data has to be handled when solving a real time problem.",0,0,Ramesh Kumar Sunkara,46326390
+47686207~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587443444336,5,0,"Muy útil y didáctico, fácil de seguir, fácil de entender  100% recomendable",0,0,Boris Pinto,47686207
+40376526~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587438955795,5,0,"Great course, very well explained the concepts of function, files and dictionaries.",0,0,Vishal Sharma,40376526
+44971210~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587420702539,5,0,Great course !!,0,0,Renato Ulloa Sepulveda,44971210
+49555503~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587374717289,5,0,very useful,0,0,陆成禹,49555503
+18747866~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587223320301,5,0,"Amazing course, you won't believe your skillset in writing code after this course. ",0,0,Hussein Ahmed,18747866
+50101201~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587059180651,5,0,Great course! Thank you all! Thank Uni of Michigan!,0,0,Ying,50101201
+7732325~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587058932215,5,0,Excellent course with enough practice material.,0,0,Vaibhav Vashistha,7732325
+54391605~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1587020403738,5,0,great learning,0,0,Nikileshwar Kanduru,54391605
+54642725~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586992900601,5,0,It is a very good course following the Python Basics course and the last project was just awesome! It helps provide encouragement to continue programming,0,0,"MOHAMMAD TAWSIF HASAN, 180021235",54642725
+42339957~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586962524963,5,0,one of the best specialization for beginners,0,0,Pusarla Bhaskara Sai Kumar,42339957
+54360978~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586781453095,5,0,Well organised course ,0,0,Hariharan R L,54360978
+47489449~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586720343875,5,0,"Gives a good introduction to the basics of reading and writing to data files, using Python dictionaries, and writing basic functions.",0,0,Jamie White,47489449
+48632191~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586703811558,5,0,Great introduction to functions and different data structures within Python! Gives you practical skills which you can use to make real-world (small) scripts to improve your workflow.,0,0,Muhammad Ali,48632191
+2788360~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586693148952,5,0,"It was a good course because of the concepts addressed, pretty much what the title says. The only constructive thing that I have to say is that the course can be improved by adding more challenging problems, because at some point they become repetitive.",0,0,Nicolás Sebastián Vidal,2788360
+4573449~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586518353680,5,0,"This is a great course, I've learned a lot from this course. What made this course great is that students could follow the instructors and do basic practises along the instruction. Lots and lots of basic practises solidified our learning. For example, all kinds of loops, string, list, dictionary etc handling take time to be proficient. You can understand these simple concepts by only watching videos, however, it takes lots of basic practices to really master. I took other python courses before, and I quickly forget everything because these courses lack the most critical part: many and many basic practices.After all these practices and assignments, the final project looks like a piece of cake. Thank you UMich team. You guys are awesome!",0,1,jie,4573449
+44693166~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586410525461,5,0,Worth of giving of time!! :),0,0,Rahul Tandon,44693166
+24417546~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586359060473,5,0,"A great course for learner not only to gain some basic python skills, but also learn to do some research whenever there are additional knowledge needed for completing exercises or project.",0,0,Kuan-Chih Wang,24417546
+50154847~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586317817629,5,0,Very Useful,0,0,SHAIK HEENA FATHIMA,50154847
+299054~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586265384331,5,0,Great interaction. Good assignments and practice work. The right pace.,0,0,Indigo Slim,299054
+50150755~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586232542963,5,0,"FIRSTLY,I WOULD LIKE TO THANK ALL THE INSTRUCTORS.THE WAY OF TEACHING IS EXCELLENT.I LIKE THIS COURSE.I THINK IT WILL HELP ME MORE FOR LEARNING MORE PROGRAMMING LANGUAGES.I LIKE PROFESSOR STEVE ONEY AND PROFESSOR PAUL RESNICK LECTURES.ONCE AGAIN I WOULD LIKE TO THANK PROFESSOR STEVE ONEY AND PROFESSOR PAUL RESNICK  FOR INSTRUCTING ME VERY WELL.",0,0,PANIDAPU HIMA CHANDANA,50150755
+50882336~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1586102490891,5,0,very nice,0,0,B Lakshmi Praveena,50882336
+34278462~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585851846387,5,0,"Great Course, I am definitely looking forward to the next one.",0,0,Muhammad Ali Murad,34278462
+14955592~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585806158804,5,0,"Great to shapen skills on functions, files and dictionaries",0,0,James Michael Santiago,14955592
+46522716~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585725324012,5,0,It is the best course to start with Python.,0,0,Monith Viswanathan,46522716
+26181815~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585637073815,5,0,I like course a lot and most of that is how they take your skills to above beginner.,0,0,Abuzer Bin Rasool,26181815
+21771238~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585329184901,5,0,learned so much with this course ,0,0,Aloisio Pereira Junior,21771238
+12370420~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585299165343,5,0,A great basic course for any python beginner. Clear video explanations and very useful exercises to practice what you have learnt  ,0,0,Goh Sek Teng,12370420
+49102917~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585172677555,5,0,"Very good course. Good instructors and great production quality. The supplemental textbook is exceptional and adds far more value to the courses for those who choose to take advantage of it. Covers some of the more advanced areas of the Python language, and also shows some practical uses of these features. The final course project was interesting and that should provide a challenge but without being overly difficult.My only complaint, similar to the previous course, is that other than the final assignment it's almost too easy. I wish students were challenged more because it's when you are pushed to your limits do you learn the most. But not worthy of knocking a star off the review, it's still excellent.",0,1,Michael Koehmstedt,49102917
+50914290~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585081226330,5,0,Thank You Coursera for giving me a wonderful platform to  learn and gain potential.,0,0,Riya Srivastava,50914290
+7710796~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1585035133310,5,0,"Great explanations , good hands-on exercises, sometimes hilarious course by people that really care about what they're doing. Well done!",0,0,Wim Peers,7710796
+49509644~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584857772020,5,0,helpful and fun,0,0,Yuzhe Ding,49509644
+20432282~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584830073205,5,0,A very well structured course that teaches you a lot of fundamental programming structures and how they are implemented with python. I learnt a lot on this course and it's been very helpful. Looking forward to use this course and move on to the next one on the specialization !,0,0,Sai Vemuri,20432282
+50143629~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584752145470,5,0,Great course... has in-depth explanation,0,0,Duncan Yawson,50143629
+21118552~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584740442830,5,0,"A truly excellent course! I thouroughly enjoyed it, including the jokes!! Congratulations to the instructors!!",0,0,Spiro HABASCH,21118552
+8350856~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584587688070,5,0,"It's a great course, all the topics are well covered and explained in a excepcional way.The instructors and the course development are really good.",0,0,Klaus Hernando Rodríguez Cruz,8350856
+11236350~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1584213511319,5,0,Very good course. I enjoyed it,0,0,Prashanth,11236350
+26011212~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1583636272885,5,0,Good course! The Fopp is really helpful.,0,0,Chaoyi Wang,26011212
+49555187~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1583507863981,5,0,"Thanks Coursera and UMich for offering such a helpful series of Python courses. I am already a Python programmer, and I find it extremely helpful for me to go deeper in this language and learn something new every day.",0,0,Xiaojin Wang,49555187
+19294941~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1583328271031,5,0,Amazing!,0,0,CARLOS SILVA,19294941
+8864480~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1583036294501,5,0,Great course,0,0,Bing Zhou - Barrett,8864480
+44379096~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582895165813,5,0,"This leveled up my knowledge from basic python to intermediate, got to know about a lot of concepts",0,0,Aditya Sharma,44379096
+46259047~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582777799264,5,0,This course has fulfilled my expectation and I've learned a lot from this course. I will refer to this course with my friends who want to learn python. Thanks a lot for providing such a well-planned course.,0,0,Saiful Islam,46259047
+22325203~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582630480734,5,0,Good introduction!,0,0,Jacky Chien,22325203
+27563047~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582341013628,5,0,one of the best or probably the best Python programming course for beginners,0,0,Krishna V Kuppuswamy,27563047
+39171658~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582273833382,5,0,Really great content and useful practice questions.,0,0,Nalin Deepan,39171658
+798141~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582247081900,5,0,more thorough than the everyday python series. ,0,0,Alex T,798141
+22933088~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1582011888794,5,0,Excellent content ,0,0,Shoaib Zafer,22933088
+29787060~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581882767249,5,0,Excellent presentation. Very good method of peer review,0,0,Carlos D,29787060
+24261079~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581658012750,5,0,Usefullcourse,0,0,Zoltán Szigetvári,24261079
+10888752~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581319674367,5,0,Very well documented. Takes you through the concepts gradually.A must do for beginners,0,0,abhishek gupta,10888752
+19482044~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581250243696,5,0,"Superb, specially the interactive book is really awesome.",0,0,Jai Kishan Kumar More,19482044
+31981461~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1581240122511,5,0,"Overall is great, but 5 weeks is way too long, finished the course in one week (that's fast, given that I work full-time)",0,0,Konstantin Iurev,31981461
+1182119~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1580979224146,5,0,Highly recommended!,0,0,Aku-Jaakko Saukkonen,1182119
+48172722~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1580760868522,5,0,"Very comprehensive in explanation, practice and graded problems, and assignments",0,0,Shubhankar Kalele,48172722
+7973910~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1580735966041,5,0,Great follow-up on the first course. The final assignment is far more complex (as in having multiple stages) but still manageable.,0,0,Ondřej Hanzl,7973910
+175358~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1580356761154,5,0,I have been enjoying this specialization so far. ,0,0,Mohamed Saber Rizk Ibrahim,175358
+48039521~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1580265985911,5,0,"Great follow-on from the basics with essential information. Well constructed series, well presented lessons, with great practice questions. I feel a big step closer to writing useful python code.",0,0,Derek Nancarrow,48039521
+41723764~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579946232240,5,0,"Final project will test you cumulative contents learned from the course 1. By this time, you probably know that copy and paste don't really help. Try not too much use google. Once you write project on your code, you , you will definitely feel like you have made a quantum jump.",0,0,Howoo Jang,41723764
+17478003~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579845490763,5,0,Great module. Finally know how to handle some datastructures,0,0,Reynold Okudzeto,17478003
+12911855~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579789945959,5,0,Great course with lecture and good amount of exercises,0,0,thanhta,12911855
+45054522~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579234874521,5,0,great course!,0,0,Sadi Sonmez,45054522
+30218689~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1579195319450,5,0,good course and good explanation,0,0,손승건,30218689
+47551408~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578952246442,5,0,"The course is absolutely great, the materials and the exercises are just in place.",0,0,Miki Ter-Sarkisov,47551408
+6582355~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578719772750,5,0,All materials are correctly and mindfully spread throughout the weeks of study. Also runstone platform is extreamly helpful and crucial :) Thank you very much!,0,0,Altynbek Shaidyldaev,6582355
+9836401~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578546102782,5,0,the interactive book is very useful to learn and practice the material. This course is short but very informative,0,0,Debby A,9836401
+45148369~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578484346556,5,0,"Very nice course, it could be a little bit challenging if you have no programming experience, but if you have done the past course and you put your attention you will definitely be able to pass it.",0,4,Eloy Perdomo Díaz,45148369
+17870576~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578163563385,5,0,"A Great course, highly recommended , Never understood concepts that easy as i have with this course , High Quality",0,0,Abdelhamid Ismail,17870576
+19186208~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1578074967529,5,0,Final project in this course though a bit difficult was satisfying to complete. University of Michigan has the best online teaching program for Python using the Runestone interactive textbook.,0,0,Jonathan Fong,19186208
+15700378~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577722835425,5,0,"Great course, cleared my many doubts.",0,0,Minhaj Ahmed Ansari,15700378
+42062578~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577528867261,5,0,Really awesome,0,0,Ramesh H,42062578
+27938734~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577422865530,5,0,This course is awesome!!!,0,0,Vinit Vijaykumar Mahajan,27938734
+24109224~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577384359942,5,0,"Me gustó, bien estructurado y muy bien explicado !!!",0,0,Wilson del rosario,24109224
+47488135~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577327274350,5,0,great course!,0,0,William Peters,47488135
+39149127~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1577110528899,5,0,Very good course. Lots of practice and exercises. Also the final assignment puts most of the material together.,0,0,claudio culetto,39149127
+42237098~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1576873102452,5,0,Excellent course.,0,0,Ravi Teja,42237098
+46259508~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1576479579292,5,0,I've learnt many things from course.,0,0,Bahram Nabiyev,46259508
+3181707~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1576088067760,5,0,The final assignment is challenging but is just right. The prior materials prepare you well for the challenge ahead. I thoroughly enjoyed the course.,0,0,Jonas Hiu Fai Kwong,3181707
+21908967~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1575839730307,5,0,Very intuitive and puts to use all the concepts in the final project.,0,0,Michael Boyle,21908967
+5204395~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1575569265305,5,0,"Your method of teaching is very good, both in technique and material covered.",0,0,Warren G. Clary,5204395
+5137078~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1575112939362,5,0,enjoyed it!,0,0,Olga Uzyanova,5137078
+20381030~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1574878327361,5,0,Great Course!,0,0,Tafesse Alemu,20381030
+1050569~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1574797002305,5,0,"This is  an excellent course for learning Python in depth. This is much different than YouTube videos,  where you just follow along. You actually apply what you learn here with assignments, and it's much easier to get ahold of what's going on.",0,0,Sebastian Shaw,1050569
+38648379~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1574352530438,5,0,What a great course by the University of Michigan.  Thank you!,0,0,Steven Carton,38648379
+16242001~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1574292323371,5,0,great!,0,0,Nahim Olguin,16242001
+13027723~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1573857068233,5,0,"The course is well organized, the content is very consistent and the community at forum is great! Good place to learn.",0,0,Alberto Senna Dias Neto,13027723
+40544584~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1573126060337,5,0,The course met all my expectations and went beyond. The instructors' explanations were easy to understand and the innovative method of having a digital textbook was undoubtedly convenient. ,0,0,Billy Andriamahazomandimby,40544584
+45002222~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1573023448430,5,0,Very well explained!,0,0,Salman Ali,45002222
+40623285~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1572833681429,5,0,Great course!,0,0,James Combey,40623285
+23550660~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1572769976122,5,0,Exceptional course,0,0,Shubham Singh,23550660
+45120752~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1572747740668,5,0,Great course,0,0,Guillermo Kumazawa,45120752
+19253371~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1572547598380,5,0,"I am so happy for that conquer. Seriously. I took Python classes at college, it wasn't that effective at all. I had so much advance on this course that I am very interested in getting more advanced python courses. Thank you, Coursera, and my colleagues and Michigan University.",0,0,Keli Cristina Melo Alexandre,19253371
+7830647~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1571608558391,5,0,Very well structured course. Thank you! I'm on my way to complete the whole Specialization.,0,0,Frederic Coulombe,7830647
+38383305~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1571585276258,5,0,Excellent.!,0,0,Jose H Chiriboga,38383305
+38795735~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1571041464246,5,0,"Good course to get familiar with Python Functions, Files and Dictionaries basic knowledge",0,0,Yvonne ML Chau,38795735
+23815991~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570930212237,5,0,Clear and concise,0,0,Glenn Wooten,23815991
+5992656~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570660303289,5,0,Very good course,0,0,Ron Perrelli,5992656
+45163281~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570515132517,5,0,Things are getting more challenging and exciting with this 2nd course in the specialization. Topics build on previous lessons and apply them in more challenging ways. I'm really glad I took this series of courses to help me get the right skills I need,0,0,Jerbie de la Cruz,45163281
+3528800~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570468592776,5,0,"Great continuation of the first course. Clear, well-ordered lectures and practice-problems/exercises. Especially like the textbook as a companion to the lectures.",0,0,David Lopez,3528800
+24456~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1570463788392,5,0,The second course in the Python 3 Certification sequence.  The instructors are very experienced introducing concepts and then expanding on them to ensure you internalize the skill.  This is a hands-on practical course.  It is worth your time. ,0,0,Stephen Thompson,24456
+19046~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1569601370057,5,0,"This course is grear, as well as previous one in this specialization. I finally got how to use Lambda and Sorted functions. Love the interactive materials and all the practice questions. As always the more practice the merrier. On another note, this course need to be readproofed again - I saw many little mistakes here and there in the interactive book.",0,0,Tatiana Abdikeeva,19046
+42811373~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1569444132004,5,0,Now that I've completed this course and its final project I can confidently say I'm an advanced beginner and well on my way to being at an intermediate level Python programmer.,0,0,Mary Sachs,42811373
+7309052~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1569284955228,5,0,Great course for extending your basic Python skills.   I am much more comfortable working with files and complex sorting after this course. ,0,0,Timothy Lombard,7309052
+33282518~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568908782599,5,0,Excellent course!,0,0,Sandrine Poissonnet,33282518
+40151097~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568878939620,5,0,"Great course, recommend it for sure!",0,0,Elena Perez,40151097
+41974205~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568657247504,5,0,"It's amazing learn for beginner .A wonderful learning resource and very simple way explains everything . Excellent lessons ,check your understanding ,e-book ,practice, and quiz work and lot of thing",0,2,Subrata Guchhait,41974205
+17580202~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568219439495,5,0,Really good course on Python Fundamentals and Dictionaries. The data structures were well-explained. I have taken a few Python courses before even the very good one from Dr. Chuck Severance (Python for everybody) and this is the best one so far.,0,0,Iziren Okhamafe,17580202
+32242428~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568059617066,5,0,FBFBF,0,0,PhenoMenon Music,32242428
+43345026~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1568037369797,5,0,Thanks to creat this course For as.,0,0,Yuvaraj Pandiyan S,43345026
+16148019~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567963200258,5,0,"It is an excellent course!,Suddenly I was really programming in python, easily!!",0,0,Gabriel Reyes,16148019
+38309427~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567792028573,5,0,It is a useful Python course so you can learn a lot by coding.,0,0,Ufuk TUL,38309427
+43570810~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567541543998,5,0,"Great course, and the online textbook is a super resource.",0,0,Justin Pezzin,43570810
+28679224~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567144353779,5,0,This course will enable you to move from basic to a bit into intermediate level and believe me the material and the way of explanation is so simple that even a person with zero knowledge will be able to learn easily.One small thing wanted to highlight that while doing this course please give all your concentartion into this.Hope they keep on upgrading the course over the time period.,0,0,Debasish Poddar,28679224
+24485584~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1567060958900,5,0,"I Highly Advise anyone to take these Courses, they really Teach you how to think & Program Python",0,0,Olivier Rachoin,24485584
+42327767~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566693119889,5,0,very good,0,0,Chowdhury Mohammad Masum Refat,42327767
+15577602~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566664462039,5,0,The opportunity to do the hands-on exercises within the accompanying notebook is a very useful feature and it instills the confidence. ,0,0,Rahul Singh,15577602
+27263011~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566144629535,5,0,The course was very good and tutors were maintaining the interest levels and kept them increasing from one lecture to another lecture and made the learning process much interesting. Overall not only I liked the course but also loved it.,0,0,BRAHMESHWAR SRINIKETH,27263011
+24340440~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1566094865906,5,0,Great but should work well to complete final project.,0,0,Vishnu Maha,24340440
+35468081~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565950778496,5,0,its amazing learn for beginner . i am very thank full coursera and michigan family . but your support not easy possible  to learn python.........so  very very thank you,0,0,atul kumar saroj,35468081
+13599894~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565934473838,5,0,very helpful,0,0,Wood Zhang,13599894
+15837652~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565898773239,5,0,One of the best courses available for learning Python. Amazing!,0,0,Gildo Maiaia,15837652
+34757028~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565615473438,5,0,Excellent,0,0,Tammireddy Saikumar,34757028
+26961020~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565336201418,5,0,"This course will teach you how to write simple functions, how to work with dictionaries and files. And there are some good dad jokes in there as well. 5 out of 5",0,0,Lubo,26961020
+5965914~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1565237939957,5,0,A wonderful learning resource. So very thorough and explains everything. The lecturers are friendly and have easy voices to listen to. This is the best course teaching a programming language that I have encountered. Top recommendation.,0,0,Karen van Eck,5965914
+25020079~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1564928216656,5,0,Excellent course,0,0,LUIS HERIBERTO SANCHEZ URREGO,25020079
+26472445~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1564503772528,5,0,"Great course, challenging in parts and sufficient material to get through to completion.",0,0,Peter Justin Bellingham,26472445
+42719448~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1564050670297,5,0,"Great lectures. This course was good to understand functions, files and dictionaries. Besides, you can get practical skills thought the last project ",0,0,Seishu Miki,42719448
+5523544~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1563291040215,5,0,"Excellent lessons, check your understanding, e-book, practice, and quiz work.  This is not easy.  You must know how to implement the instructions and be a bit clever as well.  It is not perfect, but close enough.Only issues are more suggestions.  1. To have a Show Me and then get a new questions, when you are stuck.  The user blogs are only of minimal help. 2. To be precise in expectations - QA the requests for comprehension by students.  I found expert reviews to be of marginal help as they all have assumptions.",0,1,James Ulatowski,5523544
+43043005~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1563213844079,5,0,Great overall. Some of the exercise were a little repetitive. A few exercises might be essentially the same question just with different data/numbers. The course communicated the concepts it aims to effectively though. ,0,0,George McDaid,43043005
+13996537~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1563010834798,5,0,"It was my best studying, thank you!",0,0,Victoria Fomenko,13996537
+35601236~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562779724595,5,0,best!!!,0,0,Shubhra Bhunia Ghosh ,35601236
+8554922~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562684561062,5,0,"One of the best courses I have ever taken!I very well organized, teach step by step. Only thing I would request to improve is to add even more exercise since wring code is the best way to learn programming. ",0,0,RAKIBUL ALAM,8554922
+39033068~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562592421204,5,0,I loved this class. They cover the material is a slow and methodical manner. The instructors are clear and concise in their lectures.  I've learned a lot and look forward to finishing this specialization before moving on to more advanced Python classes. ,0,0,Phillip Dean,39033068
+43017072~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562426705510,5,0,good,0,0,Dao Xuan Hoang,43017072
+29398923~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1562166782052,5,0,Great Course! Awaiting more courses from University of Michigan.They deliver with real fluency and great interaction.Thank you for everything!,0,0,M Nikhil Kumar,29398923
+11949266~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561981754934,5,0,that's all ok!,0,0,Il Labiolettore Emanuele Arza',11949266
+41357551~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561652829792,5,0,"Teaching at the right speed, with the right tools",0,0,Benoit Rabu,41357551
+41176991~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561577568750,5,0,Full of glitches,0,0,Manik Mittal,41176991
+33766332~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561550888545,5,0,"very helpful course, thank you!",0,0,IM SANG HYEON,33766332
+21329475~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561510421781,5,0,One of the best online courses i ever had.,0,0,Yam Hon Lum Lester,21329475
+42098385~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561487488733,5,0,"Great Course, it's a good gradual increase in complexity coming from the Python Basics course.  I'd highly encourage anyone reading this to jump right in if they've finished the first course already (this is course 2/5)",0,0,Brian Carlson,42098385
+32674808~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561367178851,5,0,"I absolutely enjoyed this course. Not only did it help me gain an insight on Python files, dictionaries and functions, but it also helped me use these concepts smartly to create a project. A very well paced and well structured course. I would definitely recommend it to anyone interested in Python, and especially to those who have completed the first course of this Python specialization.",0,4,Jason Dsouza,32674808
+22410754~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1561215781606,5,0,very good course! explained the basic concepts so clearly.  ,0,0,Yanqing Hu,22410754
+35218964~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1560919263386,5,0,it is very nice better than every other online courses.,0,0,Manish Mandal,35218964
+21412306~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1560625221960,5,0,Great experience,0,0,Sri Thuraisamy,21412306
+22935884~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1560496948315,5,0,"Finally, some challenge!Sorting using anonimous lambda functions is awesome. Final project is a bit confusing at start, because it supposes some independence (for the first time in a course I had to google some information). I think, it's a good practice, because in the end you become more confident in yourself. ",0,12,Deleted Account,22935884
+34681762~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1560237128910,5,0,Ｉ　ｌｏｖｅ　ｔｈｅ　ｗａｙ　ｔｈｅｙ　ｏｒｇａｎｉｚｅｄ　ｔｈｅ　ｃｏｕｒｓｅ,0,0,fan,34681762
+6049712~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1559648398829,5,0,Love how the course is structured. Each video teaches one aspect of python with coding practice at the end of each video. Highly recommended!,0,0,Steve Lim,6049712
+16172693~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1559520684348,5,0,The instructors presentation is clear and concise. The pace is perfect for beginners in Python and the exercises and practice questions help reinforce the content in the course. ,0,0,Andy Sims,16172693
+3794746~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1559119032279,5,0,Excellent video's and practice opportunities. Make a copy of your assignment before clicking the Grade button because your work is not accessable afterwards. ,0,0,Ralph Van Schaik,3794746
+10355057~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1559076274707,5,0,Excellent course,0,0,Omar Ashraf,10355057
+27779629~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1558608860821,5,0,good for beginers,0,0,Sui Xiuxu,27779629
+40526713~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1558545333871,5,0,Excelente curso!,0,0,Lucas Panaro,40526713
+33204543~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1558466325166,5,0,I felt very comfortable with the pace of this course. Very well thought out and structured. ,0,0,Joshua Stewart,33204543
+18346948~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1558465577390,5,0,"Great course and excellent lectures on functions, files and dictionaries!",0,0,Charles Lenfest,18346948
+9113176~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1558054792820,5,0,"Very good interface really started to enjoy developing code in Python,only one thing I like to highlight is that the inputs for the final project i.e sentiment analysis were less,please modify that part a bit.Thank you all instructors...",0,0,Harsahib Singh,9113176
+32868908~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1557745562681,5,0,One of my favourite courses in Python. Great content and great staff.,0,0,Krishnakanth Allika,32868908
+22976737~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1557663336429,5,0,"Great progression of content from the first course and looking forward to the next.  The final project was a bit of step up in difficulty, but not impossible.  This specialization has been a great introduction to Python.",0,0,Ralph Pollard,22976737
+25516097~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1556888536582,5,0,I have already done course 1 & now starting this second one... Its really awesome course . I love this.,0,0,Habib Hasan Shakil,25516097
+40089858~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1555391647296,5,0,"Great Course and content, only the explanantion of the final test is a little bit confusing. ",0,0,Patrick Baumann,40089858
+22986239~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1555302252921,5,0,Very good course.  I would recommend to anyone  wishing to learn to program in python.,0,4,Timothy Potts,22986239
+38199859~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554675127276,5,0,"""If you want to learn the basics of Python3 programming as a newb, this is the perfect course!""",0,1,Napoleon Bonaparte,38199859
+28906916~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554554921566,5,0,it is great,0,0,Киба Володимир Юрійович,28906916
+32020808~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554418536983,5,0,"Very good course where I learned lots about dictionaries, tuples, functions and made my first project in Python.",0,0,Allen Farcaș,32020808
+16023130~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554412323947,5,0,Absolutely recommended.,0,0,patrizio simeoni,16023130
+37543830~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554410559963,5,0,Nice,0,0,Hongyi Pan,37543830
+40661044~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554219552034,5,0,This is the first course of mine in Coursera. It is very interesting. Thank you Dr. Chuck,0,0,Huy Nguyen,40661044
+35468379~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1554199050973,5,0,That's good,0,0,Ziqi Wang,35468379
+2587515~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553972381651,5,0,"Excellent course, I believe one of the best in terms of Python  explaining the use of functions in details, as well as common mistakes made during programming.",0,0,Mauricio Garcia,2587515
+38123117~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553890721429,5,0,I learned the most from this course.,0,0,Paul sherman Jones,38123117
+20187126~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553864981972,5,0,Really cool stuff.,0,0,mko,20187126
+37180373~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553840462026,5,0,Great Course,0,0,Akhil Panduga,37180373
+14396122~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553486691975,5,0,Great course with clear and easy to understand lectures !,0,0,Songly Hang,14396122
+12122829~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553280522541,5,0,very helpful,0,0,Bensaid Oussama,12122829
+30794600~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1553152365152,5,0,nice course,0,0,WeiDong,30794600
+28878220~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1552437870809,5,0,Great course.  Well taught.  Great problems and exercises to develop skills.,0,0,Gregory Trent,28878220
+23744169~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1552290016130,5,0,Excellent!,0,0,Juan Carlos Arganaraz,23744169
+27820832~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1552057074989,5,0,It was awesome. The assignments were so good. ,0,0,SaketKr,27820832
+1127443~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1551957272654,5,0,"Incredibly well put together course from UMich. I found the content to be between entry and intermediate levels. All the efforts that went into the preparation of this course are much appreciated. All details that were optimized such as pacing, consistent practices, ideal difficulty, fun factor, subjects, articulate explanations etc. made a huge difference in the MOOC experience. Many thanks again!",0,5,Umut SAGIR,1127443
+29977835~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1551392445131,5,0,Nice class,0,0,April Xiao,29977835
+36464026~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1551349129979,5,0,i like the first part of the final course project. expect you can't donwload the CSV file that you created,0,0,yangxin mou,36464026
+32680957~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1551342096485,5,0,Great Course and materials. The instructors are great and easy to understand even for a newbie like me,0,0,henloy ALMEIDA,32680957
+26657142~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1550506581132,5,0,Learned alot in this course. Helpful and well structured.,0,0,Abdul IA,26657142
+37984624~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1550474647896,5,0,Great Course,0,0,Paul Lopez,37984624
+25886862~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1550306579749,5,0,Nice course. Don't know why it isn't more popular.,0,1,Ravi Srikant Veturi,25886862
+6742768~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1550232695951,5,0,This was a very informative and enjoyable course,0,0,Chris Iddon,6742768
+39160979~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1549457214617,5,0,Learned  a lot. Engaging content. ,0,0,Shubhnay Jain,39160979
+38419225~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1549444884134,5,0,"very nice course the Project in the end was harder than the exams before, nice chalange.",0,0,Lukas Flucht,38419225
+32440900~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1549322685853,5,0,Very good course,0,0,Juan David Cabrera,32440900
+32626054~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1548608533192,5,0,"This course helps to understand how to use context manager to prevent you from forget to close files that are opened for write, nicely explains how you can iterate through files directly. It helps to understand why using a local variable inside a function is a good idea. Finally it helps to understand how to treat dictionaries and tuples. Overall, that's creates a great foundation for the subsequent course in the specialization. Very enjoyed.",0,0,Igor Fomin,32626054
+23468958~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1548355719409,5,0,Great Course!,0,0,Khalid Somer,23468958
+6754931~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1548310022597,5,0,easy to follow ,0,0,Jing Chen,6754931
+38241622~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1547350454632,5,0,Very cool and useful training program!,0,0,Mordechai Povar,38241622
+18963180~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1546668901882,5,0,This is the course to do because it makes use of spaced repetition learning - scientifically proven to be the best for recollection.,0,2,Michael Nurse,18963180
+2048735~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1546629528996,5,0,Very good instructors and a lot of exercises.,0,0,Klaus Gitschner,2048735
+5073923~COURSE!~Uw_dZt1UEeiKDQqUtLvFaA,1545658577887,5,0,Great course with a true hands-on approach,0,0,Javier Eraso Helguera,5073923

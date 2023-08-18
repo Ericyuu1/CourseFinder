@@ -1,0 +1,50 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+12840959~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1595594464746,1,0,"Очень слабые объяснения. Всё как ""магия"".",0,0,Задойный Алексей,12840959
+44366110~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591929677881,2,0,"The platform is really hard to use, the screen is small, and there're lags when I'm typing into the jupyter notebook on the virtual desktop. ",0,1,Zixiang Ma,44366110
+19232793~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1614315167717,3,0,"I do not recommend taking this type of course, take one and pass it, however after a few days I have tried to review the material, and my surprise is that it asks me to pay again to be able to review the material. Of course coursera gives me a small discount for having already paid it previously.
+It is very easy to download the videos and difficult to get hold of the material, but with ingenuity it is possible. Then I recommend uploading them to YouTube and keeping them private for when they want to consult (they avoid legal problems and can share with friends), then they can request a refund. ",0,0,Jorge García,19232793
+43812497~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1592548361809,3,0,Did not focus on the mathematics part of PCA. The explanation could have been better and easy to understand.,0,2,Pranav Deshpande,43812497
+48500045~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591196510822,3,0,"Well, this project seems to be very basic and can be created using WEBSITE LIKE:https://www.geeksforgeeks.org/principal-component-analysis-with-python/ ",0,0,Mohinder Sharma,48500045
+55268908~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1608000329565,4,0,This is a great way of learn through hands-on activities. The only inconvenient was the slowly connection to the Coursera project platform. Sometimes I couldn't work at all for a long time because my pointer got freeze. The idea of learning with the help of an instructor is excellent  but it just needs a better implementation. ,0,0,Carlos Chirinos,55268908
+38206829~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1601666359595,4,0,Very Good explained project,0,0,Baviskar Yogeshwari Sanjay,38206829
+67969668~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1596654657466,4,0,It's a good course for someone to try out his knowledge of the basic packages and the concepts and the maths behind PCA.,0,0,Alok anand,67969668
+39730155~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1592156794286,4,0,The course felt a bit too short and the time allotted for the guided project was barely enough to complete it in time leaving little to no room for thinking and rewinding the videos which made it a bit uncomfortable to take.,0,0,Vipul Pandey,39730155
+36733686~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591115202464,4,0,Nice arrangement of the content and best theme to know about how practically apply the machine learning algorithms,0,0,,36733686
+6930898~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591044376219,4,0,"Some places the code used could have been simplified to be easier for the learner to understand. For example: (eigen_vectors.T[:][:])[:2].T was used in the course video but it can be replaced by eigen_vectors[:, :2]. The second one which I used is much simpler and cleaner to understand.Thank You.",0,2,Rishit Chaudhary,6930898
+15878183~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591014324671,4,0,"Course is amazing, got many concepts clear, learned a lot. Would also be great if more than one datasets are taken as excercise. ",0,0,prashant patel,15878183
+40497158~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1590970257646,4,0,It was quite conceptional but the instructor made it easy for me to implement and follow along.,0,0,Sumit Singh,40497158
+59825897~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1589100250912,4,0,The instructor was good with explanation .,0,0,GUNDA NIKHIL,59825897
+59928768~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1589028495272,4,0,"Excellence experiece, good content for begineers, thanx coursera.",0,0,Ashutosh Singh Tomar,59928768
+116041337~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1677174843483,5,0,Good,0,0,BRIJESH SINGH,116041337
+47610374~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1605098267318,5,0,Thanks a lot Snehan .Learned  a lot .,0,0,Prajwal KV,47610374
+37020527~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1604514726448,5,0,It's clear for the new learner to follow up. Thank you.,0,0,LIN FAN,37020527
+4479256~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1604414764807,5,0,Excellent course and instructor.,0,0,Syed Ahsan Raza,4479256
+23885707~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1604120556346,5,0,Good Introductory project to gain insights into PCA using Numpy and python. ,0,0,Tanuj Agrawal,23885707
+32486628~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1601931651550,5,0,VerygoodGuidede project,0,0,TUSHAR SINGH,32486628
+38910969~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1601048148220,5,0,highly informative,0,0,rishabh mohan tripathi,38910969
+62045719~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1599757064110,5,0,Muy buena explicación para cada uno de los aspectos del PCA. ,0,1,Karina Rodríguez Barragán ,62045719
+62519579~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1599668382167,5,0,This is a great project. The instructor facilitates clear and practically.  ,0,0,Hector Perez,62519579
+61353823~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1598270767802,5,0,great,0,0,Raja Rama Gandhi Korikana,61353823
+63015356~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1597370748081,5,0,excellent.,0,0,ARUNAVA BANERJEE,63015356
+2891175~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1595736859473,5,0,Good Exercise to practice and understand a little better.,0,0,Jose Alvarez,2891175
+60561500~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1595356287704,5,0,Good project,0,0,ELANGOVAN K,60561500
+62231134~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1595053852007,5,0,"Instructor is amazing, explains the things very well",0,0,VIJAY KUMAR,62231134
+62972588~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1594728696036,5,0,Great course for beginners,0,0,ANURAG PAL,62972588
+59977647~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1594609416485,5,0,EXCELLENT,0,0,SASI VARDHAN THOTA,59977647
+45931782~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1594171385546,5,0,Thanks,0,0,Kamlesh Chhipa,45931782
+62401342~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1593798453483,5,0,very useful course,0,0,Gangone Riha,62401342
+62498054~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1593424637242,5,0,Good,0,0,p sandhya,62498054
+62517980~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1593361291834,5,0,good ,0,0,tale preethi,62517980
+38611675~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1593346715835,5,0,The couse was made very simple.,0,0,Sitesh Roy,38611675
+62240185~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1592309034878,5,0,nice,0,0,Vajinepalli suma sri,62240185
+34832361~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1592212228288,5,0,satisfied,0,0,Abhishek Prakash Gavali,34832361
+2343290~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591937028507,5,0,Just as simple as I needed!,0,0,Oscar Alberto Chávez Bosquez,2343290
+62310999~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591699345123,5,0,simple and an elegant example to understand,0,0,Dr.T.Hemalatha cse,62310999
+59163604~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1591693051317,5,0,This course is very useful in learning PCA,0,0,Dr. Chandra Shekara G,59163604
+60714965~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1590903121410,5,0,This is good course for beginners,0,0,Dr. Pravin Wararkar,60714965
+60127825~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1590583935092,5,0,Corso davvero utile e semplice.,0,0,ENRICA MARIA MALANNATA,60127825
+19755337~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1589305512958,5,0,Nice and Helpful course...Thanks to Team,0,0,Punam Patil,19755337
+37076296~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1587812719503,5,0,Very good explanation with demo. Thank you.,0,0,Jayasanthi,37076296
+21470768~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1587785560533,5,0,Learned Applying PCAConcise course.Liked the method of teaching.,0,0,Mayank Singhal,21470768
+135003~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1587312162878,5,0,Great experience,0,0,Hari Om Upadhyay,135003
+56760255~COURSE!~pGixsl9tEeqYZQ5OX9kR4w,1587198030392,5,0,Very Satisfactory,0,0,Kamol Debnath Dip,56760255

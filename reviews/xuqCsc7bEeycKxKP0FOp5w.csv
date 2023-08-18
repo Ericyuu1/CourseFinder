@@ -1,0 +1,7 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+109480524~COURSE!~xuqCsc7bEeycKxKP0FOp5w,1663183588402,1,0,"T​he UI makes it incredibly difficult to work with. So much wasted space on top and sides whereas the screen to work in is smaller. T​he instructor is slow and his clips aren't that informative compared to other courses I ended up taking because it just got boring. The idea of guided project is good, but the execution failed miserably. ",0,0,Suchal Riaz,109480524
+43377041~COURSE!~xuqCsc7bEeycKxKP0FOp5w,1658911029744,3,0,"The final reuslt did not work as shown although no errors were shown neither on IDE, node graphql server og Apollo client process in their respective terminal windows. Everything worked fine untill the last changes where we corrected the uri for graphql api. Then the localhost:3000 showing up momentraily and vanishing away - very bizzarre situation and no way to troubleshoot this!!!
+
+For this reason it will be nice to download the code locally at my machine to run, adjust, change and learn from that  will be essential next stage, donot you agree ?
+
+kind regards,Kamran ",0,0,Kamran,43377041

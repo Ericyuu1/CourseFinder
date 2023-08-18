@@ -1,0 +1,6 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+196887~COURSE!~w51yI5JLEeutdhLeSmY08w,1676845877832,1,0,It is just reading to a code and neither  running nor showing the results!!,0,0,Sadegh Faraji-Dana,196887
+102904338~COURSE!~w51yI5JLEeutdhLeSmY08w,1672207713422,1,0,"waste of time, the code given doesn't even work",0,0,Brian Bergmeyer,102904338
+94948597~COURSE!~w51yI5JLEeutdhLeSmY08w,1652828739366,1,0,T​he code is broken,0,0,Динара Липинская,94948597
+77773270~COURSE!~w51yI5JLEeutdhLeSmY08w,1647629450152,1,0,"The code does not work, the instructor does not run the cells in notebook and there is no visualization of the results. There is nothing related to OCR, it is just an introduction to CNNs using PyTorch.",0,0,Bruno Pellanda,77773270
+17568469~COURSE!~w51yI5JLEeutdhLeSmY08w,1630753415321,2,0,"Lots of code. But it's unclear how to generalize it to other image recognition tasks. No EDA. No visualization of data or results. The completed project isn't included, so instead of focusing on annotating the code - you first have to type it in, and as the lecturer correctly states multiple times - it is important not to make any typing errors. ",0,1,Yaron Klein,17568469

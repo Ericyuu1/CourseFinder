@@ -1,0 +1,189 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+8251977~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609886205710,2,0,"
+Simple course. A very simple course. Too simple course. There are very few practical works and they are too simple. There is almost no description of the features of the application of certain techniques. I am disappointed
+
+",0,0,Ann Antonova,8251977
+64507661~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609348440857,2,0,"Libraries are not explained properly, looks like its just code walkthrough,",0,0,Varun Sharma,64507661
+31689225~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606084863004,2,0,"The course is basically a presentation of semi-digested Keras tutorials, sometimes outdated. No depth and no real-world experience were communicated. The notebooks are mediocre, lazy and minimalistic, here-they-work-here-they-don't. You will not use them for your portfolio. I wouldn't call  this course ""advanced"", it's rather a shallow overview of advanced techniques.        ",0,17,Irina Gruzinov,31689225
+71419865~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1644600971239,3,0,Too easy tasks. This course can be passed in one day easily,0,0,Грачев Денис Игоревич,71419865
+89059290~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1635941559313,3,0,"An interesting perspective, but the assignements modalities are a bit too easy.",0,0,Federico Cozzi,89059290
+87363760~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1627037952802,3,0,Just an overview straigt from tensorflow documentation without any practical use cases or anything that has more value than completely free youtube tutorials,0,0,Artem Martus,87363760
+10857714~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1618522728487,3,0,"The content is very clearly presented, but is very easy. Also miss a real-world challenging application exercise. All in all, too short, too easy for an ""intermediate"" level course.",0,0,José Lima,10857714
+238026~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610009542466,3,0,"I expected more, but maybe this will come in the following courses. Anyone can subclass Layer/Model with a short stack overflow post. But how do I loop a special fitting procedure? How do I make TF take into consideration external variables? What about some more complex loss functions with TF math operations? What about sparse input?",0,3,Giora Simchoni,238026
+89868165~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1671975539659,4,0,"Concise and simple, but I would liked to see more depth and more exploration. It touches only the bare ground and it is a really short course.",0,0,Antonio Corte Real,89868165
+7784073~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1665962995315,4,0,"A​ good course to refresh the DL concepts in Tensorflow language. It is still a basic course so don't expect novel ML material from it. But it's good to understand TF code that you many encounter and convert PyTorch code into TF. Combined with other advanced DL theory, we can write TF code which creates complicated models.",0,0,Amit Hattimare,7784073
+94104241~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1652105955560,4,0,A little bit too easy. It's too bad that the coding assigments are so easy and don't need any deep thinking...Nevertheless it's a good course and the instructor explains very well !,0,0,Thierry Ksstentini,94104241
+76575718~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1650775453034,4,0,The course is overall very good and helpful to help me build my custom Model Learn a lot of new concepts But there are also lots of grading errorAnd I personally found # Your Code start Here#  is annoying as I had to delete them first before I can code,0,0,Yuqi Wang,76575718
+43679568~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1648661694399,4,0,A little tedious course but overall a great one. I think after going through code some more times the concepts will seem fairly easy.,0,0,Nakshatra Garg,43679568
+15380502~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1637886824734,4,0,"In general, the entire course is well organized and boiled down to the most vital topics, so that the instructors could've given them in a given time. But, one thing that bothered me was the quiz. It's hard for me to tell that all quizzes were helpful for some of them were quite tricky to pick one answer or it was too specific or out of focus, in my opinion.",0,1,David Jung,15380502
+91409310~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1631415674904,4,0,​good course,0,0,Ian Simpson,91409310
+78313482~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1631270606693,4,0,One of the best course on custom Models and layers . As we all know importing a layer is an easier task it just includes a line but making our own models and layers is something which I always wanted to learn and I would like to say this course completely justified it ,0,0,mohit dulani,78313482
+19783330~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1623599566376,4,0,"The course is great for Tensorflow beginners. Unfortunately it provides only a superficial description of custom layers, covering only simplest one-line computations. Models covered in the course labs do not support summary() methods. I would like to know from the course how one would create full-fledged Tensorflow/Keras models that support all standard methods.",0,0,Alexander Obuschenko (mutexre),19783330
+4625400~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1620077392472,4,0,"some good stuff, but too short and pretty easy",0,0,David Rose,4625400
+68528074~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1618005268717,4,0,"GREAT ONE. You will be getting better in some things thanks to this course, like object encapsulation , remembering fowar and back prop etc. I still want more freedom trying to use this tools in a challenging way. Like Kaggle does. Its too much info to get it right and know one is worth using. I woudnt change what there is, but I would add a final lab with a more open ended result.",0,0,Ignacio Lanzani,68528074
+69004747~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610889665341,4,0,Very nice course!,0,0,JackT Tai,69004747
+40155585~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610025177387,4,0,"Ok, but Andrew NG Courses are much better",0,1,Igor Bartolić,40155585
+62766994~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609699626992,4,0,Very useful and complete course for those who want to go deeper into tensorflow tools for make customize models in their own problem.,0,1,Franklin Sierra,62766994
+45437693~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1608949031278,4,0,Very useful for developing our own networks,0,1,brahmendra,45437693
+3365516~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606852082706,4,0,"Interesting content in easy to digest sized parts. Maybe a bit too much repetation (lectures and coding screencasts). Some typos like units=""1"", which look quite amateurish. Homeworks were too easy. Too much fill this part kinda homeworks. ",0,1,Teemu Kinnunen,3365516
+1855974~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1605756026809,4,0,"The quiz questions seemed a bit fuzzy sometimes. For example, there was a question on why do we loop through the residual blocks and the answer was to reduce the network depth. What's the context of reduction here? ",0,1,Sayak Paul,1855974
+21723336~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1677272974474,5,0,simple and practical. 10/10,0,0,victor alfonso arias vanegas,21723336
+7450646~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1673878290457,5,0,"Great course, precise and concise. I love the way and the clearness, Laurence Moroney explains things (I found the short videos formulas to be very effective). I will definitively follow his other courses. Thanks Laurence!",0,0,Giuseppe Iannitto,7450646
+37180291~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1673707565706,5,0,valuable course to get some deep insights to tensorflow,0,0,Sandeepa Kariyawasam,37180291
+120567828~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1672555353158,5,0,Awesome ! ,0,0,Vijay Kumar Verma,120567828
+85219815~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1670204913581,5,0,"Thank you course team, you have helped many people in the world ！",0,0,liangyi,85219815
+117556141~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1668156108256,5,0,Very interesting and well-explained course.  Laurence is an amazing instructor and makes everything easier to understand and master. I definitely will be recommending this course to my colleagues!,0,0,Ferran Perez Gamonal,117556141
+97796276~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1668122942444,5,0,Thanks for your lectures.,0,0,Kyhoname,97796276
+101731123~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1667822360055,5,0,Awesome course,0,0,Jadesola Adedokun,101731123
+116691978~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1667759151524,5,0,"Great explanation of functional API and using classes to make complex models like residual or with repeatable parts. And a lot of other things which lead you to a better understanding of NNs, CNNs.",0,0,Andrii Shebeko,116691978
+64808504~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1666268786961,5,0,G​reat Course. Very concise and clear explanations and practical examples.,0,0,Oliver Grainge,64808504
+64858704~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1665941104806,5,0,G​reat course! Helps learn tensoflow  to the next level of customizing various componenets and optimization. ,0,0,Abhinav S,64858704
+102115991~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1665742486358,5,0,"A​mazing course. I had done the deep learning specialization before this to understand principles, so this course helped me implement those principles in tensorflow",0,0,Specialist in Failure,102115991
+95534950~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1665633772647,5,0,"T​he perfect amount of explanation, examples and hands-on learning to quickly get you applying TF on your own use cases.  ",0,0,Levi Kennedy,95534950
+5939884~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1663441363777,5,0,Great course on Tensorflow with Keras!,0,0,Ronny Mandal,5939884
+48584335~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1661481229221,5,0,Great classes teaching the step out of the basics with Tensorflow,0,0,Victor Dias,48584335
+95834558~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1660956676887,5,0,Great course!!!,0,0,CARLOS ALBERTO LOPEZ FRANCO,95834558
+48255069~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1660476845977,5,0,What a mastered lecturer is Laurence! Good luck for him and Coursera team,0,0,Mojtaba Abdi,48255069
+15796245~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1659198928344,5,0,It was a very useful course. Now I can build deep learning models with my desired architecture. I am also able to understand the implementation method of famous models like VGG-16.,0,0,Alireza Mogharabi,15796245
+15958190~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1657942617980,5,0,Awesome course,0,0,Shaun Sukgyu Koh,15958190
+27567117~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1656351426960,5,0,Exceptional and clear instructions,0,0,Kenneth Nicholaus,27567117
+40876108~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1656146255770,5,0,very excellent and effective and applicable teacher tech very well ,0,0,Amir Kheiri,40876108
+61583424~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1654823235761,5,0,Excellent course. Helped me to understand deep learning but it needs to add some clear class on model customization. ,0,0,Tamim Adnan,61583424
+41129604~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1653550857680,5,0,Great course with great contents. This course gave me a deep understanding of how things work under the hood in Tensorflow. I'll recommend this course for anyone trying to build deep learning models from scratch in TensorFlow,0,0,Ayobami Adebesin,41129604
+4034558~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1651674313007,5,0,Very nice overview that helps with fast start of some TensorFlow features,0,0,Jacek Brauner,4034558
+42032550~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1651569302733,5,0,very good,0,0,kingjs,42032550
+32109445~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1649863803157,5,0,V​ery beneficial.Rich in contents,0,0, Desiree Juby Vincent,32109445
+97893938~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1649326700282,5,0,Very useful for building our own network architectures specific to our purpose,0,0,Yagna Gudipalli,97893938
+99095127~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1649299633273,5,0,"Learning Points:- create custom layers, loss functions, callbacks",0,0,Cathay DST,99095127
+60993602~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1649174362486,5,0,Absolute gem,0,0,Abhisek Ghosh,60993602
+91320681~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1647831487304,5,0,Good,0,0,Lalatendu Panigrahi,91320681
+17655125~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1646215011262,5,0,"Very useful topics explained in a clear, complete, and rigourous  way.",0,0,Francesco Fedi,17655125
+88217104~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1645896443112,5,0,Mr Laurence is the best he develops my programmation skills ,0,0,Abdeldjalil Smahi,88217104
+30578993~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1645398169134,5,0,Muy buen curso sumamente contento de haber lo realizado!,0,0,Martin Torres,30578993
+5160753~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1645256126498,5,0,An excellent course to apply custom functionality on top of the quick and easy Keras infrastructure within TensorFlow. Highly recommend!,0,0,Chong Min Tan,5160753
+100732856~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1645145421119,5,0,"If you are looking for simple and clear explanations of complicated tensorflow topics with some hands on coding, this is the right course for you!",0,0,Parisa Pouya,100732856
+72651473~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1644898256642,5,0,1​. Course labs are well designed2​. Material covers real world problems3​. Course is well designed 4​. Instructors are very good in the subject5​. Teaching method is good,0,0,Sadaf,72651473
+69994521~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1644558125287,5,0,V​ery good course!,0,0,Parma Riza Ramadhan,69994521
+88757076~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1643717896074,5,0,"overall great course if you have solid foundation in tensorflow ,Don't be fooled by the easy assignments in week 1 ,because from there the course gets into object oriented programming with customization of a lot of things and you will encounter building the complex architectures",0,0,Abd-elrahman Soltan,88757076
+28213699~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1643036328455,5,0,"It is a great course, easy to follow through and so much to learn!",0,0,Vine Noble,28213699
+75616220~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1642524224625,5,0,T​his course is extrememly helpful to help me learn building custom model and layers,0,0,Yongji Wang,75616220
+32914519~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1641487774503,5,0,Very nice course,0,0,Rubén García Céspedes,32914519
+27825673~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1640979635239,5,0,This course is super concise and useful. I've never thought Tensorflow can be such flexible! ,0,0,Nancy Sun,27825673
+14931145~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1640705703183,5,0,T​he courses are really helpful in understanding the basics of how to build custom things with TF.,0,0,Akshay Kalra,14931145
+10509450~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1640238333057,5,0,The Course provides easy understanding to explore tensorflow layers and APIs to create complex models. The Custom Loss and Custom Callback features along with model subclassing will help students to build powerful models very efficiently.,0,0,Pranjal Joshi,10509450
+1879136~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1638915658124,5,0,"Very well design, easy to follow and with great depth of knowledge. Fantastic work!",0,0,sina chavoshi,1879136
+64533868~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1637331200528,5,0,very helpful,0,0,Hoang Dinh,64533868
+1427998~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1636748279012,5,0,"The first course of Advanced Techniques specialization is great! I was afraid it could be too difficult after finishing only the deep learning specialization. It is an overview of creating custom functions and models, someone might think the assignments are too trivial but I think it's great as the author explains the concepts in understandable way. More complex tasks would be overwhelming.",0,0,Ernest Warzocha,1427998
+24393318~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1636531749668,5,0,Great course to learn TensorFlow 2,0,0,李敬鑫,24393318
+61402286~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1634121647169,5,0,"Great course learned many new concepts on modeling , loss functions , model class . Highly recommended .",0,0,Himasha Jayawardene,61402286
+39360469~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1633792172275,5,0,f​antastic Course Teach you How u can use TensorFlow and Keras with Professional way so thanks,0,0,Abdelrhman yasser ahmed mohamed,39360469
+93836646~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1633437438896,5,0,F​airly good course for beginner,0,0,강스팸,93836646
+78831398~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1631946756054,5,0,nice course,0,0,Hùng Bùi Quốc,78831398
+73329950~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1631584096491,5,0,good tutorial,0,0,19020489 Nguyễn Hữu Vượt,73329950
+38361818~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1630677261608,5,0,"The lessons and examples are clear and entertaining. The overall content is interesting. The only flaws are the extremely detailed instructions and large code chunks provided in the practical tests. These help to concentrate on the topic, but tests result a little straightforward.",0,0,Andrea Ghirardelli,38361818
+49194742~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1630304688441,5,0,"extremely detailed course on how to use API functions, I found that the weeks in which week 1 is the most difficult with homework the following weeks they are too simple",0,0,quyet truong,49194742
+53574434~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1629924578454,5,0,Great course! Thanks,0,0,Olexander Adanikov,53574434
+25004793~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1629081338118,5,0,"C​urso Fantástico, mescla muito bem a parte pratica com a teórica. Parabéns!",0,0,Anselmo Mendes Oliveira,25004793
+66595513~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1628860150874,5,0,Best,0,0,Chamika Gangul,66595513
+74142825~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1628608952014,5,0,This course consists of good explanations and coding exercises. followed by not overly demanding practical assignments. It is informative and opens the world of Tensorflow models customization.,0,0,Magda,74142825
+6147790~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1628074519393,5,0,E​xcellent course! Thank you to the instructors and everyone which contributed to it!The theory is very well explained and I also had the opportunity to practice meaningful hands-on coding. It gives a boost to anyone wanting to work with more complex machine learning models.,0,0,Florian Cartuta,6147790
+36284174~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1627759307755,5,0,Great!,0,0,Ariz Mohammadi,36284174
+46067156~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1627565345841,5,0,Really Nice!,0,0,Farhad Abdi,46067156
+33116819~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1627325046603,5,0,fantastic!,0,0,phát trương,33116819
+14576739~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1626280741410,5,0,"Excellent course content, videos, labs and assignment with clear instructions or guidelines.",0,0,Rajendra Aparajit,14576739
+57714086~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1626180276707,5,0,Excellent Content and Easy to learn even advance things,0,0,Muhammad Arbaz,57714086
+47277452~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1626136466025,5,0,very usefull for me,0,0,Nguyễn Nhật Nam FX03667,47277452
+4079374~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1626047234820,5,0,L​ove it,0,0,Ariel Hernández,4079374
+40988656~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1625866771558,5,0,it was a very good course,0,0,NABHAN  TAWJIH YOUSEF,40988656
+50099065~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1625643746132,5,0,"T​his doesn't feel to advanced, but its a nicely prepared course. 
+I would like to have found this when I was getting into Tensorflow 2.",0,0,Merlin Schüler (mrschue),50099065
+33080126~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1625614356223,5,0,very nice,0,0,Javier Buitrago,33080126
+57032859~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1625276920097,5,0,Amazing course. The knowledge I gained from completing it will be crucial for my next research projects!,0,0,Alysson Machado De Oliveira Barbosa,57032859
+266246~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1625089632868,5,0,Shows the ease of developing custom models.,0,0,Amit Maitra,266246
+61706093~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1624959293049,5,0,very useful to implement our custom networks. Thanks for clear explanation and tangible examples,0,0,Deleted Account,61706093
+87164816~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1623059354846,5,0,"Very helpful, loved it!! Amazing Course!!",0,0,RINKI ARYA,87164816
+40087990~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1623013039741,5,0,"Very useful content, labs help to understand concepts and I have started using stuff I learned about custom models in my work.",0,0,Thomas Nilsson,40087990
+42340565~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1622934586080,5,0,"A​n amazing course! a deep understanding into customising layers,losses and models.",0,0,Vaibhav Bahel,42340565
+75842050~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1622807629727,5,0,PRETTY HELPFUL!!,0,0,Linzhi Xia,75842050
+20443920~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1622578956124,5,0,E​xtremely succint but yet had so many hidden gems explained very well.,0,0,Rajul Anand,20443920
+31853048~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1621688540668,5,0,Concise,0,0,Mogilevskii Konstantin,31853048
+85880406~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1621645157829,5,0,Excellent Course! A good add on for people who have completed TensorFlow in Practice Specialisation.,0,0,Manjunath S,85880406
+19829338~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1620393756457,5,0,Awesome Course,0,0,Yash Singhal,19829338
+81321869~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1619347797450,5,0,Well and Clear Organised content and very friendly guided labs.,0,0,Dina Lungu,81321869
+9249657~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1619191472338,5,0,My favorite part of this course and other courses in this and other TensorFlow specializations offer by Laurence and Deep learnign.AI is the recaps at the beginning of every video; He connects all the videos and concepts together and makes the learner understand where they are and where they're going and why.,0,0,Homayoun,9249657
+24542370~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1618490238609,5,0,Very well explained and structured course. You will learn to write advanced and object-oriented programming code using the latest TensorFlow techniques for building flexible neural networks architectures.,0,0,Boels Maxence,24542370
+2030496~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1618162693865,5,0,"It was a very good course, very clearly explained. The rhythm was not so high and I enjoyed the chance to go step by step going in deep in important concepts.",0,0,Luigi Saetta,2030496
+8656641~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1618162591140,5,0,Very great and up-to-date tensorflow 2.x content ,0,0,Yingding Wang,8656641
+16734969~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1617554715772,5,0,Good course with clear explanation ,0,0,Nguyễn Văn Thiện,16734969
+3340056~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1617265760996,5,0,"For a newbie in tensorflow, this course gave me the tool to custom the model. Compared to the previous specification ""Tensorflow Developer"", it is much more better",0,0,Stephen Nguyen,3340056
+60619015~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1617078337223,5,0,"I was looking for a course about this specific topics. Previous NN courses were cool, but I think they kep short on making more complex Architechtures, which is perfectly addressed in this course.",0,0,Diego Abraham Fabián Sánchez,60619015
+68869378~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1617035160186,5,0,Great Course !,0,0,Jorge Silva,68869378
+36286239~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1616825257787,5,0,perfect,0,0,omid Safarzadeh,36286239
+20725349~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1616681906188,5,0,Fine course.,0,0,Md. Farhan Israk,20725349
+30874449~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1616377401861,5,0,The instructors did e great job of explaining tensorflow advanced concepts as well as making the assignments simple to follow,0,0,Tung Nguyen,30874449
+59990042~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1616268210975,5,0,"The course is exceptional but I'll rather see more exercises for the students, just like common mathematics books have exercises at the end of it.",0,0,Diego Osorio Sánchez,59990042
+41287102~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1615944454263,5,0,Legendary,0,0,Bashar Alhusein,41287102
+32936720~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1615743227749,5,0,"After course, I can create your own custom model from research paper",0,0,Duc Anh Lam,32936720
+31026997~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1615154061513,5,0,"muy didáctico, gracias.",0,0,Carlos Chirinos Gmail,31026997
+54141127~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1614784653865,5,0,Excellent course,0,0,Abhishek Paul,54141127
+46190918~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1614693788669,5,0,10 out of 10,0,0,Socrates Mahfoud,46190918
+19692837~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1614536243863,5,0,This course was fantastic! Laurence and DeepLearning.ai team did great job. Definitely recommended.,0,0,Nikolay Stoychev,19692837
+37927768~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1614302652183,5,0,"thanks, simplified and  explained  concepts very well.",0,0,Mala Chaurasia,37927768
+81558811~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1614123685389,5,0,I must admit that it's better than I can imagine,0,0,Raziel Zavaleta Rodriguez,81558811
+39030924~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613942873919,5,0,Advanced technique explained very easy way. Very informative course,0,0,Leah Pattinson,39030924
+46066578~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613937826597,5,0,"The course is built really step by step with many clear examples and repetitions not only about tensor flow but also to improve the way one writes code, efficiently and clean. Quiz and Programming Tasks are not difficult as all is very well formulated and the clear. Check capabilities reduce debugging stress ...",0,0,Marco Zucchini,46066578
+79901742~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613743296349,5,0,Excelent information really interesting and helpful for developing my projects with Tensorflow!,0,0,Gonzalo Gómez Nogales,79901742
+79139331~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613562511868,5,0,excelllent course to understand tensorflow api,0,0,anand rahul,79139331
+40556854~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613539996398,5,0,"good enough but can be more complex, week 5 is a little bit useless in my view.",0,0,Liu Yibo,40556854
+64786438~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613446511748,5,0,"If you are going to be doing research with Tensorflow, you will most likely need this course. Functional API and custom layers, loss functions and models are essential for going above and beyond training MNIST classifiers and building something novel.",0,0,Ozan Gökdemir,64786438
+28066516~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613232689001,5,0,An Extremely Good Course,0,0,Dimuthu Lakmal,28066516
+19573323~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613146800210,5,0,Insightful. I like the built-up of the concepts and how the course was structured. ,0,0,Lois Anne Leal,19573323
+34149821~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613115007273,5,0,"
+Lots of very valuable TensorFlow materials to launch an advanced project and have more control over the models, layers, loss functions and callbacks. Exactly what you need to improve your skills in a short period of time. 
+
+",0,0,Петр Воротынцев,34149821
+29319363~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1613070331673,5,0,Great Experience. Learn a lot.,0,0,M. Atif Altaf,29319363
+6078862~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1612428605377,5,0,It is advanced TF specialization and the way contents are presented in the course are very systematically. Definitely recommended for developers already familiar with TF and wanted to explore further.,0,0,Nileshchandra Pikle,6078862
+80485847~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1612351188859,5,0,"It would be very nice if you were able to go from one fullscreen video to the next.As it is right now it requires 3 clicks to just resume, that could easily be done with one click.",0,0,Jonas Kleinöder,80485847
+51414550~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1612288996473,5,0,"Awesome courses, expanding the horizon of using TensorFlow for creating model, customizing, etc... Great!",0,0,Fahmi Jabbar,51414550
+39829435~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1612155533646,5,0,"Excellent introduction to customizing your neural network. its an eye opener for people who wants to have more customizable layers, loss function, callbacks and even the architecture itself. Also the instructor themself are amazing. I really recommend the course! definitely 5/5",0,0,Zaky Ahmad Riyadi,39829435
+6263626~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1611865172494,5,0,Excellent Course!,0,0,Aleksandr Sharikov,6263626
+34642843~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1611567368068,5,0,This is the first course in the Tensorflow series which brings something more than basics from open-source tutorials.,0,0,Yaroslav Khoruzhenko,34642843
+43025186~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1611403610988,5,0,Not an easy course to take but worth to relearning .,0,0,Ed Henry Caneda,43025186
+564205~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1611238508506,5,0,"Perfectly structured course with clear explanations and very easy to follow examples. Learned inception network structure, vgg, block based architectures, removed a lot confusion on I had on resnets that I learned earlier. I had some prior knowledge of functional API multi IO, but learning about model subclassing, custom losses, layers, lambda layers will make it easy to implement various custom model by myself. ",0,0,Asif Ahmed,564205
+33796329~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1611162689707,5,0,Best code explanations. Any beginner in TensorFlow/deep learning can follow this course. Bits and bytes of TensorFlow Functional API have explained.,0,0,Akhil Murali,33796329
+15823709~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610949017762,5,0,Thanks a lot!,0,0,Aleksander Zatserkovniy,15823709
+57604410~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610685854869,5,0,Wow! What a course it is! Amazing. Thanks to DeepLearningAi and Laurence for this course. But the mentors should be more active in the discussion forum. Not everyone is not comfortable with slack.,0,0,Pramit Dutta,57604410
+70746515~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610662795909,5,0,Great course with a well structured plan and flow between topics. I really enjoyed the way the programming assignments were delivered. Completing this course has made me eager to apply my new knowledge of the TensorFlow 2 Functional API to my data science pipelines!,0,0,Mohamed Marei,70746515
+32713923~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610610063545,5,0,"I enjoyed this course thoroughly. The video explanations were simple and easy to understand. I really liked the part where a video is dedicated to go through the code. Along with having hands-on access to the code which is taught in the videos, the assignments were also of great help for getting our hands dirty.",0,0,Akshay Krishna,32713923
+1791555~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610105541978,5,0,"Great course! Trainer clearly explains necessary features of keras, that are widely used. Very good code examples.Just one issue: a dataset used in week 5 is unavailable in early january 2021 -- at least couple of days",0,1,Dmitry Deryagin,1791555
+59706731~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610091564172,5,0,It was a very interesting course and the teacher delivered it very well. Thanks to Coursera and its members.,0,1,Imad yousafzai,59706731
+28003568~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1610029255952,5,0,I started this course with the intention of learning the syntax needed to implement VAEs. This course satisfied that requirement perfectly! Thank you :),0,1,Ryan Anderson,28003568
+42437720~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609991013789,5,0,"Great course for you who want to know how flexible Keras is. From this course, I realize that both Tensorflow & Keras are flexible and simple to use with.",0,1,Fadillah Ma'ani,42437720
+57199734~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609825296611,5,0,"Outstanding as always. Big Fan of Lawrence and andrew, both have changed my life. Thank you so much",0,2,Bhavesh Waghela,57199734
+17638151~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609608179289,5,0,Excellent course with great material. The videos explain everything needed to start coding.,0,2,Julio César Muñoz Benítez,17638151
+33929203~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609089204924,5,0,Very good instructor and very good topics.,0,2,Abdelrahman Ahmad,33929203
+20615197~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1609022470135,5,0,"The course makes some of the more advanced functionality in Tensorflow really accessible, and I think anyone serious about Tensorflow needs to take this course. ",0,2,Jay Reddi,20615197
+1228294~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1608963466153,5,0,"This course presented such timely and vitially important innovations in deep learning, that it is difficult to express.  While some of the material, was challenging,...it only illustrated the vast contributions of highly technical ideas that have come out of the development community.  I am grateful to have taken part and benefitted from this course.",0,2,Daniel Elisio,1228294
+44159219~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1608634368661,5,0,Powerful stuff,0,2,Tim Cvetko,44159219
+20061080~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1608609154943,5,0,"  It is an amazing course, great introduction of advance technique, specially functional APIs. Thanks again Laurence Moroney and Eddy Shyu.",0,2,Maryam Fatima,20061080
+73924946~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1608124193716,5,0,"Everything is very well explained, although programming exercises could have been more challenging.",0,2,Kaan Bıçakcı,73924946
+69129894~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1607965805390,5,0,"This course was fantastic! After learning about the functional API, I found tensorflow/keras are far more flexible than I had realized and am much more excited about the possibilities.",0,2,Eric Lownes,69129894
+25826583~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1607942273025,5,0,If you want to lead a happy and peaceful life keep learning. Deeplearning.AI courses are so beautifully structured and explained that I sometimes feel this should never end. Learning from the deeplearning.AI course gives me immense pleasure. ,0,2,Vishnu Dutt Pathak,25826583
+19762125~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1607649448779,5,0,Good to get deeper into some custom tensorflow techniques. I would also recommend the book by Aurelien Geron which has a nice chapter about this also.,0,2,Santiago Ibañez Caturla,19762125
+63205814~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1607238699273,5,0,"Yes, we do need this course right after the previous specialization to master TensorFlow. ",0,2,Minn Bo Bo,63205814
+44306580~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1607220122159,5,0,"good course , thank you deeplearning.ai !!",0,2,Orson Typhanel Mengara,44306580
+26509891~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606926990134,5,0,Very happy with the course. The examples are clear to learn how to really take advantage of the  flexibility provided by tensor flow and Keras.,0,2,Cristian Silva,26509891
+38021481~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606843470799,5,0,Excellent introduction to the subject of custom layers in Tensorflow . Shows much more flexible methods for coding Tensorflow models in a way that previously might have required a switch to PyTorch to achieve ,0,2,Bernard Fromson,38021481
+77029987~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606470537043,5,0,"Very nice course, learned a lot! ThanksSome recommendations:In my opinion, the course is not the number of hours that were given for it. I'm not a super experienced Deep Learning practitioner but spent around half of the time that was givenSecondly, the microphone of Lawrence should be checked, in the far background, there are some 'crunchy noises' which can be a bit annoying.",0,2,Sieds Minnema,77029987
+590765~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606350247910,5,0,Loved it!!! What I like is understanding the concepts and how it ties together without getting needlessly stuck in some Python heavy exercise. The knowledge acquired will help me to mess around and have fun with Tensorflow2.,0,2,S Sahu,590765
+68537322~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606316138666,5,0,"To the point, crystal clear, very good course. Please make a pytorch version of this course. ",0,2,Ram Kiran Kesana,68537322
+42282555~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606301471378,5,0,"Really great course, it teaches you all about the TF  API and how to customize it for your needs, i thought only pytorch can make that as it's really pythonic, but i am a nieve noob what can i say.",0,2,Moustafa Shomer,42282555
+64606068~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606212404791,5,0,Lawrence you are just awesome !!,0,2,onkar subhash patil,64606068
+4272623~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606177730180,5,0,"Such an awesome course. The examples given are just to the point. Can't thank enough Coursera for providing such a lovely platform and Laurence, what an amazing instructor.",0,2,DEBASHIS GHOSH,4272623
+66405169~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606170841448,5,0,"The course is very helpful for building sophisticated models, and also provides in-depth understanding of model architecture.  And as usual, Laurence Moroney did a marvelous  job in teaching such a complicated topic in a fun and exciting way. ",0,2,Quazi Rabbi,66405169
+24708894~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606156096901,5,0,Excellent course!!! very well explained,0,2,Enzo Damian Gianotti Masny,24708894
+65711773~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606044632157,5,0,Great course to learn how to use Tensorflow to build flexible model,0,2,Lam Tung,65711773
+46824214~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606010180542,5,0,"Great course to get hands dirty with functional api, custom loss functions, custom layers, custom models, and custom callbacks! Thank laurence moroney sir :)",0,2,Shaik Sameer,46824214
+31028066~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1606000126618,5,0,  One of the most useful and enjoyable course that I have ever finished   ,0,2,Daniel Díaz,31028066
+43240410~COURSE!~ckmH4bJfEeq29BI3aSBwNw,1605929683013,5,0,Great Content. You need some prior experience of TensorFlow to do his course.,0,2,Isuru Sudarsri Alagiyawanna,43240410

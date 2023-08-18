@@ -1,0 +1,486 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+109173238~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1677575398243,1,0,Cannot access resources after completing the course,0,0,"Vincent, Chea Zern Hong (vincentcheaz)",109173238
+83179594~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1624391005922,1,0,"Although there are engaging lectures, they skip over all interesting technical detail to focus on philosophy (and of course lauding Google).  Philosophy of data analysis is all good and well, but there is no technical instruction to go with it. Quizzes and labs stress technical details for which there is no instruction.  Readings are a hodge-podge of unlabelled links with no prioritization or curation. Labs take 15 mintues to start up, and then have 1-2 hour timeouts, at the end of which you lose all work you have done. There is little to no instruction in the labs: the only way to do them is either already understand what their topics (making them pointeless) or to quickly google up answers to technical questions, and blindly run functions (which is also pointless).I have no idea how this course sequence was ever rated as an interesting one for qualification. ",0,1,Nathaniel Tagg,83179594
+7852864~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1604422268971,1,0,i cant un enroll,0,1,Avula Agasthya,7852864
+42012062~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565984190152,1,0,"""Short History of ML"" was good, if kind of light. The rest of this course is flaming garbage. Zero topic organization. Material is poorly explained. Labs are poorly detailed and in some cases don't work out of the box. Seriously, skip this course and take Andrew Ng's instead.",0,0,David Stein,42012062
+90401~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1561244826139,1,0,The notebook based demos are unfortunately pretty useless as labs. All of these courses would be much improved with real labs that require the student to build the system.,0,0,Mike Weber,90401
+38615886~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554971292391,1,0,Pros: Tensorflow is an excellent framework for deep learningCons :1-  The way this material is designed is 10 X SHIT2- Either teach properly or don't teach at all.,0,0,Arman Ahmed,38615886
+13548857~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1550409498144,1,0,I'm not able to access the video lectures even though I purchased and completed this course 6 months back,0,0,Praveen Kumar M.,13548857
+12370448~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1542088437039,1,0,This is the most superficial course I have ever taken. I just waisted my time. ,0,0,Ehsan Fathi,12370448
+16976796~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541458556098,1,0,Too much scary information provided at once combined with the mindbending sql queries and data parsing,0,0,Diretnan Domnan,16976796
+20937256~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535854195186,1,0,Did not learn much!  Poorly instructed courses.,0,0,Chi Shing Sum,20937256
+11274688~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535103108906,1,0,"The videos are ok, the ""Labs"" are really bad. You just follow  instructions with code to copy into the notebook. Of course, you can  play a bit with the code, but you don't really learn how to do it  yourself when the correct answer is already filled in.  Would not  recommend.",0,13,Dirk Kulawiak,11274688
+87324~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533753175362,1,0,not well structured and lack handouts,0,0,Karim Elgammal,87324
+1630551~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531930819504,1,0,Labs vms are to slow.  Speaker is difficult to understand.  Mic varies and speech pattern is not clear.  The presentations need some graphics rather than a guy talking.  Sketch out the ideas on a white board rather than  talking 5 minutes to a single slide.,0,1,John Davis,1630551
+4472825~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531775546703,1,0,No hands on learning.,0,0,sasidhar movva,4472825
+17568469~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531587831598,1,0,It's unclear for who this course is meant. It mixes basics like train-validate-test with lectures that use machine learning terms that only have meaning to someone who has already knows ML terminology. If you're looking for a good introduction to ML - check out Andrew Ng's course.,0,0,Yaron Klein,17568469
+1083054~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527470685281,1,0,"looks more like a promotional course from google instead of an acutal learning experience.Also the labs have no data on the code used, it is assumed the learners are well acquianted with the technology used that is specific to google. ",0,1,Neeraj,1083054
+40027454~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1654451335488,2,0,Labs are slow and very shallow. Quiz questions are often either unclear - or the provided answers are simply wrong.,0,0,Anatoly Danilevich,40027454
+2074062~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1647007531213,2,0,At least make sure that all quiz questions have been mentioned in the course materials.stochastic gradient descent is ONLY in the quizzes...,0,0,Anton Rechenauer,2074062
+57839479~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1606001329290,2,0,"Someone really needs to proofread the quiz questions, and fix the links to datasets in the lab. Apparently some UI was decommissioned as of October 1st and the datasets don't open in the browser at all. Also, providing only 45 minutes to do labs where you need so much more time isn't helpful. Someone should fix the python code, too. It looks like it's using R conventions which is very confusing.",0,1,Muhammad Mustafa Majid,57839479
+29575910~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593440874846,2,0,These are plain lectures. Ng's are way better. ,0,0,Johny C,29575910
+27408910~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1583259411374,2,0,"The course content is fine. My big beef is with the last lab. Does not, will not run on loading the data. I experienced so much trouble that I looked into some guidance with the answer video. A character by character exact copy of the solution will not run to load the data. Total waste of time.Yes, I realize that I was ""cheating"" by using the solution as my input to the lab. But after having tried (and failing miserably) to get the answer on my own, and not even being able to get past the very first hurdle, I had to try to get something working. I soon found that it wasn't just my lack of experience, since the provided solution did not work either.",0,0,Edward Hatton,27408910
+1913152~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1571505308276,2,0,"Weak: Long on telling you how great google is, short on technical skills.",0,0,Sebastian Ruecker,1913152
+329729~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568643102398,2,0,It's covering a lot but brushing over things too quickly and using a ton of jargon. ,0,0,Kevin De Baere,329729
+9087014~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1553041222139,2,0,Maths and ML stuff are explained very poorly... very rushed and people speaking are clearly reading from a script which makes it difficult to understand and follow on =,0,0,Ragy Abraham,9087014
+37549258~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1550271670610,2,0,"The instructors were talking most of the time  in a monotonous way without showing proper slides or elaborating the materials. Overall it was a very poor introduction of the ML. The two labs were good, however it was surprising to me that they did not commented out the notebook codes!",0,0,Soroosh Rezazadeh,37549258
+32659576~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1548635845445,2,0,"The labs really just lay everything out for you, and don't challenge you to learn anything for yourself.",0,0,Sean Summers,32659576
+10474804~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1542307492707,2,0,No real implementation,0,0,Thomas Verguet,10474804
+23047158~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541801551177,2,0,Barely learn anything,0,0,Ligeng Xia,23047158
+26390085~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531419343413,2,0,labs not really useful,0,0,Francesco Cucari,26390085
+342352~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527530845128,2,0,"Google has clearly put a great deal of effort into constructing and polishing this course. However, the certificate is really nothing more than a participation trophy. I understand that putting the course materials (videos, demos, etc.) are time-consuming. An exceptional course, though, needs to actually test that the learner has, indeed, learned. When all of the labs/assignments require nothing more than clicking through them, they fall far short in this respect.",0,0,Brennon Bortz,342352
+30854464~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527016526086,2,0,"instructor more plain and hard to hear so many math concepts just with words not visual enough, seems like instrctor is not breaking it down like the first course.  ",0,0,Ronnie Rendel,30854464
+13099282~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1525175633959,2,0,The LABs in this course did not work for me. I was not able to open DataLab in my Lab sessions. This is quite frustrating to me.,0,0,Srikar Kura,13099282
+9164945~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1607986497740,3,0,Kind of tough for a beginner course. Lots of vocabulary to understand and some of the quiz questions were worded in a way that made it so there were more than one good answer to the question.,0,2,Josh LeMoine,9164945
+49178591~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1595857381982,3,0,"In the labs, I kept getting disconnected from the Jupyter notebooks, and had to keep reloading them.",0,0,Srinivasan Dattarajan,49178591
+57328977~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1590227697657,3,0,quiet difficult to undertand ,0,0,vishnu priya T.S,57328977
+46348812~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588189129595,3,0,Talked too much...more practical example step by step,0,0,Manuele Iannuccelli,46348812
+44585224~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587185801910,3,0,Too much content for just one week. Exercises solved and not made for students to resolve them. Suggesting more complicated tasks is not teaching.,0,0,José Carlos Luna Alcántara,44585224
+9179417~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1579098764348,3,0,This course is just ok. It is not interactive and I don't feel that I learned much when compared with other ML courses. ,0,0,Cooper Chastain,9179417
+14473792~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575089386213,3,0,I could only sustain it because I have completed basic ML courses earlier. Too many tech concepts & jargons overloaded in a very short time.,0,0,Anupam Singh,14473792
+20177913~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1569686338223,3,0,"The course is good, but I missed the hands on part. You really do not need to code. That should be changed.",0,0,Nils Witznick,20177913
+40987107~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568900003288,3,0,A bit difficult when introducing the ML history,0,0,Shawn Wu,40987107
+35315954~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565440854425,3,0,good course. but it is just like an intro regarding how to use google cloud platform. but theory part was decent. can give it a try. but lectures were really indulging,0,0,Venkata Sai Sumanth Guduguntla,35315954
+40331241~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1564251795432,3,0,"I feel that the flight and taxi cost estimation was kinda rushed. It was hard for me to follow. Ii having less knowledge about SQL was finding it to be tough. Before that, everything was clean and awesome. I think I have to revisit these courses after learning SQL better.",0,0,Anubhav Sinha,40331241
+35109361~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563690094713,3,0,It's not much helpful,0,0,Saurav Kumar,35109361
+27522577~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562790872113,3,0,"Contingency tables and ROC graphs were poorly characterized and presenter resorted to obfuscation to mask his unfamiliarity with this basic statistical concept. Furthermore, when the proposed task is to ""Identify pictures containing house cats"", correctly identifying a picture that does not contain a house cat (True Negative) does NOT count as a successful prediction. You are confusing sensitivity with specificity in your so-called confusion matrix.With respect to labs, you should warn students to leave their notebooks open so we do not have to reload everything. Also in the cab fare exercise the presenter did not elaborate on the fact that the RMSE's were higher than the predicted fare and mistakenly excluded time of day when in fact fares increase during rush hour.",0,0,Rocco Rossinni,27522577
+35980014~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1560527900415,3,0,Learning the approach was very valuable.  The exercises were just copy and paste of a bunch of code that it isn't expect we understand.  ,0,0,David Neely,35980014
+40312223~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555052845470,3,0,thank you,0,0,KimNamho,40312223
+3567688~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1548140536926,3,0,Very Basic again,0,0,Vinit Khandelwal,3567688
+5737353~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1546707205313,3,0,not enough practical content such as types of machine learning and different algorithms to be used etc,0,0,Pravin Arun Jagtap Deshamukh,5737353
+33067595~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1542248884892,3,0,"Some good material here, but at times it feels like an ad for GCP. And the labs are not very inventive. You just run a python notebook with canned stuff in them.",0,0,Matthew Raibert,33067595
+20390859~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1538963821433,3,0,"While the concepts covered were good and very valuable, I didn't like the lab sessions. Just having to walk through code is not a good way to get hands-on. ",0,0,Anand Hariharan,20390859
+30528462~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537694545888,3,0,"In The last lab, teacher says that there is 100,000 in data set , then we extract 10,000 from data set.But there is 1,000,000,000( I checked by '''SELECT  COUNT(vendor_id)FROM  `nyc-tlc.yellow.trips`'''9SELECT  COUNT(vendor_id)FROM  `nyc-tlc.yellow.trips)In that context, I think MOD(...)  meaning is totally different ?",0,0,Tomomasa Takatori,30528462
+27603093~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535538898954,3,0,It felt too hard. I liked because it gives a very good idea but the concept was too hard especially with the math involved,0,0,Nour Lababidi,27603093
+12282840~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535064261339,3,0,If you already know ML there isn't much in this course that will be value addition for you. ,0,0,Aseem Bansal,12282840
+8502729~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534842574457,3,0,"The course is ok. Several complicated concepts are expected to be known, other very easy ones are explained in detail. However in some phases too high level, I am definitely missing some course resources to work with.Was hoping for more hands-on experience.",0,1,Tom,8502729
+34678162~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533993686277,3,0,"Please add more content, don't make it just intro types",0,0,Prateek Dahale,34678162
+35360970~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532899624691,3,0,"The course is very well explained, but I was already aware of most subjects.",0,0,Fabrizio Federiconi,35360970
+11515808~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531687127273,3,0,There is a little more content here than in the 1st course.,0,0,Kevin Convy,11515808
+4665259~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1528727007268,3,0,Course includes good presentation material which unfortunately is not available to download.,0,0,Jon Burrell,4665259
+1246835~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1528510338176,3,0,"I've spent the past three years studying ML and AI starting from the ground up with Calculus, Linear Algebra, basic data science techniques and eventually Deep Learning. I am primarily interested in this specialization because I would like to begin using GCP professionally. This course provides a very quick surface level overview of the ""history"" of ML and the techniques that have been aggregated to make up the current cutting edge of AI in practice. Already having a grasp on many of the concepts, I was able to zip through this course in a few hours and found it basic. If you're looking for something a bit more challenging, I would recommend the DeepLearning.ai specialization also available on Coursera. This course works well as a refresher and a high level overview. If you are completely new to the field, be warned that there is quite a terminology to be unpacked that is covered more thoroughly in other courses on Coursera. The University of Washington machine learning specialization (though sadly cut short) would be a much better starting place, if you are completely new to the topic.",0,0,Jeremy Brown,1246835
+33339850~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527033203708,3,0,"Using hash function doesn't seem a good way to split the dataset:-You could discard a relevant feature-You will group data on a similar characteristic, which might not represent the population well-You don't have control over the size of your split since the feature will not likely be uniformly distributedCan't we add an index feature/column and do a modulo on the index?",0,0,Breght Van Baelen,33339850
+16873599~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1677488594137,4,0,Good but too much on vertex Ai and less on real machine learning,0,0,mrinmoy goswami,16873599
+12562483~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1668571764069,4,0,"in some videos, the volume of some instructor's was too low.",0,0,Fahad Asif,12562483
+46883374~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1652946022837,4,0,Would like to have had a few more labs in the last few sections.,0,0,Tyler Gohr,46883374
+13600014~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1628867730586,4,0,"Interesting course, and the technical details during week 3 and 4 were highly appreicated. The labs could have been a bit better put together, but all round happy with this course!",0,0,Christian Ryan,13600014
+87736464~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1625720363207,4,0,I would like to add more practice,0,0,Batkov Ilya Olegovich,87736464
+80784201~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1622661279708,4,0,g​ood introduction to loss function and performance metric,0,0,Thierry Pochon,80784201
+13247301~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1616190136378,4,0,"Muy bien explicado, los quices relacionados con los temas vistos anteriormente y los Notebooks",0,0,Diego A. Babativa M.,13247301
+27313250~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1606488447137,4,0,"I like this course, because it provide some basic example.",0,0,Yun-Chen Lee,27313250
+49612512~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1603647675684,4,0,"Good but does require quite a lot of knowledge of Python and coding, which was not exactly expected from the start (though it's a good balance between complexitx and ease-to-pass for the course even without this)",0,1,Luka Lugaric,49612512
+43667093~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1600329565595,4,0,Marvelous,0,0,Rohit Kumar Singh,43667093
+3185072~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1597449937068,4,0,"Like it a lot, but some labs were had confusing instructions.",0,0,Jorge Adolfo Ramirez Uresti,3185072
+28847646~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1596916096563,4,0,SQL queries in the qwiklabs demo needs more explanation,0,0,Ajay Deshpande,28847646
+21597266~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1596052338369,4,0,Quite complicated. Make sure you know your stuff.,0,0,Anish Kushalapa,21597266
+54616402~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1594487273676,4,0,a bit complicated,0,0,NIRMAL CHERIAN ITTY,54616402
+9728694~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593163249451,4,0,good,0,0,Carlos Pinillos,9728694
+6722723~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593127273124,4,0,"Very informative and well-prepared course, the only downside is, other than quizzes, there is no user input involved. Highly recommended nonetheless.",0,0,nuri karamollaoglu,6722723
+8164~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1592930407445,4,0,"Good lectures, but the labs are very directed which makes it hard to learn much from them.  ",0,0,Cathryn Symons,8164
+50193208~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1592887473060,4,0,Great,0,0,Rohan Maan,50193208
+15440003~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589658389813,4,0,An interesting overview which explained some concepts well - good as a refresher,0,0,Alex Chilton,15440003
+41418962~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589099893816,4,0,Found only loophole in the description of why rmse not used for classification but i guess that was my lack of statistical skills . Anyways Thank You Google.,0,0,Sarthak Khandelwal,41418962
+47217333~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588845437803,4,0,it would be much better if there is a section about bigquery and its syntax,0,0,Pavan elisetty,47217333
+54973096~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588741247618,4,0,Enjoyed Learning.....,0,0,Aman Pasi,54973096
+43297609~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588436310431,4,0,"This course gave me a practical understanding on how machine learning works , how an ML model can be optimized with minimum error and enhance the performance of the model in a better way . I like to thank Google Cloud Team who has taught this course in very interesting way and I'm looking forward to learn the next course of this specialization.",0,0,Sanjay Suman S G,43297609
+53831019~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587422918749,4,0,"Pretty good overall, missed the point of the labs a bit until I watched the review.",0,0,Edward Berndt,53831019
+8391935~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587339011338,4,0,"Great introductory to Machine Learning, although the history part is a bit overwhelming for me because he is using a lot of jargon and there is a lack of visualization. But, the rest of the course is great, especially about the sampling.",0,0,R. Komang Eling Pramuatmaja,8391935
+52343768~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587268523201,4,0,Un très bon contenu,0,0,Effi Mangoua Jean Mermoz ,52343768
+53880128~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587220435034,4,0,thank you,0,0,Saif  Ahmed,53880128
+45887489~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578582559643,4,0,Great to learn the ML !!,0,0,CY Ju,45887489
+9703266~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1577002886854,4,0,"Overall is a good course. I'll suggest to improve the algorithms description, also go slow in code deployed.",0,0,Franco Garrido,9703266
+40818085~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1572470422511,4,0,"Good course. Teaches some basics of machine learning. Thank you to Google for putting it together, and to Coursera for making it available.",0,0,Dimitry Ishenko,40818085
+22475206~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1571790499908,4,0,"overall very useful to get into ML world.But in the lab, couldn't run the re coded set as instructed. Thank you!",0,0,Taewoon Song,22475206
+22191758~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1570522712718,4,0,I hope for traditional Chinese ver. subtitle for those who are not good at English. ,0,0,令安 趙,22191758
+21430357~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1570095209196,4,0,High level of Machine learning algo and its implementation in cloud using Bigquery.  simple but required in upcoming courses. ,0,0,zios serc,21430357
+36715460~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1569914512432,4,0,Lesson Learnt: Best model might not be a good model in real world! Generalization is important!The labs had issue of disconnection. My jupylab notebooks were frequently disconnecting from the server and I had to manually reconnect them to kernel.,0,0,Shivam Kaushik,36715460
+42296462~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568645365010,4,0,very valuable,0,0,Richik Ghosh,42296462
+42254838~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567254577860,4,0,It is better to give an explanation in detail of the codes,0,0,xin wang,42254838
+25218592~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566789863550,4,0,Excellent One,0,0,Ahmad Taquee,25218592
+27254494~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566066041950,4,0,"I got a whole idea on how to work on data from scratch. Model selection, generalization, splitting of data and performance metric were few things I learned from this course.",0,0,Ankit Raj,27254494
+13810522~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565527232693,4,0,Awesome Experience.,0,0,Kaushal Kishore,13810522
+42083162~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1564142026201,4,0,The instructor made several mistakes in reading the code like when he read the size of the file and interpreted as the number of records. ,0,0,Ayman Salama,42083162
+23321272~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563806506436,4,0,Amazing to learn,0,0,Kunal Pitale,23321272
+39372552~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1560769419246,4,0,"wish they teach you more of the programming side of things and knowing exactly what and why to upload different libraries and or show us how to build these in the labs. Not the first ML course, I've taken but some new people may be a bit confused on the python / setting up / sql even if they have a general knowledge to python and sql. ",0,0,Matthew Bellantoni,39372552
+72674~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1560561920440,4,0,"some ideas discussed need further elaboration, and there should be a set of slides provided or notes that summarizes the key concepts.",0,0,Abdullah Kassas,72674
+40916663~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1559267084390,4,0,helpful to understand ML conceptually ,0,0,chang gou kang,40916663
+33193886~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556883933885,4,0,Phew ... that take a time to sink in but a good approach from google : ),0,0,Rahul Kumar,33193886
+40871077~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556724330625,4,0,책으로만 접하기 힘든 기술을더 가까이 접할 수 있는 기회가 되어 좋았습니다.,0,0,ohyesol,40871077
+40930607~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556698461202,4,0,very good. but difficult for me to absorb everthing,0,0,Sangjun Lee,40930607
+16190349~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556656818077,4,0,Good Course,0,0,Minwook Park,16190349
+40930506~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556642319555,4,0,GOOD,0,0,김세영,40930506
+40944774~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556633368440,4,0,"개념적 이해를 돕고, TensorFlow를 통하여 모델링 및 테스트를 직접 경험해 볼 수 있어서 좋습니다.",0,0,전진호,40944774
+16150707~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556549998076,4,0,goood,0,0,유혹의그랜저,16150707
+26656128~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556458549163,4,0,love you. I have got a new perspective on Machine Learning !! great!!,0,0,Mina Jin,26656128
+40937127~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556385715858,4,0,What an useful course it was!!,0,0,권형구,40937127
+36488751~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556351124595,4,0,v,0,0,loossy,36488751
+40097567~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556257025311,4,0,This course is more focused on technical side of using Google Cloud system.It would be better if students could do mini-projects so that we get used to handling GCS.,0,0,Seokchan Yoo,40097567
+40940923~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556202851213,4,0,머신러닝의 이론적인 부분부터 적용 예제를 체험해볼 수 있어 종합적이고 좋은 강좌라고 생각합니다.,0,0,Kay,40940923
+40915035~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556032883513,4,0,강좌의 내용은 매우 유익한 것 같다. 하지만 머신러닝에 대해 처음 접하시는 분은 이 강좌를 접할 때 어려움을 겪을 수 도 있을 것 같다.,0,0,백규렬(BAEK GYURYEOL),40915035
+23598907~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555933545873,4,0,good,0,0,송지현,23598907
+1207140~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555835017249,4,0,따라하기가 어렵다,0,0,Terry Lee,1207140
+19694602~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555765269233,4,0,Little challenging than the first part of the specialization but thoroughly enjoyed deep diving into understanding basic concepts of Machine Learning without being overwhelmed. Great for a person who does not have any previous knowledge.,0,0,Rohini Mohan,19694602
+40921087~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555761490960,4,0,중간 이후 부터 google cloud를 쓰는 실습은 좀 어려웠음. 좀 더 자세한 코드 분석에 대한 도움말이 필요함.,0,0,Seungchan Lee,40921087
+40916667~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555376774550,4,0,Was good. Thank you!,0,0,HYUNSANG HAN,40916667
+34083044~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555214265507,4,0,good class,0,0,Stephen Huang,34083044
+5453710~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554737082823,4,0,Tensorflow Playground is awesome to understand some of the theory of Deep Neural Nets !Theory on creating/managing models was good too.The labs with BigQuery were not that interesting too,0,0,Francois Ragnet,5453710
+16598011~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1551548040908,4,0,Everything worked great except the labs would not work. Had login issues. ,0,0,Hassan Hai,16598011
+39686476~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1551063552189,4,0,"Will be good to dumb it down further. The last part is good, the first two parts can have better examples and find easier ways to explain the theoretical concepts for folks who have not heard these before.",0,0,Rakesh Talanki,39686476
+26804803~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1549570788629,4,0,Good but a prerequisite statement of knowing SQL would be helpful,0,0,Marc Jäger,26804803
+25919381~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1549051321052,4,0,OK!!,0,0,Prasenjit Poddar,25919381
+38480691~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1548738615081,4,0,"This course provides a great synopsis of different machine learning models and their nuances. If you haven't seen machine learning before, you will probably need to go slowly and look up some of the concepts on your own. There are a lot of ML terms thrown around without any explanation, so be ready for that if you're new to this. The best part of the course was the Google TensorFlow Playground, where you can experiment with tuning neural networks to classify different types of datasets. The speakers in this course are all very good and the material is well organized. The reason for giving 4 stars is that the quizzes and lab exercises were much too easy, so anybody can get 100% for this course, which makes the grade (and passing score) meaningless.",0,0,Armen Forget,38480691
+2389348~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1548088046317,4,0,Very good introduction to google ML models and bigquery,0,0,Salamat Burj,2389348
+21574816~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1547396413218,4,0,"Nice course, kind of introductory but necessary for someone who has no knowledge about Machine Learning basics and most relevant algorithms so far.",0,0,Mario Rivas,21574816
+35880064~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1546405515272,4,0,"
+A teacher's presentation skill needs to be improved. His speaking sometimes is blur.
+
+",0,0,Zhenyu Wei,35880064
+25591817~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1544960411916,4,0,No course resources available.,0,0,Rohit Kumar Agarwal,25591817
+15385075~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1544344782390,4,0,It was quite an insightful and playful way to learn about how the world's biggest AI company deals with AI problems!,0,0,PLN Rahul,15385075
+9892054~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1542863968775,4,0,Theory is all good and important. Lab could have been made more challenging and not just mere marketing of Google products.,0,0,Afreen F,9892054
+33274343~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540125459214,4,0,great,0,0,KyeongUk Jang,33274343
+16857678~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1539944656262,4,0,nice intuition,0,0,Kimkangsan,16857678
+16099874~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1539236787478,4,0,"Excellent course content. Would be 5 stars if the labs forced you to think about how you could apply your theoretical learnings. Unfortunately, labs already have all the code populated, so you just end up running things with the illusion that you have understood everything. Give us labs that require us to solve a problem!",0,0,Evren Gursoy,16099874
+36092406~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1538388904084,4,0,good,0,0,Vinothini B,36092406
+17630332~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537652616586,4,0,"Very good course, but I did have some problems with how the instructors recommend reproducible splitting the Train, Validation and test datasets. By splitting on a date-hash you are not choosing a random sample. For example, in both the airplane and taxi example, If more winter dates were samples, we would expect more delays and longer taxi rides (and thus more expensive). Wouldn't it be better to split randomly, but reproducibly? In both R and Python SKlearn library you can 'set the seed' when splitting the data which seems like a much less biased and just as reproducible way to split the dataset. The other constructive criticism is to not give all the answers right away to encourage us students to actually write the SQL code (or at least part of it) ourselves. ",0,0,Ravi Patel,17630332
+35848606~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535743666211,4,0,I was initially considered that it was too mathematical. But you really don't need to understand the minute details and just get the concepts. good for someone like me that doesn't intend to code but be able to understand enough of challenges and the process for developing models.,0,0,Amir Yazdanpanah,35848606
+34531011~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535256718851,4,0,Very good course for beginners!-1 star because I find labs to be less informational and practical and course to be more theoretical that practical!,0,0,Abhishek Kumar,34531011
+34474997~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534948178579,4,0,Really Interesting Course.Just a bit difficult to use the virtual labs.,0,0,Attila Barus,34474997
+28087919~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534702848000,4,0,"Liked the way the datasplit using BigQuery is explained, but would appreciate if more references and links to explore BigQuery is provided at end of the video.",0,0,Gautam Shetty,28087919
+22222601~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534091263329,4,0,"Nice reviews and explanations, could be improved a little by ensuring students to write code themselves.",0,0,Sinan Gabel,22222601
+168432~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533911804932,4,0,"Detailed overview of Data Preparation for ML, however it just gives a walk through of  a single example on Big Query ",0,0,Aditya hrishikesh,168432
+35449195~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533736764176,4,0,"Not very academically robust, but a nice quick intro to some of the real concepts of ML.",0,0,Jonathan Ashbrook,35449195
+34071892~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532179877178,4,0,Great to get some theoretical background on machine learning as well as some practical experience,0,0,Peter Hartmann,34071892
+14389167~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531856334945,4,0,"Lots of interaction to put the theory into practice, nice!",0,0,Erwin Vorwerk,14389167
+20377329~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531613149664,4,0,It would have been better if there was a separate module with hands-on lab of SQL.,0,0,Hussain Shahbaz Khawaja,20377329
+34772424~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1531595483169,4,0,Great presenter. High energy engaging. The material is more difficult and to develop intuition of why the sampling needs to result in constant RMSE didn't come across.,0,0,Ashar Mairaj,34772424
+20736477~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1530506558171,4,0,we need more examples on precision/recall F1 scores..,0,0,Sandeep Kandekar,20736477
+19784800~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1530026006888,4,0,Starting assignment is a pain. AWS is relatively faster. Nevertheless good course.,0,0,Jitender Singh Virk,19784800
+34390294~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529972176662,4,0,"Overall it was great, and very instructive. However, the Short History of ML was a little bit confusing with too many unexplained words and too many details too early.",0,0,Phac Le Tuan,34390294
+22544350~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529556619997,4,0,History part was good.,0,0,Harsh Aggarwal,22544350
+4757065~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529227581026,4,0,"Some of the lecture has only talking, would be better if it got included more slides/reading materials.",0,0,Suresh Thiyagarajan,4757065
+19496384~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1528032276935,4,0,"Along with the complete codes, should also have some hands-on exercises for students to work on.",0,0,Hasan Rafiq,19496384
+30207728~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527306216620,4,0,Poor lab setup - have to repeat the step of creating a vm for every lab.,0,0,Andre Abramenko,30207728
+451589~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1526756262849,4,0,"Very useful intro to data processing, specially the hashing mechanism to partition the datasets.The last lab was confusing because the data might have some invalid value. in the jupyter notebook, the sin, and arcsin values were not getting computed (probably?) as I got warning from python .",0,0,aditya kumar,451589
+5149811~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1522692833005,4,0,"An interesting and short but intensive course. It introduces a lot of new (to me) tech such as Tensor Flow and Big Query. I learned a lot in a short time, but felt that if I hadn't already had a bit of a grounding in ML I might have been lost. During the course there were a few references to it being part of a specialisation, but I couldn't find what this was and it was not made clear before I signed up that this was the case. Perhaps that is why in the beginning it felt a bit like coming into something half way through, Overall then, interesting and useful, but would benefit from a bit of a clearer setup and explanation of how it fits into the overall Google cloud catalogue.",0,0,Tim Hammond,5149811
+120846629~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1673305660531,5,0,Lot's of quality lessons. I especially liked the labs for hands-on learning.,0,0,Timothy Abwao Musungu,120846629
+59453532~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1660228538415,5,0,G​reat place for starting your machine learning journey,0,0,Catur Wirawan Wijiutomo,59453532
+63567424~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1653246600469,5,0,Cool course that provides sources and tasks that helps learners to understand how ML models are trained and finetuned in Vertex AI.,0,0,George Dolias,63567424
+20536425~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1650637442639,5,0,excellent,0,0,Cheikh Tidiane Ba,20536425
+91960153~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1643643511723,5,0,Great course to learn Machine Learning!,0,0,Kent Tam,91960153
+91842197~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1641150210424,5,0,"Rated the course teaching materials, lectures, and labs as 5/5. The quizes are of a somewhat lower quality: 3.5/5",0,0,Aleksandr Rafalovich,91842197
+81769042~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1639569858619,5,0,T​hank you Coursera.T​hank you GoogleT​hank you to all intructors,0,0,Marwan Khalil,81769042
+87002995~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1629684093765,5,0,"Great course to understand the basics of ML, its necessary to continue with another courses to get the whole knowledge of ML",0,0,SANDRA CAMILA GARZON CRUZ,87002995
+47343942~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1628436798924,5,0,"Very intuitive, lives up to its name",0,0,Arbaz Ahmed Addewala,47343942
+86269756~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1626842486422,5,0,It was an amazing experience. The instructors were too good and the quality of lectures and resources is way more better. The course is good for anyone who is thinking of to get into ML domain. Thank You!,0,0,Prasad Hiwarkar,86269756
+87918668~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1626344144467,5,0,Explained well ,0,0,Shivakumar K (IT),87918668
+77512901~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1625632807914,5,0, Great intro.,0,0,David Thrower,77512901
+3299890~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1620163822121,5,0,"Just stick with it! The course is easy to follow, and the labs get you into tweaking ML related code without having to know the underlying math. LOVE IT!",0,0,Maurice Edwards,3299890
+76934142~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1611467953949,5,0,Google is the brain of computer worlds!,0,0,Ebrahim Daghayeghi,76934142
+78068511~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1611189214249,5,0,"Very detailed lectures with great, in depth labs with lots of guidance.",0,0,Smera Palanivel,78068511
+78616983~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1609994382014,5,0,Best Course for learning the algorithms used in machine learning. Starting from scratch you can be a master in machine learning after completion of course. Really enjoyed learning the course and I recommend you to take this course,0,0,Kedar Pathade,78616983
+2997309~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1609368609602,5,0,"Great course, thank you. However, there are some things that should be checked again. For example, there are some quizzes that have questions which answers are not in the videos. If those answers are in the readings, a better course organization should be useful to know this. Also, there are some parts in the labs that require also more precision in order to know what specifically is asked. ",0,0,Gilberto Huesca Juárez,2997309
+70573651~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1608765232040,5,0,The links to Big Query datasets need to be updated since they changed on Oct 1 2020,0,0,Chris Robertson,70573651
+30164623~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1606571262545,5,0,Bigquery labs are good,0,0,Rizwan Mohamed,30164623
+15674708~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1606500887092,5,0,Nice gentle introduction to ML and GCS tools to pursue data cleaning / intro viz.,0,0,Melissacrawford,15674708
+44550057~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1605950358941,5,0,"It's a good course on the principles required for the ML model building. Repeatability is important in machine learning and it can be achieved very well using BigQuery.After all, it's a course offered by  Google which has been outstanding in the deployment of ML models in every aspect of its product. Go for it it's worth.",0,0,Sarwar Alam,44550057
+4613864~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1604740235584,5,0,"Excellent coverage, really enjoyed the course!",0,0,Antony Jackson,4613864
+34425081~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1602347591730,5,0,EXCEPTIONAL COURSE.,0,0,Basab Kiran Saha ,34425081
+58547401~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1601475409567,5,0,Simply amazing Course,0,0,AKASH BISWAS,58547401
+59446884~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1600952293009,5,0,great course,0,0,ARUNESHWAR V,59446884
+65239467~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1600731402732,5,0,"Very good course, hands on with practical examples, and excellent speakers.",0,0,Dean Kos,65239467
+7051739~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1600488033672,5,0,"Learned about the concepts of ML Molde optimization, model performance matrix, model generalization and sampling. The general concepts are well explained so that I can better understand how each of them is done. Tensorflow playground is a very interesting part of exploring tuning hyperparameters, and the ML history go through is also another highlight. The lab at the end is a must-try learning experience.",0,0,Yucheng,7051739
+71636390~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1600355949923,5,0,amazing labs loved it,0,0,Abhishek Sarkar,71636390
+7969957~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1599765767276,5,0,Great course! Learned about the importance of splitting data to better train ML models.,0,0,Charles Uchidiuno,7969957
+67187965~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1598265019367,5,0,Good,0,0,Mithika kandadi,67187965
+50039039~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1595591651830,5,0,Well Defined And Ellobarative,0,0,Darshit Rawal,50039039
+57597443~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1595328455795,5,0,Great notebook programming experience with BigQuery,0,0,Prasad R Karpe,57597443
+9894995~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1595017473869,5,0,Great hands-on exercises with Tensor Flow Big-Query and Jupyter Labs,0,0,Saeed Ur Rehman,9894995
+47394503~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1594885698826,5,0,Great!,0,0,Dinh-Duy Le,47394503
+34183228~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1594481326630,5,0,Awesome.,0,0,ANUJ LAHOTY,34183228
+62185784~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593928896705,5,0,"well this course is presented well enough , although you need a knowledge with ML ,SQL ,cuz they not covered a specific thing about ML problems and SQL ,you need to have those basic first, but if you intreseted to Expand your knowledge,this course is a good One",0,0,Pratama Azmi Atmajaya,62185784
+46238362~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593914948694,5,0,Best Course,0,0,Naveed Sultan,46238362
+63087138~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1593455848911,5,0,Learn new knowledge about data management and ML training,0,0,Luis Miguel Limas Duque,63087138
+61149562~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1592677696367,5,0,This course helped me in gaining knowledge on google cloud platform and machine learning. Thank You.,0,0,KAMASANI VIKRAMADITYA REDDY,61149562
+48414079~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1592585287985,5,0,Very informative with hands-on experience,0,0,Sivakumar,48414079
+45931782~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1591961331581,5,0,Thankyou,0,0,Kamlesh Chhipa,45931782
+41580230~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1591527348462,5,0,This course is so really good to learn about the general knowledge and skill of machine learning with Google Cloud Platform.,0,0,Mark Kiyota,41580230
+61166083~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1591438481491,5,0,"Excellent course to understand how machine learning is done , classification, regression, RMSE, cross entropy, gradient descent, loss functions, performance scores, splitting data into training, validation and test data sets consistently/repeatedly using mod and hash functions, exploring, cleaning data.",0,0,Arunkumar.B,61166083
+60691436~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1591293476207,5,0,The Lab and the Assignment helps to understand the Machine Learning.,0,0,R Muralidharan,60691436
+58880745~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1591123130095,5,0,Good basics for ML ,0,0,Antero Oikkonen,58880745
+49985391~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1590991329376,5,0,"This course good for learner that's want to gain more in depth knowledge about machine learning, but still in the shallow part. This course also give the information about the infrastructure that involved in the development of ml in the gcp.",0,0,Iman Rahman,49985391
+36452987~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1590939091639,5,0,I am doing this course as a revision and also as a hands on understanding of GCP.  Now i am very very impressed how complex concepts have been taught and simplified. also the training excercises are spot on . ,0,0,Debayan Chakraborty,36452987
+58106250~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1590895205645,5,0,"Amazing course.  For a beginner like me, it was a shot in the arm. Excellent presentation very lively and engaging. Hope to see the instructor soon in a another course. Thanks so much. I learned a lot.",0,1,Olavo DSouza,58106250
+50676699~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589843244264,5,0,Very thorough review of the historical development of Neural Network.  TensorFlow Playground was a very good first time visual of how NNs are applied.  Great lab demos at the end of the course to compliment theory.,0,0,Elliot Yu,50676699
+55344388~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589733364307,5,0,nice course for ML,0,0,Ravi Kumar Suggala,55344388
+57695987~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589182195983,5,0,T,0,0,Matthias DRAHEIM,57695987
+24571655~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1589048489274,5,0,Nice experience ,0,0,Arun Pandian J,24571655
+58062668~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588421588532,5,0,Best course to get insight of Neural Network working.,0,0,Sumit Malhotra,58062668
+52743328~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588421221748,5,0,amazing,0,0,Risda Tamam Aljava,52743328
+40509812~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1588012325389,5,0,Very useful course content and let me to identify some mistakes I done when I do experiments and learnt the how the benchmark phase really works,0,0,Ravindu Ramesh Perera,40509812
+5824558~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587990462021,5,0,Got to know about working very large datasets in GB size. The Tensorflow playground is really cool tool to understand parameter tunning.,0,0,Dilip Tikaram Rathod,5824558
+23038619~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587718598417,5,0,Great content!,0,0,LUU QUANG VU,23038619
+35042819~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1587010151038,5,0,Ryan Gillard has a wonderful voice. He also teaches in such an vivid way that I like so much.,0,0,MAI NGUYỄN ANH VŨ,35042819
+50040964~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586973528092,5,0,"Good course with awesome content. Nicely organized the flow. Thank you, Google!",0,0,Sashika Nawarathne,50040964
+49466116~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586824724944,5,0,Excellent content - actually explained now NNs function with internal features sets. great labs to experiment,0,0,Stefan Keller,49466116
+41016865~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586662490664,5,0,Nice,0,0,Triều Lê Đình,41016865
+51414550~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586589734695,5,0,Great!,0,0,Fahmi Jabbar,51414550
+55471126~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586507767534,5,0,Good with detail explanation,0,0,Eclipse Diary,55471126
+10098986~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586439295016,5,0,I highly recommend this course to learners who need an exposure on handling huge datasets using google big query SQL and data splitting strategies.,0,0,Shashank Salian,10098986
+46953477~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1586155523458,5,0,"Thanks for the course, now I know how to split data, when to stop training model etc",0,0,M Zulfikri Khair,46953477
+37743799~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1585987280286,5,0,Excellent Course!!!!,0,0,Samay Pashine,37743799
+53430305~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1585917777441,5,0,good,0,0,Châu Phước,53430305
+47097698~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1585851765996,5,0,I think it  is a great course,0,0,Lê Nguyễn Nhựt Trường,47097698
+48334500~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1585839240879,5,0,Very good !,0,0,miguel mora,48334500
+16288655~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1585659484746,5,0,Very Good course for intermediate.,0,0,박기중,16288655
+5166573~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1584632514443,5,0,"Most of time, dataset for ML would come from the structured databases and datawarehouses. This course outlines how to get random sample from BigQuery, which is useful for conventional ML scenarios. Kudos to GCP team!",0,0,Shawn Jung,5166573
+49494795~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1583427069010,5,0,"Great course I learned a lot of new concepts!, Thank you",0,0,Julio Rafael Alfaro Pineda,49494795
+7821527~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1583025758937,5,0,Excellent Introduction to ML,0,0,daniel jensen,7821527
+35042476~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1582588305664,5,0,Good explanations in  dynamic and direct and intersting way,0,0,Marcos Giuntini,35042476
+43829434~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1581926305590,5,0,Mixed results as need SQL knowledge to do,0,0,Lam Chou Vun Dennis,43829434
+634879~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1581464628792,5,0,Very clear,0,0,Carlos Hernandez Garciadiego,634879
+35324025~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1580745600231,5,0,Excellent,0,0,Fedric Kelley,35324025
+47704525~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1580315692907,5,0,this course was highly enjoyable to learn ml on GCP ,0,0,Manikant Kumar,47704525
+46207749~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1580099163620,5,0,Practical and good explanations.,0,0,Esther Balbuena Alarcón,46207749
+30322469~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1579862882151,5,0,enjoying the course...:),0,0,Abhishek Kumar,30322469
+47291874~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1579635045105,5,0,Great,0,0,Paha Schulz,47291874
+8611307~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1579226110827,5,0,A great introduction course to Machine Learning!,0,0,Yefry Lopez,8611307
+47902202~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578737156805,5,0,Real Wordl Applications,0,0,Bukempas,47902202
+37305249~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578598893589,5,0,Nice course for getting started with Data Classification and High level knowledge on different models.,0,0,RAVI RANJAN KASHYAP,37305249
+47652589~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578482399484,5,0,Good to get an Overview of what is needed for ML and where to use it,0,0,Grex L,47652589
+43101461~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578442453775,5,0,It was great and I learned many new things . ,0,0,Prashant Mishra,43101461
+35911073~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578416347769,5,0,awesome,0,0,GAURAV KUMAR MATHUR ,35911073
+44480378~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1578232557562,5,0,excellent platform to learn  ,0,0,Punith R,44480378
+29915183~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1576745462798,5,0,Good One,0,0,Mohan C M,29915183
+21842679~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1576629398335,5,0,Very good course,0,0,Cesar Rodolfo Luque Salgado,21842679
+42552743~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575490892312,5,0,Thanks so much,0,0,Boluwatife Adebisi,42552743
+47104170~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575411004508,5,0,"Thanks Coursera, it was an amazing learning process",0,0,ADEOLA ZAINAB LAWAL,47104170
+29740078~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575404073277,5,0,I enjoyed every bit of the lecture,0,0,Imoleayomide Ajayi,29740078
+15202093~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575206551694,5,0,"I loved the course and the methods of teaching, thanks to coursera and google cloud.",0,0,Akshay Malviya,15202093
+27327124~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1575083243578,5,0,A good course on ML principles,0,0,serdar bozoglan,27327124
+28279514~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1574766242084,5,0,"Excellent course, really liked the way effort was taken to have the code snippets and the VM set. ",0,0,Balaji Rajan,28279514
+42868268~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1574009785946,5,0,TOP,0,0,Bruno E S Barbalho,42868268
+9010314~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1573888524495,5,0,great data-insight and hands on practice with scaled up data,0,0,Anvesh Mishra,9010314
+20701814~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1573109664087,5,0,Great course with balanced strain of theory and practice,0,0,Nigar Alishzade,20701814
+34716059~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1573006029808,5,0,I love the course,0,0,YuMin Chang,34716059
+45796411~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1572332008570,5,0,Good,0,0,ou h,45796411
+45787680~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1572244252570,5,0,very good!!,0,0,김용완[YongWan Kim],45787680
+44690652~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1572233718538,5,0,Very informative course. Enjoyed it end to end. Loved the way Evan explained everything. He is a super instructor. kudos!,0,0,Naqash Butt,44690652
+9064865~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1571634164949,5,0,"Today is my day Learning GCP AI platform have a fun time discovering data pre-processing with Big Queries, deploy TensorFlow notebook and play with Benchmark model. The fun time is having a chance to take a look at the Google Cloud AI platform and have a fun time with it😊 ! Thank you Google and Coursera give us the scholarship to read and have a fun time with These 🧪 🧫 labs☺️! You light 💡 my day🍀! We love you ~~✧٩(ˊωˋ*)و✧",0,0,Hsin-Wen Chang,9064865
+37407181~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1571071967522,5,0,Good!,0,0,이승현,37407181
+44905662~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1570198017261,5,0,Very interesting  course ,0,0,Jitendra kumar mahto,44905662
+14853221~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1569858868893,5,0,"Thanks to team of Google Cloud Platform for giving such dramatic and interesting course for me to acquire critically fundamental knowledge of conducting ML! It leads to all the places I've never thought of, and now I'm prepared to accept the challenge to bring ML into solving real-life problems, in the hope of making the world more sense!",0,0,NDKZ Siwua,14853221
+11344447~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1569777825970,5,0,Great course. ,0,0,Vladimir Pavlovic,11344447
+42466394~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1569333220850,5,0,nice ,0,0,Pratik Shah,42466394
+12889685~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568696235221,5,0,good,0,0,苡榕 朱,12889685
+44672212~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568556161088,5,0,Not so easy for me but had learned lots concepts.,0,0,Jung-wen Lo,44672212
+44826301~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568386985556,5,0,OK,0,0,吳金霖,44826301
+44649943~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568210087464,5,0,Great intro,0,0,Ike Watterson,44649943
+44503844~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1568016561808,5,0,"This course is insightful.  I'm new to SQL, so I couldn't understand what was going on in the lab.  I still find it enjoyable, and I think I've learned a lot.  Maybe I'm not able to know how to split data as good as the instructors, but I'll use the resources on GitHub to keep improving.",0,0,馬健凱,44503844
+32709011~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567888855508,5,0,good,0,0,Pasupuleti Nagoor Babu,32709011
+44842207~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567859940013,5,0,Great !,0,0,Randolph Chen,44842207
+41502643~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567856254954,5,0,Great demo on Google Cloud platform's python notebook with fruitful basic ML concept,0,0,江祖榮,41502643
+33896254~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567839895226,5,0,This course Help us learning Google Cloud platform and as well machine learning.,0,0,Saqib Mahmood,33896254
+41386149~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567447541774,5,0,One of the most amazing courses I have ever taken!!,0,0,Ankur Sinha,41386149
+41392288~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567286960362,5,0,good,0,0,Gluon Innovations,41392288
+5662636~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1567122594591,5,0,I love this course a lot. I learned so many things on how Google operates its google product services through ML and AI.,0,0,Christian Campos,5662636
+43171563~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566718282680,5,0,Great,0,0,Ashok Rachakonda,43171563
+33217182~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566664307710,5,0,Great! Detailed teaching,0,0,Jhen Jie Hsieh,33217182
+44311339~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566381365200,5,0,good,0,0,sarath kumar s,44311339
+44193697~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566219555747,5,0,Likes that course,0,0,Manish Kumar,44193697
+43730370~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1566183901134,5,0,Great !,0,0,Sahid Triambudhi,43730370
+2630926~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565982761453,5,0,Excellent.  Nicely conceived and executed. ,0,0,Mr. Jim,2630926
+32337987~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565839222316,5,0,Awesome course.,0,0,Naman Meena,32337987
+16915045~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565563413049,5,0,Two words ... A - mazing :),0,0,Juan Astudillo,16915045
+42377869~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1565298329331,5,0,"The math made me pull out old calc textbooks, but very good building of where the ML process is headed in terms of getting good sample data.",0,0,Mary Budde,42377869
+15417566~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563913003687,5,0,Awesome,0,0,suresh srinivasamurthy ,15417566
+24121335~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563720546826,5,0,Amazing! Really Feel Great on Learning! Hope to see you all @Google IO,0,0,vipul aggarwal,24121335
+38749340~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563705551871,5,0,yes,0,0,SOOFI O.A.C,38749340
+22360200~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563384258837,5,0,"Well laid out, organized, and packed with useful information.",0,0,William Sullivan,22360200
+10968721~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1563097177910,5,0,Nice Explanation with examples and history.,0,0,Avi Kathuria,10968721
+33927895~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562956550847,5,0,this is the best course. i liked it very much,0,0,Prem Pawar,33927895
+25760453~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562915086008,5,0,Good course for learning,0,0,Farhan Ahmad,25760453
+11506375~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562818118991,5,0,Really helped me to understand the nuts and bolts of ML and Data preparation along with preprocessing.,0,0,Sachin,11506375
+18752333~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562394431259,5,0,I enjoy the lectures. The professor has a good speaking and teaching style which keeps me interested. Lots of concrete math examples which make it easier to understand. Very good slides which are well formulated and easy to understand,0,0,Jafed Encinas Garcia,18752333
+42808023~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1562359964729,5,0,"Excellent course for people who are completely new to ML, GCP, and TF.",0,0,Emily Thompson,42808023
+42738779~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1561921637160,5,0,good exprience with gcp,0,0,sheikzaidh,42738779
+25951389~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1561897544260,5,0,Nice course for first imagination of TensorFlow and how to process dataset. Thanks!,0,0,Thanh Nhan Ngo,25951389
+13924523~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1560622464360,5,0,Very detailed explanation,0,0,Snehil Srivastava,13924523
+42175589~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1560102494151,5,0,Muy bueno para aprender lo básico del Machine Learning para antes de llegar a programar,0,0,William Alberto Royero Beleño,42175589
+38996766~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1559350982479,5,0,Great course,0,0,Someron Bakuli,38996766
+40452707~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1558859106925,5,0,It's Nice,0,0,Nayanajith Priyasad,40452707
+41119389~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557843243392,5,0,Good tutorial with insights to real implementation of ML. ,0,0,Feng Ni,41119389
+38121401~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557712791564,5,0,Very nice to understand ML Concept,0,0,Paripol Toopiroh,38121401
+41295805~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557674784971,5,0,nice,0,0,Ramees AR,41295805
+41295517~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557584110226,5,0,wonderful,0,0,Fathima jabbar,41295517
+40933054~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557315702292,5,0,It was so easy than I thought. I would like to recommend to my friends.,0,0,Minjae Kim,40933054
+40929648~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557311771183,5,0,good but it was so hard...,0,0,JoowonLee,40929648
+3198068~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557165116380,5,0,"Amazing Course, among the top 3 Best available.",0,0,Gary Thomas,3198068
+25246909~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1557158747214,5,0,"This course is very helpful to understand the machine learning concepts of various modals, splitting of the data and even training the model for benchmark.",0,0,Sachin Kumar,25246909
+40962668~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556801848714,5,0,bu,0,0,지정수,40962668
+40938837~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556725343634,5,0,hihihi,0,0,백선희,40938837
+40916798~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556722031512,5,0,great,0,0,김효민,40916798
+11983271~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556719572115,5,0,"Now I finally somehow understand this ML a bit. Great labs, indeed!",0,0,Moon-joong Kang,11983271
+40931151~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556714902254,5,0,너무 재미있게 들었습니다. 영어가 약해서 너무 빠듯하게 들었네요 ㅠㅠ  영상 받아놓고 두고두고 볼게요,0,0,조환희,40931151
+2829821~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556712513031,5,0,wonderful,0,0,Jeon Deuk Jin,2829821
+12477646~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556711465686,5,0,it was fun and useful ,0,0,미소 김,12477646
+41357169~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556708957974,5,0,very very good!,0,0,최욱진,41357169
+40939013~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556708696239,5,0,I learned machine learning well with this class. Thanks to Google for making these lecture films and allowing us to learn with these lecutres.,0,0,조승재,40939013
+40942763~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556708636945,5,0,매우만족,0,0,leejinseung,40942763
+40930208~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556706507458,5,0,Good course for beginners,0,0,,40930208
+40907888~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556705301735,5,0,great course,0,0,김시현,40907888
+41315529~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556703462821,5,0,good,0,0,김대영,41315529
+40936324~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556699891279,5,0,very very good!!!!,0,0,고준규,40936324
+33630434~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556694074624,5,0,good job,0,0,authenticator,33630434
+40913650~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556691904890,5,0,i'm very satisfy this lecture ,0,0,홍용기,40913650
+40942783~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556690648421,5,0,So nice for staring Machine Learning user,0,0,TaeHui,40942783
+23678890~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556689291049,5,0,"Good for beginner,",0,0,Hyeon Woo Jeong,23678890
+11488540~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556642037591,5,0,good,0,0,taegyun kim,11488540
+40420553~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556633962456,5,0,great!,0,0,김윤영,40420553
+40955299~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556630819302,5,0,GOOOD,0,0,juneseok song,40955299
+34849425~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556630414138,5,0,great!,0,0,우현욱,34849425
+40911727~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556630040962,5,0,good,0,0,garabnamo,40911727
+40943170~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556620415203,5,0,..,0,0,ᄋᄋ,40943170
+40382760~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556620393626,5,0,머신러닝을 손쉽게 배울수 있어서 너무 좋았고 그룹원들과 협심하여 같이 해봄으로써 팀워크도 배울수 있었던거 같아서 너무 좋았습니다 ,0,0,Choi Ji Won,40382760
+40934984~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556618791416,5,0,GREAT!,0,0,soomin,40934984
+11847821~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556609908826,5,0,Wow Thank you so much!,0,0,Woosang Park,11847821
+32160055~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556594938833,5,0,"I like the study case on this module, seems the concept would be adapted in to the actual case.",0,0,Chatree Asa,32160055
+27480329~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556591255370,5,0,This course helps me a lot with my overview of ml models.,0,0,JiHyunKIM,27480329
+40912358~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556584037760,5,0,good~~,0,0,INKYU HAN,40912358
+40911926~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556582021907,5,0,"It's so amazing lecture for me. Thanks for giving me this lecture, Google.",0,0,MIN HYUK KIM,40911926
+40312467~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556577678588,5,0,Thank you so muchIt was nice for me,0,0,Park yosep,40312467
+40931084~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556537411709,5,0,Thank you for google :) ,0,0,최태원,40931084
+19798651~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556537273149,5,0,good,0,0,"shin, daesol",19798651
+40918090~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556519295067,5,0,GOOD,0,0,김동용,40918090
+40941074~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556505369412,5,0,good,0,0,so nam hee,40941074
+40934604~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556467921478,5,0,I was very satisfied.,0,0,Kim Hyun Goo,40934604
+40910489~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556456318419,5,0,good,0,0,엄윤식,40910489
+40911918~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556454322596,5,0,Great,0,0,지하린,40911918
+40939892~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556444410962,5,0,지reat!,0,0,giwoo kang,40939892
+34959413~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556441666027,5,0,I think this study content is very good to learner!! Thank for making this course!,0,0,Ahreum Lee,34959413
+36076646~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556439549615,5,0,good,0,0,정태표,36076646
+40913053~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556437369992,5,0,Very Good,0,0,Byeonggil Jung,40913053
+40019116~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556392445718,5,0,Great course. Gradient descent and loss function concepts were explained well.,0,2,Raghuram Nandepu,40019116
+40914246~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556390262634,5,0,"
+
+I had a really good experience. Thank you for your in-depth teaching on machine learning.  ",0,0,Jang Woo Sung,40914246
+1883624~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556366631810,5,0,Very good description of all the basic concepts of supervised learning problems. Many thanks for putting this content together!,0,0,Attila Tozser,1883624
+41017063~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556360852762,5,0,Good,0,0,김경훈,41017063
+40935096~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556345993994,5,0,good,0,0,박성우,40935096
+41211362~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556344232284,5,0,Thanks for your teaching,0,0,김태훈,41211362
+33634358~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556343144506,5,0,Awesome!,0,0,영신 박,33634358
+18772915~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556332863127,5,0,GOOD,0,0,강효진,18772915
+41013125~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556325794959,5,0,it's very helpful to me. ,0,0,WOO NAM CHU,41013125
+40309399~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556259219645,5,0,Good Good VeryGood!!!,0,0,임승근,40309399
+40911968~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556251563732,5,0,good!!,0,0,이건우,40911968
+40921115~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556205071037,5,0,good,0,0,kim min seo,40921115
+40915625~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556189741985,5,0,사랑해요,0,0,김정민,40915625
+40915685~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556188709135,5,0,Good!,0,0,최준영,40915685
+40100543~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556184819520,5,0,Thanks google for this chance. I learned a lot from this course . ,0,0,Dhruv Trehan,40100543
+40940523~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556182474417,5,0,good,0,0,JeeinOh,40940523
+40978309~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556164660259,5,0,thank you,0,0,최성민,40978309
+40938719~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556149773836,5,0,good course,0,0,Harry Shon,40938719
+40732074~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556103415697,5,0,good,0,0,고상균,40732074
+40911914~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556070960562,5,0,good!,0,0,이민준,40911914
+38538341~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556036345115,5,0,Satisfied~!,0,0,taehoonkang,38538341
+695628~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556031875697,5,0,It was a helpful course. Thank you.,0,0,dongmin yoon,695628
+40954620~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556025133461,5,0,정말좋은 시간이였습니다.,0,0,Hwitaek Lee,40954620
+40772986~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1556007288908,5,0,good,0,0,unranker,40772986
+40931020~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555984492091,5,0,thanks,0,0,신준상,40931020
+40914109~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555947469564,5,0,해당 강의를 통해 ML에 대한 전반적인 내용을 이해를 했고 구글의 좋은 프로그램이 많다는 것도 알게 되었고 좋은 API도 많다는 것을 알게 되어서 앞으로 ML 공부를 할 때 유용하게 쓰일거 같다는 생각이 듭니다.,0,0,,40914109
+40917192~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555943887370,5,0,thanks,0,0,박이삭,40917192
+40887651~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555939113693,5,0,좋았습니다.,0,0,ParkBeomSu,40887651
+1180834~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555925368407,5,0,fun,0,0,정우진,1180834
+41075498~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555830196460,5,0,dadad,0,0,김성호,41075498
+40940850~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555825411853,5,0,11,0,0,K JH,40940850
+38503867~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555769229206,5,0,한국어 자막이 없어서 수행하는데 시간이 오래 걸렸습니다 T_T,0,0,Seokbeom,38503867
+40001299~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555723501352,5,0,"Excelente curso, muy recomendado para ampliar el entendimiento sobre Aprendizaje Automático, me gustó mucho haber podido usar Tensorflow Playground",0,0,Víctor David Larco Torres,40001299
+40389685~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555718717422,5,0,really nice course,0,0,JUNGTEAK LIM,40389685
+40379879~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555645180972,5,0,good,0,0,KimHJ,40379879
+3466999~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555596912530,5,0,"good to know what is ML, thank you",0,0,Tae Ho Kang,3466999
+40311338~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555555704430,5,0,nice,0,0,dhokim,40311338
+40316331~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555553912546,5,0,Great,0,0,Dong Jae Kwon,40316331
+40929947~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555509406103,5,0,thank you! ,0,0,young,40929947
+40955940~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555483262828,5,0,thank you,0,0,Hwang Kyeong Ha,40955940
+40797571~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555249379373,5,0,good,0,0,이동규,40797571
+40889566~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555235165108,5,0,I can start to handle some part of ML after listening this course.Thank you.,0,0,Dong Hyun Seo,40889566
+17121533~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555081662901,5,0,This course provides a solid foundation for data science. ,0,0,Bill Fugaru,17121533
+40914017~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1555022215884,5,0,최고입니다,0,0,오승주,40914017
+37277331~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554924279637,5,0,knowledgeable,0,0,Akash Gupta,37277331
+33611152~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554877618479,5,0,It was great.......... Thanks Google :),0,0,Mohammad Salehi,33611152
+40931968~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554872638176,5,0,It's good for machine learning,0,0,,40931968
+38534370~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1554825034425,5,0,My favourite course in the specialisation. I think it's a great idea to use historic time-frame to explain the advances in ML and why there is so much hype around deep learning. ,0,0,Kiana Toufighi,38534370
+5160753~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1553439686973,5,0,"Mainly covering the principles of data selection and bucketing for training, validation and test sets.",0,0,Chong Min Tan,5160753
+40246498~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1553052416692,5,0,"Decent, Labs took a hit on quality. :S",0,0,Sujeethan Vigneswaran,40246498
+20005743~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1551931609386,5,0,Thank you for such great knowledge sharing. I have really enjoyed the course and have learned a lot from it. The way the speakers explain each and every tiny detail is exceptional. This course make me a step closer to my goals and will help me in my career building as a Machine Learning Engineer. ,0,0,Arif Nawaz,20005743
+19201896~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1550033710895,5,0,This course gave me a good overview of how to work with GCP for ML and also helped in covering a bit of knowledge gaps that I had when I learnt things on my own. ,0,0,Kaustubh M Harapanahalli,19201896
+25307880~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1549365669301,5,0,fanstatic course,0,0,Shabeer Mohammad,25307880
+28344360~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1549358274288,5,0,5 starz - very good info and pointful. ,0,0,Bharathi Athinarayanan,28344360
+37132077~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1548329573086,5,0,Thumbs Up!,0,0,Gregory R. Gray Jr.,37132077
+16589854~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1547510653429,5,0,"Excelente curso, muchas gracias!",0,0,Alan Ignacio Sepulveda Rodriguez,16589854
+36725389~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1546921711994,5,0,NA,0,0,Harshkumar,36725389
+23564003~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1546268338813,5,0,Another great learning experience and has given me the confidence to keep moving forward.,0,0,Rohit Kumar Singh,23564003
+35447432~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1545939165737,5,0,"I loved TensorFlow Playgrounds. It made so many concepts visible. I have more intuition into how the number of layers, input features and number of neutrons affect what the model can learn. This is not my first Machine Learning course, and it is helping me fill out many gaps I have in my understanding.",0,0,Hussian Ali Al-Amri,35447432
+28002951~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1544389609586,5,0,Super fun course. ,0,0,shayne catrett,28002951
+29877600~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543984885643,5,0,Thanks...,0,0,Raja Ranjith Garikapati,29877600
+12016128~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543911210935,5,0,A great course to boost your confidence on practicing ML. It also teaches you some fresh skills like repeatable dataset partitioning techniques using just SQL.,0,0,sujith,12016128
+14912629~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543851644391,5,0,Good learning path,0,0,pankaj b gupta,14912629
+27914288~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543762758609,5,0,This is an awesome module. It will open up so much inside story of ML process which is core of the topic with such a simplicity. It greatly increases my interest into this topic and this course :),0,0,Pawan Kumar Tripathi,27914288
+7798145~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543300994204,5,0,hands on labs was amazing,0,0,Apoorv Rusia,7798145
+30154511~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1543294675345,5,0,Great course!,0,0,Abdul Rehman Yousaf,30154511
+1366046~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1542718569912,5,0,Good clear course with strong incremental learning.,0,0,Joel Mitchell,1366046
+35900478~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541935823834,5,0,This course provides a great introduction to Machine Learning.,0,0,Garry Singh,35900478
+20425461~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541566508956,5,0,I love the course introducing core concepts and practices in machine learning today as well as some historical development. This course feels more rigorous because some core mathematical foundations are introduced. I kind of hope there could be more theoretical explanation in more depths with some references attached.,0,0,Zezhou Jing,20425461
+36108369~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541560482291,5,0,"Great lectures and labs thanks. The first lecture block made a lot of great connections between topics and methods past and present yet get the most out of it, one ideally has recently reviewed the theory behind the tradition tools. Otherwise the first block is a bit of a drink from the firehose although one can still pick up the gist message but may not get some of the other enriching points. In any case. Great work and thanks",0,0,Mark Broich,36108369
+29810192~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1541243490871,5,0,Technical but not fot beginner,0,0,Arief Rama Syarif,29810192
+18503465~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540925069107,5,0,"great way to understand about loss functions,performance metrics,learning rate,etc.",0,0,Pavan S P,18503465
+5370064~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540609460123,5,0,fasdf,0,0,김국진 (배우고 사용하자),5370064
+32284776~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540318113646,5,0,Practical ML,0,0,Mohan Noone,32284776
+36377193~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540258163824,5,0,GREAT COURSE! EVAN JONES IS AMAZING!,0,0,Fernando Nogara,36377193
+551830~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1540073146732,5,0,Leads you through the right path to learn ML,0,0,Marcelo ferreira,551830
+1728024~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1539357859256,5,0,Lab is well designed,0,0,Ryan Ni,1728024
+35201870~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1538668863358,5,0,"great value, thanks",0,0,Zeev Kalyuzhner,35201870
+44732~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537840263627,5,0,Very good.,0,0,Joydeep Ghatak,44732
+33387672~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537695867691,5,0, The course is practical and thought-provoking.,0,0,王颖亮,33387672
+33696794~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537595398991,5,0,very good,0,0,ARIJIT PAL,33696794
+1888949~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537471628169,5,0,Very nice intro to ML model evolution.,0,0,Devendra Shiledar,1888949
+5238930~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1537048950745,5,0,A very good introduction to ML and to important tools to use on the creating and tuning and optimization of ML models.Thank you.,0,0,Harold Marzan,5238930
+15201797~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1536942982181,5,0,"Fluent flow of introduction using examples. Gives an overview of the ML process concepts and tips. Detailed concepts are only mentioned quickly, so to fully benefit from the course would probably require some prior experience in ML. Valuable insights and summary from experienced ML engineer are provided in this course.",0,0,Liang-Yao Wang,15201797
+3123941~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1536867182541,5,0,Nice course. Starting from basics showing concepts clearly. I really liked it. ,0,0,Yusuf Talha TAMER,3123941
+8269485~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1536423345648,5,0,A good introduction to the process. Well structured. In particular I liked the section on loss functions.,0,0,pravin burra,8269485
+1227144~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1536174067259,5,0,Good course with a nice balance between general overview and the more granular aspects of ML. Looking forward to the next one in the series.,0,0,Ben B,1227144
+30614776~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1536093713634,5,0,Great course!! Learnt alot about neural networks and tensor flow playground,0,0,Gbadebo Bello,30614776
+6060250~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535971058337,5,0,Well designed and evenly delivered,0,0,Lovi Raj Gupta,6060250
+15465578~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535835657123,5,0,really good intro in ML worl,0,0,Ruaan Venter,15465578
+11677749~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535811575037,5,0,"This course builds on the previous one. Although use is still made of Google cloud, the course becomes more interesting, since the teachers provide their practical insight in the preparation of data for machine learning without focusing too much on Google. The history of machine learning is very interesting and the labs very useful in understanding the main pitfalls associated with the preprocessing step.",0,0,Enrico Anderlini,11677749
+9587908~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1535490500927,5,0,"Lab and the hand-on session were very useful! Also, the tip of using mod + rand() helps me to solve my own problem! Good job!",0,0,Shuo Dai,9587908
+26433742~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534731620718,5,0,Overall Course was awesome,0,0,jay mangi,26433742
+22688015~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534661091265,5,0,Great overview of ML essentials,0,0,Mikkel Buchvardt,22688015
+35148735~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534282895119,5,0,Excellent points discussed.,0,0,Santanu Bhattacharjee,35148735
+507179~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1534090690078,5,0,Learning tips and tricks for practical machine learning problems.,0,0,Sanjay Kumar,507179
+13683100~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533988487351,5,0,Great course. Excellent examples.,0,0,Joanne Fuller,13683100
+27738450~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533911350647,5,0,Worth Learning.. ,0,0,Zakir Ullah Shah,27738450
+28094795~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533572456794,5,0,Thanku google for this course.,0,0,Prasant Sarswat,28094795
+30688374~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533450867355,5,0,"First module had very, very difficult material that was hard to grasp.",0,0,samuel varghese,30688374
+4467353~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1533396961303,5,0,"Good course, covering all the basics about machine learning and most importantly, everything that surrounds an ml project and you need to take into account to make your ml project successful.",0,0,Patrick Machold Admetlla,4467353
+32846209~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532877384943,5,0,A very nice overview of ML history and introduction to ML on Google Cloud Platform! Thanks!,0,0,C K,32846209
+31814770~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532800703904,5,0,great visualization course,0,0,Subham Tiwari 15BCE1079,31814770
+25786262~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532740929741,5,0,"Great intro to ML as done by Google, and the related technologies like BigQuery.",0,0,Meynardo Jose,25786262
+143907~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532557781143,5,0,Amazing Course!!!,0,0,Ezequiel Aguilar González,143907
+29744218~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1532233266587,5,0,User friendly,0,0,NAVEEN KUMAR,29744218
+46299~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1530972902394,5,0,great course! spliting data was very interesting,0,0,Danny Huanca,46299
+4567803~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1530019722454,5,0,Its osm,0,0,Suresh kumar,4567803
+25122908~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529819793497,5,0,Very good.,0,0,Srinivas Venkataswamy,25122908
+33073102~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529553533676,5,0,"Very practical, pragmatic and to the point. The labs are great! The history of ML and the section on Generalization are my favorite because instructors gave detailed explanations and precise instructions.",0,0,Agata Szczodrak,33073102
+15334390~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1529074734784,5,0,Very good,0,0,Jorge Souza Azevedo Moniz Barreto,15334390
+30795261~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1528677557004,5,0,Very good intro into understanding of how models work and how to get data ready for processing,0,0,Oleg Oboohovich,30795261
+3525567~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1528168634848,5,0,"An excellent introduction to Machine Learning, I appreciated the explanations around the importance of having proper training, validation and testing set to build robust models, I  loved the introduction to Big Query and the value of cleaning the datasets, plus all the explanations around Classification Models,Regression Models and Gradient Descent.Thanks",0,0,Carlos V. Montnengro,3525567
+31407556~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527825243309,5,0,Good,0,0,Atichat Panno,31407556
+26293000~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527699496141,5,0,The course give a good introduction of machine learning and hands on exercise. It is practical and efficient.,0,0,Min Li,26293000
+4460176~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527556676609,5,0,The teachers really try their best you understand the fundamentals giving you examples and showing in an easy way how you can do it.,0,0,Juan Pablo Daza P.,4460176
+7690287~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1527244245874,5,0,"An excellent course, thank you Googlers. My favorite part is the intuition about ML.",0,0,Jun Wang,7690287
+27016054~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1526079874831,5,0,Nice introduction course!,0,0,Sreenivasulu Bachu,27016054
+25643006~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1525799332877,5,0,Excellent articulation of the material. Well thought of labs. Thank you for a great introduction,0,0,Suresh Kaja,25643006
+12243694~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1525033551363,5,0,The technical knowledge is introduced very progressively. You understand the historic evolution and practical usage of models. Great content!,0,0,Emre Salmanoğlu,12243694
+30961877~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1523932313234,5,0,Good information and content for getting stated with machine learning.,0,0,Akash Patil,30961877
+4033117~COURSE!~lTAKbxf1EeiB7BJMyhcJoA,1523480159773,5,0,awesome,0,0,Michael Feldman,4033117

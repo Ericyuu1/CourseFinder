@@ -1,0 +1,131 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+96357567~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1635704911216,1,0,"The course is oudated. Due to that, I cannot run a code",0,1,Nguyen Quoc Hoang,96357567
+94176309~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1634543629118,1,0,"The course is outdated, errors occur when loading the docs. You have to find out for yourself on the internet how to fix the errors. Waste of money, waste of time",0,1,Chantal,94176309
+55547620~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1589044488106,1,0,Not a good course,0,0,A.M.H.Silva,55547620
+34136721~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1549421323810,1,0,"The content is outdated and the code is actually broken. It uses little-known tools rather than industry standards, and these tools have been abandoned even by their authors. 'ShareJS' is now ShareDB, and the mizzao:sharejs-codemirror module will not function. The course staff is nowhere to be found in the discussion forums, so there is no way to work around these issues.Disappointing considering I had spent time auditing all previous courses in this series, and had nearly got a functioning site up and  running from it. Oh well.",0,6,eighty,34136721
+16921981~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1534632824519,1,0,"The course is outdated, I get errors and I can't figure out how to fix them.",0,6,Moisés Peláez,16921981
+3783331~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1526088211260,1,0,"Impossible to follow along with this course because it's outdated and some of the course code is broken. I've read and re-read through the forums, I've watched and re-watched the lectures again and again and combed through to try and find a way to get the code to work and to follow along with the lectures but there is no useful help or information to get the code working. Wish I would have known this would happen before trying to do this specialisation as I have now wasted a couple month's worth of time and money... I cannot recommend that anyone do this course or this specialisation until it has been updated properly. It would actually be nice to get a refund or have a mentor help the students solve the broken code. ",0,10,Heidi Cone,3783331
+25600514~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1501050725073,1,0,"I worked very hard to overcome all of the obstacles in this module and the preceding one (Intro to Meteor). I've really enjoyed the format and instructors, but these recent modules feature a spectrum of difficulties brought on by the dated nature of the module, and a sudden disconnect between the practice material and the knowledge expected in the review exercises. Every week was another mess to dig out of without knowing how to dig or being able to find useful resources for the unique issues. Solutions were usually lucked into rather than understood. I've been a good sport about putting the work in and taking it as-is because it probably reflects some of the challenges of being in the field, but I've finally broken - why is this course such a neckache? I love it other than the pain, confusion, and random broken parts every week.",0,0,Christopher Bendix,25600514
+11529665~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1461925169643,1,0,Outdated course that needs a lot of changes to your code and in releases so you can follow professors code.A lot of people had same issues.,0,0,George Tourtsinakis,11529665
+169574~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1453119680735,1,0,"Repetitive content, like the latter course, not challenging  ",0,0,Arthur Albuquerque Ferreira,169574
+45753179~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1579586348123,2,0,"I found this course in the specialization to be only middling in quality. It's far too simplistic, given the three courses that precede it. But most of all, there are many examples and quiz questions that are based on the specific versions of Bootstrap and Meteor that were current when the course was created. In the case of the Bootstrap-related points, you actually get wrong answers if you reference current Bootstrap. Further, the peer-reviewed assignments rely on screenshots, and there is no way to view the screenshots full size. This makes judging most of the assignments next to impossible.",0,1,Randy Ray,45753179
+10650569~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1478017717641,2,0,"Course is good, the reason I'm giving it a low rating is because it's a little redundant  with course 3 ""Introduction to Meteor.js Development"". Some of the features covered in this course I researched on my own to create the final development project in Course 3. So no much value for me here.",0,0,Eduardo Melnik Tocatli,10650569
+11301395~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456499911157,2,0,"Only one assignment at the end, so you go through 3 weeks before being asked to code (this seems like a big mistake for any programming course). The final assignment gives you a largely complete project and just asks you to make a few changes. You can't put that as a project on a resume, because you're doing 5% of the work with your hand held through it. Worst of all, the code given to you does not adhere to JavaScript best practices, like local variables not being declared (so that they become global variables, a big no-no), spacing being all over the place, etc. JavaScript has a bad reputation, and sloppy teaching with respect to best practices is very bad. ",0,0,Arthur Korneychuk,11301395
+7896443~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454359426506,2,0,  This course was too repetitive compare to the previous course in the specialization.  ,0,0,Gonzagues Jacques,7896443
+11736897~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454238955693,2,0,"Review of documentation from meteorjs website.Slow and boring course.Last assignment is where something starts to be moving but that's the end of course :(You could dive deep into Subscribe/Publish, what is below meteor(node.js) etc.",0,0,Krzysztof Bochenek,11736897
+37901264~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1601605281745,3,0,outdated,0,2,Hong Duc Dao,37901264
+2627591~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1537216849857,3,0,exercise made so easy,0,0,Victor Wei,2627591
+13819410~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1536947897903,3,0,"Very well explained (really love the teacher!) however some of the functionalities do not work with recent version of the framework, making it very slow and difficult to follow the course through.",0,0,Eleonora Rocca,13819410
+14443214~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1507992010798,3,0,Needs an update since meteor.js changed a lot since the course was developed,0,0,Lucas Estima Sussermann,14443214
+5428642~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1487560197739,3,0,"The previous 3 courses was pretty good, but the assignment is tooooooooo easy, and this course has lot of redundancy, which i think it is not necessary, but overall, i think it is good",0,0,lyheng,5428642
+4377443~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1487304596435,3,0,.,0,0,Name,4377443
+16478085~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458998490084,3,0,"I would prefer if the course lasted 6 weeks so we can get a better understanding in theory and practice every single bit of the code. It was a nice ride in general and I liked it. The last exercise was hard, it could have been a little easier.",0,0,Ioannis Gkourtzounis,16478085
+34727491~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1605896099711,4,0,Thanks for the awesome course!,0,0,Steve Murimi,34727491
+40426816~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1593527040207,4,0,The course was nice and the assignments were good. Although most of work was already done in assignments,0,0,Pushan Patel,40426816
+46567202~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1581972128076,4,0,They need to update the initial files for the assignments and some videos because they don't match the current version of meteor or compatible and in some cases use outdated packages,0,0,Diego Andrés Navarro,46567202
+25707883~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1554562657894,4,0,"Non of the courses teaches you how to host your meteor app nor the limitations of it, I think this is very important and it's not mentioned anywhere!   ",0,0,Carlos Lander,25707883
+17515270~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1488926374773,4,0,"Great course! It covers many aspects of web development and it is really helpful that you can see a complex application being created line by line. The only issue that kept me from giving 5 stars is the assignments. Frankly, they are too simple! They don't give you the chance to repeat the techniques shown in the videos and comprehend these complex and for some of us new topics. Many thanks!",0,0,Andreas Desyllas,17515270
+1393779~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1480265191522,4,0,"Very good introduction to Meteor. Should be updated to newer Meteor version, lots of things have changed in the official guidelines in the meantime. ",0,0,Frederic Haller,1393779
+8870369~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1471225558375,4,0,"This was informative, but there were some issues with the final project that could have used some more guidance.",0,0,Dana,8870369
+16790988~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1466774057795,4,0,"The final project for this one was difficult but within reason, as it should be.",0,0,Karl Stroud,16790988
+16598801~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456478651009,4,0,Great course!! It's really useful.,0,0,Francisco José Fernández-Trujillo Amaya,16598801
+12581643~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455505950102,4,0,Es bueno pero hace falta enfocarlo mas en temas especificos,0,0,Cristian Carvajal B,12581643
+12893467~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452768724141,4,0,"Best course in the specialization so far.  Well thought out and explained.  The course still has the same problem with quiz questions being at times obtuse, but overall it's a really good course.",0,0,James Kee,12893467
+1599409~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452613195444,4,0,Great cours !,0,0,Thelemaque Dukens,1599409
+2506609~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452600205019,4,0,Great Course,0,0,Nicola Romeo Arena,2506609
+16479375~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1451272786288,4,0,"Enjoying it, but missed out a bit before...",0,0,Sergej V,16479375
+4512974~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1450577822614,4,0,great,0,0,Alejandro,4512974
+99481978~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1655997615549,5,0,Great Content but Outdated. Please Update some Video and commands,0,0,Sanjay Choudhary,99481978
+26449561~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1655690176087,5,0,Excellent!,0,0,Claudia Patricia Perdomo Rodriguez,26449561
+91267527~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1630943143941,5,0,it was nice & I get to learn a lot,0,0,VINAY LINGAIAH GANJI,91267527
+2410588~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1625467586348,5,0,Excellent presentation. Clear with hands-on coding examples. ,0,0,Marthinus P Fourie,2410588
+63756233~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1606815969521,5,0,Good,0,0,Subhashree.R,63756233
+62917859~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1606747977769,5,0,very good,0,0,Vindhuja Vindhuja,62917859
+59607947~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1596887693024,5,0,good,0,0,Padmakar Sanjay Dubey,59607947
+1948993~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1595546913957,5,0,"Dr. Matthew Yee-King is a good teacher. Although the course is hard because of lots of coding, he makes it easy to understand all lessons.A good course and a good learning experience, indeed.",0,0,IBICO AUGUSTO ROJAS JIMÉNEZ,1948993
+61446531~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1593534351167,5,0,josssssssssssssss,0,0,Sharmin Akter Momu,61446531
+31627389~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1584541892438,5,0,the course was amazing and i learnt a lot i hope i will revise back when needed thanks to coursera and the teacher,0,0,abdiwahab jama said,31627389
+3963154~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1581940803737,5,0,  Thank you it is a great material and a great instructor.  ,0,0,Lazlo Mita,3963154
+382034~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1575929344010,5,0,"This course is more than building with javascript and mongo, it is a full stack course with precise techniques to design, implement and manage back end and front end services. Thanks to the instructors for such an amazing content.",0,1,Itsido C Adjavon,382034
+32538547~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1565756553404,5,0,Lot of thanks to University of London and Coursera for providing this amazing and useful course. Really enjoyed learning. It helped me learn new skills to develop my career and enrich my expertise. Thanks  ,0,0,Muhammad Sameem,32538547
+28844143~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1558370041034,5,0,Really well done.  I like the pragmatic course materials and the homework was doable in the timeframe given.  ,0,0,Tim j Wolters,28844143
+21275052~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1550920057429,5,0,Hai Thank you,0,0,usha yelisetty,21275052
+29430472~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1532450216119,5,0,"Fantastic course!Thanks, Dr. Yee-King!",0,0,Danilo Chiarlone,29430472
+676229~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1531068464493,5,0,"The example demonstrated in the course is quite interesting. The instructor also teaches us how to build the example from scratch. If you have some background in the (PHP) web development and some idea about JS, you can finish the whole course within one week.",0,0,Wong Pak Kan,676229
+18707111~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1524317980747,5,0,Lecture is good!,0,0,KIM HUNG PHI,18707111
+3222090~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1518083963495,5,0,Great class - i learned a lot! thank you!,0,0,Roman Sankowski,3222090
+17616850~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1516924916735,5,0,Excellent!,0,0,Joel Flores,17616850
+27539289~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1506986272053,5,0,"manipulate application with multiple users is a really useful technical skills we should get, these courses contain how to add multiple users/documents/comments, that's really need to learn!",0,1,keelia,27539289
+26005205~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1505410251993,5,0,"Excellent course, I like it :)",0,0,Maria Jose Barrientos Vallejos,26005205
+13592967~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1495406122188,5,0,While there ere parts that were tough to follow I think this course definitely hit the mark on learning more about Javascript and MongoDB.  I fund the concepts easy to understand as I got closer to the end because the instructor continued to re-enforce earlier lessons. ,0,0,John L Reed,13592967
+22403385~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1493134169464,5,0,Great course. Matthew Yee King is a fantastic instructor and I am learning a lot about what seems to be a really exciting framework!,0,0,Zac Bolton,22403385
+2064~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1487799043546,5,0,Fantastic course! I think there is no simpler way to learn meteor and mongo rather than the way it is in this course. Many thanks for such a great course!,0,0,Ernesto Sitoe,2064
+11901674~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1486976182825,5,0,A great introduction to the real capacities of meteor.,0,0,Fernando López,11901674
+20948098~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1484469863552,5,0,Awsome ! ,0,0,Jangbahadur Patel,20948098
+13895829~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1482058134973,5,0,Another lovely course from Dr. Matthew Yee King. A gifted instructor indeed. ,0,0,Ejegi Ayeoritsemofe Victor,13895829
+633492~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1480143014546,5,0,Very promising environment. ,0,0,Matt Jaworski,633492
+322699~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1478439875119,5,0,I feel this course offered me a solid foundation that helps me manipulate JS and JQuery-based scripts on a daily basis. ,0,0,Marc Thibault,322699
+1328028~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1477201413981,5,0,Nice tutorial. Marvelous tutor! ,0,0,Chatzatoglou Konstandinos,1328028
+5333590~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1475182626409,5,0,thank you ,0,0,Khalid M. Said,5333590
+21725~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1473872457283,5,0,"Very nice course. Although some of it's concepts can be applied in other technologies, it's main focus is on MeteorJS framework. ",0,0,Ovi DB,21725
+46908~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1473857910140,5,0,"The course is excellent: modern, practical, and with a number of useful tips.",0,0,Mariana de Azevedo Santos,46908
+7589269~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1472099730547,5,0,G,0,0,Momin Ijaz,7589269
+543023~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1471385953394,5,0,"This is really quite an advanced course that quickly takes you into making a functional, collaborative app. Very well taught despite the quite quick pace!",0,0,Anna Spysz,543023
+17496356~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1469884711114,5,0,"Excellent course. Very good instructor. 
+
+",0,0,nektarios katakis,17496356
+20173391~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1467967343278,5,0,"Nice course, a lot of new powerful things.",0,0,Yurchyna Oleksii,20173391
+3554730~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1467235660633,5,0,"Excellent clarifying, a lot of concepts are really clear after this course.",0,0,JULIAN ANDRES MORALES REYES,3554730
+8491110~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1465992059680,5,0,  Excellent course with challenging projects. Teaches essential techniques for MongoDB.  ,0,0,Gregg Hudis,8491110
+12852~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1464832827074,5,0,Strongly Recommended,0,0,Henri de la Hoz Escorcia,12852
+11394015~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1464706124147,5,0,Awesome content!,0,0,Tamas Zsebe,11394015
+4005081~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1463134415297,5,0,"It was challenging, but videos (and lecturer) are very easy-to-follow :)",0,0,Polina,4005081
+15727115~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1462057272740,5,0,The professor is super nice and the course is very helpful,0,0,hsc asn,15727115
+6369039~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458999402311,5,0,I love the course format,0,0,Rafael Custódio Silva,6369039
+1623110~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458927148197,5,0,Great course!!!! I love MeteorJS,0,0,Javier González Hernández,1623110
+2377596~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458746197398,5,0,Great course! I had a wonderful time during the course,0,0,Charles,2377596
+16167479~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458700971320,5,0,"The teacher is very comprehensive and very serious. I saw the power of Meter while I was staring to learnNode.js, thanks.",0,0,Tian,16167479
+17605725~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1458133085283,5,0,Sensacional. Everytime I saw all videos in the same day (yesterday) ... great teatcher and good material.  Best course ever. ,0,0,Johnny,17605725
+17952046~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457976485364,5,0,Excelente curso,0,0,Sergio Ricardo García Vargas,17952046
+3159904~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457879029551,5,0,Amazing course!  Dr. Yee-King is an amazing instructor and really makes the information accessible.,0,0,Jason D. Landers,3159904
+9209227~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457477571302,5,0,Really usefull,0,0,Jordão Barroso,9209227
+16423625~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457428196162,5,0,老師講解得很清楚細膩，但整週的Quiz有點不太容易過,0,0,涂思齊,16423625
+11843251~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457299739371,5,0,Excellent course! It helps to obtain good basis of MongoDB,0,0,Alex Naduev,11843251
+16817119~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457238735440,5,0,"Very good lecture, which make beginner to make application following through it. ",0,0,Sunhyung Kim,16817119
+15813073~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1457094133247,5,0,Simply Good!,0,0,Yogit Nainani,15813073
+6013710~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456995344731,5,0,clear explanation and practical project ,0,0,LC Shum,6013710
+5417589~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456963674686,5,0,"WOW!!!  Raised the bar compared to the previous courses, final project took some effort...fast paced but worth the time",0,0,Dj Sauer,5417589
+17419235~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456795151110,5,0,Great course and I learned alot.  Love the teaching methods.,0,0,Eric Hoogeveen,17419235
+17067676~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456499036581,5,0,"Great course!When developing the assignments for this and previous courses, I had learned a lot of new. Then I  read Meteor Guide, and catched myself on the thought that many of recommendations described in Meteor Giude I had already leant on my own experience. It's really great. Thanks a lot to Mattnew for his excellent lectures and very useful examples and starter applications.And yes, love the final assignment very much. It's absolutely great and powerful. ",0,0,Sean Brown,17067676
+17790747~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456480903040,5,0,"The videos are really good, makes it fun to watch and learn. I especially like that it's appearently iive coded and you get to know the train of thoughts from the Lecturer. Really well done, thanks for this course :)",0,0,tekay,17790747
+11009467~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456298834875,5,0,Great course!,0,0,Serjey G Irin,11009467
+5981156~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456273967455,5,0,Great into course,0,0,Adrian McConnon,5981156
+11018032~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456187208286,5,0,"I really liked the course. Tha manner of teaching and the subject with all the details of ""how to"" are attention catchy. Unfortunately just had no time to complete it properly and in time.",0,1,Artem Nedohibchenko,11018032
+3312337~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1456104307592,5,0,Amazing course! Very good material and didactics. Hope there are more meteor courses with him!,0,0,Luis Magalhães,3312337
+2902481~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455906658310,5,0,"Really nice step forward from the basic Meteor course. I love the way the teacher explains the concepts, and how he builds meaningful examples",0,0,Matteo Tognela,2902481
+964595~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455745160794,5,0,Matthew is a great instructor. Loved the way how he taught the entire series especially this one. Step by Step explaining every little detail. Keep up the good work...,0,0,Shiv Mehra,964595
+13454131~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455734123883,5,0,"Really great course. The education was practical showing real life process of creating pages, not boring theory. ",0,0,Miroslav Kašiak,13454131
+14224681~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455542739967,5,0,"Excellent coursera and nice instructor, keep it up good work.....",0,0,Imran Hafeez,14224681
+417469~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455534753131,5,0,Awesome course!,0,0,Aaron Schafer,417469
+282658~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455094644840,5,0,Meteor is pretty cool you need to see this course!,0,0,Gerardo Esteban Cordero Angulo,282658
+15156361~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1455047767277,5,0,perfect,0,0,Polad Mahmudov,15156361
+9067456~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454930640778,5,0,"Ver good, indeed!",0,0,Hans-Joachim Kirlum,9067456
+3792552~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454911983542,5,0,"I am learning a new thing on my every step, very efficient way to learn things.",0,0,Dijup Tuladhar,3792552
+3950329~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454427546207,5,0,"This course was a great tool towards a deeper understanding of more advanced aspects of the Meteor environment. I have learned a lot and enjoyed the way content is exposed in a natural and gradual way, building understanding one step after the other.Great course to those interested in a great and promising framework!",0,0,Kemel Zaidan,3950329
+803858~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454341979711,5,0,This specialization really grows on you :P,0,0,Vijai Kumar Suriyababu,803858
+5991207~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454263095022,5,0,"Nice, thank you very much :)",0,0,Tatiana Carolina Molina Higgins,5991207
+14282899~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1454192179058,5,0,One of the best,0,0,Itai Strauss,14282899
+11176297~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1453479691396,5,0,Very Nice teaching. Why don't you people try to make new Tutorials for Nodejs. That would be awesome.Really enjoying learning Meteor.,0,0,Deleted Account,11176297
+13541796~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1453078156757,5,0,"Great course, special I liked the test challenge",0,0,Jorge Rodríguez,13541796
+6388746~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452973088002,5,0,"Thaks for a well tougth course, simplicity in this kind of topics is hard and here is done in masterful way.",0,0,Ernesto Amenabar,6388746
+9407242~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452787356550,5,0,"Yet another great contribution to the specialization with a focus on mechanics behind reactivity and security of applications. This, in fact means, that the module is quite unfortunately named. So far it was the hardest module, mainly because it mainly deal with back-end of the Meteor, but after completing the assignment, many aspects of real-time secure manipulation of the mongoDB become more clear.",0,0,Maksym Sladkov,9407242
+6475712~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452634157424,5,0,"Great course, I feel ready to develop some apps now.",0,0,Lorna Brown,6475712
+5317086~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452605612364,5,0,great course about meteor.js applications,0,0,Antso Rafenonirina-Laza,5317086
+11744892~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452479168671,5,0,The best professor to learn coding from !,0,0,Achyut Kulkarni,11744892
+14353792~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452406257515,5,0,"A phenomenal class, it is just detailed enough to give what's needed to build fully functional Mongo-supported websites on ones own.",0,0,Jason Michael Cherry,14353792
+3863492~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1452071220754,5,0,"Well done, I learned a lot from this course.",0,0,Richard de Vries,3863492
+15352991~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1451472660947,5,0,great course.,0,0,גלעד גרין,15352991
+2359765~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1450864471905,5,0,The best starting course for meteor! well done and thanks!,0,0,Gerrie van Wyk,2359765
+47905~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1450636592103,5,0,Dr. Matthew Yee-King is one of the best teachers I ever seen. Besides course is really interesting and useful.,0,0,Гнат Мельник,47905
+674618~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1450474560735,5,0,Very interesting issue masterly explained.,0,0,Evaldas Ilginis,674618
+243998~COURSE!~EA0hyTUGEeWWBQrVFXqd1w,1450348040796,5,0,Perfect,0,0,EZABO BARON,243998

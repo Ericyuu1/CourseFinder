@@ -1,0 +1,34 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+43829434~COURSE!~kl1SGpRzEembThIC62Cw7g,1598739507068,1,0,Grader problem unfixed by IBM,0,0,Lam Chou Vun Dennis,43829434
+38279486~COURSE!~kl1SGpRzEembThIC62Cw7g,1590209334482,1,0,"The instructor has completely failed to create a course that works and does not adequately answer questions. There were so many errors in the week 2 data ingest notebook that even after I fixed things, there remained errors at the end that made it impossible to use and the instructor was never able to fix it (the key error since invoive_item_id doesn't exist). I learned nothing from this awful course.",0,1,Jonathan Venezia,38279486
+39940697~COURSE!~kl1SGpRzEembThIC62Cw7g,1586625564607,1,0,Country table missing in lab db.The lab was failed.To Sad.It was just waste a time.,0,1,Armen Melkumyan,39940697
+48780993~COURSE!~kl1SGpRzEembThIC62Cw7g,1581895842140,1,0,"For all of these courses, no data source has been provided 100%. All of them have an issue and can not be used for the case study. Also for the second module, even no solution has been provided in the case-study-solution notebook. To be honest, the lectures didn't provide us enough material to deal with the course and I totally learn nothing from this course. It just wastes our time. ",0,3,Yifan Zhao,48780993
+58044042~COURSE!~kl1SGpRzEembThIC62Cw7g,1594161795229,2,0,I decided not to stick with it.  It just wasn't coherently put together.,0,0,Matthew Dundas,58044042
+71969059~COURSE!~kl1SGpRzEembThIC62Cw7g,1604944847566,3,0,"Not so interesting , a little slow",0,0,Alberto Premoli,71969059
+72202745~COURSE!~kl1SGpRzEembThIC62Cw7g,1602138903377,3,0,"Fine, even if a good knowledge of python and related packages is required",0,0,lorenzo spoladore,72202745
+64804626~COURSE!~kl1SGpRzEembThIC62Cw7g,1593601235767,3,0,Some of the answers did not work. Location of files not consistent with code. Some bits very detailed.Overtesting,0,0,Erwin Frank-Schultz,64804626
+45593764~COURSE!~kl1SGpRzEembThIC62Cw7g,1578651939594,3,0,Basic introduction to data ingestion pipeline.,0,1,L Lira,45593764
+14303518~COURSE!~kl1SGpRzEembThIC62Cw7g,1616228918093,4,0,"I felt the mentioned time of completion of each unit is not accurate, especially the reading part. I understand that it a subjective matter. But, some reading parts have links to external sources as well, and considering those the time mentioned is not accurate.",0,0,FARHAN KHAN,14303518
+47837078~COURSE!~kl1SGpRzEembThIC62Cw7g,1612875472530,4,0,The theory details are good. also the assignment gives us the complete understanding & practise,0,0,Pravin Patni,47837078
+40469745~COURSE!~kl1SGpRzEembThIC62Cw7g,1608018023189,4,0,everything is good for the class except the notebook for Watson can not get data correctly into the dataframe.,0,0,Shen HaiFeng,40469745
+44102522~COURSE!~kl1SGpRzEembThIC62Cw7g,1597684693495,4,0,"Really nice... I have never automated the process of loading data..This is new and business oriented when compared to other courses.Although, prior knowledge of playing around with ml is required.",0,0,BHAVANA gubbi,44102522
+676109~COURSE!~kl1SGpRzEembThIC62Cw7g,1594209611018,4,0,very interesting to learn good practices for data digestion ,0,0,khalil elkhiari,676109
+27963290~COURSE!~kl1SGpRzEembThIC62Cw7g,1590711239381,4,0,This is a great course .Lectures and materials are excellent.case study is not organised properly.,0,0,Sourav Dash,27963290
+10570515~COURSE!~kl1SGpRzEembThIC62Cw7g,1589407964279,4,0,The Data Ingestion notebook was such a great experience.,0,0,Mahjube Chavoshi,10570515
+43833~COURSE!~kl1SGpRzEembThIC62Cw7g,1582417742857,4,0,"Great course; would be better if the case study file was not broken (missing files, missing table in db, etc.)",0,1,Tracy Petrie,43833
+43483048~COURSE!~kl1SGpRzEembThIC62Cw7g,1581904400190,4,0,"The course goes over practical considerations relevant to applying data science in the real world, but the final case study focuses more on data ingestion. It would have been nice if there was some component dedicated to practicing the 'empathize' stage and gaining business problem awareness. ",0,0,Don Walpola,43483048
+76788294~COURSE!~kl1SGpRzEembThIC62Cw7g,1631778712202,5,0,Excellent and a bit challenging,0,0,Dino Halusek,76788294
+38030392~COURSE!~kl1SGpRzEembThIC62Cw7g,1631688960674,5,0,very good and easy,0,0,Mohamed Adel Galal Abdellatif,38030392
+10269~COURSE!~kl1SGpRzEembThIC62Cw7g,1613599343397,5,0,I love the practical business focus of your IBM! Keep doing great stuff,0,0,Pascal Uriel ELINGUI,10269
+38569618~COURSE!~kl1SGpRzEembThIC62Cw7g,1612277904347,5,0,Awesome !,0,0,Zeghraoui Mouad,38569618
+27694868~COURSE!~kl1SGpRzEembThIC62Cw7g,1612121049903,5,0,everything was good explained even i didnt understand much because of my english. Thank you very much for such good course with notebooks and many related links.,0,0,Иокша Дмитрий Сергеевич,27694868
+12189812~COURSE!~kl1SGpRzEembThIC62Cw7g,1609679704845,5,0,Very helpful and good course to start my journey to AI Workflow - Thanks!,0,0,Paulo Cesar Calabria,12189812
+45304285~COURSE!~kl1SGpRzEembThIC62Cw7g,1598044807141,5,0,"I am totally amazed with the course content. I have never such a well structured course like this. Key take aways. are: Every Video is short and crisp, and each video is followed by transcript with hyperlinks. If one watches the video, the transcript gives view point and hyperlinks really makes you ready for the quiz which is the following section. Every problem in the course, gives exposure to various methodologies and reason for using them. Finally, the notebooks which were shared both local version and Watson version. This in turn giving you liberty to use Cloud platform to get hands on. Great content, thank you",0,0,Nagendra Prasad Ponnaganti,45304285
+50292751~COURSE!~kl1SGpRzEembThIC62Cw7g,1595941639307,5,0,Great! Like it so much!,0,0,Yuliia Hetman,50292751
+1386669~COURSE!~kl1SGpRzEembThIC62Cw7g,1595003801478,5,0,Excellent Course with Practical Case STUDY.,0,0,Neela Mistry,1386669
+25224145~COURSE!~kl1SGpRzEembThIC62Cw7g,1594929399813,5,0,very efficient way of learning,0,0,Laurent Vanel,25224145
+38837705~COURSE!~kl1SGpRzEembThIC62Cw7g,1594679057617,5,0,Brilliant Instructors and well Structured Course,0,0,Raja Narasimhan,38837705
+39826230~COURSE!~kl1SGpRzEembThIC62Cw7g,1594385832605,5,0,Excellent training !!!,0,0,Julio Cruz,39826230
+44195359~COURSE!~kl1SGpRzEembThIC62Cw7g,1593732343611,5,0,Very good course. ,0,0,PARITOSH PRAMANIK,44195359
+28591330~COURSE!~kl1SGpRzEembThIC62Cw7g,1592926211685,5,0,"Excelente curso, nos muestra lo esencial",0,0,Oliver Muñoz Ramírez,28591330
+27267586~COURSE!~kl1SGpRzEembThIC62Cw7g,1588836771300,5,0,Good,0,0,Abrar Jahin,27267586

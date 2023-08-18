@@ -1,0 +1,40 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+14655103~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1644331310467,1,0,All materials are copied directly from somewhere.,0,0,Zhiqiu Li,14655103
+35568095~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1612436218340,1,0,At least provide the notebook with code after the course ends.,0,0,Nisarg Alpesh Modi,35568095
+7994939~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1606485748202,1,0,"Nothing useful from this guided course, you can even read a free published article from random source. All the instructor did was read out what he is typing. The ability to code while you watch video, I did not find it much useful.",0,0,Krishna Chaitanya Munjam,7994939
+43818513~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1594126587656,1,0,the third party tool... no sound at all...total waste of time and money  ,0,0,Youyi Kim,43818513
+9491570~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1593148171533,1,0,"It's just the copy of what is available as free in the internet, even the dataset...",0,0,Manoj Ravunni,9491570
+11742684~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1588938194209,1,0,"A very short course with very little explanation. Rhyme server keeps restarting without any apparent reason. Probably a YouTube video with a Google Colaboratory workbook would have sufficed. Without  exercises to practice on, students can only mindlessly copy what the instructor just did.",0,2,Raihan Riad,11742684
+26924355~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1642887590682,2,0,I would have been more aware of NER with LSTM by doing a traditional tuto on a random site. There is so few theoric and overall explanation and the voice is monotonous.,0,0,Julie Sarah,26924355
+18977295~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1612593679430,2,0,More in-depth explanations on model building and use of libraries could have been useful. I expected a bit more considering I paid USD 10 for this course.  And the course felt a bit too short. ,0,0,Akshay Gudiyawar,18977295
+1383791~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1599249640252,2,0,"Needs more theoretical explanation alongside, not better than other free tutorials.",0,0,Simon Sebastian Rittel,1383791
+15757263~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1594118971312,2,0,"The course content was very elementary for someone who wants to create a working project using NER. Author was directly using all the concepts in the code without any explanation. So, it was just copy-pasting the code. This will help only if you want an elementary piece of code without any explanation. Not worth your money!!",0,1,anurag gupta,15757263
+11139131~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1600565420583,3,0,"it's too short, plus I expected it to be close to real life projects",0,0,Neelkanth Sanjay Mehta,11139131
+13785128~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590957238542,3,0,Rhyme never connected and project was too simple. Elaborate explanations would help!,0,1,Rajat R Bapuri,13785128
+28633584~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1605451332256,4,0,Really liked the structured approach. Helped me understand the steps involved in building a NER app,0,0,Anand Subramaniam,28633584
+46903916~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1595469434433,4,0,Very helpful,0,0,Benjamin Benteke Longau,46903916
+28081244~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1593003813348,4,0,Rhyme interface is too laggy,0,0,Padala Vijaya Reddy,28081244
+61590120~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590956048876,4,0,Good learning experience.,0,0,Nirmala Santiago,61590120
+61601914~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590681407853,4,0,"Explanations of functions and library used were a little less, otherwise a good course",0,2,Ashutosh Rattan,61601914
+54348182~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590595548178,4,0,"You could increase the time limit for the instructor to explain the functions and logic behind it more elaborately.And i would be happy if they provided an option for compiling on our own desktops which would be quicker and more efficient on real world Data.The online GPU was dependent on the internet connectivity and wasn't efficient enough.On the whole, the course was helpful, Thanks.",0,2,Mohamed Hashim G,54348182
+29235229~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590430966707,4,0,Good course covering all the basics required to train a NER model using LSTM without requiring a lot of per-requisite knowledge. Guided project made it easy to follow the instructor and to get an hands on experience,0,1,Anantha Padmanabhan,29235229
+34741~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1652055100963,5,0,w​ell done,0,0,Dee Wu,34741
+17568469~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1624116105215,5,0,End to End example of how to implement NLP NER in Keras using bi directional LSTM. Completed notebook can be found in the Coursera project resource page.,0,0,Yaron Klein,17568469
+74070995~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1617492547489,5,0,Great course! Gives you a solid understanding of NER. ,0,0,Mwenda,74070995
+27327124~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1611113273598,5,0,Good instructor.,0,0,serdar bozoglan,27327124
+56645128~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1602075359594,5,0,Great explanation ,0,0,farhan ahmad jafri,56645128
+31862931~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1601279826527,5,0,Nice project...,0,0,janmejay bhoi,31862931
+31574616~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1599405825223,5,0,This project is a short end-end show. Quickest way to know the process.,0,1,Shashi Kiran Goparaju,31574616
+64990610~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1595517037470,5,0,Excellent,0,0,Gaikwad Nikhitha,64990610
+62498054~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1592967920689,5,0,Nice,0,0,p sandhya,62498054
+62337020~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1592920374174,5,0,Useful,0,0,sarithanakkala,62337020
+34085995~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1592912755658,5,0,A good way to start learning DL using Keras,0,0,Aldrin Claytus Vaz,34085995
+45931782~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1592453476060,5,0,Thank you...,0,0,Kamlesh Chhipa,45931782
+58548306~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1592153477439,5,0,Thank u ,0,0,Doss D,58548306
+33636166~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1591367698276,5,0,Great,0,0,Rifat Rahman,33636166
+61923870~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1591282925808,5,0,Awesome,0,0,HASSAINAR T S,61923870
+61864885~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1591072038755,5,0,nice one,0,0,Rutal Mahajan,61864885
+30272939~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590942129406,5,0,Excellent course on revising LSTMs and Keras!,0,0,Patrick O'Rourke,30272939
+2023613~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590815466524,5,0,Excellent short course with hands on exercise. Wish to do more free courses.,0,0,Biranchi Narayan Nayak,2023613
+39578652~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1590032279466,5,0,It served the purpose..,0,0,Ramprasath Asokan,39578652
+24759066~COURSE!~ldI9lHAcEeqzkA6uNk5lYw,1589556078168,5,0,Help me a lot,0,0,Sylvert Tahalea,24759066

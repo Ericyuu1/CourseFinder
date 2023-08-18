@@ -1,0 +1,51 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+3646771~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1608330055583,1,0,nothing here that I can't get from just reading the docs...,0,0,Wendy  Wing Yee Mak,3646771
+89386085~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1645219883303,2,0,A complete waste of time.,0,0,H.S,89386085
+50486647~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1673957917395,3,0,Was good but the programming assignments could be improved with more practice.,0,0,Charles Tang,50486647
+86429106~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1672383360512,4,0,This lecture series is really easy to follow and informative. I previously had no experience with distributed training concepts. I think It opened up doors for me to learn more advance concepts regarding distributed training using TensorFlow or any other deep learning frameworks.,0,0,Manoj Pandey,86429106
+79669594~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1664742018323,4,0,"Great course! The only downside, but maybe it's just out of the course's scope, is the lack of real projects at the end of it. That is left up to you, which is not a bad thing, but it'd be nice to have it as a great conclusion to a great course.",0,0,Gabriel Medina Braga,79669594
+29548995~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1643009221338,4,0,"W1 & W2 are amazing, W3 & W4 doesn't help much. ",0,0,Ruchen Zhen,29548995
+10509450~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1641026387789,4,0,The course provides under-the-hood insights of Keras APIs and gives in-depth review of native TF APIs,0,0,Pranjal Joshi,10509450
+32936720~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1634669266438,4,0,Week 03 Grader is error,0,0,Duc Anh Lam,32936720
+3340056~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1617865362813,4,0,For a newbie (me) this course helps me to know something new but it's not much helpful for my current job now ,0,0,Stephen Nguyen,3340056
+57604410~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1613015159020,4,0,"75% of the course was good. Many of the topics were very interesting i.e. how default functions work and all. But the last weak was too hard and was not explained well. Again, it was suggested to use slack instead of discussion forums. But the mentors didn't respond to my query. Hence, the course is a good course and worth taking. ",0,1,Pramit Dutta,57604410
+238026~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1610742705829,4,0,"This course was much more detailed, I liked it. I hope there's a TF course down the road which really gets into all those numpy-like TF functions and APIs and how to use them for complex layers and losses.",0,0,Giora Simchoni,238026
+85219815~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1670204916701,5,0,"Thank you course team, you have helped many people in the world ！",0,0,liangyi,85219815
+97796276~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1668310293464,5,0,it's very good.,0,0,Kyhoname,97796276
+95834558~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1661118089093,5,0,Excellent course!!!,0,0,CARLOS ALBERTO LOPEZ FRANCO,95834558
+103348096~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1659806117341,5,0,A​mazing Course With Simple Words And High-Level Understanding.,0,0,Seyyed Soroush Mirzaei,103348096
+13597054~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1655963033652,5,0,Detail and easy to understand. I really recommend this specialization to improve training process using distributed training and strategy,0,0,josua naiborhu,13597054
+92805177~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1655041383572,5,0,"A few things had been difficult to follow, and it took some time to get used to autograph implementation and distributed training strategies in TensorFlow. Nonetheless, it had been a wonderful experience to learn from DeepLearning.AI !",0,0,Muhammad Danish,92805177
+69994521~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1645189499001,5,0,"V​ery good course, thank you",0,0,Parma Riza Ramadhan,69994521
+50067843~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1641717260403,5,0,A​nother great course by Moroney sir. Loved how TF can be used to train models using different strategies. A great intro to the deep applications of TensorFlow,0,0,Vaseekaran Varatharajah,50067843
+64533868~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1640516270032,5,0,useful,0,0,Hoang Dinh,64533868
+46238658~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1639291679102,5,0,It was helpful to learn the details of the optimization by using GradientTape and manually updating the parameters for every iteration.   ,0,0,Gang-Won Jang,46238658
+15380502~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1637827927639,5,0,It was very informative and fun.,0,0,David Jung,15380502
+61402286~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1635185996582,5,0,"great course , highly recommended ",0,0,Himasha Jayawardene,61402286
+86261989~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1634213025053,5,0,s​aved me a ton of time. thank you very much,0,0,Marco,86261989
+392245~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1633211823696,5,0,great training for developers,0,0,Cristian Bittel,392245
+53574434~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1630262220614,5,0,Great course!,0,0,Olexander Adanikov,53574434
+84863918~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1628726110703,5,0,R​eally helpful for people who want to learn deeply TensorFlow in terms of Deep Learning,0,0,Tuan Dao Van,84863918
+68157020~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1627541181312,5,0,The best course I have taken on Coursera so far.,0,0,Marco Sanguineti,68157020
+57032859~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1626634071877,5,0,Excelente curso!,0,0,Alysson Machado De Oliveira Barbosa,57032859
+14576739~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1626440977667,5,0,"5 stars for excellent videos, contents and code walkthrough. Insipired me to learn more and experiment on distributed training and custom training loop.",0,0,Rajendra Aparajit,14576739
+33080126~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1625614366509,5,0,very nice,0,0,Javier Buitrago,33080126
+12013212~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1625040495698,5,0,Wonderful Explained this course.,0,0,Ashish Patel,12013212
+6432432~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1624008050576,5,0,Excellent course. Difficulty level is just right,0,0,Yasar Mehmood,6432432
+9249657~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1619191658922,5,0,My favorite part of this course and other courses in this and other TensorFlow specializations offer by Laurence and Deep learnign.AI is the recaps at the beginning of every video; He connects all the videos and concepts together and makes the learner understand where they are and where they're going and why.,0,0,Homayoun,9249657
+62185784~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1617686322090,5,0,Precise and easy to understand for begineer,0,0,Pratama Azmi Atmajaya,62185784
+68869378~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1617035182477,5,0,Best content around !,0,0,Jorge Silva,68869378
+18446529~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1617004281140,5,0,very good class to teach distributed training using mult-gpus and tpus,0,0,동인 장,18446529
+33180073~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1615081770162,5,0,"Great Course,It would have been laborious for me to try to learn about Tensorflow graph mode and Tensorflow distributed training by myself.The thing was chopped in very small chunks that were very easy to digest.The best part is that I now have working notebook examples that I can use.Thanks",0,0,Francois Robert,33180073
+19692837~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1614536436003,5,0,  This course was fantastic! Laurence and DeepLearning.ai team did great job. Definitely recommended.  ,0,0,Nikolay Stoychev,19692837
+79901742~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1613861730995,5,0,One of the most interesting and intese courses I have done!,0,0,Gonzalo Gómez Nogales,79901742
+27273424~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1613485160953,5,0,"It is necessary to do great research, coding and grapple with many mistakes in order to make very effective and possible works with Tensorflow. In this course I learned a lot in a short time. If I researched what I learned here for days, I could only put it together. Thanks Laurance and all coursera team in the back.",0,0,Hüseyin Kalçık,27273424
+29319363~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1613071922207,5,0,Great Instructor.,0,0,M. Atif Altaf,29319363
+12697526~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1612276967113,5,0,"great to learn things about writing custom training loops, and distributed training of deep learning models.",0,0,Animesh,12697526
+6263626~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1611948799421,5,0,Very informative and cool stuff,0,0,Aleksandr Sharikov,6263626
+15823709~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1611640699435,5,0,Thanks a lot! Greate course.,0,0,Aleksander Zatserkovniy,15823709
+43025186~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1611403711115,5,0,Its getting difficult.,0,0,Ed Henry Caneda,43025186
+33929203~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1611247183480,5,0,"He is a very good instructor and the content is well prepared, also the course covers rare topics.",0,0,Abdelrahman Ahmad,33929203
+73356216~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1610145944309,5,0,Difficult concepts are explained with simple words and simple examples. Great course,0,0,Artur Zeitler,73356216
+4272623~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1606499179080,5,0,A very detailed course with lots of nitty gritty. Learned a lot and of course enjoyed it thoroughly.,0,4,DEBASHIS GHOSH,4272623
+46824214~COURSE!~rsE-F_PIEeqdDRIRGqcDrw,1606187040292,5,0,short and sweet course :),0,3,Shaik Sameer,46824214

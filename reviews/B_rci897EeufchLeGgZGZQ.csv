@@ -1,0 +1,153 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+90101969~COURSE!~B_rci897EeufchLeGgZGZQ,1674673198040,1,0,"It's not fair to rate the course before finishing its content but the videos sound very noisy,It will be a hard mission for me to continue the course until the end to edit my review to be more accurate.",0,0,Yaser,90101969
+33390915~COURSE!~B_rci897EeufchLeGgZGZQ,1674497657771,1,0,"Everything that follows, is just my own personal opinion, if not stated otherwise. It is based on my observations and interactions with teaching staff in the course discussion forums (for the last few months).
+This is a very poorly executed course.
+As of today (23 Jan 2023) this course for me still does not meet the criteria of a ""good resource for learning"" the basics of Linux CLI and shell scripting (despite few minor improvements already applied).
+Some of the topics are hastily skimmed through in the videos, and almost no mechanism presented in the course is thoroughly explained.
+Many of the ""basic concepts"" for Bash (and other modern shells) like e.g. function definitions, proper error handling, etc., are not even included in the course.
+The importance of using correct quotations for variable/parameter expansions is also never mentioned nor explained, although it should be considered essential ""best practice"".
+Peer-graded Final Assignment instructions/""guide"" contains some errors and not fully tested solutions, advertised as ""working correctly"".
+The similar can be said about grading rubrics for the final assignment - which additionally are not focused on the actual results of the code execution, but instead they're focused on the code ""looks"", as in its visual resemblance (being as close to ""identical"" as possible) to what the course's staff have written in the grading rubrics.
+In some cases, if the teaching staff finds a question in a discussion forum a bit more ""inconvenient"" for them to answer (or they're not fully capable of providing the correct answer to it in a timely manner?), then they would rather:
+a) ignore the question completely (the least they can do is to not get involved at all) or reply with something similar to: ""we'll investigate the issue and get back to you"" (the latter ""get back to you"" almost never happens for a ""more complicated"" question);
+b) reply with some irrelevant, impractical, incorrect, or otherwise unuseful information;
+c) politely ask, to not bring the subject up ever again, as it may ""overwhelm the learners"";
+d) delete the post (most often containing a valid, correct answer to the question) from discussion forums (I see censorship as ""means of hiding incompetence""?)
+e) repeat other learner's correct answer (sometimes only slightly modifying it);
+f) and also (occasionally) delete any relevant corrections (made by more knowledgeable learners) to previous staff's posts/replies;
+than admit to any mistakes in the course contents, admit to lack of expertise in the subject matter, and address the questions properly - e.g. by allowing open discussion on potential improvements to the course materials, and implementing all said improvements as soon as possible (after reviewing).
+These practices have been reported, and as I was assured by the Coursera Support Team, this kind of inappropriate teaching staff's behaviors will be escalated further, so I'm awaiting next developments of the situation.
+But I still think this kind of inappropriate behaviors are a clear example, of what gives (or rather should give) the Skill-Up Technologies Pvt. Ltd. / SkillUp Online (employers for the most of ""teaching staff"") a bad reputation.
+This also might give Coursera courses and IBM Skills Network a really bad publicity in a long-run.
+Teaching and following ""best practices"", and answering doubts with relevant, thorough, technical knowledge in the discussion forums of this course... is something you unlikely/rarely find coming from the teaching staff.
+Generally, teaching staff don't seem to be fit for the job of thoroughly explaining the course materials and teaching the proper ""understanding"" of your mistakes (as hard as they try to be seen ""cooperative""),
+but as I see it, they're better suited for
+a) only requesting you to ""copy and paste"" their code samples, that they believe should work best as a ""correct solution"" in their opinions (side note, again, ""my opinion"" - their code doesn't work all that great, and is not written with all the ""best practices"" in mind) and 
+b) deleting ""inconvenient"" posts from the discussion forums whenever they please.
+To sum it up: in its current form, and with its current teaching staff replying in the discussion forums, I'd definitely not recommend this course to anyone, especially beginners. And I'd discourage seeking any ""great"" learning experience from Skill-Up Technologies Pvt. Ltd. / SkillUp Online - thus I'd strongly suggest searching for some other, better resources on the subjects regarding basics of working with Linux CLI and shell scripting.
+",0,1,Mateusz Kita,33390915
+32194906~COURSE!~B_rci897EeufchLeGgZGZQ,1672741889346,1,0,it's really not easy and so clear for any beginner to start with!,0,2,Hager OTHMAN,32194906
+115545951~COURSE!~B_rci897EeufchLeGgZGZQ,1668331317754,1,0,would prefer a live instructor. not a generic AI voice reading a PPT. would not recommend.,0,2,Mohd Jauwad Hussain,115545951
+95985950~COURSE!~B_rci897EeufchLeGgZGZQ,1665162018594,1,0,S​ubmitted the same final project but kept getting different results. I ended up passing but I just dont understand why was that happening ,0,0,Efilcon,95985950
+28269899~COURSE!~B_rci897EeufchLeGgZGZQ,1659407250739,1,0,"This course is terrible for beginners!! None of the modules go in depth, it was difficult to understand because none of the commands are explained, and the final project is super advanced for what is actually taught in the class. I feel like I learned almost nothing!",0,1,Amanda Witt,28269899
+106706124~COURSE!~B_rci897EeufchLeGgZGZQ,1654675863497,1,0,i am new this software course. no gudence for this course to me. i could not attend the live class. time zone not allot to me,0,0,Antony vinoth,106706124
+9045617~COURSE!~B_rci897EeufchLeGgZGZQ,1652825006356,1,0,"T​here is so much information missing in the labs in this course esp starting from Week 3. The videos it seems like were put together in a hurry with crucial information missing and labs are even worse than the videos. They are expecting one to find, set, unset files in extremely long scripts without providing any information on how it is done. Furthermore, there is little to no information given on why certain commands are called what they are called making this course not at all intuitive. I wish someone else has reviewed this course before putting it online. Such a wasted opportunity to educate people. ",0,4,Muhammad Basil Khan,9045617
+26577812~COURSE!~B_rci897EeufchLeGgZGZQ,1646039968675,1,0,poor content,0,2,S V,26577812
+4803258~COURSE!~B_rci897EeufchLeGgZGZQ,1649195744182,2,0,the material was not sufficientthe last assignment was not clear and the answer of some task was given in the question!!!.,0,1,Pedram Aghaei,4803258
+452713~COURSE!~B_rci897EeufchLeGgZGZQ,1645318471126,2,0,I​f you've never used Linux before this may be helpful. But it you have experience with it this course is pretty worthless. I finished it in less than an hour. ,0,1,Mark Molesworth,452713
+19477576~COURSE!~B_rci897EeufchLeGgZGZQ,1645210546015,2,0,"overly simple, shouldnt even be a full ""course"". its a halfassed youtube video with a quiz",0,1,Nate Robertson,19477576
+99522590~COURSE!~B_rci897EeufchLeGgZGZQ,1672837797446,3,0,"Some instructions are not clear, learning of commands are very basic (not done in depth), couple of errors in system. Other than that, I learned a new language and I would recommend the course.",0,0,Rebecca Kwanga,99522590
+117428371~COURSE!~B_rci897EeufchLeGgZGZQ,1670951702029,3,0,Some help but lacks pedagogical skill in its design.,0,1,David Baldwin,117428371
+111011151~COURSE!~B_rci897EeufchLeGgZGZQ,1668883755070,3,0,I don't agree with the graders.,0,0,Jennifer Le,111011151
+27599491~COURSE!~B_rci897EeufchLeGgZGZQ,1660922326146,3,0,"If you don't know anything about Linux and commands this is for you, but if you are looking for a more advanced course stay away. I remove 1 star because is too basic and short, and could cover more things, and another star, because peer review is a joke, I got a 90 instead a 100, because the reviewer of my project apparently doesn't understand and take away 2 points from correct answers.",0,1,Jonathan Villalobos Cárdenas,27599491
+31577999~COURSE!~B_rci897EeufchLeGgZGZQ,1660822866523,3,0,This course is neither a begginer nor an advanced course. This is only for people who have some times to get involved with a limited series of reminders of what a few of Linux commands are and nothing more. It is a good course in overall.,0,0,ali azbi,31577999
+104733650~COURSE!~B_rci897EeufchLeGgZGZQ,1650588622414,3,0,"The course is very basic. It should cover conditional operators, repetition structure and special variables like $#, $? and so on.",0,1,Kelvin Santos Amorim,104733650
+84583372~COURSE!~B_rci897EeufchLeGgZGZQ,1644822632380,3,0,"I​ missed more input on actuall scripting. There were no references to loops, if and function definition. all things that you need when writing more advanced scripts",0,1,Hannes Becker,84583372
+31413401~COURSE!~B_rci897EeufchLeGgZGZQ,1642438099979,3,0,"T​his need a lot more hands-on experience and explaining the *why* of commands. The course never explained any logic behind operators and commands, so it was never clear how everything worked.",0,7,Tyler Mootz,31413401
+115011544~COURSE!~B_rci897EeufchLeGgZGZQ,1677522301686,4,0,Some things weren't covered in the theory section but were in the final project.,0,0,Anna,115011544
+117437557~COURSE!~B_rci897EeufchLeGgZGZQ,1676325916109,4,0,"The course was very informative; however, the final project was quite difficult for me to follow/understand what was being asked to do.",0,0,Lori Rowley,117437557
+122474510~COURSE!~B_rci897EeufchLeGgZGZQ,1674500039031,4,0,overall very good course my suggestion is a lot of many material can be add for this course,0,0,Junaid  Altaf,122474510
+60872285~COURSE!~B_rci897EeufchLeGgZGZQ,1670957017530,4,0,The robot voice of the lessons makes it boring. The environments are nice to use. ,0,0,Sean Hart,60872285
+115786209~COURSE!~B_rci897EeufchLeGgZGZQ,1669224117877,4,0,"Excellent course to dive into Linux shell, however the final project has an issue related to the name of one specific variable which could lead to peer's appreciation error while evaluating it. ",0,0,ANDERSON PAEZ CHANAGA,115786209
+17008763~COURSE!~B_rci897EeufchLeGgZGZQ,1668986434756,4,0,"Very useful for getting a first approach of common linux commands and avoid feeling intimidated about using tools from an OS different than Windows or Mac. More practice in real life is needed after this course to master all the commands, but you will surely learn how to learn more about the commands.",0,0,Marco Casillas,17008763
+105704972~COURSE!~B_rci897EeufchLeGgZGZQ,1668510077377,4,0,"conditions, loops and other important topics could also be explained. Thanks.",0,0,Akkaya,105704972
+41852483~COURSE!~B_rci897EeufchLeGgZGZQ,1658924396345,4,0,"The course is well-structured, but I believe is not sufficient for the DevOps role ",0,0,Kaveh Saleki,41852483
+76115748~COURSE!~B_rci897EeufchLeGgZGZQ,1655895281373,4,0,Very Good Course.,0,0,Ram Patil,76115748
+108741335~COURSE!~B_rci897EeufchLeGgZGZQ,1655816647721,4,0,"Great course, but I think it has room for improvement when it comes to the command options... not very well specified and you get tested on them. Overall great intro course, I'm glad I took it!",0,0,Justino Compean,108741335
+96094509~COURSE!~B_rci897EeufchLeGgZGZQ,1655224212696,4,0,good course,0,0,Majid Ali,96094509
+1647280~COURSE!~B_rci897EeufchLeGgZGZQ,1652234791835,4,0,U​nfortunately I've found some mistakes in the final test.,0,1,Maria Bozina,1647280
+104496171~COURSE!~B_rci897EeufchLeGgZGZQ,1651120741722,4,0,Good course,0,0,Rishi Raj,104496171
+102581880~COURSE!~B_rci897EeufchLeGgZGZQ,1650202455545,4,0,W​ay above my learning curve need way more hands-on expierience.,0,0,Sean Roe ,102581880
+102747762~COURSE!~B_rci897EeufchLeGgZGZQ,1649140074461,4,0,G​reat course for absolute beginner,0,0,Sabir Ali S K,102747762
+28971918~COURSE!~B_rci897EeufchLeGgZGZQ,1648588911820,4,0,"the course feature a great shell scripting lesson but the test/assignment contain some ambiguous instruction that could lead to the reduction of your score during the test. Anyway, it does not matter that much because ,in the end you will learn about the commands.",0,0,Sirawit Butmaratthaya,28971918
+23203504~COURSE!~B_rci897EeufchLeGgZGZQ,1647847816892,4,0,"The files in ""important-documents.zip"" of the  Final Project has expired modified-date. Please update the file so that the conditional for loop could store files in the array.Bu in overall, the course is well explained. Lab works are good. Pretty enjoy the labs.",0,0,NGUYỄN QUANG THỊNH,23203504
+34142532~COURSE!~B_rci897EeufchLeGgZGZQ,1643540267292,4,0,Good Course for beginners. ,0,0,Hatim Zahid,34142532
+62509527~COURSE!~B_rci897EeufchLeGgZGZQ,1642210788285,4,0,good,0,0,Deleted Account,62509527
+99853280~COURSE!~B_rci897EeufchLeGgZGZQ,1642052161436,4,0,good to understand,0,0,chukka Anupama,99853280
+92608120~COURSE!~B_rci897EeufchLeGgZGZQ,1640563167728,4,0,"Good overview, but should have included more using BASH scripts. Conditional statements and loops were not covered. Functions were not covered. Could have included catching errors with ""$?"".  Running a database command  in a BASH script to import or export data would be useful. Still a decent course though.",0,3,Ryan Smith,92608120
+74452201~COURSE!~B_rci897EeufchLeGgZGZQ,1631973366674,4,0,good,0,1,shruti singh 1.22E+11,74452201
+92273859~COURSE!~B_rci897EeufchLeGgZGZQ,1629983818199,4,0,very easy to understand for beginners. it is useful ,0,1,jonnalagadda venkata sai,92273859
+102628793~COURSE!~B_rci897EeufchLeGgZGZQ,1677242270888,5,0,"The Course was very nice and dense, you learn a lot in a short period of time.",0,0,Odette Sylvia Yaptieu Djeungue,102628793
+627129~COURSE!~B_rci897EeufchLeGgZGZQ,1675719222510,5,0,I really like this course. It is very helpful.,0,0,Thao Minh Tran,627129
+80028563~COURSE!~B_rci897EeufchLeGgZGZQ,1674736357479,5,0,Easy and straight-forward course on shell language and scripting.,0,0,Pablo Martín Torres ,80028563
+113890344~COURSE!~B_rci897EeufchLeGgZGZQ,1674713499317,5,0,well  worth  it  i  learned  a lot  and i will keep practicing to get  even better ,0,0,Michael Joseph Smith,113890344
+84245325~COURSE!~B_rci897EeufchLeGgZGZQ,1673522792648,5,0,beautiful brief explanation  of every topic,0,0,Deep Aghera,84245325
+115404400~COURSE!~B_rci897EeufchLeGgZGZQ,1673268248345,5,0, This course has been very practical and dynamic.  ,0,0,yolanda selas garcia,115404400
+15960555~COURSE!~B_rci897EeufchLeGgZGZQ,1673196561781,5,0,"The final project was kinda challenging for a newbie. Without Hint, I might have not survived!!!",0,0,Aritouch Tirakrit,15960555
+77440729~COURSE!~B_rci897EeufchLeGgZGZQ,1673089974462,5,0,Great!,0,0,Eldor Odilbekov,77440729
+115808662~COURSE!~B_rci897EeufchLeGgZGZQ,1672509504214,5,0,thanks,0,0,Ahmad Mohamad Ali,115808662
+100909184~COURSE!~B_rci897EeufchLeGgZGZQ,1672244502908,5,0,good,0,0,Thach Tuan Anh (K16_HL),100909184
+96675328~COURSE!~B_rci897EeufchLeGgZGZQ,1669901331423,5,0,Very good introduction into LINUX world,0,0,Przemysław Mazur,96675328
+49602022~COURSE!~B_rci897EeufchLeGgZGZQ,1669482884185,5,0,A very informative and easy to learn course for beginners especially with the hands-on tool provided. ,0,0,Divya Kulhar,49602022
+48599695~COURSE!~B_rci897EeufchLeGgZGZQ,1669201106551,5,0,Good Course for those interested in Linux.,0,0,Bhaghyesh,48599695
+84537364~COURSE!~B_rci897EeufchLeGgZGZQ,1668790882617,5,0,"Great Course, Excellent learning experience touching the most relevant aspects of Linux.",0,0,afc investors,84537364
+49820426~COURSE!~B_rci897EeufchLeGgZGZQ,1666546504127,5,0,g​reat course with great contents. I really enjoyed it and learnt a lot as a first time contact with Linux commands and Shell Scripting. ,0,0,Raphael Ayanbode,49820426
+44347736~COURSE!~B_rci897EeufchLeGgZGZQ,1666020839479,5,0,I benefited a lot from this course,0,0,Mohamed Emam,44347736
+21450634~COURSE!~B_rci897EeufchLeGgZGZQ,1665498490535,5,0,"E​xcellent course, and challenging final project to applied topics learned!",0,0,jmlomeli@hotmail.com,21450634
+33138989~COURSE!~B_rci897EeufchLeGgZGZQ,1664752619602,5,0,I​t was clear and easy to follow with sufficient real world scenarios created to make learning less abstract,0,0, Mohammad Deen Hayatu ,33138989
+50286931~COURSE!~B_rci897EeufchLeGgZGZQ,1663927901872,5,0,"V​ery hands on, requires hardwork and consistency.E​xcellent course.",0,0,femi alo,50286931
+74752020~COURSE!~B_rci897EeufchLeGgZGZQ,1663358557032,5,0,A​bsolutely well put together. Congratulations.,0,0,Nzoji Hipólito,74752020
+84584725~COURSE!~B_rci897EeufchLeGgZGZQ,1662750808209,5,0,"T​his is a GREAT course!
+-​Make sure to give the precise instructions in the final lab. For example:
+I​f you do something like a -> b -> c, the question is marked as wrong (because you didn't do a -> c directly).
+-Make a​ better cheat sheet (using a properly format for a cheat sheet)",0,0,Santiago Zuluaga Ayala,84584725
+105883237~COURSE!~B_rci897EeufchLeGgZGZQ,1661415279090,5,0,great course.,0,0,Asanka Wijesinghe,105883237
+87904025~COURSE!~B_rci897EeufchLeGgZGZQ,1660766605167,5,0,great course,0,0,Thabang Manthata,87904025
+18891070~COURSE!~B_rci897EeufchLeGgZGZQ,1660765206538,5,0,perfectly done course.,0,0,Natalia,18891070
+47697358~COURSE!~B_rci897EeufchLeGgZGZQ,1660539623403,5,0,Best course if you're starting to learn shell commands and scripting.,0,0,Nikesh Bhattarai,47697358
+109810064~COURSE!~B_rci897EeufchLeGgZGZQ,1660478625789,5,0,so good,0,0,Trần Tuấn Vũ,109810064
+106778904~COURSE!~B_rci897EeufchLeGgZGZQ,1660049030241,5,0,best course for begginer  who wants to learned linux common and shell scripting.,0,0,Shubham Dabhade,106778904
+36740270~COURSE!~B_rci897EeufchLeGgZGZQ,1659691852943,5,0,"Covers the most basic Linux command lines and shell scripting commands. I would prefer adding some videos explaining conditional statements, loops...etc. ",0,0,Waddah Ali,36740270
+35366672~COURSE!~B_rci897EeufchLeGgZGZQ,1658716617838,5,0,A very good course for anyone looking to learn the basic Linux commands,0,0,Reba Alex,35366672
+109787018~COURSE!~B_rci897EeufchLeGgZGZQ,1658500227610,5,0,The overall content of the course is very well organized. There is one suggestion It will be helpful if added explanation of more option and usecases of commands and also some advance networking commands like file sharing and mailling. ,0,0,Suraj Rane,109787018
+86970929~COURSE!~B_rci897EeufchLeGgZGZQ,1658015919867,5,0,Great course,0,0,Yunong Xue,86970929
+101359808~COURSE!~B_rci897EeufchLeGgZGZQ,1657514982750,5,0,Hervorragend,0,0,Jaures Kuete,101359808
+35817680~COURSE!~B_rci897EeufchLeGgZGZQ,1657447900796,5,0,It's a good course about linux with a lot of pratical exercises,0,0,José Carlos Reis,35817680
+37689~COURSE!~B_rci897EeufchLeGgZGZQ,1656438474700,5,0,J​'ai beaucoup appris ,0,0,Cedrique Christophe Tsafack Ghokeng,37689
+100577749~COURSE!~B_rci897EeufchLeGgZGZQ,1656255295524,5,0,Good content and well managed course for all level learners.,0,0,Satish Arun Dahitule,100577749
+77240264~COURSE!~B_rci897EeufchLeGgZGZQ,1656151119631,5,0,"The Best Course that I ever did. Loved it, Looking forward for more such courses",0,0,ayaluri bhanu mythreyi 122000000000,77240264
+108495903~COURSE!~B_rci897EeufchLeGgZGZQ,1654890527806,5,0,T​his is simply great online course. ,0,0,Xiang Li,108495903
+106440954~COURSE!~B_rci897EeufchLeGgZGZQ,1654434185976,5,0,"this is a great course,thank you ",0,0,Maria Rezapour,106440954
+84025275~COURSE!~B_rci897EeufchLeGgZGZQ,1654022636660,5,0,"Challenging, with a wealth of information shared",0,0,Graham Tomlinson,84025275
+75286365~COURSE!~B_rci897EeufchLeGgZGZQ,1653068253776,5,0,Such an excellent  course,0,0,Mihisara Kaveesha,75286365
+69850085~COURSE!~B_rci897EeufchLeGgZGZQ,1651636922690,5,0,"Was quite hard to pass, but course was great as expected",0,0,SHOAIB RAHMAN,69850085
+91323938~COURSE!~B_rci897EeufchLeGgZGZQ,1651017059458,5,0,"Excellent course, very informative and educational. Very clear and understandable documentation. the lab. was very excellent and very clear to implement it.",0,1,Domingo lopez ,91323938
+8223098~COURSE!~B_rci897EeufchLeGgZGZQ,1649894154823,5,0,It's a good course. ,0,0,Ygdaly Nadeska Richardson Guilarte,8223098
+77279681~COURSE!~B_rci897EeufchLeGgZGZQ,1648444319698,5,0,It is a well-paced course which starts from teaching the basics and builds up to some advanced subjects. It is to the point and the final assignment is really good.,0,0,Sina Salemi Sarmast,77279681
+60005109~COURSE!~B_rci897EeufchLeGgZGZQ,1647813952433,5,0,Excellent course. I feel way more confident on scripting now. The clarity of the Ai instructor and the visuals were great. Well put together course. Thank you and Cheers! ,0,0,Gianluis Rosado,60005109
+73282081~COURSE!~B_rci897EeufchLeGgZGZQ,1645266671823,5,0,"I was always afraid of forgetting shell scripting due to which I feared & I never  tried to learn them. But after doing this course I feel very confident & it's only possible because of the well organised course content and even more because of the VIRTUAL LABS. The labs do help a lot. If you really want to learn BASH SCRIPTING, do the exercises sincerely.",0,1,Sheikh Suhail Khursheed,73282081
+19823126~COURSE!~B_rci897EeufchLeGgZGZQ,1644959768360,5,0,"S​hort, simple and clear",0,0,Brice Le Grignou,19823126
+94645462~COURSE!~B_rci897EeufchLeGgZGZQ,1644439057296,5,0,"Very interesting section, I find it is very efficient , sufficient and collects every thing we need with simplified and clear way. thanks to instructor's stuff ",0,1,HAFED-EDDINE BENDIB,94645462
+100499215~COURSE!~B_rci897EeufchLeGgZGZQ,1644100040793,5,0,Love this course!,0,0,Pattragun Janpan,100499215
+93714461~COURSE!~B_rci897EeufchLeGgZGZQ,1643447129457,5,0,i am icreasing the knowledge,0,0,govind chaturvedi,93714461
+82614618~COURSE!~B_rci897EeufchLeGgZGZQ,1643265121121,5,0,"Very Dense Content wise , and Very Clear audio. If you actually try to remember it all it will take much longer than 4 hours. Highly Recomended",0,0,Ryan D. Otero,82614618
+61341211~COURSE!~B_rci897EeufchLeGgZGZQ,1643012356031,5,0,Yay!! This course is so easy...,0,0,Yu Geng,61341211
+82858562~COURSE!~B_rci897EeufchLeGgZGZQ,1642905398942,5,0,Really straightforward way of learning the basic commands/features.,0,0,Heston Diego Jayasinghe,82858562
+90783605~COURSE!~B_rci897EeufchLeGgZGZQ,1642848215262,5,0,good,0,0,ANUSHKA UPADHYAY,90783605
+39455555~COURSE!~B_rci897EeufchLeGgZGZQ,1642093149580,5,0,very good labs,0,0,Kamoliddin Nabijonov,39455555
+83830819~COURSE!~B_rci897EeufchLeGgZGZQ,1642030948073,5,0,Super course of linux command love it!,0,0,Kalin Panmanee,83830819
+97605419~COURSE!~B_rci897EeufchLeGgZGZQ,1641895333043,5,0,n​o need of changes,0,0,Shoaib Haider Malik,97605419
+84523286~COURSE!~B_rci897EeufchLeGgZGZQ,1641570385655,5,0,The course was very useful.  Thanks,0,0,Swetha CS,84523286
+95958117~COURSE!~B_rci897EeufchLeGgZGZQ,1641062134146,5,0,Nice Experience Recommended ,0,0,Kamran Nazir,95958117
+98887029~COURSE!~B_rci897EeufchLeGgZGZQ,1640279007546,5,0,Great Learning Experience,0,1,Muhammad Qais Bin Yaqoob,98887029
+96813131~COURSE!~B_rci897EeufchLeGgZGZQ,1640181177208,5,0,"I​s a very good introduction to Linux commands and scripting, with tools to practice incorporated so you don't need a virtual machine with linux",0,1,Gina Rico Llorca,96813131
+40411388~COURSE!~B_rci897EeufchLeGgZGZQ,1639850790891,5,0,It was wonderful experience learning shell scripting. Scheduling jobs was the best part. Thank you instructors,0,1,Aniket Yadav,40411388
+70342701~COURSE!~B_rci897EeufchLeGgZGZQ,1638759917110,5,0,"G​reat course! Provides a concise intro to shell scripting in a way that is fun, challenging, and meaningful",0,0,Daniel Lauer,70342701
+49451994~COURSE!~B_rci897EeufchLeGgZGZQ,1638278141946,5,0,Muito bom,0,1,Adriano Brito,49451994
+76375511~COURSE!~B_rci897EeufchLeGgZGZQ,1637832377986,5,0,Fast and efficient course. Shared documents allow you to quickly get by after the course is over!,0,0,Natale Foata,76375511
+47686847~COURSE!~B_rci897EeufchLeGgZGZQ,1637397176965,5,0,"​Awesome guided introduction into the Linux world of shell scripting. Only caveat for me was that the course was a bit too shallow. Wish that it would have at least touched upon concepts, such as case statements, conditions, exit statutes and return codes and loops. Overall gained a thourough understanding of the basics and the hands-on labs helped to apply and test this knowledge. ",0,1,Tim Z,47686847
+1393503~COURSE!~B_rci897EeufchLeGgZGZQ,1636311361082,5,0,r​eally brought together the bash information well. so glad I took this,0,2,Deleted Account,1393503
+94914963~COURSE!~B_rci897EeufchLeGgZGZQ,1636029639315,5,0,Good course,0,1,Pranshula Prashanth,94914963
+87487865~COURSE!~B_rci897EeufchLeGgZGZQ,1635443055929,5,0,Muy completo a nivel practico y teórico.,0,1,Santiago B,87487865
+95804903~COURSE!~B_rci897EeufchLeGgZGZQ,1634933425755,5,0,A great start for beginners who wish to nail down the basics of shell scripting,0,3,alie abobakr,95804903
+39250034~COURSE!~B_rci897EeufchLeGgZGZQ,1633633411234,5,0,Mini course indeed but full of new information and great explanation. Thank you.,0,2,Omar Hegazy,39250034
+18799655~COURSE!~B_rci897EeufchLeGgZGZQ,1633467372672,5,0,good,0,1,dumebi jude,18799655
+94116480~COURSE!~B_rci897EeufchLeGgZGZQ,1632857816109,5,0,"I learned so much in a small space of time, thanks.",0,0,Pablo Vinicius Rodrigues Barboza,94116480
+93188249~COURSE!~B_rci897EeufchLeGgZGZQ,1631553378972,5,0,GOOD,0,1,Siddhika Thakur,93188249
+92517519~COURSE!~B_rci897EeufchLeGgZGZQ,1630980990924,5,0,A lot of good explanation about Shell/Bashscripting!,0,0,David Hong,92517519
+38820074~COURSE!~B_rci897EeufchLeGgZGZQ,1630846020704,5,0,Lab set up was very helpful to have hands on ,0,0,Dheeraj Kumar Singh,38820074
+42665343~COURSE!~B_rci897EeufchLeGgZGZQ,1630074135641,5,0,useful and easy to learn for a new learner.​,0,0,jeet banerjee,42665343
+62995207~COURSE!~B_rci897EeufchLeGgZGZQ,1629609293831,5,0,Very nice!,0,1,Julio Antonio Lara Hernández,62995207
+90125805~COURSE!~B_rci897EeufchLeGgZGZQ,1628702066862,5,0,Loved it!,0,1,Belinda Whittaker,90125805
+90784083~COURSE!~B_rci897EeufchLeGgZGZQ,1628504198371,5,0,Good Experience.,0,1,Saifulla .,90784083
+69426462~COURSE!~B_rci897EeufchLeGgZGZQ,1628447965371,5,0,Excellent Linux short courses.,0,1,Peter Dao,69426462

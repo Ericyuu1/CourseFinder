@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+53473873~COURSE!~BfDRilX8EeuuTQrnta044w,1613676583532,5,0,good,0,0,Sher Dadakhanov,53473873
+31756039~COURSE!~BfDRilX8EeuuTQrnta044w,1613069556389,5,0,Awesome...I just want to know more about how Model.objects.filter(condition A and Condition B)is different than filter(condition A).filter(condition B) in model has relationship,0,0,أحمد ماهر فوزى محمد سلام,31756039

@@ -1,0 +1,37 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+55709375~COURSE!~vtYNwf__EeS9ISIACxWDhA,1606850406377,1,0,不推荐初学者从这里学习数据结构。这个老师大多数时间是在念PPT里的概念，留了很多思考题，但是没地方找答案去，只能干想。例题也太少，而且代码写得太过公式化，艰涩难懂，讲解不够到位，有种读高数定理证明的感觉。最不满意的是KMP算法的讲解，j = N[j]这么难懂的代码别人能发一篇长文博客去解读的东西，这里居然一句话就给糊弄过去了。非常糟糕的是这种糊弄是常态，大多数的算法都讲不清楚，基本要靠自己从别的地方找资料或是视频看才能搞明白。这门课程配套的编程题也是非常不靠谱，我非常赞同李戈老师的“做大量简单题”的学习策略，然而这里的题大多都是坑题，像是“树”这章里“食物链”这样常规思路很难解的所谓“经典题”。这种题讲讲倒是可以，给新手练手用就过分了，完全无法起到熟悉数据结构的作用不说还容易劝退。测试用例也是个大问题，很多题都是码字半小时，debug一下午这种，莫名其妙的WA，没有测试用例，错哪全靠猜，很浪费时间。这门课唯一不错的地方就是quiz挺好，可以帮助理解概念，答题之后的讲解也很到位。但是总之不推荐这门课程，建议去学别的老师讲的数据结构，然后过来做题！,0,0,Xiaoyang Yan,55709375
+37454330~COURSE!~vtYNwf__EeS9ISIACxWDhA,1556070472660,1,0,感觉整个专项课程虎头蛇尾，数据结构部分讲得比李老师差太多了,0,0,Yichao Wu,37454330
+24312783~COURSE!~vtYNwf__EeS9ISIACxWDhA,1554541570527,1,0,"This is the worst of the worst. Do NOOOOOOT waste your money,especially your time!!",0,0,Yu Song,24312783
+30918472~COURSE!~vtYNwf__EeS9ISIACxWDhA,1545214712946,1,0,老师讲的非常枯燥，抛定义，要么没例子要么例子很无聊，ppt质量也很次，学习体验很差,0,0,Kangmin Tan,30918472
+22015540~COURSE!~vtYNwf__EeS9ISIACxWDhA,1504405635147,1,0,"too rough teaching, not considering the homework at all, too few examples illustrating the points .  ",0,0,邢晓佼,22015540
+35038841~COURSE!~vtYNwf__EeS9ISIACxWDhA,1627962626735,2,0,"我看过不少网课了，在Coursera上也有十几门课程，这门课可以说是最差的，原因如下：1. 糟糕的授课方式：数据结构是一个很大的范畴，这门课仿佛想要覆盖绝大部分内容，然而结果就是每一个部分都基本没有讲清楚，对代码的讲解也只流于表面；2. 教师个人能力有限：过多的口头语、不清晰的逻辑，上这门中文课却比上英文课要累一万倍，而且授课方式真的很难吸引人；3. 作业系统问题过多：明明没有任何问题的代码，提交上去就显示Compile Error，不明白是不是还在用上个世纪的编译器，另外课程和作业关联性太小，课程内几乎没什么有价值的例题讲解。如果不是我有强迫症，真的早就弃了这门课，劝后来的朋友们，有上这门课的钱不如先拿一部分去吃好吃的，剩下的去买书自己学也能好很多…另外Coursera上也有其他优秀的相关课程，个人比较推荐UIUC的系列课，虽然节奏很快，但重点突出、教师授课风格鲜明，收获要大得多。",0,0,Youxing Wang,35038841
+28499558~COURSE!~vtYNwf__EeS9ISIACxWDhA,1506418388170,2,0,照本宣书，不喜欢,0,0,付泓源,28499558
+23368283~COURSE!~vtYNwf__EeS9ISIACxWDhA,1494940912675,2,0,个人不喜欢这个老师讲课,0,0,郑倍云,23368283
+18662059~COURSE!~vtYNwf__EeS9ISIACxWDhA,1472254346309,2,0,最**的一门课，老师语速飞快，每一句话都是顿词，讲话不连贯，提了很多所谓思考题又不解答，很多重点的地方又一笔带过,0,0,Lyu Ning,18662059
+15036528~COURSE!~vtYNwf__EeS9ISIACxWDhA,1446689563418,2,0,有点说教式讲课，没法把该说明白的说明白，例如kmp算法，我根本没法看懂,0,0,刘逸,15036528
+39490232~COURSE!~vtYNwf__EeS9ISIACxWDhA,1623087746161,3,0,课程内容还是很有用的。但是老师的讲解节奏完全不对。很多基本概念没介绍清楚就默认学生都熟练掌握了。很多知识点都是看了别的教程 才明白的。还有这一系列课程的老问题， 作业不给反馈，很难debug。,0,0,H C,39490232
+15680125~COURSE!~vtYNwf__EeS9ISIACxWDhA,1540365583109,3,0,内容较好，例题不错，但是老师的讲解有些地方不是很清晰，表述不清楚,0,0,yin,15680125
+31924122~COURSE!~vtYNwf__EeS9ISIACxWDhA,1525074361008,3,0,讲得太快了,0,0,Zirui Wei,31924122
+30529551~COURSE!~vtYNwf__EeS9ISIACxWDhA,1520579291052,3,0,一脸懵逼,0,0,LuckyHXQ,30529551
+17073291~COURSE!~vtYNwf__EeS9ISIACxWDhA,1453345014325,3,0,讲的点比较多，但是不详细，略略带过的感觉,0,0,SamDu,17073291
+8612383~COURSE!~vtYNwf__EeS9ISIACxWDhA,1446729879241,3,0,Just read PPT,0,0,端木安,8612383
+12532791~COURSE!~vtYNwf__EeS9ISIACxWDhA,1438956390067,3,0,老师讲课比较结巴，听起来很难受。,0,0,Zhang Rui,12532791
+32590100~COURSE!~vtYNwf__EeS9ISIACxWDhA,1573650027398,4,0,编程作业希望增加更多的测试用例，或者可以看到出错的数据，而不是仅仅wrong answer,0,0,masterwangzx,32590100
+14234478~COURSE!~vtYNwf__EeS9ISIACxWDhA,1535613506070,4,0,OK，里面的quiz和assignments都很不错，适合刷题用。,0,0,Yongyi Zhou,14234478
+5671696~COURSE!~vtYNwf__EeS9ISIACxWDhA,1524793581306,4,0,内容组织不错，讲课水平堪忧 ,0,0,Tao Xu,5671696
+29270309~COURSE!~vtYNwf__EeS9ISIACxWDhA,1509714713518,4,0,很系统，但有的地方没讲清楚，要自己去找资料,0,0,Vito_ZY,29270309
+15124192~COURSE!~vtYNwf__EeS9ISIACxWDhA,1502183179689,4,0,有些地方講解稍微不清楚需要上網補充,0,0,匿名小狗狗,15124192
+6736663~COURSE!~vtYNwf__EeS9ISIACxWDhA,1498742643742,4,0,课程难度有所提高，要反复看课件理解。,0,0,王子健,6736663
+8539472~COURSE!~vtYNwf__EeS9ISIACxWDhA,1498474903424,4,0,Pretty good~,0,0,Ce Ju,8539472
+23464285~COURSE!~vtYNwf__EeS9ISIACxWDhA,1490495033461,4,0,课程讲的不错，就是有的时候老师会有一些口误,0,0,lvzx,23464285
+22777695~COURSE!~vtYNwf__EeS9ISIACxWDhA,1480041460926,4,0,有点照本宣科，让人有点知其然不知其所以然,0,0,Huang Xin,22777695
+38720048~COURSE!~vtYNwf__EeS9ISIACxWDhA,1547267727167,5,0,讲的高效，讲的明白。,0,0,jianhua ku,38720048
+34663662~COURSE!~vtYNwf__EeS9ISIACxWDhA,1529822362020,5,0,讲解很专业，多谢老师的精心准备,0,0,,34663662
+27732270~COURSE!~vtYNwf__EeS9ISIACxWDhA,1501508253452,5,0,内容充实，通俗易懂,0,0,林关羽,27732270
+14468894~COURSE!~vtYNwf__EeS9ISIACxWDhA,1456453577759,5,0,Creat teachers,0,0,Jian Gong,14468894
+10015534~COURSE!~vtYNwf__EeS9ISIACxWDhA,1456151833733,5,0,不错，如果提供更多的参考资料就更好，国外的很多课程都会有一些补充扩展资料,0,0,肖壮清,10015534
+12535980~COURSE!~vtYNwf__EeS9ISIACxWDhA,1452159375850,5,0,good,0,0,Tiansheng Wu,12535980
+12093769~COURSE!~vtYNwf__EeS9ISIACxWDhA,1446909993407,5,0,Great for the beginners to study about data structure,0,0,Manasseh Zhou,12093769
+5377224~COURSE!~vtYNwf__EeS9ISIACxWDhA,1445774715907,5,0,很不错，内容很详实,0,0,曹城华,5377224
+11116928~COURSE!~vtYNwf__EeS9ISIACxWDhA,1445472435987,5,0,Great class! Some quiz problems and coding problems are pretty difficult.,0,0,Qirong Ma,11116928
+12250928~COURSE!~vtYNwf__EeS9ISIACxWDhA,1440928135684,5,0,很不错的一门课程，我要坚持下来。加油,0,0,zangkuo,12250928

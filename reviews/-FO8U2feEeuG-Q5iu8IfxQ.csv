@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+3343006~COURSE!~-FO8U2feEeuG-Q5iu8IfxQ,1662453257229,1,0,I've not seen code written so incompetently.,0,0,Gencho Zhilkov,3343006
+111958981~COURSE!~-FO8U2feEeuG-Q5iu8IfxQ,1660649492091,4,0,"Good project. Can be improved in the 5th lecture. Videos need to be updated. ModelCheckpoint dependency need to be imported beforehand before watching the lectures. Libraries such as cv2,os and random work only on Google Colaboratory, not on Jupyter notebook.",0,0,Akshat Srivastava,111958981

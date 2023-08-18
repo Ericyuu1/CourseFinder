@@ -1,0 +1,162 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+46065470~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1605812210186,1,0,0,0,0,,46065470
+16261002~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1501548698103,1,0,看的我很尴尬。。。内容还可以,0,0,赵瑞晛,16261002
+13925287~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1473199555900,1,0,boring and helpless,0,0,L. Meng,13925287
+3770568~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1471161506618,1,0,中途弃课了。评分系统与 openjudge 的对接非常烂，openjudge 上可以通过的代码作业提交里也会各种编译错误。上到第三期实在没耐心陪这坑爹系统玩儿了。,0,0,zengli,3770568
+15816610~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1461276540494,1,0,Estaria bueno que lo subtitulen en español al menos ,0,0,Johanna Alfaro,15816610
+7725133~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1455066640700,1,0,no one would take this course any more.,0,0,pengwei ,7725133
+31075413~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1596236920959,2,0,hard to submit homework,0,0,Carmen,31075413
+22027980~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1529145317651,2,0,作业太难了，有的要写好几天都写不出来，对于非CS大牛的同学，真的很无语啊,0,0,吴山 Wu,22027980
+25993580~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1496234883605,2,0,"
+
+seems there's few mistakes!  ",0,0,leepw,25993580
+35565725~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1636434311559,3,0,编程题好多都是CE,0,1,谋铭 杨,35565725
+48659306~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1584928486334,3,0,作业提交系统有待改进,0,0,YU ZHANG,48659306
+6108613~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1566775993304,3,0,初听感觉非常不错。但是听着听着就觉得，这门课真是标准的填鸭式教育-完全就是各种特性的罗列但是背后的直觉和原因介绍的太少。比如函数对象那一节课，反复听了几遍最后确定居然真的没讲为什么要用函数模板，和函数指针有什么区别。此外，quiz的设定也越来越草率，甚至一节课后来只有两三题，凑合了事的态度非常明显。最后，必须要再扣一星-浪费了无数时间研究为什么提交的答案是 CE， 其实完全不是代码本身的问题，只是因为用的古老的编译器不能通过。然后在 online judge 上还找不到对应的题目。太愤怒了因此综合一下，只能4星,0,1,Fan Zhou,6108613
+29084521~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1539923893108,3,0,"the design of homework is not very good, sometimes it is far more difficult",0,0,Lin Qi,29084521
+24708979~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1528081066375,3,0,作业审核系统改进一下吧。,0,0,沈宸,24708979
+5671696~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1518408179338,3,0,优点：1，抓重点，讲了C++大部分重点内容2，补充了一些C++ 11 内容缺点：1，教学为主，老师们的实战经验不足，知识基本上是照本宣科，缺乏一些最佳实践的总结和自己的实战心得，应该没有进行过企业级项目的开发2，科普级别的，内容太浅，入门级别，相当于<C++ Primer>的水平3，课后习题设计的有些脱节，简单的很简单，难的很难。另外有些故意讨巧的设计不是很有必要，比如那个魔兽世界，有点喧宾夺主，自娱自乐了,0,0,Tao Xu,5671696
+18662059~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1472254550232,3,0,一般入门还可以，就是后面听起来很难受，另部分作业很难,0,0,Lyu Ning,18662059
+1672250~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1441547128357,3,0,前半部分不错，后半部分就是念PPT。有些练习还是挺不错的。适合以1.75x的速度听完然后去看 C++ Primer,0,0,Cloud Han,1672250
+8030669~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1440137362036,3,0,there are some fatal problems in its OJ system,0,0,Ding Zhou,8030669
+55709375~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1599075122182,4,0,课程很赞，美中不足的是这个课程的编程作业给的报错信息太少了，当程序复杂的时候，debug十分困难,0,1,Xiaoyang Yan,55709375
+6416146~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1577607407842,4,0,The biggest problem is the POJ is not working!,0,0,LI PAN,6416146
+38249754~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1575429311928,4,0,"Well taught, covers a lot of topics. But some assignments were unreasonably difficult.",0,0,SUNSHENG GU,38249754
+28436713~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1564711139272,4,0,事实上对比前两门课，第三门课的水平有所下滑。这主要体现在PPT的制作、内容结构安排与老师的讲解上。前两门课的老师的PPT更为形象，内容环环相扣，可以看到清晰的脉络，老师的讲解也深入浅出，很有水平。第三门课的两位老师则更像是念PPT，且内容安排令人摸不着头脑，只能麻木地接受一个又一个的新概念。郭老师扔水瓶的行为也许在某些同学眼中很有趣，在我眼中却只显得滑稽。我过去对coursera的印象极好，因为吴恩达老师的深度学习专项课程是我上过的最好的MOOC课，这个印象一直维持到本专项的第二门课。可惜，第三门课再次让我想起了国内学校乏味而冗长的本科教育，印象大跌。尽管如此，我依然要感谢负责第三门课的两位老师，他们至少带着我通读了C++的基本语法，给予了我这个转专业的CS博士更多的信心。,0,1,徐泠风,28436713
+36140386~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1564473457472,4,0,"The problem set is too difficult, yet worth our thinking.",0,0,WENYU CAI,36140386
+33660903~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1563595151934,4,0,课程习题难度较大,0,0,qiyue shen,33660903
+37068382~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1553954629846,4,0,Grading system needs improvement,0,0,Zeyu Wang,37068382
+27169175~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1548310251094,4,0,在线评测系统太烂了！,0,0,郭钰铎,27169175
+35544488~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1539520458376,4,0,不适合初学者学 后面的作业也很难 老师讲的很好,0,0,Jieyu Dai,35544488
+33825437~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1532182630309,4,0,老师的讲课非常好，就是coursera的OJ不太人性呀，能否考虑修改下。,0,0,Guanda Wei,33825437
+30172191~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1531232273665,4,0,"The course is excellent in its content. However, OJ caused a lot of trouble and you have to use some workaround instead of features in C++11.",0,0,Chenqiang Li,30172191
+20881508~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1525664093350,4,0,The courese itself is good. But the homework part need to be imporved,0,0,Deleted Account,20881508
+6736663~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1488714780747,4,0,课程讲述风趣幽默，知识覆盖全面，讲解清楚，习题颇有难度，可以起到提高效果！唯一美中不足就是老师更换使得课程与李戈老师的课衔接略有不畅。,0,0,王子健,6736663
+16682154~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1481205276476,4,0,"Excellent Lectures! Some hard programming assignments. No TA or instructor around on line. Not too many to discuss in course forum. Overall, not an easy course.",0,0,XWQian,16682154
+20350750~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474608373657,4,0,solving problems is painstaking,0,0,LI Wen,20350750
+18232568~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1470731003310,4,0,讲解清晰细致，两位老师的风格互补，特别有意思,0,0,Congcong Zhao,18232568
+998472~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1457869827850,4,0,感觉偏浅层,0,0,王俊懿,998472
+14079051~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456147131417,4,0,适合初学者,0,0,Henry Lee,14079051
+16165008~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1453910819988,4,0,xxx,0,0,沈泽宇,16165008
+14423987~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1453807602921,4,0,讲的非常好，不过我觉得例子应该更加详细,0,0,曹博宇,14423987
+13600810~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1447340124913,4,0,"It's a nice course ,especially made by Peking University and teachers are quite easy and charming ,Itbetter to have more pratical projects about C++.",0,0,Tancent,13600810
+6785901~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1439947595335,4,0,very interesting and worth using time loving it!,0,0,leo_Bai,6785901
+5628042~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1655967175178,5,0,This course teach me high skill of C++.Thank you.,0,0,Keita Yamada,5628042
+73711068~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1633011878939,5,0,A nice lesson for cpp beginners.,0,0,Yinqiao Zhang,73711068
+43499133~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1625397398809,5,0,"It is a great C++ course with deep C++ knowledge and challenging coding assignments. Most of the C++ courses in Coursera are on entry levels, from which you can only learn some basic ideas about C++. However, this course is definitely the one to train you to be proffesional in C++. Hope there will be more courses like this in Coursera.A dropback is that the complier in the test is too old, and it doesn't support some new features of VC 2019. ",0,0,Gaoyang Xiao,43499133
+39490232~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1619818023541,5,0,老师讲得很好，课程内容和习题质量也很高。但是作业系统不行。提交的代码出错只有没通过，完全没有错在哪的回馈，也没有提供应有的测试数据。如果没有同学间的discussion 论坛基本作业都会卡壳。,0,0,H C,39490232
+5286633~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1617032545716,5,0,"I was in the UIUC Accelerated Computer Science Fundamentals course. It is very hard to follow the C++ implementation. Then I found this course for C++. It is really a effort saving for learning C++. The course is in great sequence and explanation. From UIUC Accelerated Computer Science Fundamentals, even I focus every minute, there is still a lot unknown during the course. For this Peking University C++ course, even I was distracted a moment, I could still follow what the professor is talking about.Unfortunately, only Chinese language is provided.",0,1,Zongyue Liu,5286633
+45510662~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1590145600792,5,0,优秀的C++教程，讲的很细致 ,0,0,wine,45510662
+35639926~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1586913840838,5,0,The only bad thing of this course is the built-in c++ compiler and it seems that the online cpp compiler is in c++98 version and sometimes there may generate some problems because some built-in functions in c++11 or later version were not accepted in c++98 so there will be some compile errors.But what I want to express is that this course is a really good course for your introduction to cpp and this course has many good projects and after finishing this course you will contact the charm and fascination of c++. Wish you a good journey!,0,0,Xikai Yang,35639926
+39541703~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1580264907153,5,0,老师们讲的非常到位！帮助很大！,0,0,cornell,39541703
+42849872~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1573196594576,5,0,线上评测系统不太行，别的都挺好的,0,0,Fang Zihan,42849872
+44763232~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1570633697740,5,0,有模板的提交作业一定要仅仅提交自己增加代码，不然老会报“compile error”,0,4,Zhenhong Sun,44763232
+43427468~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1564452680921,5,0,"i think is good,because i have learn lot abuot cpp,thanks for your effort,best wishes to you!",0,0,章宁,43427468
+38271734~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1563542392100,5,0,"thanks a lot,it's so greatful.",0,0,halo,38271734
+24630169~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1563359778080,5,0,Very useful and informative C++ coursesComprehensive and made simple enough to understand,0,0,Shilong Liu,24630169
+21557768~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1562817757981,5,0,Getting a little bit of harder than the previous courses,0,0,Eugene Wang,21557768
+41714542~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1562580568904,5,0,太棒了,0,0,LuYuanXi,41714542
+29157046~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1562042215697,5,0,非常棒的课程，非常推荐！！！,0,0,ChenGuang,29157046
+14901553~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1558785997909,5,0,great value!,0,0,Wentao Hu,14901553
+18269336~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1558268169599,5,0,Very Good for starters!,0,0,Fei Xie,18269336
+18520264~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1554773755161,5,0,讲的很清晰,0,0,陈章敏,18520264
+36909784~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1553841514642,5,0,非常好，老师很幽默，讲解很清晰,0,0,Zhuoying ZHANG,36909784
+27176164~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1548947489931,5,0,适合入门学习,0,0,史崇辰,27176164
+29806181~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1547472804312,5,0,非常好的课程，老师讲解的好，作业也有一定难度，能够很好的帮助学生巩固所学的知识以及练习编程技巧,0,0,Hantao LIU,29806181
+14142605~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1545926063197,5,0,课程设计得很用心很专业，魔兽世界三的大作业很锻炼人,0,0,Tairan Yang,14142605
+36937278~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1542892499636,5,0,这课难度不小，不过能学到很多东西，同学们自行斟酌,0,0,刘岳,36937278
+30427210~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1539516533073,5,0,两位老师讲课清晰！条理很清楚！学下去很有动力！,0,0,Yueyan Wang,30427210
+11189847~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1533900832364,5,0,非常有趣的课程，让我这个初学者也能一步一步地入门C++和面向对象编程。但是作业系统还需要改进，经常会出现一些小问题。有时，自己的程序在本地用VS和在POJ上能顺利通过测试，但提交到Coursera上却会出现Compile Error，且不确定究竟是哪部分报错以及缺少了什么头文件。这个问题很难靠学生在课上的知识解决，非常影响学生的学习热情。希望能改进。,0,14,Keren Zhou,11189847
+15450136~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1530209378868,5,0,非常棒！尤其是这位女老师 谢谢了,0,0,menghengxue,15450136
+6435816~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1524121373300,5,0,这个课程真的很好！！！谢谢两位老师！！！谢谢！！！！！不知道如何表达我激动的心情了,0,1,美琦,6435816
+29358956~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1523973974857,5,0,讲得很棒，c++很多概念都讲得很清楚！,0,0,Helen Lin,29358956
+21560385~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1521769311163,5,0,"Very understandable for beginners, and very interesting lectures!",0,0,Yuyan Jiang,21560385
+30585214~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1521428876206,5,0,"I like this course very much, because professors are very interesting.",0,0,李彦辰,30585214
+30529551~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1520579275739,5,0,基础的C++入门,0,0,LuckyHXQ,30529551
+27703176~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1518505618282,5,0,很不错的课程，老师讲解的很生动，对于C++核心的东西讲的很好，收获很大,0,1,常征,27703176
+16309362~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1517626239989,5,0,和谐个鬼，你的c++是保安教的吗？   xD,0,0,张秋亮,16309362
+7641527~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1516959956681,5,0,老师讲解的很清楚，课后习题也很有难度，感觉是很实用的入门课程！,0,0,AMANONE,7641527
+5165905~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1510231109640,5,0,老师非常幽默，认真。水平非常高！！！！极好的入门C++课程。,0,0,Wang Zhenhua,5165905
+28790961~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1508932030257,5,0,谢谢你们,0,1,Coli,28790961
+10486355~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1508768740215,5,0,非常好的一门课,0,0,Zichao Wang,10486355
+10443512~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1508643311162,5,0,Excellent course! Teachers are humorous and good at logical teaching.,0,0,Ruofan Xu,10443512
+20329258~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1508203370099,5,0,深入浅出，讲的非常好。尤其是有一些编程经验之后，回头再看，有很多感触。,0,1,杨小东,20329258
+27572444~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1507157691079,5,0,修改下评价，五星好评，在学校上课已经被大家奉为大神？？？,0,0,ZHOUJIANFEI,27572444
+21031192~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1506840302033,5,0,两个老师都很厉害,0,0,塔宇,21031192
+25215199~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1505581369830,5,0,c++的知识点都有讲到 而且讲得很详细，题目也出得很好,0,0,方嘉伟,25215199
+14353328~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1505312979658,5,0,Best intro programming course in coursera!!,0,0,Jingxia Pang,14353328
+5201155~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1505020315622,5,0,very good for c++ beginners. strongly recommend.,0,0,Zecheng Xu,5201155
+26420545~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1504266187312,5,0,很用心,0,0,liuzj,26420545
+19104321~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1501326066400,5,0,Good!,0,0,Lewis Lu,19104321
+24347048~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1500729005047,5,0,难度略高，但是两位老师为了激发我们的学习兴趣也是挺拼的^_^。收获很大！,0,0,Tstyllr,24347048
+22015540~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1499708979348,5,0,i admire Professor Guo and Professor Liu for their high-level teaching skills .By the way， their intesresting personalities accelerate my motivation in learning especially sense of humor of Mr Guo. That is why my favourite lessons are the last two，taught by both teachers in a really interesting way.,0,0,邢晓佼,22015540
+25693555~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1497525320292,5,0,老师超级幽默啊！,0,0,曾宪欣,25693555
+22907273~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1496670868898,5,0,确实课后题目有点难度了，但是也还好,0,0,HAN YOUYANG,22907273
+26497233~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1495961717706,5,0,为什么需要付款 ？,0,0,李福兵,26497233
+15257818~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1495944223756,5,0,通俗易懂，目前看到的最好的C++教程。,0,0,黄剑,15257818
+16091661~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1495349593149,5,0,"Many thanks for this course, for every teachers, i learnt a lot from this, thanks very much!! whatever, this course helps me a lot and i am very grateful",0,0,李娜,16091661
+10357034~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1491816353321,5,0,"No better course found, very direct and detailed as needed!",0,0,Juanhao Zhu,10357034
+21226551~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1491802172137,5,0,讲得很好，郭老师很有趣，刘老师很细腻。课程的安排也特别好，只需要C语言的基础即可。有些编程作业难度有点大（或者说特别复杂，前期需要很有条理的规划）。十分有帮助，接下来抽时间把难点再过一遍！谢谢老师们,0,0,李培春,21226551
+5169711~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1485800327118,5,0,The best C++ MOOC online,0,0,Yuchen Su,5169711
+16246179~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1485417728516,5,0,Good course for engineering students engaging in computing science or coding oriented study. Will lay solid foundation for Data Structures.,0,0,张亦丰,16246179
+5408868~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1482403045261,5,0,"郭老師講的真的非常好, 十分易懂但絕不淺顯讓我對C++有了初步的了解(我太弱不敢說是精通哈,畢竟許多c++的特性平常沒用到肯定會忘記的,遇到再回來複習即可)我認為對於中文的使用者來說,就算你英文非常的好但在學習C++上也不必從歐美體系的教材入門,這堂課就是數一數二的優秀教材",0,1,Keng-Hui Wu,5408868
+18433899~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1482159822037,5,0,很好很好很爱这门课 受益良多,0,0,长坤 柴,18433899
+18921791~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1480321913332,5,0,老师风格幽默，cpp进阶的好课程啊，非常全面的介绍，作业很有挑战性。强烈推荐！！,0,0,zhenkai wang,18921791
+13426448~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1479689199890,5,0,讲解认真清晰,0,0,Tommy,13426448
+10183879~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1478530578246,5,0,很好,0,0,李扬,10183879
+18234188~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1478069428691,5,0,useful,0,0,汪鹏程,18234188
+13410458~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1475098543290,5,0,very clear and helpful,0,0,Lian Huai,13410458
+19049264~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474799092656,5,0,fantastic,0,0,码农修道士,19049264
+21697814~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474511308314,5,0,满分,0,0,马之遥,21697814
+18395255~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474293480914,5,0,Great!,0,0,邓邦杰,18395255
+21611305~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474183608370,5,0,受益匪浅,0,0,地球人,21611305
+14269999~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1474125620438,5,0,pretty good ，learn with c++ primer helps a lot,0,0,Liz lover,14269999
+18472603~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1471917971428,5,0,好,0,0,徐徐徐,18472603
+19355251~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1471519766724,5,0,sehr gute C++ Vorlesung für Anfänger,0,0,Tai,19355251
+18149523~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1471247913891,5,0,不错！！入门很好！,0,0,李祥泰,18149523
+15249859~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1470745105164,5,0,棒！,0,0,Han Liu,15249859
+20553233~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1470701870936,5,0,真的很棒,0,0,emmazhai,20553233
+15903820~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1470035683819,5,0,fabulous,0,0,Tsing Wan,15903820
+19877428~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1469430322159,5,0,"This course is very good ！！！
+
+",0,0,Coder_Allen,19877428
+751087~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1467262178232,5,0,best C++ courses I ever learned!,0,0,Changbin Du,751087
+16300652~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1466596698888,5,0,很棒的课程，郭老师特别搞笑，很接地气！,0,0,朱江,16300652
+14968853~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1462624106545,5,0,女老师说话速度能快点就好，幸好还可以加快视屏速度，课程质量很好,0,0,Zingphoy,14968853
+9507326~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1462345705602,5,0,通俗易懂，成功让我摆脱了对C++学习的恐惧~~,0,0,孙晓宇,9507326
+8906237~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1462192914287,5,0,a vey good course of c++,0,0,Jinjin FAN,8906237
+18880645~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1460792411458,5,0,复习C++，还不错,0,0,张如意,18880645
+16722360~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1458567573195,5,0,very very good,0,0,柴长坤,16722360
+15256588~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1457769340307,5,0,o(≧v≦)o~~好棒麻麻再也不用担心我的学习，~O(∩_∩)O~,0,0,惟爱挚美,15256588
+12850033~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456784699056,5,0,内容十分充实，目前尚未在coursera上找到同等重量级的英文课程，足见本课的珍贵,0,1,Tuochen Zhan,12850033
+17912628~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456402201891,5,0,很喜欢王老师~,0,0,Eric,17912628
+14692537~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456381440390,5,0,超棒,0,0,陈润文,14692537
+10015534~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456151756623,5,0,不错，如果提供更多的参考资料就更好,0,0,肖壮清,10015534
+4838942~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1456036831996,5,0,醉猴了,0,0,过群,4838942
+15164334~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1453861924442,5,0,Great course to help you get start with C++. Give a lot of  details about class. It is good  enough  thinking that it is a online free course.,0,0,Bowei,15164334
+15946369~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1453513997670,5,0,北京大学这个课程安排的非常好  给力！,0,0,赵祈杰,15946369
+16428777~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1452953465606,5,0,老师貌似仅仅 在从头,0,0,邹智滔,16428777
+17009751~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1452822925903,5,0,很好啊,0,0,刘健,17009751
+5578342~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1452155188382,5,0,北大的课程，支持一下国货~,0,0,步兵,5578342
+7686458~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1449738454411,5,0,很棒，課程講解得很清楚!!!層次分明。,0,0,Bluesir Bruce,7686458
+14078716~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1449708839271,5,0,内容丰富，知识点详尽。老师很棒。,0,0,何明扬,14078716
+8569658~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1449439267848,5,0,老师讲的调理，面面俱到， 有一点建议就是作业难度有些大， 对于初学者来说完成难度较高， 希望能够在课程中有所涉及 作业。,0,4,Di Wang,8569658
+5377224~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1448632757739,5,0,very good,0,0,曹城华,5377224
+13381951~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1448384789681,5,0,课程非常棒，内容挺充实，老师讲解的也都很精彩，之前关注好久了，开课了就来上课了，喜欢自主学习的课程，可以自己安排学习时间而不是和别的事情有冲突，努力学习中,0,0,夏鲁豫,13381951
+15415794~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1447964798556,5,0,"Great C++ course, very helpful.",0,0,Tianyu Du,15415794
+3989231~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1447915423506,5,0,very helpful for beginners,0,0,Huijun Zhang,3989231
+7701975~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1446987376976,5,0,非常好的课程~两个老师都非常的nice~~感谢刘老师和郭老师~~,0,0,华立锋,7701975
+14193315~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1446357945938,5,0,good,0,0,王睿智,14193315
+14939765~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1446294383258,5,0,piao liang!,0,0,魏大成,14939765
+6199511~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1446089257184,5,0,郭老师和刘老师讲的这门课非常全面且有深度，部分习题也比较具有挑战性。虽然之前曾用C和C++做过一些数值计算方面的编程，但认真完成这门课的每一个视频和每一道题还是让我觉得受益匪浅。谢谢郭老师和刘老师的精彩教学！另外，让这门课设置为On-Demand也极大地方便了像我这样已经走上工作岗位的人的时间安排。再次感谢！,0,1,c z,6199511
+8724689~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1444365130214,5,0,Teachers are very fun and intuitive!!!!!!,0,0,Xianming Chen,8724689
+5570108~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1443590839123,5,0,Very good ! I like it very much !,0,0,Ying Xie,5570108
+9283841~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1443273634015,5,0,This is just what I want.,0,0,Justin Tang,9283841
+4139317~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1442125996760,5,0,简明清晰，快速入门C++,0,0,Shihao Xu,4139317
+7600985~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1442119721273,5,0,nice,0,0,BrownWong,7600985
+9402192~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1441038928147,5,0,Good,0,0,王国庆,9402192
+8241877~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1440867317322,5,0,围观老师的丢瓶子大法~,0,0,Kahsolt,8241877
+14113238~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1440062021110,5,0,特别感谢老师们。老师们讲得特别清楚，以前没看明白的，现在都听明白了，但是囿于授课形式，内容还是少点啊。,0,0,Yaping ZHANG,14113238
+13866601~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1440046136798,5,0,Very Good Course.,0,0,CHUN-YU LIU,13866601
+4321581~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1439836402699,5,0,这门课可以随时看，这是最好的，搞不清楚为什么，清华大学的学堂在线，还要在线注册，还有规定时间，真麻烦，老师讲的不错，我很喜欢，主要是两个老师有活力，很喜欢王佳英老师且亲的声音，还有郭伟老师的洒脱，期待老师以后更好的课程。,0,0,王社英,4321581
+12250928~COURSE!~vV5KmA_3EeWPhwrBf2tcNQ,1439733091703,5,0,I learn a lot from the course,0,0,zangkuo,12250928

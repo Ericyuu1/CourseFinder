@@ -1,0 +1,681 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+49908656~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593228109595,1,0,"El curso no es mas que Java básico, y no logre aprender nada respecto a android",0,0,Ronald Misael Condori Rojas,49908656
+21649150~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1520899786726,1,0,"Esta desactualizado, y hay problemas en vídeos en el que el audio no esta sincronizado",0,0,Juan Carlos Goncalves Da Silva,21649150
+24968928~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503914262576,1,0,"He programado mucho de forma autodidacta aunque no sea un profesional desarrollador. Estoy seguro de que tengo la base suficiente para el curso. Sin embargo, he perdido mucho tiempo, muchas horas, teniendo que completar las explicaciones de las lecciones para poder realizar las prácticas. Las explicaciones son infantiles y muy incompletas y no cubren las necesidades de los ejercicios. EL código mostrado es muy básico, para conceptos muy simples, muy alejado del necesario para los ejercicios.Tampoco entiendo porque el único material es el del vídeo. Sólo con ofrecer el código mostrado en las lecciones se ahorraría mucho ir delante y atrás en el vídeo para consultar los ejemplos.Entiendo perfectamente que es bueno que el alumno tenga que investigar y buscar información para completar las lecciones, pero costaría poco y ahorraría mucho tiempo incluir en cada lección unas pocas referencias a capítulos o páginas del libro recomendado o, más fácil, enlaces a webs donde encontrar ejemplos y más información.Tampoco entiendo que la única corrección de los ejercicios la realicemos los alumnos exclusivamente. Lo lógico es que un docente / tutor completase la corrección con comentarios y recomendaciones. Sólo se llega a saber de la docente por los vídeos. Nunca ha aparecido en ningún comentario o foro.Finalmente, los criterios de puntuación son todo o nada sin matices. Si un programa corre obtiene la máxima puntuación de ese apartado, no importa si corre usando decenas de líneas de código innecesario. Si corre, puntuación máxima por muy ineficiente que sea. La misma que un programa breve y eficiente. Lo mismo ocurre con otros criterios de corrección.Y no hago estos comentarios por haber sacado mala puntuación o por no haber podido completar el curso. Lo he conseguido a pesar de su diseño y contenidos.Lo siento. Espero que sirvan para algo estos comentarios.",0,17,Miquel Rodríguez,24968928
+17065543~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1495926530280,1,0,"Bastante malo, su forma de enseñar es bastante aburrida y generica. Hay mejores videotutoriales en Youtube.",0,0,Yvanox Mx,17065543
+21692072~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475278796363,1,0,"I wouldn't pay $49.00 Dlls. for this course, nor the other courses within this specialization. This one contains quite a lot of errors. There's a lack of domain of the matter by the instructor and some concepts are poorly explain and incorrectly defined. It's quite a shame that this course is in behalf the UMAN's name :(. Hope this course gets upgraded",0,5,Gerardo Garduño Valadez,21692072
+19484916~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473593080979,1,0,"Es un curso para gente que ya tenga experiencia en java. No se explica bien lo mas importante de java que es el concepto de clase y objetos, por lo tanto nada recomendable para gente que se quiera iniciar en java. Las practicas solo son para los que pagan, este curso no es gratis.",0,3,Danielrp,19484916
+7465111~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471971593092,1,0,No me ayudó,0,0,Luis Jesús Alberto Bengoa Castro,7465111
+19079237~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1463450228489,1,0,muy basico,0,0,Edgar Omar Ayala Martinez,19079237
+17845327~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462419409657,1,0,No ha sido ,0,0,Javier Humberto Moreno Bañuelos,17845327
+741866~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459743614946,1,0,"
+Needs to pay for submit assignments
+
+",0,0,Pavel Liaous,741866
+397273~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459211780165,1,0,Hay muchos errores.,0,0,Gustavo Fabián Paredes Delaloye,397273
+35456532~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604459182614,2,0,"Falta re-alimentación por parte del instructor, los puntos a calificar en las tareas difieren(levemente) de lo que se pide. Aunque en general las explicaciones son claras, se cae en algunas deficiencias conceptuales, como mencionar ""word"" en lugar de ""procesador de texto"". Jamás se menciona una justificación del contenido del curso con las aplicaciones Android. Hay videos muy cortos cuya información se podía haber incorporado en otro. Parece que el curso no pasó por una etapa de revisión.",0,0,Miguel Angel Robles Roldan,35456532
+47746826~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601301389634,2,0,"Falta ver como seria un programa eficiente,con  un uso optimo de recursos",0,0,Gladys Ferreira,47746826
+13398566~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589764163281,2,0,"La instructora es agradable y hace que el curso sea llevadero, sin embargo el curso deja mucho que desear en cuanto a contenido. Hay multiples errores conceptuales y huecos en las explicaciones que hacen que parezca que el curso no ha sido revisado por una tercera persona. Inclusive hay un cuestionario de 3 preguntas de las cuales 2 son idénticas, es evidente que nadie revisó. Explicaciones como Vectore y ArrayList, no marcan diferencias entre ellos, es muy pobre como se tratan.La forma de entrega de los ejercicios es realmente cuestionable. Se indica que se trabaje con Eclipse, pero luego que se copien los códigos en un word. Luego tienes que corregir el ejercicio de otro, para ello debes crear un archivo para cada parte del programa y copiar lo que se incluye en el word. Increiblemente molesto, ya que podrian directamente entregarse los archivos .java  Además en eclipse se arma una estructura de paquetes que requiere que luego los archivos esten dentro de una estructura de carpetas. Como uno no se va a poner a armar esa estructura, tiene que editar el programa de otro y eliminar la definición de los paquetes. El tema de paquetes no fue explicado en absoluto, solo se dijo que se deben crear los paquetes en eclipse. Es un tanto penoso que se diga hacer algo, pero sin explicar que es ni por que. Tampoco se explicó como armar la estructura de carpetas ni como compilar por linea de comandos cuando el programa está distribuido en varios archivos.Solo se ven estructuras, objetos, y salida a la consola. Nada de escritura a archivos, entrada de datos u otra cosa que haga que el programa sea más útil que un ""hola mundo"".Creo que el curso esta bien para meterse rapido sin preocuparse en profundizar o entender bien, pero que se logre hacer algun programa muy basico luego en android. Una ventaja es que se puede correr el video en velocidad 1.5x y se entiende perfecto.",0,0,Daniel Minsky,13398566
+19270015~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1580425500442,2,0,"Podrían aclarar que el curso está pensado para hacerse en mac, porque la consola de comandos de windows es diferente. No logré avanzar de la primera semana, que pérdida de tiempo.",0,0,German Arbelaez,19270015
+17283828~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499216468454,2,0,Falta de herramientas de trabajo.,0,0,Victor Yunuen Flores Rodriguez,17283828
+11074846~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473018914915,2,0,"La instructora deja mucho que desear, no sabe enseñar, uno tiene que aprender desde otros medios...una pena. Ojala mejore",0,4,Francisco Crespo,11074846
+17451156~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1466548213452,2,0,"Este curso esta enfocado solamente en aprender los conceptos básicos de Java. La maestra expone bien, el problema es el material y los ejemplos que expone.Considero que los conceptos no están muy bien explicados. En varios videos no fundamentan de manera adecuada el porque de las cosas y en algunas ocaciones lo hacen de manera incorrecta.Lo mas malo es que para poder subir las tareas a este curso es necesario comprarlo. Para mi gusto no vale la pena invertir en este curso. Recomendaría ver las lecciones sin pagar con el curso y evalúen si lo vale o no.",0,0,Everardo Guevara,17451156
+49629205~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1647104309224,3,0,"Es interesante pero no me gusta la metodología.1. Enseñan lo básico pero en las tareas ponen ejercicios con temas no vistos que son complejos. Es interesante que tenga una parte de auto aprendizaje, pero debería haber un espacio donde se pueda hacer almenos preguntas a los profesores para orientación.2. Al ser taeras calificadas solo por compañeros, no es confiable que la calificación sea bien realizada.",0,0,Felipe Restrepo ,49629205
+58506635~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609804947108,3,0,"Buen curso de introducción, sin embargo considero que faltan explicaciones para poder realizar las actividades, no en cuanto la resolución de la misma sino por personas que se acercan a este curso sin anteriores experiencias en programación",0,0,ZAA RIBE JAZMIN RAMIREZ GRAJEDA,58506635
+32157150~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609782552124,3,0,"Java básico, bien explicado, buenos ejemplos. Faltan algunas cosas, pero es que java de por sí tiene demasiadas cosas más complejas de explicar.",0,0,Bryann Arlye Torres Rodriguez,32157150
+74161176~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604416651478,3,0,Falta mucha información adicional para poder seguir el curso,0,0,Pablo  Vazquez,74161176
+9677909~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603259293933,3,0,Encuentro que deberían actualizar el curso y mejorar la explicación de la instalación del ECLIPSE. ,0,0,Ezequiel Fiol,9677909
+62516836~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603133027220,3,0,Faltan muchísimos conceptos de programación en java que son fundamentales,0,0,Cristian Javier Palmero,62516836
+71861836~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601320812233,3,0,Algunas explicaciones no se entendieron muy bien que se digan ,0,0,MICHAEL BRYANG CHEVEZ ANGULO,71861836
+65663189~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600462529614,3,0,Aprendi un monton..... y el hecho ode corregir a los compañeros uno aprende que existen otras formas de llegar al mismo lugar,0,0,Karina Timón Zanuttini,65663189
+42839297~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600026297244,3,0,Algunas tareas no se condicen con lo estudiado y el que sufre es el alumno que tiene que estudiar muchísimo por fuera del curso. Hay algunas cosas que no se ven y luego hay que aplicarlas. ,0,0,Maite Navrátil,42839297
+47400033~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590390128076,3,0,Basic. Good for beginers.,0,0,Jorge Yamunaque,47400033
+17379100~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1560272114517,3,0,"Para empezar en android este curso básico de Java creo que esta bien, pero deberían actualizarlo.",0,0,Carlos Lévano,17379100
+16464676~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1553909048816,3,0,"El contenido esta un poco incompleto, la instructora tiene faltas en sus expresiones la más notoria es el uso de ""accesar"" por ""acceder"" y la edición de los videos es pobre, sobre todo en el audio que disminuye antes de tiempo.",0,0,Alberto Ibarra,16464676
+2145138~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1550508621811,3,0,Me parece que en algunos puntos no se trata el tema de manera clara y en los ejemplos no se explica con detalle todo lo que le antecede. Sin embargo también hay puntos positivos ,0,0,Carlos Edgar Santiago Cruz,2145138
+23232773~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1537817438285,3,0,"Curso muy abreviado de java, solo sirve si uno ya tiene una idea. Sino conviene hacer un curso más especializado.",0,0,Bruno Diaz,23232773
+18332644~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1517347164737,3,0,"El curso es bueno y explica muy bien lo que se debe saber para empezar a programar en java, pero los proyectos para calificar son diferentes a lo que enseñan, piden cosas más avanzadas que, si no sabes de programación, debes dedicar muchos tiempo a investigar y estudiar diversas fuentes. ",0,0,salatiel juventino garcia mota,18332644
+17327488~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480379287962,3,0,muy buena la información para empezar en lo que es Java. muy bueno,0,0,NEIL RAUL PALACIOS ROJAS,17327488
+6345062~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477244833855,3,0,"Muy básico, es un curso para escolares pero para ellos esta bien :D",0,0,ijann,6345062
+15450223~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474827568994,3,0,Creo que no se puso mucho empeño en la creación del curso; los contenidos muy dispersos y poco didácticos.,0,0,Juan Pablo Tapia,15450223
+19806854~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471389322631,3,0,"
+Debe de haber comunicación con un maestro o tutor por parte de la universidad para ayudar en dudas.
+
+El curso es bueno, no excelente, la instructora no sabe lo que esta haciendo, obvia muchas cosas y aparte el curso es la mitad de lo que tiene uno que investigar por fuera para poder completar las tareas, no existe una comunicación con el instructor lo cual es pésimo.
+
+",0,0,Edgar Cantu,19806854
+18685104~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1469069893982,3,0,"es muy corto el tiempo, la calidad de la información es buena , pero, pero, hay un gran PERO; se deja fuera el contemplar que para seguir a la maestra NO SE TIENE CONOCIMIENTO DE LA HERRAMIENTA VISUAL, y los puntos donde ella se va muy rápido,  Y PARA HACER LOS EJERCICIOS EN UNA PLATAFORMA ONLINE ES POCO EL TIEMPO PARA LLEVAR ACABO TODOS LOS EJERCICIOS.",0,0,Gustavo Negrete Baltazar,18685104
+18925949~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464770175305,3,0,"La calidad de las explicaciones de los videos se pueden mejorar. La instructora, esta por encima de los gráficos explicativos, cosa que despista un poco.",0,0,Cesar Perez,18925949
+9129763~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459626456140,3,0,"El curso es bueno, pero en mi opinion personal deberia permitir evaluar y no bloquear esta opcion.",0,0,Eduardo Chancay,9129763
+17367864~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457531043628,3,0,Bueno aunque no vimos la inclusión con Android.,0,0,Alexander Chacon,17367864
+72885948~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1650308086632,4,0,Es un programa que  me ayudo a aprender a programar en JAVA y a conocer mejor su interfas.,0,0,juan felipe fernandez gomez,72885948
+85093801~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1644862348238,4,0,"P​edagociamente es un curso excelente. todo está muy bien explicado, el principal problema es que te oblica a calificar tres proyectos para que te puedan calificar y hay muchas veces que no hay tareas para calificar, lo que te atrasa demasiado con el curso y el resto de la certificación. ",0,0,Cristian Flores Medina,85093801
+88436352~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1642029074011,4,0,No desarrolle el curso,0,0,Deleted Account,88436352
+68381568~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1637390011184,4,0,"Un curso introductorio muy sencillo y bien explicado, el lado negativo es el largo tiempo de espera para que puedas recibir tus calificaciones para finalizar el curso. ",0,0,Luis Alonso Hernández,68381568
+92480116~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1633370818104,4,0,"T​odo muy bien, solo en los ejemplos, todos son claros pero muy aislados, individuales, y al solicitar tareas es muy diferente en su desarrollo, quizá un ejemplo más relacionado entre sí, sería de mayor efectivdad en el aprendizaje. Gracias.",0,0,Osvaldo Tovar Miguel,92480116
+51547981~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1626651520991,4,0,"la explicación es buena y los módulos semanales, pero los trabajos que se solicitan llegan a requerir un mayor nivel y conocimientos no vistos a lo largo de la semana.",0,0,Gerardo David Fernández Cazares,51547981
+66031840~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1626455703392,4,0,"Me pareció un buen curso, eso si debes tener conceptos básicos de poo, por que no se explican tan detalladamente en los videos, así que si no tienes muchos conocimientos de esa área, deberías informarte antes de comenzar este curso.",0,0,juan camilo bermudez jaimes,66031840
+53684534~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1622659127671,4,0,"En general me gusto, explicaciones sencillas y claras. Quizás para el ultimo tema pudieron dar un poco mas de énfasis en como formular el constructor, pero de resto super bien para un primer paso en JAVA.",0,0,Diego Alejandro Abad Gómez,53684534
+35263261~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1621867590420,4,0,¡Excelente curso como inicio para el aprendizaje de Desarrollo de Aplicaciones!,0,0,Leandro Silva Castillo,35263261
+57931350~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1611333986002,4,0,esta bien el curso aunque hay que actualizarlo,0,0,Daniel De Leon Martinez,57931350
+73325607~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1611013934050,4,0,"En general esta muy bueno, muy completo, aunque a veces se da por sentado algunas cosas, como la variable local donde se almacena el error cuando se usan Excepciones, por dar un ejemplo. Pero tan solo con buscarlo en google es entendible",0,0,Leiva Zago Luca Nicolas,73325607
+73544846~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609191800852,4,0,"Buen curso, un poco desactualizado pero es bastante facil de entender ante personas que recién empiezan a programar. Tal y como yo",0,0,Marcos Trinidad,73544846
+36412892~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606702412008,4,0,Es posible ver todo lo basico conceptual sobre java pero hace falta un poco mas de profundización. ,0,0,Carlos Alfredo Soria Añez,36412892
+5005344~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605919981744,4,0,Buen curso para aprender Java ,0,0,James Revelo,5005344
+66454274~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604396607902,4,0,El curso te da las herramientas para poder hacer diferentes programas. Considero que debería tener un poco más de aspectos teóricos y las tareas deberían estar mejor explicadas. Me gustó,0,0,JORGE SANCHEZ,66454274
+72376014~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603637279049,4,0,"La semana dos deberia ser la uno, por el resto, muy bueno.",0,0,Pablo Piccione,72376014
+67136088~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603474934581,4,0,muy bien trabajado el curso!,0,0,Rodrigo Vera,67136088
+22607078~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603245075985,4,0,"Está bueno el curso, pero como dije en algunos comentarios a veces falta un poco de claridad en los manejos de los videos y las explicaciones el paso a paso a veces se salta como si uno ya supiera lo que ha hecho antes, pero por lo demás buen curso.",0,0,Carlos Castillo Diaz,22607078
+73227958~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603068938656,4,0,Muy Buen Curso,0,0,Marcos M Sanchez,73227958
+70621761~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602602671353,4,0,"Muy interesante el curso, muy práctico, y tengo muchas ganas de continuar con la formación de Programación en JAVA.",0,0,Carlos Andrés Ruiz Hoyos,70621761
+6298174~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602011007496,4,0,"El curso maneja lo básico del lenguaje Java y de la Programación Orientada a Objetos. En si es una buena manera de comenzar en el largo camino del aprendizaje de programación. Lo malo es que las tareas que solicitan son algo avanzadas para lo que enseñan, piden realizar cosas que no explican como realizarlas (Es cierto que se pueden investigar por tu cuenta, pero se supone que deberían explicarlas en el curso). Ademas que no dan en si una plantilla para saber como llevar a cabo dicha tarea, es decir, no se sabe como debe entregarse el resultado. Fuera de estos puntos es un buen curso.",0,0,Alberto Jesus Solis Escalante,6298174
+56656794~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601592072125,4,0,GOOD,0,0,Mauro,56656794
+37451986~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601499304576,4,0,"Para novatos como yo, hizo falta mas ejemplos links de donde porder sacar la info que no se proporciona para poder hacer los ejercicios- todo lo demas me parecio muy bueno",0,0,Matías Araújo,37451986
+65056075~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601423318526,4,0,"Me gustó mucho el curso, está muy bien explicado, a mí me costó un poquito desarrollar los códigos para las tareas. Sugiero que se den algunos ejemplos antes de solicitar la realización de las actiividades semanales.",0,0,Jessica Romina Souto Souto,65056075
+65413469~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600386289375,4,0,"Buen curso, pero deberian plantearse actualizar mas seguido las sugerencias de los software a utilizar ya que estor se actualizan y cambian sus funciones mas rapido de lo que actulizan los videos del curso.",0,0,HORACIO TAGLIANI,65413469
+58257373~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599877879914,4,0,Curso muy atractivo y dinàmico,0,0,Rodrigo Gabin,58257373
+25573747~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599761983304,4,0,"Muy bueno, pero seria mejor que en las tareas pongan como lo que desean que se muestre el resultado final, no como se hace, si no la imagen del resultado para uno saber bien que se requiere al final ",0,0,Jhonatan Céspedes Vega,25573747
+33384140~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599677389477,4,0,"Había tenido experiencia en programación estructurada y realmente este curso es bastante claro respecto de lo que es Programación Orientada a Objetos, por lo cual, las dificultades se minimizan en el momento de aplicar el conocimiento en los ejercicios prácticos propuestos. Me gusto!!!",0,0,Carlos Eduardo Niño Hilarión,33384140
+65513138~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599436381713,4,0,buen cursoGracias ,0,0,Adrian Di Paulo Ferrario,65513138
+68102624~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598392385680,4,0,Es un curso que presenta aspectos básicos del lenguaje Java. Se necesitan conocimientos previos de programación para poder aprovecharlo. ,0,0,Francisco Larrea,68102624
+68340912~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598245630581,4,0,"Fue muy bueno, pero es necesario estar por lo menos familiarizado con la programación ya que en algunas partes el curso tiende a ir rápido y se vuelve un poco pesado sin al menos conocimiento básico en programación, fuera de ahí es un buen curso para poder aprender los cimientos en la programación en lenguaje Java.",0,0,SERGIO ALFREDO ORDUÑA LÓPEZ,68340912
+17473548~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598230706173,4,0,"Buen contenido, directo al grano. Aunque en las actividades solicitaban cosas que no se aclaraban del todo en las clases y eso nos obligaba a investigar en otras plataformas para cumplir con los objetivos. Sin embargo, me parece que el curso ofrece una buena base para comprender cómo funciona la programación en Java.",0,0,Jonathan Silva Bravo,17473548
+67365301~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597078337802,4,0,"Curso bien explicado de Java, solo faltaría un poco más de desarrollo de ejercicios.",0,0,José Lostaunau,67365301
+40641369~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597017118475,4,0,"Lastimosamente faltó que explicaran el método comparativo, por esa razón no considero que merezca 5 estrellas.",0,0,Diego Alejandro Martinez Espinosa,40641369
+37522639~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595863892561,4,0,"El Ultimo Curso de cast, no se por que desde ayer le doy clic en reanudar, y no lo puedo tomar",0,0,Rafael González García,37522639
+63241710~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595802803980,4,0,"Un curso introductorio a la programación en Java bastante concreto y con ejemplos claros. Pero, las prácticas tienen requerimientos sobre temas que no se trataron en el curso.",0,0,Ing. Fausto Redrovan,63241710
+18822571~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595552243777,4,0,"Me encanto. De los cursos que vi es de los mas claros en los temas y conceptos, útiles para Android. Muy buena la profesora. Seria bueno implementar interfaces gráficas al ser orientado a Android podría ayudar a los siguientes cursos y ya que toca temas tan amplios también seria interesante.",0,0,Alvaro Mercado,18822571
+64974162~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594612824782,4,0,"Buen curso, muy útil.",0,0,Oscar Trejo,64974162
+63079687~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593557682052,4,0,"Muy Buen curso y la forma de la tematica es muy explicativa, recomiendo dar links donde se pueda profundizar de manera efectiva en PRO del aprendizaje",0,0,Juan Alejandro Perez Salazar,63079687
+43277044~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592876202331,4,0,"el curso fue excelente , ya que me ayudo a dejar los cimientos mas fuertes  sobre la programación ",0,0,julio esau ,43277044
+59661699~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590990801319,4,0,"Es muy bueno, pero supongo que ya debe ser actualizado. Sin embargo al tener los fundamentos que se aprenden en este curso, se hará más fácil adaptarse a las nuevas versiones del software.",0,0,Marta Ivannia Calderón Montero,59661699
+24233067~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590537359103,4,0,Buen curso para aprender el funcionamiento y practicar Java.,0,0,Juan Rincón,24233067
+58830205~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590365923858,4,0,"Para alguien que tiene conocimientos básicos de JAVA, se le hará muy sencillo. Sin embargo alguien que empieza de cero, si se le podría complicar algunos temas que no son explicados muy claros.",0,0,JORGE ORDONEZ TUXPAN,58830205
+35902040~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589591312024,4,0,"muy buen curso de Java para conceptos basicos del mismo, un pilar muy bueno de los conceptos de java",0,0,Carlos Felipe Vasquez Ruiz,35902040
+40283965~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1554778844962,4,0,Hay cosas pequenas que se pueden mejorar,0,0,Iván Darío Rojas Rojas,40283965
+37621498~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1550193405831,4,0,Excelente curso!,0,0,Diana Karina Surga Sanchez,37621498
+23494006~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1534521402893,4,0,"Excelente, no aburre.",0,0,Dante Ruiz,23494006
+17361150~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1527009331038,4,0,Cuando empieza el siguiente módulo...,0,0,Rosendo Antonio Manuel,17361150
+20567292~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1523826840190,4,0,Buen curso,0,0,José Enrique Durán García,20567292
+13104577~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1522986397654,4,0,-,0,0,Nico Niño,13104577
+1504214~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1522698299566,4,0,"Es un curso interesante como introducción a Java, ya que explica los puntos más importantes de la programación y de la orientación a objetos.Como punto negativo creo que los proyectos podrían ser más interesantes, obligando al alumno a razonar más acerca de la herencia, el polimorfismo y la sobrecarga. También creo que habría sido interesante profundizar más en las implementaciones de Collections, explicando las interfaces Set o Map y sus diferencias, además de mecanismos de ordenación y las interfaces Comparable y Comparator.En general un buen curso para todo aquel que quiera iniciarse en la programación.",0,0,Javier Castro Malet,1504214
+29696034~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1518893739091,4,0,muy bueno aunque hat detalles que se tocan en los trabajos y tareas que no se explican en el curso,0,0,Arturh MetalYeah,29696034
+29796544~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1513659118526,4,0,Falto un poco de informacion en el curso. Pero eso me motivo a investigar por mi cuenta :),0,0,Luis Alberto Gonzalez Martinez,29796544
+28611113~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1508381685992,4,0,"Muy bueno, quizá deberían agregar más ejercicios para desarrollar.",0,0,Christian Rivero Valencia,28611113
+23494897~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1507216224002,4,0,"Puede resultar algo complicado para gente que, como yo, no ha tocado nunca la programación. Pero puedes revisarlo las veces que haga falta, cosa que viene muy bien para aclarar las ideas, también es aconsejable pasarse por el foro del curso, donde compañer@s exponen sus dudas y entre tod@s se solucionan.",0,0,Pablo Ortiz,23494897
+14092408~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506514759004,4,0,Suficiente para refrescar conocimientos básicos de Java. Tal vez sencillo en exceso pero no está mal para enlazar con el resto de cursos de la especialización.,0,0,Juan Manuel Vilela Puga,14092408
+21612060~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506355952767,4,0,Muy bueno,0,0,Deleted Account,21612060
+26910413~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1504197762492,4,0,"Excelente curso, la instructora explica muy bien los temas.",0,0,David García,26910413
+25406999~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1500933323690,4,0,Excelente curso,0,0,Henry Josué Alvarez Mejías,25406999
+17179643~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499454567612,4,0,El curso es perfecto para iniciar con  android.,0,0,ERNESTO RODRIGUEZ ALBARRAN,17179643
+7230092~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499116552664,4,0,Me pareció bueno aunque esperaba fuera algo más complejo.,0,0,Génesis Pozos,7230092
+26776745~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499026838505,4,0,"He intentado varias veces aprender a programar pero siempre abandonaba y no conseguía quedarme con nada, pero esta vez ha pasado lo contrario. Ha sido un curso muy interesante y fácil de llevar, aunque tuve algunas dificultades en la segunda semana. Muy recomendable para aquellos que quieran empezar a conocer algo de programación en Java.",0,0,Óscar González Fresno,26776745
+24041910~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498830174330,4,0,Buen curso para conocer la base de java.,0,0,Miguel Caraballo,24041910
+26881523~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498748720950,4,0,El curso Excelente ,0,0,Santiago Hdez,26881523
+19312183~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1495160652244,4,0,"Es un muy buen curso de iniciación a la programación orientada, es bastante claro y sencillo.",0,0,Christian Alejandro Quintero Mata,19312183
+8676503~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1491769453802,4,0,Muy bueno el curso aunque ya tenia algunos conocimientos previos por eso se me hizo fácil completarlo talvez desde cero tenga una curva de aprendizaje alta. ,0,0,Alejandro Camacho ,8676503
+18873792~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1490336973974,4,0,bastante recomendado,0,0,Vicente Perea Soto,18873792
+2405656~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1488152291696,4,0,"Buen curso introductorio, se debe tomar en cuenta que aunque es un curso orientado a Android, lo único que se ve aquí es Java, lo cual puede resultar tedioso para programadores experimentados de Java que quieran introducirse en Android.",0,0,Evana Margáin Puig,2405656
+16431314~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487045633055,4,0,Buen curso para iniciar en java y la poo.,0,0,Lenin Balladares,16431314
+23759091~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487034591716,4,0,"Es un muy buen curso con bastantes temas necesarios, pero en algunos casos no dan una explicación completa, deben entender que muchas personas no tienen muchos conocimientos iniciales y se les dificulta aprender tan rápido, pero de resto todo estuvo muy bien .",0,0,Sebastián Valencia Zapata,23759091
+19169245~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1484868011537,4,0,"Muy bueno y muy didáctico, En las próximas emisiones mejorar la presentación de la profesora. ",0,0,Eliath Gonzalez,19169245
+19307289~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1482079584840,4,0,Aprendi mucho gracias :),0,0,Eleazar Ruben Soto Tomairo,19307289
+22029392~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1481752699658,4,0,excesiva promo...pero buen material para iniciarse,0,0,Iago Otero,22029392
+22944193~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480607722045,4,0,wow no pensé que estuviera tan bien. Cuanta claridad,0,0,Pablo Tapia Marín,22944193
+16298793~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477331514083,4,0,"Excelente contenido, pero es necesario que exista cobertura, acompañamiento y soporte por parte del instructor del curso.",0,0,Pablo Cesar,16298793
+21107241~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1476977633938,4,0,Falta un poco mas de informacion sobre matrices pero despues todo esta muy bien,0,0,Juan Diego Cabrera Alvarez,21107241
+9431493~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474392642721,4,0,El curso me parece muy completo y con un lenguaje muy práctico. Lo que me permite entender aún con la poca experiencia que tengo en el tema.,0,0,Saul Trejo,9431493
+21286171~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473561076277,4,0,muy bien explicado para la gente que empiece a programar,0,0,YOUNGGANON,21286171
+20877583~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473063839800,4,0,Buenas explicaciones pero las tareas son muy complicadas a mi parecer. ,0,0,Victor Manuel Arreola Buenrostro,20877583
+5093729~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471373375763,4,0,"Muy buena la información expuesta durante el curso, tienen algunos problemas en la edición de los videos, pues en algunos videos se escucha la frase que no debería y a continuación la frase correcta pero todo quedó super claro.",0,0,Deleted Account,5093729
+18006842~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1469985370305,4,0,Muy interesante!!,0,0,Ariana Santiago Zarate,18006842
+20358598~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1469420636928,4,0,"Siento que faltó mas contenido para completar el curso, sin embargo lo aprendido me sirvio bastante para desempeñarme en Java. Muchas gracias!!",0,0,José María Iñiguez Magaña,20358598
+19474323~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1469247086440,4,0,"Excelente, tanto el material, como las explicaciones. Muchas gracias a Anahí Salgado, a la Universidad Nacional Autónoma de México, y a Coursera, quienes nos brindan la oportunidad de especializarnos en esta rama tan maravillosa. He aprendido bastante, un millón de gracias.",0,0,Brian de Jesus Infante Lopez,19474323
+20276642~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468966999016,4,0,Bien explicado y la instructora me gusto mucho la manera en como explico cada modulo ;-),0,0,Sergio Sánchez Sánchez,20276642
+8627051~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465840571448,4,0,"Buen curso, da las pautas básicas para programar en Java. Se pudiera ahondar un poco más en los temas.",0,0,Vladimir Cruz,8627051
+18004750~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465714623760,4,0,"En algunas ocasiones a la maestra le falla la escritura y se traba explicando, pero en general bien",0,0,Christopher Alberto Hernández Bolaños,18004750
+19016247~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464433586741,4,0,Fundamentos Java. Muy básicoEn general está bien pero los ejercicios a entregar no se especifican claramente en algunos casos. ,0,0,Catalina Ana Servera Díez,19016247
+18859133~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462231402985,4,0,"Muy buen curso y muy interesante, te enseñan desde lo mas básico y eso es mucho que decir.",0,0,Eder Omar Velasco Cardona,18859133
+18982985~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462167648681,4,0,"Por la parte técnica me parece de muy buena calidad, la instructora conoce del tema y lo desarrolla muy bien.Soy catedrático. He tomado cursos de educación a distancia. Le resto una estrella a mi calificación porque a mi parecer le hace falta más ejercicios de tareas a los cursantes, así mismo las instrucciones no están bien especificados, recomendaría hacer rubricas bien definidas.",0,0,Giovanni Valdes,18982985
+18597931~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461865199500,4,0,"Me pareció que dejan detalles fundamentales de explicar, pero en general esta bien.",0,0,Marco Antonio Lopez Garcia,18597931
+2868122~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460985545348,4,0,Great content for newbies. ,0,0,SEBASTIAN GONZALEZ ZEPEDA,2868122
+18237834~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460135775969,4,0,"Me gusta como explica, creo que tiene bastante facilidad para explicar y creo que hasta te anima a seguir, creo que por eso se gana cuatro estrellas, no le puedo poner mas de eso porque creo que lo que hace falta es mas interacciones, mas preguntas a los estudiantes algo que sea en linea, como has este ejercicio para que demuestres que realmente aprendiste y que no te dejara pasar hasta que completes ese ejercicio. Las tareas me parecen bien pero creo que hacer esas interacciones con los usuarios le obligan al estudiante a volver a revisar el vídeo si no entendieron algo y le ayuda a repasar lo aprendido. slds. ",0,0,Rich AG,18237834
+18229688~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459965678364,4,0,"Sugiero se ahonde un poco más en los temas de java, este lenguaje es muy extenso, aunque se ven las nociones para Android, probablemente, quienes no conocen java se queden con la sensación de que les faltó conocer más a fondo el lenguaje, pero es un muy buen curso.",0,0,Carlos Alberto Romero Huerta,18229688
+17878720~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459021153357,4,0,"Muy Buen Curso, recuerda los conocimientos de Java olvidados y ayuda preparándote correctamente para iniciar la programación en Android.",0,0,Jose Rogelio Mora Muñoz,17878720
+18279053~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458165896381,4,0,excelente opcion para quienes queremos incrementar nuestro conocimiento en desarrollo de aplicaciones moviles.,0,0,Fernando De la Rocha Perales,18279053
+6717778~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457647207233,4,0,Me pareció buen curso aún que me hubiera gustado que profundizaran en algunos temas y mejor explicación en otros. ,0,0,Ricardo Sánchez Gutérrez,6717778
+16345954~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457413217050,4,0,"Me gustó el curso, pero en algunos videos me pareció un poco confusa la información y creo que faltó ejemplificar más.",0,0,Luis M L,16345954
+17679784~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457374239715,4,0,I really liked it! But I thought it was to programming Android apps,0,0,Cristofer Marín,17679784
+4099772~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456787337001,4,0,Bueno a nivel introductorio,0,0,Ismael Gongora,4099772
+73326527~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1669502395435,5,0,"Excelente, muy bien explicado por Anahi Salgado",0,0,Rubén Leiva,73326527
+118459053~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1668798355140,5,0,Buen curso todo viene bien explicado,0,0,Luis Campos,118459053
+64224296~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1651519394017,5,0,"Great course! I learned a lot about Java very quickly. My only regard is that the assignments would be faster if we could send them as a .zip file instead of copying and pasting them on a .doc file. Other than that, it was a great experience and I look forward to learning more in the next courses. Also, I'm not a native Spanish speaker so the course served as a chance to practice Spanish as well; the fact that I was able to learn so much (despite my B1 level in the language) means that the course is very well structured, the teacher gives accessible explanations and the lessons are on point, even if it is very technical and complex; otherwise, I wouldn't be able to get much from it. Thank you and see you soon!",0,0,Luís Peres,64224296
+57422297~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1647887975385,5,0,muy bueno para empesar en java,0,0,Edgar Felipe Rojas Cala,57422297
+44148510~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1645925672165,5,0,"Buen curso, lo recomiendo.",0,0,Eliecer Bautista Belen (Elias),44148510
+34828552~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1644335223040,5,0,comprendo un poco mas,0,0,GERARD,34828552
+90094063~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1642396483665,5,0,"MUY BUEN CURSO, TAMBIEN LA INSTRUCTORA MUY BUENA MANERA DE ENSEÑAR, LA FELICITO.SALUDOS Y SEGUIRE CON EL PROXIMO CURSO",0,0,JORGE TEMOL DIAZ,90094063
+88588383~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1637778845462,5,0,Muy fácil de entender,0,0,Víctor Manuel Hérnandez Ortíz,88588383
+50197162~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1635521207492,5,0,Sirvió mucho aprender aspectos básicos de JAVA,0,0,Juan Fernando Jiménez Saldarriaga,50197162
+77557046~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1630616414889,5,0,muy buena ,0,0,jose miguel clavijo villamizar,77557046
+88602446~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1629316786835,5,0,s,0,0,Sebas Santos,88602446
+27675983~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1629041091696,5,0,Ta bueno,0,0,Cristian Javier Acosta Duarte,27675983
+63306915~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1627448360027,5,0,Cosas básicas del lenguaje pero buenas explicaciones.,0,0,Frank Esteban Gil Medina,63306915
+1538893~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1627138376936,5,0,"Excelente profesora y material de curso, como mejora incluir más detalles para comprender las tareas",0,0,Nicsor Morales Castro,1538893
+67153936~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1626319320113,5,0,muy buen curso,0,0,ALEJANDRA YEPES MOLINA,67153936
+16959227~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1625580927331,5,0,Excelente,0,0,Daniel Toledo,16959227
+63491257~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1622515514970,5,0,Excelente curso. Muchas gracias por todo.,0,0,Jesus E Acedo,63491257
+85307637~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1621700586470,5,0,"Excelente curso, dinámico, fácil de comprender y amigable.",0,0,EDSON RUBEN JUAREZ LUCAS,85307637
+82102927~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1618686656493,5,0,Excelente curso ,0,0,Elias Sierra Atencia,82102927
+62153454~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1618354046974,5,0,"Excelente curso, aprendí de forma rápida la Programación Orientada a Objetos.",0,0,Richard Rocha,62153454
+79573720~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1618199658994,5,0,Excelente! Muy claro y concreto,0,0,Emmanuel Cruz Hérnandez,79573720
+42270852~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1617747619195,5,0,Excelente,0,0,Ernesto Torres Ochoa,42270852
+82867070~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1617509754664,5,0,"Soy estudiante de Ingeniería en computación por lo que algunos de los conceptos vistos en este curso ya los conocía, si embargo aquí los he comprendido de mejor manera.",0,0,ERICK JESUS REYES GARCIA,82867070
+68337260~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1617140690127,5,0,Perfecto para iniciar con Java,0,0,Zahid Martin Ceopa Dongo,68337260
+82524566~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1616616791744,5,0,"Muy buen curso, hace un repaso de cómo programar en Java, no obstante creo que se debe tener conocimiento previo acerca del lenguaje.",0,0,JOSE DANIEL CASTELLANOS BECERRA,82524566
+81291463~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1615747383928,5,0,Excelente explicaciones,0,0,Luis Octavio Gómez de la cruz,81291463
+27073896~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1615006811650,5,0,"Muy bueno aprendí bastante, pero en los ejercicios para resolver no es para uno que comienza digamos que es para los que sepan algo de java, en mi caso fue perfecto.",0,0,Cesar Enrique Cantoral Montejo,27073896
+69449414~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1613146992076,5,0,EXELENTE CURSO,0,0,Joan Sebastian guerrero campos,69449414
+24267682~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1612483387894,5,0,excelente,0,0,Manuel Alfonso,24267682
+77296287~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1612234856420,5,0,Excelente,0,0,Agustin Isaac Vera Massa,77296287
+64963321~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1612147150530,5,0,"Excelente curso, muy bien explicado.",0,0,RAFAEL ALBERTO MARTINEZ FERREIRA,64963321
+47939265~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1610420340461,5,0,Es un buen curso para introducirse al lenguaje Java básico-intermedio,0,0,Aarón Isaac Calixto Andrade,47939265
+77041179~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609610103353,5,0,"es un curso muy bueno, en el cual aprendes los fundamentos del lenguaje de programación Java.",0,0,Milagros Alonso Rebollo,77041179
+70786763~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609432430810,5,0,"Excelentes videos y una forma de enseñanza muy didáctica. Una gran calidad de producción y la oratoria de la profesora tiene un nivel muy alto. No tenía ni el mínimo conocimiento de Java y pude completarlo sin problemas. Quizás sea un poco corto, pero la información es muy útil.",0,0,Rafael Paiva,70786763
+54524596~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609414540439,5,0,Gracias por el curso estuvo muy bueno,0,0,Wilson Díaz,54524596
+32156094~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609370967817,5,0,Un buen curso para reforzar lo básico de Java.,0,0,Ricardo Manríquez,32156094
+55910716~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1609295917410,5,0,Curso muy bien estructurado y enfocado.,0,0,Jose Luis Batz Valdez,55910716
+75793478~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1608271765341,5,0,Excelentes fundamentos de programación POO,0,0,NICOLÁS ENERICO GALLARDO VELÁSQUEZ,75793478
+73745264~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1608264285223,5,0,"Muy bueno el curso como para empezar a programar en mundo Java, por ahí requiere después investigar un poco mas; mas allá de la información que se da en los vídeos y prácticos, pero nada que no se pueda solucionar buscando contenidos para reforzar y fortalecer conocimientos adicionales desde la web.",0,0,Stiro Galliano Gerardo Guillermo,73745264
+76455030~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1607018934040,5,0,"La teoría es muy buena, creo que hace falta un poco mas de práctica.",0,0,Abraham Francisco Rodriguez Rosas,76455030
+75651435~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606959649796,5,0,La mejor tutora,0,0,JHON HENRY BERNAL RODRIGUEZ,75651435
+75888259~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606783773042,5,0,Incluir más ejemplos prácticos.,0,0,Hugo Martínez Cervantes,75888259
+74640107~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606676903845,5,0,muy excelente la forma de explicar y de evaluar,0,0,brayan moreno,74640107
+21471800~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606395345711,5,0,It is a nice introduction to the aspects of Java. Clear and well explained,0,0,Federico,21471800
+65146584~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606276578476,5,0,Muy dinámico y excelente didáctica.,0,0,Luis Carlos Saavedra Rodriguez,65146584
+75652092~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1606134892739,5,0,"El curso estuvo muy interesante, saludos!!",0,0,Héctor Rubén Ferreira Medina,75652092
+75648396~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605978767403,5,0,"Es un buen curso para aquellos que no tienen cimientos en la programación en java, os lo recomiendo.:)",0,0,Benjamin Loeri Topol�,75648396
+74431959~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605761440079,5,0,Excelente metodología ,0,0,Arnold Riaño Arciniegas,74431959
+65942301~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605495917663,5,0,excelente me encanto la forma de enseñar muy completo paso a paso todo. ,0,0,JADE LINDA CA.,65942301
+74627839~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605148486968,5,0,muy buen curso. totalmente recomendado,0,0,Samuel Nuñez Martinez,74627839
+43517696~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605062719355,5,0,"muy buen curso, incluso si no tienes conocimiento aprendes mucho en el trayecto.",0,0,merlin bobadilla,43517696
+74571066~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605053707386,5,0,Excelente curso,0,0,elias flores,74571066
+73727545~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1605052786011,5,0,"buena enseñanza, buenos temas, a lo esencial.",0,0,César Ricardo Castellón Ramírez,73727545
+71067243~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604956022696,5,0,Me sacaron de muchas dudas. Gracias.,0,0,CARMEN ROSARIO CAICEDO LOPEZ,71067243
+14051592~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604902474417,5,0,"Muchas gracias, aprendi lo que estaba buscando aprender y ademas muy buen curso.",0,0,Gregorio Jesus Duran Henriquez,14051592
+63050167~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604889016441,5,0,"Es una gran satisfacción el haber participado de este curso, el material de estudio, lo interactivo que es, muchas gracias por la oportunidad recibida.",0,0,Orliver García López,63050167
+54468535~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604880017535,5,0,"Muy buen curso, bien explicado por parte de la señorita que tiene un don para poder enseñar todo queda muy claro y te dan muchas ganas de seguir aprendiendo es muy entretenido felicitaciones a la señorita.",0,0,Estuardo Ortega,54468535
+74813268~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604877405506,5,0,"Muy buen curso, aprendi demasiado sobre la programación con Java",0,0,Mauricio-Ferreyra Rizzoli,74813268
+72481597~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604635974532,5,0,"En ocasiones, algunos trucos o atajos no fueron mencionados, pero sí evaluados.",0,0,Juan Sebastián Sierra Bravo,72481597
+56444347~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604547386051,5,0,Una buena introducción para aprender a programar en JAVA,0,0,José Cabrera,56444347
+72852594~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604533793301,5,0,"Muy buen curso, las explicaciones estan muy claras",0,0,Jaysson Fley González,72852594
+65513885~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604407418055,5,0,Gracias.,0,0,Fabricio Sebastian Cigaran Nu�ez,65513885
+71534029~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604189823218,5,0,Excelente! muy bien explicado.,0,0,Juan Carlos Nuñez,71534029
+4271921~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604117882374,5,0,Me ayudo mucho la forma en que se presenta el contenido y las tareas asignadas para comprender como usar java. ,0,0,Angel Gen Parra,4271921
+67222948~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604097091750,5,0,Excelente curso voy a seguir para completar todo el programa de desarrollo de android,0,0,Lewis Vargas Flórez,67222948
+32268631~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1604020207999,5,0,"Muy satisfecho!! Muchas gracias!! Para el que quiera empezar, recomendable",0,0,Marcelo Vecchiett,32268631
+11054192~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603824580825,5,0,Muy buen curso. me pareció muy didáctico y sobre todo explicativo   ,0,0,JONATHAN WILLIAM MORALES JOSEPH,11054192
+73639280~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603724616017,5,0,muy buen curso pude aprender a sobre la interface java por primera vez,0,0,Jose Julian Romero Rincon,73639280
+63573501~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603575646127,5,0,Excelente,0,0,YURY PAOLA MUÑOZ REINA,63573501
+70879376~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603330244562,5,0,"Muy buen curso, didacto y bien explicado",0,0,Amadeo Polak,70879376
+24261470~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603149563966,5,0,excelente curso,0,0,Jhon Carlos Peña Arias,24261470
+70300197~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1603079751621,5,0,"Excelente contenido, realmente util y con un aprendizaje asegurado ya que las explicaciones y contenidos son muy explícitos y de mucha comprensión. Sin dudas lo recomiendo.",0,0,Luis Fabian Guanca,70300197
+73271779~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602807890767,5,0,muy buenos los videos te explican super bien estoy muy conforme con este curso aprendí mucho mas de lo que pensé ,0,0,Jamil Manuel Garcia Zenteno,73271779
+70513250~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602721475368,5,0,"Si bien hubo algunos conceptos que no se explicó al momento de la tarea creo que es algo excelente, ya que obliga a buscar un poco más de información de nuestra parte, algo crucial en el desarrollo de estas actividades :D",0,0,Ahmed Alejandro Centellas,70513250
+64324002~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602605564770,5,0,"Me gustó mucho el curso, la explicación era muy fácil de entender, además los problemas muy atinados para poner en práctica lo explicado.",0,0,Yanzely Ng,64324002
+70947648~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602467088696,5,0,He aprendido acerca de IDE de eclipsem el cual es una ayuda extraordinaria para la escritura de codigo en java. Saludos,0,0,JOSE,70947648
+66025403~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602211417550,5,0,goood,0,0,CLAUDIO MUTTER,66025403
+72338042~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602191325490,5,0,"Muy bueno, practico y explicado de manera clara",0,0,Lucas Sebastian Perez,72338042
+38348655~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602190840231,5,0,Excelente.,0,0,julio pirizzz,38348655
+70154211~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602027451250,5,0,"Muy buen curso, 100% recomendado para quienes no sepan nada de programacion, crea bases muy solidas y la docente sabe explicarse muy bien",0,0,JAVIER ARIEL YUCRA  ZAPATA,70154211
+73437347~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1602025994728,5,0,"Un curso muy completo y entendible, quizas las consignas de las actividades resultaban un poco confusas. Por lo demas, perfecto ",0,0,Gonzalo Ivan Zelinka,73437347
+36528555~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601998989990,5,0,Excelente,0,0,Henry Froilan Rivero Perez,36528555
+20634493~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601902207340,5,0,Muy buen curso y las explicaciones de Anahi son lo mejor.,0,0,victor gabardini,20634493
+70376903~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601442385851,5,0,Me sirvió muchísimo. Ya había visto estas cosas pero nunca me un quedado del todo claras. Con este curso aprendí y practique cosas que antes no entendía,0,0,Diego Nicolas Villarroel,70376903
+70978161~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601309038947,5,0,"Muy buen curso, de los mejores que he tomado hasta ahora en Coursera. Muy bien dado, muy bien explicado. Recomendado para todos en cualquier nivel.",0,0,Sergie Code,70978161
+15375427~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601244873034,5,0,Excelente la forma de explicar y de hacer entender el contenido.,0,0,Jair Alfonso Londoño Olivar,15375427
+63532666~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601081155987,5,0,Excelente curso para comenzar a Aprender a Desarrolla Apps!,0,0,David Cervantes,63532666
+65696620~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601072451003,5,0,"De todos los cursos que hemos hecho en diferentes plataformas, esta profesora ha sido la más clara. Ha explicando con ejemplos, de forma dinámica y fácil de entender.  ",0,0,MABEL SOBA,65696620
+65836244~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1601035651689,5,0,Muy bien explicado y ejemplos claros.,0,0,Soledad Melo,65836244
+65419771~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600953434645,5,0,"Muy buen curso, además de ver los conceptos y ponerlos en práctica, tuve que investigar más para poder completar las pruebas que propone. Una buena forma de incorporar los conocimientos. Gracias",0,2,Miguel Salles Soca,65419771
+65708351~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600895889599,5,0,Muy bien explicado..,0,0,Mariana Pérez ,65708351
+3367172~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600846197442,5,0,"Muy bien impartido este curso, mis felicitaciones.",0,0,Ramón Carrión Bou,3367172
+64970201~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600816439371,5,0,"buena docente , buenos ejemplos!",0,0,GERVASIO ROMERO,64970201
+65462590~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600781937799,5,0,excelente,0,0,Juan Andres Mendoza Salas,65462590
+46898911~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600734139738,5,0,muy bueno!!,0,0,Juan Manuel Piccardo Sanchez,46898911
+26891822~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600653142339,5,0,aprendi mucho la verdad,0,0,marcelo alejandro camiño,26891822
+70784956~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600649571952,5,0,Excelente aunque los siguientes estan desactualizados y no se pueden seguir,0,0,Ricardo Alvarez,70784956
+32446149~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600470629531,5,0,Excelente curso. Claro y completo. Gracias.,0,0,Mario Raúl Mansilla Dilafuente,32446149
+68972781~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600400204972,5,0,"Es un excelente curso, aunque la persona que imparte el curso es muy clara, siento que traer conocimientos previos ayuda bastante.",0,0,Santa Maria Cortes Omar,68972781
+43529598~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600368916551,5,0,"Muy buena la docente Anahí, transmite bien los conceptos, evita la rigidez que normalmente tienen los docentes de lenguajes de programación, lo hace ver más simple.Como en todos estos cursos, a veces el tiempo es un factor enemigo, dado a la evolución constante del software y el ritmo de la misma, la vigencia de los temas dados queda condicionada al crecimiento del software que se está enseñando.De todas maneras, aquí se gestan los fundamentos, luego cada uno explora el camino a seguir, para crecer como desarrollador.Muy buen curso, gracias!",0,1,Dario Finelli,43529598
+70978642~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600302693774,5,0,"Muy buen curso, se ven los conceptos básicos de Java y de programación orientada a objetos , las explicaciones de los temas me parecieron muy claras y el curso se me hizo muy entretenido.",0,0,Marcelo Eduardo Lissa,70978642
+65668355~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600088085689,5,0,Excelente Anahí y su forma de explicar.,0,0,Carlos Nuñez,65668355
+61227359~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600039902475,5,0,Es el tercer curso de Java que realizo y es el primero que logro aprender y realizar ejercicios por mi cuenta. La profesora explica muy bien. Gracias por este curso.-,0,0,Florencia Rivero,61227359
+64287500~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600019696621,5,0,Me gustó mucho el estilo pausado y tranquilo de la instructora. Los temas son muy bien explicados.,0,0,Camilo Andrés Solano Camargo,64287500
+65652742~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1600008397563,5,0,BIen explicado el curso. Muy buena tutoria,0,0,Ernesto Damian Insua Tassi,65652742
+64326931~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599973494915,5,0,excelente curso 100% recomendado,0,0,Juan jose Mena zepeda,64326931
+65414779~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599958436463,5,0,Ejercicios desafiantes  que aplican lo aprendido y te exige buscar más información para desarrollarlos.,0,0,Maria Noel Docampo Vignoli,65414779
+65482570~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599956236575,5,0,Excelente curso ameno y muy entretenido,0,0,Fredy Martinez,65482570
+67918948~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599936911791,5,0,"Muy buen curso, la chica explica muy bien todo, lo recomiendo 100%",0,0,JOSÉ ÁNGEL RUBIO FLORES,67918948
+70635875~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599884124562,5,0,Excelente curso aprendí mucho y la manera de enseñar fue muy buena y muy simpática la maestra.,0,0,Juan Fernando Córdova Arevalo,70635875
+58825905~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599871242627,5,0,"Lindo curso, aprendí mucho.Especialmente a crear un proyecto con eclipse con sus clases interfaces, corregir su errores .Y en mi caso particular hacer un diagrama de clase con eclipse.",0,4,Inés Aldeco,58825905
+69361043~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599813832138,5,0,"Se ve desde lo más básico hasta cosas un poco más complejas, es una gran introducción al mundo de la programación orientada a objetos. ",0,0,Lars Alain Flores Licea,69361043
+70964714~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599784689379,5,0,Me pareció un curso muy entretenido y también una forma de reforzar conceptos flojos sobre programación en java.,0,0,JUAN JOSE RUIZ MONSALVE,70964714
+65500996~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599779645029,5,0,Muy bueno y muy claro,0,0,Ricardo Daniel Palermo Borner,65500996
+61189309~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599777712770,5,0,:),0,0,Estin Noblia,61189309
+64764136~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599700233290,5,0,"Excelente curso, muy recomendado",0,0,selene gutierrez reyes,64764136
+65485376~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599700055710,5,0,"Mucha teoría, conceptos, y códigos. Pero muy interesante...",0,0,María Selené Dreyer Fernández,65485376
+14333606~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599524018224,5,0,"Muy buen curso,  temática adecuada y bien explicada, muchas gracias.",0,0,Miguel Hernández,14333606
+46351499~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599350952650,5,0,"Excelente, muy buena instructora. ",0,0,Erdam Techera,46351499
+33378864~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1599004312587,5,0,"Un excelente curso, que nos brinda un introduccion al desarollo de aplicaciones moviles con Java, conocimientos de los arreglos, el protocolo de programación orientada a objetos, interfaces, ArrayList entre otros más.Excelente para dar ese primer paso, en el desarrollo de aplicaciones moviles",0,0,David Emmanuel Ramirez Leyva,33378864
+67867169~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598877702202,5,0,Muy bueno y Claro,0,0,Sergio Alba,67867169
+9280863~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598656101202,5,0,Exelente curso.,0,0,Marcello Freire,9280863
+66523243~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598647812807,5,0,muy buena ,0,0,jimmy martinez,66523243
+26425488~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598594811977,5,0,"El curso esta desactualizado, pero al final funciona, se aprende bastante, si sigues con los otros cursos igual están desactualizado y usas herramientas que ya ni se usan y cuesta encontrarlas, algunas las tienes que descargar e instalarlas individualmente.",0,0,José Luis Pérez García ,26425488
+67880079~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598486224212,5,0,Muy Claro todos los temas estoy muy animado para seguir avanzando,0,0,Cristian Hernandez Zabala,67880079
+68221465~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598457507310,5,0,Me pareció correcto que nos enseñen primero lo básico de POO,0,0,JOSE ANGEL PEREZ CORREA,68221465
+68952738~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598401466772,5,0,"Gracias por la oportunidad, en verdad es una buena metodología haber comenzado aprendiendo lo necesario para poder adentrarse en el mundo de la programación para dispositivos móviles, espero seguir aprendiendo con ustedes. Saludos.",0,0,Jorge Pinell,68952738
+30502644~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598302310824,5,0,"Un curso muy didáctico, práctico y formativo. Para mi que empecé de cero fue muy efectivo. Gracias",0,0,HUMBERTO DURAN DORANTES,30502644
+67636178~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598275987659,5,0,El curso muy bueno muchas gracaias,0,0,Maria Elena Hernandez,67636178
+68640292~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1598110798820,5,0,"Muy bueno, claro, sencillo, directo. Buena dicción, ejemplos excelentes.",0,0,Yazalde Amaya,68640292
+30456286~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597974653350,5,0,Excelente.,0,0,Gustavo Antonio Ruza Andara,30456286
+40794919~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597935623519,5,0,"Me ha gustado mucho y he aprendido, espero continúen programando más cursos y así seguir aprendiendo con ustedes",0,0,Sergio Andrés Restrepo Alzate,40794919
+56098230~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597685258037,5,0,Super bien explicado y buenos proyectos que pondrán aprueba tus conocimientos,0,0,Óscar Gabriel Espinoza Anguiano,56098230
+65886924~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597624612288,5,0,ME ENCANTO ,0,0,Irmay Dufeni García Villa,65886924
+67265498~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597522208568,5,0,Es un curso muy bien pensado para forzar al estudiante a desarrollar sus capacidades. Excelente desde todo punto de vista.,0,0,Manuel Trigo,67265498
+68225562~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597362629660,5,0,Muy bueno si ya contas con conocimientos básicos de programación. ,0,0,Fabian Ezequiel Martinez,68225562
+66745102~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1597120997613,5,0,super buen curso muy bien explicado,0,0,Jhonatan Areiza Ramírez,66745102
+64404663~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1596855566733,5,0,"Es más un repaso sobre Java, pero es bueno para recordar los conceptos  y sintaxis de Java y la POO.",0,0,Fernando Corona Jimenez,64404663
+22724676~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1596689877747,5,0,"excelente cursos videotutoriales claros y simplificados,explicaciones comprensibles, excelente argumentación profesional.",0,0,David Sebastián Ortegón Medina,22724676
+59284876~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1596505667765,5,0,Excelente! Muy  buenos vídeos. Exigente. Despertó nuevamente el interés en programar que dejé por cosas personales hace más de 10 años. Felicitaciones!!!,0,0,VAQUIRO CAPERA JOSE DIDIER,59284876
+48979570~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1596326363195,5,0,"Excelente curso, muy bien explicado",0,0,Adolfo Prins Niño,48979570
+9954286~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595966752464,5,0,muy practico,0,0,RICARDO CHAVARRIA FERNANDEZ,9954286
+1152314~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595904143297,5,0,Un curso muy concreto y practico  ,0,0,Juan Carlos Rozo Anaya,1152314
+67235692~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595900300810,5,0,Excelente curso! No es para los que no saben nada de nada de Java pero con muy poquito como es mi caso se puede terminar bien y lograr mucho!,0,0,Hector Rodriguez,67235692
+65617267~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595892910223,5,0,"Me encanto este curso, habian metodos nuevos para mi que pude aprender, la enseñanza fue muy facil y rapida de comprender, estoy muy agradecido por la paciencia y dedicacion del docente.",0,0,TOLEDO MARTEL GUSTAVO ALONSO,65617267
+64775621~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595892044417,5,0,Muy buen curso se aprende mucho,0,0,Jhon Alexander Sabogal Lopez,64775621
+64516626~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595826974153,5,0,Me parece excelente este curso pues aprendí algo que no tenia ningun conocimiento y me gusta esta area pues no había tenido la oportunidad de saber sobre esta area y ahora que la tengo me inscribí en la especialización muchas gracias  ,0,0,JHON ALESSANDRO POLO TOVAR,64516626
+65213617~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595811160091,5,0,"Excelente, muy buen curso",0,0,Ricaurte Francisco Diez Sieklicki,65213617
+63043109~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595809058666,5,0,Las explicaciones son sencillas y las actividades a realizar fueron suficientes para el aprendizaje,0,0,Oscar Andres Cruz Torres ,63043109
+66033461~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595537017829,5,0,"Exelente, sigo en pie en los siguientes",0,0,Eric caamal,66033461
+64776839~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595378034406,5,0,"Muy claro el contenido y estructurado, recomendado!",0,0,Cindy Dahyam Sanabria Diaz,64776839
+60280116~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595285540394,5,0,Un curso fantástico!,0,0,Juan Camilo Castano Marin,60280116
+65752374~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1595133638283,5,0,"Excelente, todo lo básico de Java para programar con Android",0,0,Jean Carlos Loaiza Camargo,65752374
+65390150~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594596622914,5,0,"Excelente curso. De forma clara y detallada, puedes aprender los conceptos básicos para iniciar a programar en Java.",0,0,Elías Javier Sánchez Martínez,65390150
+23119478~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594589533025,5,0,"Excelente, aporta a las bases de la programacion orientada a objetos",0,0,Leonel Alejandro Cabanzo Narvaez,23119478
+57640621~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594583721885,5,0,"Muy buen curso, dinamico y se entiende muy bien.",0,0,Francisco Alonso Deras Rios,57640621
+64558759~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594414833379,5,0,Un curso bastante completo que proporciona unas bases fuertes en el lenguaje JAVA.,0,0,Kevin Fernando Alvarado Chavarria,64558759
+64198375~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594357066050,5,0,Excelente curso para aprender a programar en Java para Android! 100% Recomendado,0,0,Jorge Bernal,64198375
+64318806~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594306198483,5,0,Muy buen curso.,0,0,Elvis Pareja,64318806
+57964875~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594262331679,5,0,Excelente curso.,0,0,JOHN JAIRO MACÍAS ZAPATA,57964875
+934632~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594251379614,5,0,muy buen curso de introduccion para aprender a utilizar java con sus clases y herencia,0,0,jorsymay,934632
+48860298~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1594066712411,5,0,"Buen curso para comenzar la programación en Java, excelente profesora Anahí Salgado.",0,0,Pablo Perez Lee,48860298
+52529069~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593976014228,5,0,"un buen curso, directo al grano",0,0,SMITH SALOMON ALEJOS LIPA,52529069
+63724884~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593842061654,5,0,"Muy bueno, tiene los conceptos claves para empezar a programar en Java y posteriormente desarrollar aplicaciones Android",0,0,Jhunior Cuadros Ramos,63724884
+58223765~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593831648965,5,0,"Muy bueno el curso de introduccion a Java, muy bien explicado y concreto todos los conceptos muy recomendado",0,0,Juan Antonio Ocampo Wilches,58223765
+1652787~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593645759873,5,0,"debería empezar para dummis, pero para mi esta bien",0,0,FRANCISCO J. CORTES AYUS,1652787
+43516795~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593417680913,5,0,gran curso ,0,0,Cristhian Loayzaa,43516795
+9101963~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593399018323,5,0,Gran curso.,0,0,Yan Ojeda,9101963
+14997954~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593380395199,5,0,"Es un buen curso introductorio. Combina teoría con práctica, y las tareas fueron agradables a realizar. ",0,0,Juan Sebastian Gonzalez Pinilla,14997954
+63287268~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1593195449339,5,0,Buen curso!,0,0,Juan José López Ariadel,63287268
+63055117~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592965913125,5,0,Excelente curso,0,0,JONATHAN ALEXANDER BARRAGAN INTRIAGO,63055117
+49740119~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592842830058,5,0,"Excelente curso, pero para empezar desde cero puede que resulte un poco complicado ",0,0,Andrés Murillo,49740119
+62284280~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592792928810,5,0,me gusta mucho el curso...claro hay que saber algo de programación OO..toca investigar ...buen libro de referencia ...la chica muy bien sus explicaciones..,0,0,ariel escobar montoya,62284280
+64005136~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592713071628,5,0,Un muy buen curso para introducirse a la Programación en Java y la Programación Orientada a Objetos.,0,0,Walter Denis Felipe Co,64005136
+58833624~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592098690484,5,0,"El curso me ha ayudado de reforzar mis conocimientos en Java. Me encantó, quiero seguir aprendiendo en este programa de cinco cursos.",0,0,Octavio Alejandro Huerta García,58833624
+63091859~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592095593224,5,0,"Excelente curso, muy dinámico pero también desafiante. Y la profe explica muy bien ",0,0,Jamilton Alonso Quintero Osorio,63091859
+63011868~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592020047517,5,0,Excelente manera de explicar. Información precisa para aprender lo fundamental.,0,0,Willy Joao Mateo Espinoza,63011868
+61544054~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1592006393255,5,0,Me parecio un curso excelente,0,0,JUAN PABLO LOAIZA CARDONA,61544054
+38207567~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1591649124152,5,0,Muy buen curso,0,0,Diego Mendez,38207567
+61323559~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1591126224420,5,0,"Un curso de programación básica en Java, si no tienes experiencia o quieres aprender a programar, es un buen curso. Recomiendo entrar a la documentación de Java y leer sobre las clases que se ocupan para profundizar correctamente.",0,0,DIEGO ALFREDO VILLALPANDO VELAZQUEZ,61323559
+37671~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1591067412459,5,0,Buen curso.. Muy didáctico...comprensible y la instructora tiene motiva al espectador a aprender !!,0,0,Nelson Sánchez Sánchez,37671
+34732599~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590971293870,5,0,"Excelente para principiantes, te reta a aprender y a investigar para consolidar conocimientos. ",0,0,Fabian Ricardo Luengas Ruiz,34732599
+24312728~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590901327929,5,0,"Muy buen curso para adentrarte en el mundo de lenguaje de programación Java. Sin embargo no lo recomendaría para comenzar a programar que este curso sirve muy bien si ya traes nociones de programación o si ya sabes algún otro lenguaje, ",0,1,Angel Octavio López Cruz,24312728
+56046474~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590711125435,5,0,"Es un curso muy digerible para estudiar, se comprende facilmente y se puede seguir adelante. Bendiciones",0,0,Yahdira Aguilar,56046474
+56521394~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1590501553651,5,0,"Muy bien estructurado y sobre todo exigente, que es lo que se requiere para poder seguir con los siguientes cursos.",0,0,nestor lopez lazaro,56521394
+58813406~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589690335145,5,0,Muy bueno.,0,0,Luis Daniel Silva Martínez,58813406
+31965961~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589643570524,5,0,Excelente la forma impartida y sobre todo los ejercicios prácticos,0,0,victor hugo vilchis,31965961
+55665882~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589506382684,5,0,"Me gustó mucho, las explicaciones son simples y los ejercicios son muy buenos.",0,0,Javier Tonatihut Sanchez Toledano,55665882
+59933830~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589427845017,5,0,"Se aprende mucho, para aquellos que inician con el lenguaje Java.",0,0,Dominic Aybar Villanueva,59933830
+50384848~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589396116544,5,0,"Excelente curso para empezar a programar con java, fácil de aprender, las lecciones muy bien explicadas y nada tediosas, la teoría es rápida y concisa y las lecciones de practica son claras. quede muy satisfecho con las explicaciones.",0,0,Miguel Guadalupe Ramos Díaz,50384848
+50688644~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1589265078341,5,0,"Un curso muy completo, sin duda aprendí mucho en él.",0,0,Gerardo Ceseñas Rivera,50688644
+47718647~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1588447582012,5,0,"Me encantó el curso! Aprendí la aplicación del paradigma de POO usando el lenguaje java :). Considero que este curso es muy útil y productivo, lo recomiendo!",0,0,Alvarado Paz Angel,47718647
+39434388~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1588390759468,5,0,"Las clases están me parecieron bien explicadas con buenos ejemplos, también me pareció muy bien el tema de la app de Coursera ya que la instale en mi celular y rn  gran medida gracias a la app continue con el curso",0,0,Carlos Mejia,39434388
+53641086~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1588173728108,5,0,Excelente !!,0,0,Adriana Sánchez Arreola,53641086
+51879469~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1588026919513,5,0,Excelente curso.,0,0,Edi Ibarra,51879469
+48055055~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1588002280298,5,0,"excelente curso, aprendimos los conceptos basicos para le inicio del mundo en java para android.",0,0,ing cesar patino,48055055
+12057771~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1587848817842,5,0,"muchas gracias por estos cursos, muy bien explicados y bien logrados, aunque si sugiero ya una actualizacion pues el software usado en los ejemplos tambien ya cambio.",0,0,Victor Alfonso Ibarra García,12057771
+49928783~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1587443326205,5,0,"Muy recomendado, no es necesario contar con conocimientos avanzados de programación para poder tomarlo, un contenido muy practico con una excelente  instructora.  ",0,0,Ilce Viviana Hernández Vallejo ,49928783
+56326273~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1586914695025,5,0,excelente me encanto... solo he checado la primer parte pero se ve que sera fenomenal,0,0,Héctor Eduardo Cortés Muñoz,56326273
+8416065~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1586908555090,5,0,Muy buen curso,0,0,Hiram Atzin Leija Alvarado,8416065
+35227592~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1586445428252,5,0,EXCELENTE CURSO,0,0,Daniel Aristides Torres Londoño,35227592
+50053735~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1586397470736,5,0,"Ideal para iniciarse en la programación básica de java aprendiendo temas como tipos de datos, arreglos, ciclos, programación orientada a objetos, polimorfismo, herencia, sobre carga, excepciones, vectores, interfaces, entre otros.Si lo que buscas es dar el primer paso para la programación en Java, este es el curso.Gracias Coursera, Gracias UNAM!!",0,0,Hector Ivan Morales Ovando,50053735
+41184489~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1585972617889,5,0,"Excelente, esperamos mas contenido, muchas gracias",0,0,Ajedrez y Tecnología,41184489
+28157965~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1585844766204,5,0,Curso perfecto para aprender los fundamentos de Java o repasar programación en Java.,0,0,Álvaro Urdiales,28157965
+39795997~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1583031681812,5,0,Excelente introducción al lenguaje de programación Java,0,0,Juan Pablo Valenzuela Gómez,39795997
+22170515~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1581684381734,5,0,Lo único malo es que a veces cuesta ser evaluado,0,0,Manuel Alejandro Arriaza Guiñez,22170515
+21650358~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1580964345710,5,0,Muy bien explicado y sencillo para personas que no conocemos o no dominamos tanto el tema de la programación,0,0,Bryan Sánchez García,21650358
+39220727~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1579138798278,5,0,Conceptos introductorios claros,0,0,Francisco Javier Méndez Vázquez,39220727
+42843117~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1576733573560,5,0,muy bueno desde 0,0,0,Hector Felipe Lucio Orihuela,42843117
+44509524~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1570914766689,5,0,"Excelente curso, excelente maestra.",0,0,Deleted Account,44509524
+28095479~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1569901667126,5,0,Muy buen curso digerible,0,0,Fernando Aparicio,28095479
+43959766~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1569107841662,5,0,"excelente curso , me ayuda mucho a comprender",0,0,brayan alexis de la cruz tiburcio,43959766
+39269782~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1565647882515,5,0,"Muy buen curso para recordar los básicos de Java, bien organizado y la maestra instructora muy clara en sus explicaciones.",0,0,Selene Leon,39269782
+3323743~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1565445969082,5,0,"Muy bien estructurado y funcional para las personas con pocos conocimientos de java, les resulta bastante util para repasar conceptos básicos.",0,0,Jonathan Melgoza,3323743
+14100828~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1563988594887,5,0,T,0,0,Enrique Gerardo Rivera Reyna,14100828
+28361467~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1563214110169,5,0,Buen curso,0,0,Naram Hernández,28361467
+41201571~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1561424406318,5,0,excelente,0,0,Oliver Prada,41201571
+39981876~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1560640918337,5,0,EXCELENTE,0,0,jossue emmanuel fuentes ordoñez,39981876
+41727432~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1559958823678,5,0,el curso esta muy buena tiene una metodologia de enseñanaza exelente me encanto los ejemplos y lo bien que explicaban las clases,0,0,,41727432
+39819501~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1559797850985,5,0,"Excelente curso, muy práctico.",0,0,Alvaro Villalba Quintero,39819501
+28649345~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1556880122378,5,0,Muy explicado cada uno de los conceptos que se enseñan aquí.,0,0,Daniel Aguilar,28649345
+40568522~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1556432435652,5,0,Excelente Introducción a JAVA.Los temas fueron explicados muy claramente y se entiende todo.Saludos.,0,0,Eduardo Lynch Araya,40568522
+39413341~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1555385258752,5,0,Excelente explicación y material,0,0,Diana Alvarez Tostado Estrada,39413341
+39431354~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1554132297540,5,0,Excelente para conocer las bases de lo que se tiene que conocer firmemente para desarrollar ampliamente en Android Studio,0,0,Javier Alejandro Espinoza Castillo,39431354
+39807754~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1553536075420,5,0,excelentee,0,0,Darwin Jonathan Marfil chi,39807754
+33097631~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1552406890842,5,0,"Excelente curso, muy bien explicado",0,0,Carlos Paredes,33097631
+39428094~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1552271475526,5,0,"Excelente explicación, ameno y se comprende a la primera",0,0,Abel Abraham Estrella Ojeda,39428094
+12052851~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1551971898375,5,0,"Excelente curso, muy practico y explicativo.",0,0,CARLOS ALBERTO CORDOVA CARRION,12052851
+35628461~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1547782218992,5,0,Es un curso bastante BUENO me ha encantado bastante y me ha ayudado a adentrarme al mundo de la programación,0,1,Eduardo Contreras,35628461
+38050968~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1547098616344,5,0,curso muy bueno,0,0,Jaime Alcalde Chigne,38050968
+38603625~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1546868256636,5,0,Excelente curso muy completo,0,0,Armando Chacon,38603625
+13147146~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1546484080172,5,0,"Me gusto mucho el lenguaje, se volvió d emis hobbies favoritos. Gracias totales.",0,0,Diana Bautista,13147146
+19224843~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1542993078281,5,0,"Este curso es excelente, cada ves que vas pasando un modulo, te sientes mas entusiasmado por seguir aprendiendo.",0,0,Sebastian Camargo,19224843
+36441903~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1541198424329,5,0,"El curso es muy concreto y explican muy bien los conceptos de la programación orientada a objetos...  un aspecto que me gusta es que explican los temas de manera muy sencilla, muchas gracias por su trabajo.",0,0,Alejandro Alzate Betancur,36441903
+14363555~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1541092127713,5,0,"Muy practico, buena explicación y realmente resalta conceptos básicos importantes.",0,0,Frandy Alvarez,14363555
+18968675~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1540328132397,5,0,"Hasta ahora va muy bien, enseña trucos de Java como los Camel Uper and Lower Case, que en verdad no entendía pero con esta sencilla explicación ahora comprendo bien. Sin embargo es mejor llevar las notas por que si no a repetir vídeo por que no memorizaste nada, REPETIR Y REPETIR.",0,0,Hector Perez,18968675
+5683133~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1538241311570,5,0,Excelente curso introductorio.,0,0,Jose Marquez,5683133
+36171458~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1537241951098,5,0,"Excelente, muy claro e ilustrativo.",0,0,Mauricio Alvarez Tostado Flores,36171458
+30574172~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1536676483179,5,0,muy bueno,0,0,Diego Josuan Ornelas Durán,30574172
+691258~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1536145756878,5,0,Excelente Curso,0,0,Fernando Márquez,691258
+35303120~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1534427930488,5,0,Curso Fácil y sencillo buena explicación de la profesora.,0,0,Daniel Gustavo Chung Ku,35303120
+33965252~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1532637436128,5,0,Es un gran curso para empezar a conocer este gran Lenguaje de programación.,0,0,Raúl Antonio Escobedo Puga,33965252
+19916829~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1532386918374,5,0,Buen curso para comenzar a aprender Java,0,0,Oscar Vicente Betanzos Sánchez,19916829
+34166687~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1531359584924,5,0,"Excelente curso, aunque no lo crean, el revisar el trabajo de otros te hace reforzar mucho más lo aprendido.",0,0,Guido Jhonny Tomás Pascual,34166687
+11631961~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1529873055362,5,0,"Great classes, amazing teacher. It is all about basic Java for Android. It is not about Android Studio yet, but you can find good content for use with Eclipse",0,0,Ruben Dario Suing Paccha,11631961
+34487099~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1529461717645,5,0,"a usted que está leyendo este mensaje, mi gran deseo es que en todo lo que usted se proponga ""DIOS LO BENDIGA""",0,0,GERARDO PILLA ,34487099
+31925812~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1528894959591,5,0,"Excelente, explicado de manera muy sencilla y didactica",0,0,Leonardo Torrealba,31925812
+142555~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1525288561664,5,0,"Muy buen curso, excelente profesora y actividades interesantes.",0,0,Daniel Ambort,142555
+31674897~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1524178961393,5,0,Me gusto mucho la forma de enfocar los ejercicios de una manera practica y como nos llevo el instructor desde las bases del lenguaje. Gracias!,0,0,Héctor Díaz,31674897
+18715635~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1523901470236,5,0,Buenisimo,0,0,Alexander Araujo,18715635
+4102079~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1522051817843,5,0,"Enhorabuena, muchachos. Gran curso, muy sencillo de seguir.",0,0,Tomás Herrero Sánchez,4102079
+30802411~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1520135068615,5,0,Muy buen curso.Saludos!!,0,0,Carlos Alberto Horta Ángeles,30802411
+20104759~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1519246718700,5,0,bueno bueno!!,0,0,Eider Diaz,20104759
+19698743~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1518275869825,5,0,"Excelente cuso de Java muy bien explicado, despeja dudas al que sabe algo....gracias",0,0,ALEJANDRO HERNANDEZ BARATTA,19698743
+31687774~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1517813140178,5,0,"Para ser introducción a java me parece excelente, pero deberían especificar el envío de tarea (Tipos de archivos y como abrir un proyecto) ya que eso lo aprendí solo.",0,0,Francisco Jesús Ramírez Gomero,31687774
+31215177~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1517567412130,5,0,"Buenas explicaciones, y fáciles de entender. Un curso muy recomendable para cualquiera!!",0,0,Miguel Blanco,31215177
+23966895~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1517191311593,5,0,"Muy  buen curso me fue muy útil, la profe también explicó muy bien los contenidos.Muchas gracias.Saludos",0,0,Luis Fleitas,23966895
+28256729~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1516245412715,5,0,"Excelente curso para principiantes, en mi caso que no sabía nada sobre JAVA, me fue muy útil.",0,0,Daniel Martínez Martínez,28256729
+19097687~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1516082135025,5,0,Me encanto,0,0,heidy cn,19097687
+30074532~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1515885444728,5,0,Todo muy bien explicado,0,0,Deleted Account,30074532
+29916108~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1513828994435,5,0,Buen contenido y dinamico¡¡¡,0,0,Alejandro Hernandez,29916108
+19186487~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1513633020711,5,0,Excelente,0,0,Carlos A Sanchez,19186487
+29160821~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1513554283751,5,0,"Muy bueno el curso, de verdad la explicación me pareció muy atendible, y todo perfecto, de verdad muy contento con el curso, y la instructora o profesora, muy buena metodología,  muy buena forma de explicar y muy agradable. ",0,0,Gustavo Cardenas,29160821
+30074395~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1512484628596,5,0,Buen curso.,0,0,Fernando Rojas Hidalgo,30074395
+7320110~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1511828112163,5,0,excelente,0,0,Joan Delgado,7320110
+27391518~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1510838162732,5,0,Excelente curso!!!,0,0,Danny Ponce Marín,27391518
+29715784~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1510682298168,5,0,"Excelente curso, la forma de abordar los temas por parte de la profesora es muy didáctico y facilita el aprendizaje.",0,0,Allan Chacon,29715784
+25518258~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1510532818264,5,0,Excelente!,0,0,José Francisco Cervantes Velázquez,25518258
+25474038~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1510152138994,5,0,"Excelente curso, muy bien explicado y con contenido suficiente para empezar con el java",0,0,Gustavo Rodríguez Olvera,25474038
+10397090~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1509549229862,5,0,"Excelente Profesora, el curso es muy fácil de seguir 
+Aunque tengo varias certificaciones en Java, seguí el curso para ver que debía tener en cuenta para poder continuar con Android (de Android no se nada) y me encontré con un buen material para recomendar.",0,0,Elvar Alberto Mosquera Mellizo,10397090
+22560908~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1509019407840,5,0,"muy bueno, un curso muy completo para aprender a programar desde 0",0,0,Rolando Parada Puig,22560908
+15763863~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1508892735210,5,0,Muy bueno,0,0,Saúl Báez,15763863
+12070821~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1508862526619,5,0,"La profesora es excelente, explica supremamente bien. ",0,0,Caro Mor,12070821
+26216897~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1508726334687,5,0,Muy buen curso!!! Enseña de forma muy clara la programación orientada a objetos. ,0,0,JUANA MARTHA HERNANDEZ SANDOVAL,26216897
+28867831~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1507485659893,5,0,La docente explica muy claro los conceptos basicos del lenguaje,0,0,William Garcia,28867831
+16396186~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1507162945846,5,0,"Sencillo, facil y muy bien explicado.",0,0,Luis Gerardo Collazos Castro,16396186
+28887609~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506467082069,5,0,"Excelente presentacion, claridad de voz, enfasis, redaccion y habilidad para tener al estudiante atento. Mis felicitaciones y mas que recomendado con mis colegas.",0,0,Milton Lopez Naranjo,28887609
+19126002~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506410922860,5,0,"Conceptos básicos de Java. Es un curso muy completo y está muy bien explicado, aunque yo entiendo que está pensado para alguien con una pequeña base de este lenguaje. A mi me ha servido de mucho.",0,2,JAVIER SEPULVEDA CHAMIZO,19126002
+17751472~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506301731657,5,0,"Excelente introducción, de manera completa y general entiendes y practicas los principios de la programación orientada a objetos con Java, muy bueno para aquellos que inician en esto de la programación.",0,0,Efrain Samir Salinas Zarco,17751472
+28287177~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1506094778089,5,0,"Muy explicito y claro, recomendado para iniciar en Java y sus conceptos. :)",0,0,Yisus Live,28287177
+20145998~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1505252434961,5,0,"Muy sencillo de entender, para el nivel en el que me encuentro. Tengo muy poca experiencia programación en general y me esta ayudando mucho como introducción. Quiero avanzar mas rápido pero cada tema es fundamental, los felicito, buen trabajo.",0,0,Roberto Carlos Lopez Perez,20145998
+28432226~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1505170358645,5,0,exelente,0,0,Diego Armando Solano Mercado,28432226
+945880~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1504222356960,5,0,Buen curso,0,0,Misael Herrera Barreto,945880
+24934118~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503940639456,5,0,Excelente,0,0,LEONARDO GONZALEZ,24934118
+20558654~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503666260266,5,0,"Muy bueno, la profesora enseña bien y hace muy buenos ejemplos",0,0,Sebastian Chaves Tequia,20558654
+20934687~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503359795283,5,0,Muy buen curso. La profesora explica con muchas claridad.,0,0,Edgar Solis,20934687
+18697940~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503339546567,5,0,El programa imparte todas las bases para programar en Java. muy buen curso. ,0,0,Jorge Soasti,18697940
+27318349~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1503287767364,5,0,Muy bien estructurado el curso desde el inicio hasta el final. ¡Felicitaciones y agradecimiento para la facilitadora académica!,0,0,Jennita Montano,27318349
+11990063~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1502280092946,5,0,Good,0,0,Javier Mila Estrada,11990063
+24315347~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1502152872370,5,0,Bastante didáctico!,0,0,Diego Salas Noain,24315347
+20781294~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1501782831768,5,0,Buen curso,0,0,Ricardo Manuel Uraga Aguirre,20781294
+1477229~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1501646063019,5,0,"Me gustó el curso, sobre todo las explicaciones sencillas de la instructora.",0,0,Melissa Blanqueto,1477229
+8207959~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1501292350957,5,0,Muy bien explicado. Un muy buen curso de iniciación en Java.,0,0,Julio Eduardo López Vega,8207959
+21161544~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1501169075584,5,0,Estoy muy complacida con el curso. Gracias al equipo de Coursera por su apoyo,0,0,Cris Marilian Silva,21161544
+10951122~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1501135523962,5,0,Muy bueno,0,0,Miguel Angel Rodríguez Ullilén,10951122
+27059397~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1500677221969,5,0,Muy bueno,0,0,Ana Cristina Pasos Gallo,27059397
+12809875~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1500586078209,5,0,"Excelente curso, muy bien explicado, cada vez que tenga alguna duda volveré a revisarlo.Felicidades, sigan así.",0,0,Miguel Valverde,12809875
+515851~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499479585557,5,0,excelente,0,0,German Javier Pérez González,515851
+26477974~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499377992612,5,0,un excelente curso con un genial material una explicación super clara y fácil de comprender con ejercicios prácticos que de verdad te ponen a prueba y te inspiran a conocer mucho mas del mundo de programaicon uno de los mejores cursos en linea que he hecho muchas gracias,0,0,diego fernando prieto montero,26477974
+22188001~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499178919875,5,0,Buen Curso,0,0,pamela vilela,22188001
+26475857~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1499054454181,5,0,Buen Curso recomendado para quienes comienzan este mundo de la programación,0,0,Daniel Galeano,26475857
+10527780~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498942228799,5,0,"Me parece una forma muy entretenida de aprender lo basico de java, ya con conocimiento previos de programación ",0,0,Manuel Fernando Aroche Alvarez,10527780
+26765929~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498502837905,5,0,Excelenet la calidad de las clases... Saludos!!!,0,0,Manuel Alfonso Avila Valenzuela,26765929
+21506770~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498501542382,5,0,Excelente curso,0,0,juan Perez Fernandez,21506770
+17004443~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1498051615922,5,0,"Excelente punto de partida en cuanto a metodología, conceptos y explicación para comenzar a desarrollar en Android.",0,0,Tony Barajas,17004443
+17934282~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1497804660963,5,0,The best course ,0,0,Manuel Alejandro Araujo Yepez,17934282
+25504713~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1497381444677,5,0,"Muy buen curso, completo y las explicaciones de la instructora son excelente.",0,0,Sergio Alberto Sánchez Rodríguez,25504713
+15872922~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1497107134190,5,0,Excelente Anahí como profesora. Simple y básico para empezar con Java y Android,0,0,Belén Prats,15872922
+7280545~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1496031670651,5,0,Excelente ,0,0,Juan Carlos Valdiviezo,7280545
+25745724~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1495766698867,5,0,Muy interesante y bastante interactivo ,0,0,Daniel López,25745724
+25302641~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1494085917883,5,0,Excelente,0,0,Cesar Millan,25302641
+17611608~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1494019144923,5,0,Lo esencial para empezar en el mundo de Android.,0,0,José Ulises Delgado Chio,17611608
+23341300~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1493009664312,5,0,"Simplemente genial, ameno y facil de seguir, no cansa a los 15 minutos y siempre te mantiene deseoso de continuar con la siguiente leccion,,,,,aunque sean las  3:00 de la mañana!!!",0,0,Luz del Carmen,23341300
+25069622~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1491579095985,5,0,Me encanta,0,0,Axel,25069622
+24243897~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1490905117590,5,0,excelente,0,0,Anthonny Marrufo,24243897
+24230363~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1490670216663,5,0,Excelente,0,0,Nelson Fonseca Ilama,24230363
+20912258~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1490564843604,5,0,ME HAN GUSTADO MUCHO LOS CURSOS  FELICIDADES. ,0,0,Joel Drouaillet Alejandro,20912258
+21237737~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1490496649402,5,0,De lo mejor,0,0,Javier Zalasar,21237737
+17987436~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1489722490833,5,0,Well explained ,0,0,Erik Chacon,17987436
+22749852~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1489442063494,5,0,Muy bueno !!!!!!,0,0,Félix Alonso Carvajal Elizondo,22749852
+24386938~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1489393773173,5,0,Curso muy bien explicado.,0,0,Manny Ldsma,24386938
+9114379~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1489292319009,5,0,Muy buen contenido y excelente explicación por parte de la profesora,0,0,José Alberto Núñez Magadán,9114379
+5901592~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1489031122578,5,0,Para mi fue un curso recordatorio,0,0,Ernesto Campos Villa,5901592
+20646469~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1488226136582,5,0,Excelente curso ,0,0,Marwil Campos,20646469
+23719719~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1488215253969,5,0,MUY BUENO!,0,0,José Pérez Reyes,23719719
+14098088~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487476258029,5,0,Excelente curso para aprender los fundamentos de Java y la programación Orientada a Objetos. La instructora tiene una didáctica impresionante.,0,0,Jorge Luis Sosa Martínez,14098088
+20263876~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487370247518,5,0,Muy util,0,0,Josep Buo,20263876
+24049343~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487199410423,5,0,"Muy buen curso, lo recomiendo ampliamente!",0,0,Sergio Iker Martinez Juarez,24049343
+15755681~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487063880920,5,0,"Me ha parecido un curso genial para pricipiantes en Java, cuenta de manera escueta algunos conceptos importantes sobre los que luego se pide en las tareas mucho más de los explicado en los vídeos, pero en general un buen curso introductorio de Java. Felicidades Anahi Salgado.",0,1,mele,15755681
+14419276~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487046693475,5,0,De lo mejor,0,0,Isaac Hernández,14419276
+20985038~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487036568130,5,0,Excelente curso para refrescar conocimientos basados en el lenguaje de programacion JAVA,0,0,Jhoander Torres,20985038
+15762067~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1487025506070,5,0,"Muy bueno, muy bien explicado, es muy facil de aprender.",0,0,Alejandro Martinez Arellano,15762067
+7813772~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1486662429187,5,0,Muy buen curso,0,0,Randy Israel Villanueva Santos,7813772
+23128190~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1486484326780,5,0,"He pasado el curso en modo Auditoria, muy buenos los videos tutoriales, una explicacion exquisista, saludos a todos.",0,0,Luis Mariano Rosa Castellanos,23128190
+16994151~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1485912195741,5,0,"Atractivo, interesante. Muy bien explicado y con bastos ejemplos para desarrollar.",0,0,Adela Alvarez del Castillo,16994151
+24114195~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1485910016211,5,0,Excelente  Lo recomiendo .!!! ,0,0,José A. Valladares,24114195
+21084925~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1485452870671,5,0,Un curso excepcional.,0,0,Ignacio Valdés Zamudio,21084925
+7149882~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1485216738500,5,0,"Un excelente curso para iniciarse en Java, los videos muy claros y los proyectos interesantes.",0,0,Federico Rodriguez Hormaechea,7149882
+23527362~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1484966735092,5,0,  Muy práctico y efectivo el curso!  ,0,0,Sebastian Buitrago,23527362
+4249818~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1484665905099,5,0,"Excelente, las explicaciones son muy claras y acertadas, me gusto mucho ",0,0,Sadaris Cabeza Polania,4249818
+23107114~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1484222570679,5,0,"Muy buen curso, excelente profesora.",0,0,Junior Ricci,23107114
+19087630~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1484005854576,5,0,"Muy buen curso, ameno y facil de entender.",0,0,Luis Enrique Pérez Serrano,19087630
+21878166~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1483939086528,5,0,"De los cursos más completos en poco tiempo, de verdad vale mucho la pena",0,0,Ernesto Gálvez Martínez,21878166
+14536001~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1482244374847,5,0,Excelente curso de verdad de los mejores que he visto.,0,0,Angel Parra,14536001
+18633566~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1482182881945,5,0,Excelente curso. He comprendido el lenguaje Java. Gracias! :D,0,0,Jess Polaris,18633566
+5601134~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1481951260545,5,0,"Muy bien explicado, ejercicios acorde a lo aprendido.",0,0,Oswaldo Valadez,5601134
+22764485~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1481570732832,5,0,"Primer curso que realizo por este medio y complacido por el nivel de enseñanza aplicado en el curso, muy contento de haber participado y animado en seguir obteniendo conocimientos por este medio. Muchas gracias Coursera. ",0,0,Roberto Carlos Borges Jimenez,22764485
+7602506~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480787655530,5,0,"Muy bueno el curso, explicaciones claras y concisas, exposición de temas de manera magistral, simplemente genial!!!",0,0,Deleted Account,7602506
+22923347~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480711719447,5,0,buen trabajo,0,0,Diego Perez,22923347
+22419423~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480640013616,5,0,"Muy bien explicado, me gusta la forma en la que se muestra todo, pues es muy didáctica. ",0,0,Victor Jesus Huerta Napoles,22419423
+17173545~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480493320638,5,0,Muy buen curso para quien desea comenzar a aprender a programar en java sin conocimientos previos .,0,0,Luis Armando,17173545
+21259423~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480340443225,5,0,"Muy buen curso, de la mano de una instructora bastante audaz. Incluso algunas actividades son un poco complejas porque el estudiante tiene que buscar por sus propios medios en la lectura de libros, etc, para poder realizarlas.",0,0,Axel José Cedeño Figuera,21259423
+22349775~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480215609647,5,0,"Un curso espectacular, guiado por una excelente docente que utiliza técnicas pedagógicas magistralesGracias",0,0,Claudia Reyes,22349775
+16330475~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480186155984,5,0,Excelente curso,0,0,Edgar Lopez,16330475
+16802195~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1480138485368,5,0,"Muy bueno para iniciar, gracias Anahi",0,0,Mario López Barceinas,16802195
+22332742~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479996718999,5,0,Es muy bueno se entiende con mucha facilidad creería que falta mas ejercicios prácticos.,0,0,Manuel Andres Bonilla,22332742
+19637414~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479915482675,5,0,Excelente,0,0,Lic. Diego Motta,19637414
+20129148~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479707585039,5,0,"Excelente curso, conceptos básicos pero súper necesarios para quienes empezamos en el mundo java, muy recomendable ",0,0,Carlos Tenorio,20129148
+22438783~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479657679931,5,0,"Fue excelente.. quiero felicitar a la presentadora, quien tiene un nivel de pedagogía increíble! todos los puntos me quedaron muy claros y fue muy sencillo de entender.La interacción con la plataforma es excelente, limpia y muy divertida.Muchas gracias por esta increíble experiencia.",0,1,Genesis Natali Gonzalez Torres,22438783
+22545869~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479272832097,5,0,la explicación es excelente y sencilla.,0,0,Juan Nazaret Huerta Flores,22545869
+21749014~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479249025568,5,0,"Excelente curso, muy buen manejo de la información para principiantes",0,0,Jose Miguel Duin Garcia,21749014
+13888727~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1479138102087,5,0,Un Curso muy Bueno,0,0,Kevin Hernández,13888727
+10684212~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1478556432881,5,0,"Muy buen curso, ideal para aquellos que no tengan idea de JAVA y quieran aprender.",0,0,José Ernesto Palacios Sánchez,10684212
+21511217~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1478303534990,5,0,"Tiene lecciones muy buenas y bien explicadas. Sólo les falta pulir un poquito la edición de sus videos, para corregir los pequeños errores que tienen en ellos.",0,0,Jesús Giovanni Estrada Cárdenas,21511217
+21871708~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477693027173,5,0,muy buen curso .. buena metodología y muy clara sus explicaciones ,0,0,OSCAR YESID LLAMAS MENDOZA,21871708
+16667384~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477525809497,5,0,"Muy buen curso, ayuda a introducir a lo que es el lenguaje java de forma básica que servira para el desarrollo de aplicaciones en android. ",0,0,Ivan LCX,16667384
+6695260~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477523237120,5,0,Excelente,0,0,Oscar Torres Traslaviña,6695260
+6215096~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477405974446,5,0,"Bien explicado. Los ejemplos están bien. Es bastante arduo para principiantes pero se debe a las complicaciones propias de Java, por lo que no creo que se pueda hacer más sencillo. El curso es muy recomendable.",0,0,ANDRES PEREZ BRITEZ,6215096
+21888134~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477330883725,5,0,"Excelente para empezar, se explica muy bien la teoría junto con la practica. ",0,0,Eduardo Cheng,21888134
+19488982~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477299414381,5,0,E,0,0,Adrian Lopez Sala,19488982
+16537524~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477284613083,5,0,Me parecen excelentes los temas tratados y el dominio que tiene el expositor es de lo mejor. Muchas felicidades. ,0,0,Alexis,16537524
+21667446~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477239818162,5,0,"Excelente, muy bien explicado.. La tutora 10 ptos :)",0,0,Simón González,21667446
+21545463~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1477082605119,5,0,"Muy Buen Curso Gracias, Me Perdi Un Poco En Los Ejemplos Pero Espero Retomarlo Posteriormente Nuevamente Mil Gracias....",0,0,Emilio Castelar,21545463
+21098521~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1476676202083,5,0,Excelente curso! Me ha fascinado,0,0,Jean Paul Gotopo Maldonado,21098521
+20933012~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1476646613636,5,0,"excelente, curso. 100% recomendado",0,0,carlos colemenarez,20933012
+1207085~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1476637145229,5,0,"I am doing the course. The content, and the explanations are really great!!! All is crearly explained and the examples are fine. Also the edition of the videos are friendlies, confortables and helps in the understanding of the course content.Thanks very much to the Beatiful Teacher  , thaks to the UNAM University, and of Course Thanks to the Great Coursera Team!!!Rafael",0,0,Rafael Gámez Díaz,1207085
+21869784~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1476291364616,5,0,"Curso que da unas pinceladas básicas y necesarias de Java para poder comenzar a realizar programas con JAVA. No se toca nada de Android, ya que esto supongo que se ve en los siguientes cursos",0,5,Benjamin Diaz,21869784
+19455077~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475781097359,5,0,Gracias Ann este curso me ha ayudado bastante,0,0,Christopher Flores Aguilar,19455077
+21260096~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475113598364,5,0,Excelente! ,0,0,Oscar Almazan,21260096
+4503439~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475020165966,5,0,Esta súper. Solo me gustaría que los ejercicios que dejen sean más apegados a lo expuesto a lo largo del curso.,0,0,Erick Baeza Pacheco,4503439
+21103265~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475016148036,5,0,"Me gusto mucho el curos, no obstante pienso que las instrucciones de las tareas podrian ser un poco mas claras.",0,0,Félix Cuéllar,21103265
+7908976~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1475009541456,5,0,Excelente curso!!,0,0,Javier Eduardo Tristan,7908976
+20792213~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474938052138,5,0,Excelente curso para comenzar a programar en JAVA! Lo recomiendo.,0,0,Jesus Cepeda,20792213
+8008367~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474919573964,5,0,"Excelente curso, pero podrían mejorar en las especificaciones de los programas para entregar ",0,0,Carlos Alberto Sanchez Malfavon,8008367
+20630607~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474867110047,5,0,"Excelente curso, aprendí mucho y me motivo a seguir investigando.",0,0,Merlin Gino Inga Barzola,20630607
+21167748~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474741398108,5,0,Excelente la profesora,0,0,Gerlis Alvarez Cardona,21167748
+18586151~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474599786503,5,0,"Lo recomiendo ampliamente, a manera en que explican es muy sencilla y comprensible con ejemplos reales, 100 % recomendable para una persona que no tiene el conocimiento en programación orientada a objetos.",0,0,Ruben Ali López Galaviz,18586151
+21626882~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474342654431,5,0,Excelente!! ,0,0,Julio Rodriguez,21626882
+2533171~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1474075595525,5,0,Increible! He aprendido mucho con las explicaciones del tutor y la ayuda de los foros.,0,0,Leonardo Perdomo,2533171
+21117929~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473957186550,5,0,Muy interesante....,0,0,Jonathan Pacheco,21117929
+17463840~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473863680116,5,0,Excelente,0,0,BRAYHAN SIMON CRIOLLO CAMPOS,17463840
+14395932~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473718597005,5,0,Excelente contenido y explicación muy clara.,0,0,Nestor Estrada Olivares,14395932
+21460391~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473706924994,5,0,Es uno de los mejores cursos,0,0,Olivert Ricardo Borges Leyva,21460391
+20764303~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473359768230,5,0,super entendibles los cursos faciles y aprendes facil y sencillisimo.,0,0,Lizbeth Miranda Garcia,20764303
+20854369~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473048255618,5,0,Exelente el curso :),0,0,Pedro José Tellería Guerrero,20854369
+19118095~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1473014664387,5,0,"El curso es excelente, escueto pero con lo fundamental para entender el lenguaje.",0,0,Fernando Ojeda Caballero,19118095
+13363340~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1472914743575,5,0,La profe es muy didactica... excelente guia para aprender a usar java. !,0,0,Rafael Federico de la Puente,13363340
+20621232~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1472496181679,5,0,Buen Curso para arrancar,0,0,Franco Macias,20621232
+20771009~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1472420343496,5,0,"Me has servido mucho,. estoy desempolvandome en programación, las bases están solo falta reinventarse, el curso esta excelente, los videotutoriales super bien explicados y esta padrisima la opción de poder bajarlos y poder analizarlos con detalle posteriormente o cuando surge alguna duda. Mis felicitaciones y ojala sigan poniendo a nuestro alcance mas cursos como este.  Gracias.",0,0,Edith Fabiola Rembao Miguel,20771009
+19729079~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1472361839157,5,0,"Muy buen curso, lo recomiendo sin dudarlo.",0,0,Francisco Javier Villatoro Canales,19729079
+6411817~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1472015687761,5,0,"Aunque no profundiza demasiado en JAVA, si te da las nociones para empezar a programar y empezar a abrirte camino en dicho lenguaje.",0,0,Ismael Garrido Collantes,6411817
+18322074~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471628100239,5,0,Excelente!,0,0,Celeste Daniela Luengo,18322074
+21007509~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471453980006,5,0,EXCELENCIA Y VANGUARDIA MUCHAS GRACIAS COURSERA!,0,0,juan carlos,21007509
+20356523~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471380547659,5,0,Excelente curso!,0,0,David Adrian Michel Torres,20356523
+18820723~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471364563391,5,0,Excelente.,0,0,Rayih Bou Orm,18820723
+3344040~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471223047845,5,0,"Excelente, muy claro y concreto. Me ha servido bastante",0,0,Emmanuel Zamorano Mejía,3344040
+19026778~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471222631586,5,0,"Me ha agradado mucho, buen material y explicación  :-)",0,0,Marilu Segura Garduño,19026778
+19690600~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471217157879,5,0,Muy claro todo!,0,0,Ernesto Flores Gaytan,19690600
+20869451~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1471131598737,5,0,"El material me pareció excelente. El contenido es ideal. La duración me gustó (porque tengo cierta experiencia pero creo que para alguién nuevo debe ser un poco cuesta arriba).Lamentablemente vivo en Venezuela y nuestro gobierno impide que podamos pagar en moneda extranjera. De seguro, si cambia esta política destructiva venezolana pagaría para hacer todas las actividades y obtener certificado. ",0,0,Fernando José Tugues Ruiz,20869451
+12104488~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470968706792,5,0,Excelente tutorias y material.. Excelente,0,0,Jesus Borrero Llinas,12104488
+9709920~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470896933973,5,0,"El curso es muy cinciso, me ayudó mucho a empezar con programación en Android.",0,0,José Efraín Ramírez Ramírez,9709920
+4395754~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470869846909,5,0,Excelente curso para tener las nociones básicas de Java. Si bien es cierto es solo para aprender lo mas básico me hubiese gustado aprender mas de otras librerías como la Swing entre otras. Sin embargo gracias a lo bien explicado del curso me animo a buscar mas información por mi propia cuenta y mejorar en la sintaxis de JAVA,0,0,Nestor Cañas,4395754
+7281525~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470854756452,5,0,"muy bueno el curso, a pesar de que en algún momento habia desarrollado con Java, pude reforzar varios puntos de la programación orientada a objetos",0,0,Leonidas Cerna,7281525
+18098929~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470774172004,5,0,Excelente curso y buena metodología,0,0,Alejandro Peraza Mora,18098929
+19717040~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470699366759,5,0,"Muy buen curso.Lo único que no me gusta es el sistema de calificaciones de tareas.Por más que califico compañeros, aún tengo pendiente la revisión de mi tarea en Semana 2 y Semana 3.",0,0,Carlos Fuentes Novoa,19717040
+12781947~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470692612899,5,0,Excelente,0,0,José Pittí,12781947
+18763592~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470692107962,5,0,Excelente Curso,0,0,Juan Carlos Morales Alpizar,18763592
+20335606~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470689057379,5,0,Me gusto mucho la dinamica del curso y los temas plantiados fueron excelentes.,0,0,Ricardo Rabinovich,20335606
+20077151~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1470624596809,5,0,"Mi opinión de este curso es que muy bueno una explicación profunda que uno entiende lo que se va hacer sin contratiempo, excelente profe Anahi, despeje todas las dudas que tenia de la programación en Java.",0,0,JADER GAMERO PERTUZ,20077151
+18598041~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468946491024,5,0,"Excelente curso, explicado desde cero y te lleva de la mano con la programación. Recomendable",0,0,José Adrián Mendoza García,18598041
+11177447~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468945734905,5,0,Gran curso,0,0,Apolo Hernandez,11177447
+17980264~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468642494062,5,0,Excelente,0,0,Laurence Montenegro,17980264
+19132702~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468473296482,5,0,"Excelente!!
+Pude recordar bastantes cosas de Java para iniciar mi desarrollo de apps móviles. Bastante recomendado! Es necesario por lo menos haber recibido un poco de programación previa para entender rápidamente el contenido.
+La instructora es increíble, les agradezco mucho el curso!",0,0,Cristian Brolo,19132702
+17954054~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1468193102765,5,0,"
+Muy buen curso! Muy explicativo, aunque siento que puede ser un poco mas eplicativo aplicando otras tecnicas pedagogicas. Aun asi es muuy bueno!! 
+",0,0,Alice Psx,17954054
+15321418~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1467836088916,5,0,muy buen curso,0,0,Frank Malo,15321418
+20144348~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1467490487660,5,0,Buen curso basico.,0,0,Jonathan Jurado,20144348
+2013583~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1467391117683,5,0,"Todo super explicado, bien estructurado. Muchas gracias!",0,0,Raul Antonio Mora Delgado,2013583
+18732933~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1467077952116,5,0,"Buen curso, la profesora explica muy bien los temas",0,0,Reynaldo Esparza Garcia,18732933
+17457895~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1467048410104,5,0,Excelente el curso.Anahí explica de una manera muy sencilla la programación con Java.,0,0,Jorge García Yévenes Méndez,17457895
+18332863~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1466999984293,5,0,"
+Muy buena por que van paso a paso ...
+",0,0,Christian Daniel Hernández García,18332863
+11231117~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1466805046211,5,0,Excelente curso.,0,0,José Alejandro Aguilar Fortiz,11231117
+16315679~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1466649543545,5,0,genial y muy interesante ,0,0,Alindor Milian Gabriel,16315679
+16315052~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1466133379490,5,0,"Excelente desde todo punto de vista, pedagogia y conociento.",0,0,David Steckler,16315052
+16743399~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465938687841,5,0,Buen curso,0,0,Nicolás Potier Anzola,16743399
+14396326~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465931722139,5,0,"Excelente curso, claro y concreto",0,0,Iván Alonso Vargas Ramírez,14396326
+361103~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465851668501,5,0,Útil y conciso.,0,0,jesús garcía,361103
+10402577~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465807696969,5,0,Me parece excepcional el curso.,0,0,Oscar Azofeifa,10402577
+19632352~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465792675059,5,0,"Excelente 100% recomendado, la explicación es muy clara!!",0,0,Joshuan,19632352
+18583747~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465657760679,5,0,"Fácil de comprender por lo bien que se explica la instructora, solo hay que seguir las indicaciones al pie de la letra.",0,0,Nicolás Mendoza Hernández,18583747
+19462419~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465646987831,5,0,"Excelente, contenido totalment didactico y entendible",0,0,RAUL ROBERTO SANCHEZ CRUZ,19462419
+19689422~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465596673182,5,0,Muy buen curso y toda la informacion muy detallada y exelentemente explicada,0,0,Emmanuel cervantes almanza,19689422
+18640476~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465565225501,5,0,Recomiendo este curso. Fácil de asimilar y denso en aprendizaje.,0,0,Rafael Paris,18640476
+7744910~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465396130954,5,0,  Es muy bueno.  ,0,0,José María Pereira Fernández,7744910
+17295957~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1465163704173,5,0,Excelente curso,0,0,César Arturo Guzmán Balderrama,17295957
+19101678~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464582363702,5,0,Excelentes explicaciones. 100% de calidad.,0,0,Eduardo Quiñonez,19101678
+19425245~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464541703606,5,0,Muy bueno,0,0,Carlos Vargas,19425245
+18368206~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464528599827,5,0,"Me parece que la instructora tiene mucha pedagogía para explicar los temas. Es muy bueno también que realice los ejemplos en tiempo real, para verificar los result",0,0,Luis Alejandro Beltrán Estupiñan,18368206
+16185783~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464485402145,5,0,"Muy bueno, excelente explicaciòn de la profesora",0,0,Fabricio Morales,16185783
+16018477~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464367363506,5,0,Lo que llevo me está gustando bastante y estoy aprendiendo.,0,0,José Antonio Martos Colmenero,16018477
+19025406~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464286532230,5,0,"Muy buen curso de iniciación a la programación. Claro, directo y excelente. La profesora es magnífica.",0,0,Gorka Elorduy García,19025406
+13057119~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1464061144659,5,0,"¡Realmente muy bueno!, accesible a todos los niveles. ¡Muchas gracias!",0,0,Fernando Angel Liozzi,13057119
+19395053~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1463836645951,5,0,"estoy aprendiendo bastante, gracias ",0,0,Jeffry Matamoros Carrillo,19395053
+19428301~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1463626893816,5,0,"Excelente, se le entiende a la guía con total claridad.",0,0,paul pumalloclla alegre,19428301
+9151549~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1463506078720,5,0,Esta Excelente,0,0,Hector Israel Marquez Nieto,9151549
+19267148~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1463016598869,5,0,Excelente,0,0,lfcorro@gmail.com,19267148
+2792642~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462979702571,5,0,muy buen curso para recordar o tener nociones basicas de java,0,0,Luis Esteban Santos Castillo,2792642
+12979414~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462929018749,5,0,Excelente curso..,0,0,Francisco Aragon Canseco,12979414
+19223790~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462862186559,5,0,"Excelente, un curso muy completo y concreto.",0,0,Alan Munguia,19223790
+18536027~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462452106151,5,0,:),0,0,Antonio,18536027
+17198715~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462407003221,5,0,"Excelente, explica muy bien los conceptos de JAVA, facilita comprender la programación orientada a objetos",0,0,Iván Irf,17198715
+19083751~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462124505506,5,0,Muy bien explicado,0,0,Alejandro Sanchez,19083751
+18639134~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1462050295150,5,0,"El curso es muy bueno, la expositoria es muy clara. Es el mejor curso en linea que e visto. Felicitaciones.",0,0,Sonia Rengifo,18639134
+5410749~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461933367145,5,0,"Muy interesante, me fue de gran ayuda. Gracias.",0,0,Antonio,5410749
+17354116~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461731906751,5,0,"Excelente, realmente los felicito.",0,0,Juan Carlos Carvajal,17354116
+18544439~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461480497731,5,0,Me gusta como proporciona el curso la instructora pero le hace falta a mi parecer ponerle un poco mas de enfasís a los conceptos que se van adquiriendo de ahí en fuera todo esta super bien me agrada demasiado,0,0,Efraín Ballado,18544439
+12570377~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461443556841,5,0,Excelente!,0,0,Camilo Patiño Hernández,12570377
+15411768~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461326038056,5,0,Genial! :),0,0,Arturo Rodrigo Martínez,15411768
+17960516~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461263449965,5,0,excelente,0,0,HECTOR BAUTISTA GABRIEL,17960516
+17830290~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461243348115,5,0,Excellente curso introductori a Java,0,0,Juan José Fonseca Zárate,17830290
+18567322~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461094977024,5,0,Excelentes explicaciones !!!,0,0,Alejandro Martínez Flores,18567322
+18903184~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461082234991,5,0,Muy completo y fácil de entender muy bien ,0,0,Humberto Partida,18903184
+18223545~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461056470473,5,0,Muy bien explicado-,0,0,maschinenbau_musique@hotmail.com ,18223545
+11897269~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461023582315,5,0,"Excelente curso, muy buena la profesora, sus explicaciones son claras y concretas.",0,0,Gustavo Adolfo Larrahondo Balanta,11897269
+17520418~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1461019260310,5,0,Excelente curso,0,0,Luis Alejandro Villa Vargas,17520418
+15598956~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460914300823,5,0,ME ha gustado mucho y he aprendido cosas nuevas! Mil gracias!,0,0,Octavio Lafourcade Castello,15598956
+17310702~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460664602603,5,0,"muy buen curso, muy bien explicado excelente",0,0,Luis Luce,17310702
+8463019~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460655242014,5,0,"Excelente Curso, muy bien explicado. Las tareas muy bien diseñadas. Me gusta mucho.",0,0,Braulio Uciel Alvarado Alcalá,8463019
+16861369~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1460419801030,5,0,"Muy buen curso, estoy aprendiendo mucho.",0,0,Robinson Muñoz,16861369
+14074971~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459624567816,5,0,Bien explicado,0,0,Isaac Camero,14074971
+6087817~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459617609825,5,0,"HASTA AHORA HE APRENDIDO VARIOS DETALLES DE LAS CONFIGURACIONES DE JAVA, QUE DESCONOCIA. YA EN OCACIONES ANTERIORES QUE HE INTENTADO DESARROLLAR UNA APLICACION PARA ANDROID UTILIZANDO OTRAS HERRAMIENTAS PERO EXISTEN MUY POCA AYUDA O ME HAN PARECIDO MUY CONFUSAS LAS EXPLICACIONES QUE HE ECONTRADO. EN ESTE CURSO DE ANDROID LAS EXPLICACIONES ME HAN RESULTADO MUY CLARAS Y SENCILLAS. ",0,0,Miguel Angel Perez Guzman,6087817
+18324739~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459604725823,5,0,"Excelente forma de aprender, explicaciones concretas y claras y sobre todo bastante metodológico.",0,0,EDWIN GABRIEL ROMANI BARTOLO,18324739
+18426767~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459387127605,5,0,excelente un curso muy  claro!!!!,0,0,Jairo Y. J. Ibarra Guerra,18426767
+16326250~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459320289821,5,0,Excelente,0,0,Omendey Sanchez Alarcon,16326250
+17305520~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459315062295,5,0,esta genial y estoy muy emocionado con esto podre conseguir mejor trabajo primero dios saludos ,0,0,Luis Fernando Santacruz Flores.,17305520
+387506~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459224635877,5,0,"Super recomendado, Anahí es una excelente instructora, me despejó muchas dudas con tan excelente explicación aplicándolo a casos de la vida real.Si no aprendes lo esencial de  Java y de programación  en este curso ... Mmmm Mejor dedicate a otra cosa",0,0,Diego Mauricio Guerrero,387506
+17873220~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459207808748,5,0,Me encanta se entiende todo a la perfección lo mejor para aprender java desde cero,0,0,Alvaro Corrales,17873220
+11560570~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459207721189,5,0,Excelentes contenidos,0,0,Andres Rojas R,11560570
+3735561~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459203745759,5,0,I am Learning a lot and I can save the course for auto Studies.Love it!!Thank you for the Scholarship!May God Bless you,0,0,Marvin Enrique Solis Urbina,3735561
+5100626~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459180445988,5,0,Excelente curso para empezar de cero a programar  en Java.,0,0,Ricardo castro tapia,5100626
+16344446~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459134159788,5,0,"He aprendido satisfactoriamente este curso, una sincera felicitación a la instructora y a la UNAM por haber logrado este curso de calidad. Ansioso esperaré los siguientes.",0,0,Mario Eduardo Donjuán Carreño,16344446
+15897922~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1459014347214,5,0,Me parece un exelente curso de lo mejor que e visto y exelente experiencia,0,0,Eduardo Barrios,15897922
+17575073~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458911035395,5,0,"Un excelente tutorial, excelente la dicción de la chica que lo imparte, una excelente edición de video con ejemplos y las capturas de pantalla de los ejemplos con una excelente calidad!",0,7,César Martínez González,17575073
+1715278~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458865008433,5,0,Muy buen curso introductorio.,0,0,Diego F Santander,1715278
+16737435~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458842162138,5,0,"Maxima calificacion, para un curso de un valor incalculable, este tipo de oportunidades son las que le hacen falta a Nosotros los Estudiantes. Agradesido. ",0,0,Esteban Ramirez,16737435
+17730960~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458837453884,5,0,Muy Buen material,0,0,jose armando,17730960
+17647630~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458803161894,5,0,"Excelente curso, muy bien diseñado y guiado a lo largo del desarrollo del mismo. Gracias por la oportunidad.",0,0,Jorge Luís Chavarriaga Vargas,17647630
+15545095~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458758357244,5,0,Buen curso si deseas emepezar desde 0 practicamente sin tener conocimientos de programacion la instruccion de este curso lo hace muy sencillo.,0,0,Deleted Account,15545095
+14756673~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458745088672,5,0,Excelente curso para iniciar con los fundamentos de java para Android.,0,0,Roberto Eder Weisß Juárez,14756673
+17844987~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458704907575,5,0,Excelente curso.,0,0,Oscar Alejandro Martínez Guerrero,17844987
+14394826~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458659385659,5,0,Excelente curso.,0,0,Miller Garcia Quimbaya,14394826
+11382088~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458641860142,5,0,"Un curso bastante práctico y ágil. Te da las herramientas básicas para empezar en el mundo de Android.Hecho por una de las más prestigiosas Universidades de América, la Universidad Nacional Autónoma de México, es símbolo de calidad y de seguridad en excelencia.",0,0,Ing. Ramírez,11382088
+12391728~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458429240457,5,0,"muy buen curso, muy recomendable!!",0,0,Yair Viveros,12391728
+17574019~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458353033875,5,0,Excelente contenido ,0,0,Carlos Domínguez,17574019
+9504644~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458267631518,5,0,genial,0,0,Alejandro Ortiz de la Cruz ,9504644
+12437215~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458190090411,5,0,"Excelente curso!Muy buenas explicaciones, buena calidad de audio y video, el material en general está de lujo.Ampliamente recomendado a toda la comunidad.",0,0,Juan Miguel Jimenez Figueroa,12437215
+16311419~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1458109522449,5,0,"Excelente curso, Muy buenos ejemplos y excelente introduccion para el aprendizaje de aplicacion android.",0,0,Fernando Jimenez,16311419
+17931807~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457974954293,5,0,"Excelente forma de enseñar los conceptos tan importantes de la programacion orientada a objetos y las bases para empezar en java y con ejemplos prácticos para  entender perfectamente. Este curso me ha valido bastante la pena , estoy muy contento de estarlo tomando.",0,0,Ricardo Antonio Villalobos Belmares,17931807
+6501070~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457923517183,5,0,muy bueno,0,0,Jorge Jimenez,6501070
+17968132~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457912227696,5,0,excelente ,0,0,Gilberto garcia delgado,17968132
+17610222~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457911992636,5,0,Excelente curso para aprender las nociones basicas de java,0,0,Carlos Javier De Gois Goncalves,17610222
+17995751~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457468089442,5,0,"Corto, pero efectivo.",0,0,Max Emmanuel Sierra Gómez,17995751
+17027238~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457384036426,5,0,MUY BUEN CURSO MUY DIDACTICO!!!,0,0,GERMAN VALENCIA SOUZA,17027238
+17543584~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457333407341,5,0,Excelente Curso!,0,0,Porfirio Valencia,17543584
+17730390~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457326281474,5,0,Muy didactico,0,0,Sergio Badillo Pille,17730390
+15526673~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1457013367861,5,0,  Muy interesante y atractivo el curso. Se deberia permitir el pago con paypal  ,0,0,Adán Morán Solano,15526673
+17509773~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456969143003,5,0,"Todo va genial, muy bien explicado y documentado.",0,0,Andres A Valeriano O,17509773
+4335043~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456964053689,5,0,Excelente!.Los temas tratados se explican claramente. Maravillosa y mucho mas que una introducción a java para aprender desde 0 y posteriormente comenzar con el mundo de Android.,0,2,Oscar Daniel Perez Espinoza ,4335043
+2730877~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456874918822,5,0,100% Recomendable :),0,0,Aurelio Montalvo,2730877
+13350274~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456823525718,5,0,Excelente curso :3.,0,0,Issam Silverio Jimenez Ortega,13350274
+17652970~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456729269329,5,0,Muy bien explicado!,0,0,Luis Fernando Palacios Medrano,17652970
+17597519~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456697068494,5,0,Me parece excelente la forma que lo explica y su método didáctico.,0,0,Alxs Mbrn,17597519
+16311673~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456627125778,5,0,"Excelente informacion, metodo de explicar muy bien ",0,0,Michael Tenorio,16311673
+12153939~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456264310271,5,0,Excelente,0,0,Carlos Belalcazar,12153939
+17731583~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456251885717,5,0,Excelentiso todo!! Gracias.,0,0,Edwin Alberto Ley Castillo,17731583
+16423386~COURSE!~dZuQ4VicEeWbIxLOmbkGCQ,1456247489421,5,0,"Una iniciación a java muy sencilla, clara y concisa.",0,0,Oscar Garcia,16423386

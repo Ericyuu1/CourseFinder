@@ -1,0 +1,48 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+14655103~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1644550386136,1,0,The course spends too much time on the coding without explaining the model details.,0,0,Zhiqiu Li,14655103
+46964110~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1599739417193,2,0,"Very poor explanation, a lot of unclear moments",0,1,Никита Алексеевич Фирсаков,46964110
+9903632~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592851926010,2,0,I would choose to learn online rather than study this course. The course was not well-prepared.,0,1,Ha QUANG,9903632
+1383791~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1598900955665,3,0,"Still room for a lot of improvements, average material",0,0,Simon Sebastian Rittel,1383791
+10399441~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1595759263091,3,0,A bit overpriced for the amount of knowledge being shared.,0,0,Akshita Sood,10399441
+27080183~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590772870855,3,0,"This course honestly felt like a joke, you're probably better off reading a medium article about GANs. Sure, It provides a very minimal objective, there are initially no instructions so there's nothing to explore, soon enough as you get into writing code, the more of a medium article it turns into except in video format.",0,4,Krishna Vasishta Desabhotla,27080183
+56624516~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1589366421875,3,0,It does not really check what you did,0,1,Andrea Russo,56624516
+25958850~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1599874021974,4,0,Nice choice to start with the understanding of GANs.,0,0,Srinadh Reddy Bhavanam,25958850
+40350620~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1596713648024,4,0,I tried this project and it is really good if you want to have idea about GANs and DCGANs.,0,0,Shakshi Sharma,40350620
+55866301~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1596307331635,4,0,"Really great, But if you are coming from the TensorFlow specialization on Coursera, then you won't understand each line of code. You will get most of it, what it does as a whole, but not every line. So a little expertise on TensorFlow is required. Other than it was really great!",0,1,DARSHAN DODIA,55866301
+24340999~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592996031824,4,0,na,0,0,vijayalode,24340999
+62337020~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592930108215,4,0,Good,0,0,sarithanakkala,62337020
+63697841~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1591985815385,4,0,"A great introduction to DCGANs application on a prominent dataset. However, I would have wanted a little more there and the reasoning behind using techniques. This is a great place if you want to learn the implementation and tinkering with a general DCGAN. Great instructor. ",0,1,Sai Dhawal Phaye,63697841
+16317832~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1591801206641,4,0,"I't's a good project, the theory should be more explained but in general was interesting to know about this network",0,0,Diego Alejandro Prieto Pedraza,16317832
+7707984~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1591715430584,4,0,Everything was well explained and a very good project to get a good knowledge about GAN networks and its applications. Looking for more such projects. ,0,0,Ebin Zacharias,7707984
+26811826~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590981243843,4,0,The course was good but the cloud server had some issues initially but later that worked fine. Kudos to the Instructor!,0,1,Paras Varshney,26811826
+60834975~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590088221396,4,0,Good way to start out implementing DCGANS!!,0,0,Deep Gandhi,60834975
+52880649~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1588711729189,4,0,This course helped me to start developing GANs. I would like to hear more theoretical explanations.,0,0,Svitlana Zhylina ,52880649
+266153~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1629500104118,5,0,"V​ery clear and concise instructions, providing enough detail and references for further study.",0,0,David Chin,266153
+23342840~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1622815233519,5,0,Very well explanation towards completion of the code.,0,0,Bappaditya Dey,23342840
+15697978~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1608594689942,5,0,"Quick and easy to follow, very informative as well!",0,0,Adrien Atallah,15697978
+59262202~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1604330790981,5,0,A good basic understanding of DCGANS.,0,0,Pratikshya Mishra,59262202
+44674503~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1603046131461,5,0,Amazing Course on DCGans.,0,0,Vishnu Nandakumar,44674503
+38087327~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1602004384525,5,0,nice project,0,0,Ayush Goyal,38087327
+47387249~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1600947877093,5,0,ek dam tanch maal h,0,0,Yuvraj Singh Champawat,47387249
+47787004~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1599644828562,5,0,Thank you.,0,0,Ümit Kaçar,47787004
+59222431~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1599380406906,5,0,It's a quick and very effective course ,0,0,Md. Sayeed Abid,59222431
+69903888~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1598779820423,5,0,easy,0,0,VETTORI FERNANDO M,69903888
+3253170~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1598140169436,5,0,Thanks!,0,0,Santiago Giraldo,3253170
+54932201~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1597471777073,5,0,It was a great experience with the Guided projects,0,0,MS. S. SARANYA,54932201
+41057698~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1597345446961,5,0,This was very good guided project to understand practically,0,0,sunil kumar singh,41057698
+6618719~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1595341009238,5,0,Excellent instructor. Dense with content and comments explaining bits of code.,0,0,Sumit A Talwalkar,6618719
+58758688~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1594670208961,5,0,tx,0,0,321810306031 AKSHAY C HANGARAGI,58758688
+31643927~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1593910647156,5,0,I know DCGANs more for imploving skill and help you create image quanlity.,0,0,Warunee Sermpanichakij,31643927
+62401342~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1593857820416,5,0,very useful course,0,0,Gangone Riha,62401342
+62498054~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592966904759,5,0,Good,0,0,p sandhya,62498054
+60104931~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592566165643,5,0,need more projects like this it was awesome,0,0,Ali Arslan,60104931
+62517980~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592316460216,5,0,good ,0,0,tale preethi,62517980
+30035947~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592124084578,5,0,Trainer was awesome ,0,0,SHANKAR ,30035947
+34832361~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1592118070642,5,0,"In this course, you will learn about a lot of different ways to join ideas to make more complex and interesting knowledge of keras ",0,0,Abhishek Prakash Gavali,34832361
+57837281~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590679888103,5,0,very goood,0,0,Rajasinghe R.P.P.B.,57837281
+34441337~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590576898031,5,0,The course was well equipped. It gave me the basic idea of how GAN works and how to implement it. If you want to get started with GAN then it can be a better course to lead you.,0,0,Abrar Istiak Akib,34441337
+32359583~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590430691582,5,0,"I learned, now I understand. Thank you",0,1,Saida Milena Diaz Castillo,32359583
+35495685~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1590119787282,5,0,It's a very good start to know more about GANs,0,0,Ahmed Akram,35495685
+55514342~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1589751725991,5,0,Mostly likeable project & good,0,0,Rishabh Rathore,55514342
+21470768~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1588309794428,5,0,"Great Course, Learned a lot. Thanks Snehan.",0,0,Mayank Singhal,21470768
+57008592~COURSE!~diZmsX1dEeqydg6lB5w_Cw,1587770238992,5,0,Excellent course.,0,0,Javier Fernando Botia ,57008592

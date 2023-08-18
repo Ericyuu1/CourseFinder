@@ -1,0 +1,4 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+70251657~COURSE!~wy5djd3rEeqDjQ4uBpeBKw,1612205567086,3,0,More deep dive into Spark functionalities would have been great,0,0,Aruparna Maity,70251657
+111547775~COURSE!~wy5djd3rEeqDjQ4uBpeBKw,1667489829511,4,0,S​olid introduction to pyspark MLLib but left much would have liked to see more model evaluation and comparison to at least another model. ,0,0,Brendan Abraham,111547775
+95031823~COURSE!~wy5djd3rEeqDjQ4uBpeBKw,1634468704485,5,0,Thank You for making course so simple to learn how to develop prediction model,0,0,Parth Inamdar,95031823

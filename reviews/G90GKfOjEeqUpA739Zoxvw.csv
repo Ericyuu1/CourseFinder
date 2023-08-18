@@ -1,0 +1,8 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+44492233~COURSE!~G90GKfOjEeqUpA739Zoxvw,1602805293600,1,0,"I was expecting more, this should belong to youtube and not coursera",0,1,Liam Fittahi,44492233
+81312448~COURSE!~G90GKfOjEeqUpA739Zoxvw,1613510254907,3,0,"Overall the training is OK to get a first understanding of Jenkins and CI/CD. But the VM is not updated with the latest chrome driver when chrome is updated, as a result half of the exercises can't be done.",0,1,Gilles Fraissard,81312448
+20136751~COURSE!~G90GKfOjEeqUpA739Zoxvw,1611487024743,3,0,Good for someone working in Java and have already heard of Maven etc. The lab paused while I was away and took a looong time to restart. ,0,1,Dhruva Gupta,20136751
+95406139~COURSE!~G90GKfOjEeqUpA739Zoxvw,1651755549245,5,0,great content,0,0,Vhutali Pollen,95406139
+49699503~COURSE!~G90GKfOjEeqUpA739Zoxvw,1623333977002,5,0,Good and direct; may need to add instructions to update chromedriver for the test to run successfully,0,1,Chee Wai Chong,49699503
+54675622~COURSE!~G90GKfOjEeqUpA739Zoxvw,1609568063585,5,0,Good,0,1,Gaveen Ranabahu,54675622
+20842269~COURSE!~G90GKfOjEeqUpA739Zoxvw,1600887514531,5,0,"Excelente curso, fácil y muy práctico. Toca tener en cuenta el uso del ambiente en la nube para no quedarse sin tiempo y poder aprovechar el entorno configurado para pruebas.",0,1,Cristhian Carpio,20842269

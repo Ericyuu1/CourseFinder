@@ -1,0 +1,394 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+74010473~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1659760502270,1,0,no explanation for the django developement phase and just promoting the mugging thing hence not recommneded,0,1,15_Chirag Bajaj,74010473
+73307866~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1641247174875,1,0,"I was disappointed how this Django specialization starts. I was expecting to get an overview and a basic understanding of Django and instead of this, in ""week 2""  I was given a long list of steps to configure a django polls application without knowing why I was doing each step. ..Eventually, I was getting errors that was taking me a lot of time to understand what was the mistake. In the forums there were many other students with the same problem, but it was not easy to understand what is the fix.  ",0,1,Stylianos Chalkiotis,73307866
+1705986~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1638824917192,1,0,This is a hodgepodge of a few other courses and is not that well organized.  Better off with the Django tutorials at djangoproject.com.,0,0,Sam Halperin,1705986
+10757131~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1636055161063,1,0,H​as very little to do with Django. ,0,1,Frank Esposito,10757131
+94093471~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1635156019128,1,0,waste of time..,0,0,Ehsan DavariNejad,94093471
+4115053~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1633486115358,1,0,The  exercise format doesn't work.  A complete waste of time,0,0,Mahfuzur Rahman Khalili,4115053
+81552374~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1623090261931,1,0,Bad instructions.,0,0,Gary Cornejo,81552374
+55684322~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1623057262170,1,0,WASTE OF MONEY,0,0,GOWTHAM G G,55684322
+65832174~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622568051935,1,0, its not good. need a lot of updates,0,0,ATULIT ANAND (RA1911026030043),65832174
+67354733~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606957466593,1,0,The learning materials are not easy to understand and confusing,0,0,Alexander Kofi Kwapong Yirenkyi,67354733
+66068715~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603208534801,1,0,"The teacher was excellent but the course content was worst, video quality was worst. Even I couldn't see the content what is going on.",0,6,Nur Mohammad,66068715
+63320570~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599548880856,1,0,...,0,1,SureshKumar S,63320570
+103568896~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1669486007588,2,0,"Course instruction seems good overall, but I disagree fundamentally with the reliance on PythonAnywhere as opposed to real-life tools (e.g. IDE) for building with Python/ Django, which students will need and which employers are expecting to see on day-1.",0,0,J. Curran,103568896
+16696277~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660588943364,2,0,"V​ideos are just to long, Django was not properly explained (explanation where too fast, smaller chunks would be better), right away it is just a default tutorial on django website, not worth the money and time",0,1,Michal Koiš,16696277
+41128701~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660189927930,2,0,poor content,0,1,abdelrahman hassan,41128701
+37086517~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1648047501889,2,0,so helpfull,0,0,selmi ameni,37086517
+26561386~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1624362544756,2,0,"Nearly no Django in this course. Some HTML, CSS and SQL, and how to install Django.",0,12,Martin Schipper,26561386
+70146507~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1620175691734,2,0,"I had a hard time focusing.  This instructor's lectures were not very focused or even polished, often finding mistakes and using screenshots of code, wtf? The tests were good and made you research and learn but I couldn't get through the first course.",0,0,Kenny Speer,70146507
+58346862~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618119691448,2,0,"Realmente solo te cuenta las cosas y no hace gran cosa, no es muy recomendado si quieres ejemplos o buenas explicaciones",0,0,GOETHE HERBERT ALONSO,58346862
+31720490~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600599808877,2,0,Way too much copy-pasting of unexplained code leaves the student confused.,0,0,Jan-Philipp Baumann,31720490
+8548339~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598267631432,2,0,it was very boring for someone who is already a CS student,0,5,Ahmed Salah,8548339
+11717241~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1665859801666,3,0,"T​o shallow, maybe I was hoping to learn more into the specifics. But I can now understand what is the broad picture of the development of a web page, but only the concept, not quite yet start coding it with this course",0,0,Juan Camilo Monroy Garzon,11717241
+1143656~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1632131352779,3,0,n​ot much about Django gut much about PythonAnywhere,0,0,Dimitri Maiorano,1143656
+6606035~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1630571638820,3,0,"One or two weeks with Django one week HTML one week CSS one week SQL , I would like to learn more about Django and how to use it my future work opportunity",0,0,Lavrentios Konstantinidis,6606035
+60364617~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625593887023,3,0,"All was good except for 2 issues I had while trying to submit the assigments thru the autocorrector. One I couln't load the assigent thru dj4e.com and the other althught I submited the code obtaines from the excersise, error message appeared as code invalid.Should resolve those issues asap.Thanks",0,0,Airbag Fix,60364617
+87088985~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622249626802,3,0,"M​assive amount of misspeaking in the leacture. Frequently using incorrect terminology contractidicting himself. Length of videos at least 2x longer than needed due to instructors inefficiencies.C​ontent covered though was good. Would give content 5 stars, instructor 1 star.",0,0,Waco Holve,87088985
+81778243~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1620159233702,3,0,"Esperaba encontrar Django como elemento básico del curso.Se habla de HTML, CSS, SQL, pero apenas nada de DJANGO.",0,0,Ernesto Ventas,81778243
+66953975~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610163138297,3,0,Thanks so much ,0,0,Mg Min Khant Naing,66953975
+64472212~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604826625310,3,0,"Not much about Django but a good learning for basics of CSS, HTTP",0,5,Kaushal Garg,64472212
+38264521~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604326136186,3,0,"I love Dr. Chuck's classes. This one was a little underwhelming because I already have completed the WA4E and WD4E specializations. This one was pretty much a copy of parts of those so that's why it wasn't that useful for me. Those courses are great, just wish this one took off a little faster with the Django stuff. Hopefully the next class will make up for it. Cheers!",0,0,Jonathan Porter,38264521
+58519733~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602492339989,3,0,"Good course content. But at one moment I thought that, as a start or as an introductory course this was too much. Would have been really nice if all the complex bits of django work was done at the latter part and started as if the student has no prior knowledge on working with the virtual environments and the other stuff that were somewhat complex.",0,0,Warnakulasuriya Sudhara Awishka Fernando,58519733
+50760490~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601111207897,3,0,"I did'nt really learn much of sql, css and html  form this course,but I really liked django even though it was a little topic on django,Thanks....",0,0,Joel Nickson,50760490
+48422212~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600507157860,3,0,The course is good but more thorough explanation is required,0,0,Mohta Rahul Suresh,48422212
+72199134~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600361512534,3,0,"Is a good course, but if you know nothing about the command line interface or have no experience working with linux you will get so confused when you set up your account on pythonanywhere. ",0,0,Mundo Python,72199134
+65991506~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599864147696,3,0,"I would like the course teach to do it in the machine instead the virtual envinronment, but i guess you check better the assignments in the web page so I will put all to learn properly and then install it in my pc.",0,0,Sebastián Calderón Moreno,65991506
+49140698~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599299156345,3,0,"This course gives very brief but very good knowledge of HTML, CSS and SQL.",0,0,Tarun,49140698
+55210861~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598832681578,3,0,Great course. But some aspects were unnecessarily complex and unproductive.,0,0,Kamruzzaman Tauhid,55210861
+65785354~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598787197903,3,0,"This course is good but it can become better if more focus will be on some core concepts in django like ORM or CRUD or normal django terminologies rather on HTML, CSS. But this one is also good.",0,1,Brajeswar Lenka,65785354
+35962937~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598300895312,3,0,Charles is a great professor. Not too much usefull content learned.,0,0,Tomas Garcia Berro,35962937
+134057~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597169860319,3,0,"The backend code needs to work. Often it doesn't, even after following the instructions to a T. Plus there's no accurate feedback as to whether it's a bug at their end, or a bug at the student code end. The result can be sheer frustration, and I'm not sure that this experience is conducive to learning anything.",0,0,Amar Sukhi,134057
+58463257~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596947257929,3,0,It's good to have a tight and powerful Assignment but I think assignments needs much more clarity about what should the student. It's not just my Opinion. It's an overall opinion. The course is awesome and we're ready to do much more harder assignments but there should be clarity about what the student should accomplish. Thank You!,0,0,Selviraja Pasagadugula,58463257
+67907487~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596400411259,3,0,"Good course for beginners in web development but not really anything to do with Django. I would recommend renaming the course to ""Web Application fundamentals"" so that is is clear there is no Django in the course (except one copy/ paste exercise)",0,9,Ben Andrew,67907487
+64635326~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596098650601,3,0,need more examples and exercises ,0,0,Armando Rafael Moreno Sorrosa,64635326
+78687982~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1676910634723,4,0,"I liked assignment too much. but next part of this course has many error , need to be fix it.",0,0,Dheeraj Yadav,78687982
+114259222~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1674383399197,4,0,Building your fundamentals for the beginning of the journey of learning Django with this course is really grateful.,0,0,Yash Tank,114259222
+62558270~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1672694748811,4,0,wonderful!,0,0,KENGNI Hippolyte,62558270
+20938361~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1661915400612,4,0,V​ery basic,0,0,Roberto C Rodriguez,20938361
+101316049~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660021080659,4,0,Basics are taught clearly and the Bonus videos are so useful.,0,0,Arjun .S,101316049
+83344657~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1659859876571,4,0,"i have learned well but i have one problem in 4th week to submit the assignment.
+so, i wish to find the solution ",0,0,Yousef Muhamad  Salama,83344657
+96290625~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1658426534226,4,0,it is good as an overview to the webdev world and how technologies started but its quite messing some depth,0,0,Touate Youssef,96290625
+60125688~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1649062853446,4,0,G​ood,0,0,Jed_ mueddy,60125688
+91475680~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1648801243092,4,0,enjoyed it,0,0,Seyed Hamid Azimidokht,91475680
+50157382~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1646308457672,4,0,good course,0,0,Konijeti mahesh sai,50157382
+38201527~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1644928004132,4,0,I especially like the resources shared in this course.,0,0,Jessy Pango,38201527
+76717444~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1644514299834,4,0,should simplify the explanation provided to do assignments,0,0,Adamya Chaturvedi,76717444
+82042955~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1639578291823,4,0,This is one of the best course which taught me something which is helpful,0,0,MAMILLAPALLI VENKATA KARTIKEYA,82042955
+4336394~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1634684644509,4,0,"O​verall great, quality course! There were certain times when instructions were vague (although I think the team has become aware of this), but not unsolveable. The course is very thorough yet done in a way that's easy to grasp. Highly Recommend!",0,0,Jon Burgess,4336394
+59481765~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625972751648,4,0,It's really an introductory course. I don't recommend it to take it if you already know the basics of HTML/CSS/SQL. It was good to review some things though.,0,0,Vicente Donaire,59481765
+51752885~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625486359164,4,0,CSS parts need more explaination and stuffs.,0,0,Fatin Sirat,51752885
+36868921~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1621122200496,4,0,"I expected that this course will teach to build a web application which we usually see in real world.Like a well structured web page with html a little touch of CSS and a database for records and the efficiency of Django.I would like to say that this course provides the history of the HTML, CSS, SQL and a the basic concept to give a fresh start. Not a course for those who willing to learn Django with some detailed functionalities and going to jump into creating a new project.I enjoyed the course as it is efficient to hit a Django or RDBMS course in depth.Thank you!",0,0,Sayan Pal,36868921
+82907837~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618836320019,4,0,A good introduction to basic web and database technologies,0,0,Patrik Spiess,82907837
+1167673~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618403702806,4,0,I waited more about Django.,0,0,Aos Zvelt,1167673
+53036531~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1617613235790,4,0,Helpful introductory django course,0,0,Md. Rafat Rahman Tushar,53036531
+10638362~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1613248860693,4,0,Great course and good teacher. Some of the content might be a bit dated and I was missing a stronger connection to django in the lectures and assigments. ,0,0,Christian Ohm Nørgaard,10638362
+61043742~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612480890385,4,0,It was good,0,0,Nicolinn Nana Adjowa Kwaw,61043742
+44942518~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612166938168,4,0,Great Course to understand the basics of Web Applications. ,0,0,DAVID LOBO,44942518
+26727266~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1611763209080,4,0,Very informative for beginner in Django and Web Development,0,0,Kevin Seek,26727266
+76488851~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610306453630,4,0,it was such an amazing course i really enjoy it and learn many thing,0,0,Shah Wajahat Ejaz,76488851
+3585704~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1607332094693,4,0,I was hoping to write a few real world applications. This course would really benefit with another week of creating basic apps.,0,0,Manish Sharma,3585704
+68564953~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1607094128024,4,0,It's not like some udemy course which will guide you through a project this will actually help understand how the technology works.,0,0,MD Hussain,68564953
+51754071~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606707545063,4,0,the tasks in this course is not good but the course it self is very well,0,0,AbdèlRahman Hammad,51754071
+58368881~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606208179492,4,0,I would give 5 stars if django is covered more,0,3,Wan Zulmuhammad Harith Bin Wan Zaulkfli,58368881
+20896247~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606179182737,4,0,"Un curso que enseña lo básico para Django, muy útil para tener bases solidas.",0,0,Juan Diego lopez martine,20896247
+49551887~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604877330478,4,0,I loved the course but I took off one star because the instructions for the assignments  tend to be poorly worded.  On some assignments I spent more time trying to understand the questions/tasks than completing the assignment.,0,0,Dee Danner,49551887
+64553166~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604634335405,4,0,"The course is more a basic overview about Python, SQL and HTML & CSS than Django. I recommend to all beginners with some knowledge in Python or any other programming language.",0,0,Afrânio Silva,64553166
+73063686~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603956477477,4,0,"Un excelente curso para alguien que ya tiene un conocimiento básico de programación, no aprendés a programar como tal, pero si te enseña los conceptos fundamentales y como interactúan las diferentes partes de una página web(html), pasando por la base de datos(SQL) hasta la parte visual de la misma (CSS)",0,0,Sergio Rodrigo Sanchez Vence,73063686
+73570479~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602434340629,4,0,This course was a great platform for me to learn about web applications and brush-up on SQL and databases. I feel like I have taken a step towards becoming a Django developer! Thanks to Dr. Charles for being such a wonderful tutor and making the lessons as interesting as he could :),0,0,BISHWASH KRISHNA PARAJULI 1741016,73570479
+34761437~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601828692035,4,0,It was great but I needed to practice more,0,0,Ahmed Elsayed Mohamed,34761437
+67182718~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600841694160,4,0,Taught me the fundamentals of how the web works. The videos are available on YouTube and it is more convenient to watch them there. ,0,0,Arun Kumar,67182718
+62533161~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600804606072,4,0,Good course. I refreshed my knowledge in this topic in this concrete and fast course.  ,0,0,José Andrés Escobar Luzuriaga,62533161
+41832962~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600578884526,4,0,Good,0,0,Md. Sazib Chowdhury,41832962
+41600247~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600409607145,4,0,"Dr,Charles is a great instructor and liked his teaching methods. Thanks Dr.Charles",0,0,Ankit katre,41600247
+68096023~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599710839122,4,0,"His way of teaching is good, but he is not explaining some codes that were copied and pasted. ",0,0,Salmanul Faris,68096023
+52250501~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599155130883,4,0,"It is really good, enjoyed it. Looking forward for the next courses in this specialization. ",0,0,Muhammed Zulkernain Hassan Fayeezullah,52250501
+56353660~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599120932505,4,0,"I learn a lot from this course. One thing which was particularly new for me was the perspective of computer system especially the web from past. How initial engineers and developer treated web as something very cool. We take all these things from granted but the web reached to this point after the contribution of lot of people. Thankyou, for making this course. I didn't give this course 5 start because I came here to learn more about django but I didnt get that from this course.",0,0,Vivek Sharma Poudel,56353660
+67962851~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598792889617,4,0,I learned more about how the network socket and technologies used for communication to receive or send data.,0,0,Sabin Nakarmi Computing,67962851
+47498622~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597234545321,4,0,Impressive course. Just the right content you need to know for your early django career.,0,0,Alvin Bagetuuma Kimbowa,47498622
+45506288~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596969435165,4,0,Pretty basic.,0,0,Ujjwal jayswal,45506288
+54767605~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596880863595,4,0,I think the assignment submission system needs some improvement otherwise great.,0,0,NILAY PAUL,54767605
+47322521~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596723263012,4,0,"I already knew HTML and CSS so those lessons were easy, but I learned how to create a Django application, even though I felt like I was just copypasting code, but learning the documentation I learned new things, as suggested in the course.",0,0,Gonzalo Díaz de Vivar,47322521
+43852528~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596006304597,4,0,This is Impressive Intro.,0,0,Prithvi Mitra,43852528
+57599500~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595919455690,4,0,ExcellentCoursetogaininsightsofpythonanywhereconsoleandhowhtmlandcsscanbeapplied in Django.,0,0,Viraj Chirag mehta,57599500
+95195049~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1675994629832,5,0,Great start of a specialization,0,0,Aman Ur Rehman Sandhu,95195049
+116872821~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1675772809731,5,0,very very  good,0,0,mohamed essam,116872821
+103805689~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1673708592558,5,0,Great starting course for beginner's. Everything is taught from scratch. ,0,0,Pranav Sawant,103805689
+117424758~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1673601294620,5,0,"It was my first course there and it was amazing, thank you for your job.",0,0,Андрій Зварич,117424758
+13021030~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1673046600538,5,0,I enjoyed this Django course and found it to be very informative.,0,0,Obed Isai Rios,13021030
+113587029~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1672551807936,5,0,"It was an excellent course for me and familiarized me with web technology. The teacher was very active, and the assignments were practical and learning. I suggest this course to every body :)",0,0,Zahra Afkhami Ardakani,113587029
+329105~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1672319264041,5,0,Very succinct explanation of web apps basics such as Html/CSS/SQL among others. Assignments were easy but really helped solidify contents from lectures. Overall great intro. ,0,0,Saurav Kumar,329105
+91173180~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1671363265243,5,0,The motivation provided after each assignment is great; it encourages me to complete more of the course.,0,0,Sanda Nondlozi,91173180
+88424085~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1668793686083,5,0,"Curso muy practico para iniciarte con el framework de django, Htmls y css. Conocimiento base para la construccion de aplicaciones web.",0,0,Raul Delgado,88424085
+115313705~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1668281632289,5,0,HelloI am grateful to Coursera for giving me the opportunity to participate in this wonderful course.I hope I can get closer to my goal every day with the help of Coursera.,0,0,Mehrdad Vh,115313705
+108969573~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1667584223040,5,0,perfect course. Thank you,0,0,fateme gholami,108969573
+107937720~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1666760479899,5,0,I​ recommand to learn this course!,0,0,Zaw Thet Paing,107937720
+69785911~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1665328509404,5,0,E​xcellent Lectures and Assignments. I got so much confidence.,0,0,Omer Sharif,69785911
+104621759~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1664715996095,5,0,Excellent ,0,0,OSCAR ALFONSO FORERO ACOSTA,104621759
+108164795~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1664098516414,5,0,E​xcellent class by the amazing Dr. Chuck who is a really gifted teacher. He explains everything and makes them seem so easy! I'm looking forward to the next class,0,0,Minas Pafis,108164795
+78385753~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1663927855923,5,0,Very impressed. Courses tend to be rated 4 - 5 stars but this one genuinelly deserves the five stars. Really good.,0,0,Will Yeadon,78385753
+56386797~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1663677382219,5,0,"That was easy and cool! Cheers to Dr. Chuck! I'll keep working on great stuff, see you in the next course :)",0,0,Lastivka Tymofii,56386797
+61386363~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1662112063885,5,0,O​utsanding learning with Cousera.,0,0,Mehfooz Ali,61386363
+101686026~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660934427037,5,0,"Thanks Dr. Chuck....really enjoyed it, your energy is inspiring!",0,0,Mike Beares,101686026
+68300281~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660844571031,5,0,Really Great Course !,0,0,Abdelrahman Salem,68300281
+36746625~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660666970816,5,0,"I like slides, it saves a lot of time when you learn something new.Course provides some practice lessons and quizes. Only practice can make you better.",0,0,amordo,36746625
+80307098~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660190031526,5,0,nice content for web developing,0,0,Mohammd_Ho3ein jafari_mester,80307098
+104992489~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1660111921830,5,0,I​t was a good journey. I have learn many things from this course. Thank you Prof Doc Charles Severance .,0,0,BIPUL DUTTA,104992489
+102649524~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1659698012143,5,0," An awesome course, learned alot... thank u DR.Chuck..",0,0,Sadiq Hussain,102649524
+93793793~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1659611183856,5,0,"great content , i love it  , ",0,0,BIHITCHE,93793793
+103809295~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1658399825820,5,0,Good For Beginners,0,0,rough accou,103809295
+43193458~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1657712225126,5,0,"I enjoyed the instructor and found this to be an appropriate speed for someone unfamiliar with django but competent in python.I tried this course a while back but the lesson guidance on dj4e.com specific to pythonanywhere.com appeared to be invalid. When revisiting the class, it was clear the lesson had been updated to accomodate more recent versions of django and python. While my initial experience was frustrating, it is reassuring to know that content is being maintained.",0,0,Jared Harrington,43193458
+30689847~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1657702889326,5,0,O​ne of the best courses. Thank you to Coursera and University of Michigan.,0,0,Bhawish Kumar,30689847
+86416480~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1657029839982,5,0,Amazing Course!! Go for it if you want to learn Django and Everything right from the bottom kevel! As always the faculty is an amazing and a lively person that you can feel instantly conected to!,0,1,Krish Shah,86416480
+47841294~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1655749193355,5,0,This was an excelent course with well balanced teorical and practical asignments,0,0,Rodrigo Valdelomar,47841294
+99273999~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1652091164014,5,0,great,0,0,surapureddy durga,99273999
+104185455~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1651938404767,5,0,This Course Is Very Useful  For My Development Career.,0,0,Dip Patel,104185455
+44105291~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1651257219059,5,0,"dr chuck did it again, he is a good teacher.",0,0,Javier Espinoza,44105291
+13904630~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1650649550624,5,0,It was a great introduction having a personal website. I am excited to go to the secound course.,0,0,Satoshi S,13904630
+97969376~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1650544748666,5,0,"It's an amazing course, one should take for a web application.",0,0,Sangram Bahadur,97969376
+93438764~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1650140995341,5,0,G​reat Course,0,0,Ankan Saha,93438764
+85353674~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1649229753437,5,0,"Hello
+This course was very good for me. Of course, I already had a little knowledge about the lessons, but the basic training and the excellent exams and my own exercises helped me to learn the basics from all those who helped me in this way. thanks",0,0,ahmad yousefi,85353674
+87357817~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1648752434023,5,0,I think  that was very good course for basic understanding of frontend.,0,0,Tushar Jagi,87357817
+100844413~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1648226976697,5,0,"Recomendado, muy buen profesor y gran contenido del curso.",0,0,JESUS MIGUEL BRUZON PIMIENTA,100844413
+82090506~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1646528724847,5,0,E​xcellent first approach!,0,0,Luis Pablo Segovia,82090506
+15569474~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1646309931487,5,0,"I enjoyed it. However, please note this is a very basic introduction covering HTML, CSS, SQL and only a tiny bit of Django.",0,0,Juan Jose Guirao-Garcia,15569474
+63825265~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1645327759756,5,0,Very inspirational,0,0,Dương Phan Đại,63825265
+95085029~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1645283359231,5,0,Well explained in minimum time ,0,0,Muhammad Mustafa,95085029
+33253429~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1643435012341,5,0,"Very detailed and introductory course for absolute beginners, loved it.",0,0,Harsit Kumar Upadhya,33253429
+62079916~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1643236392647,5,0,very nice this course,0,0,Jhon Michel Diaz Lozano,62079916
+64362288~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1643177569491,5,0,Thank,0,0,Mg Aung Min Thant,64362288
+92954505~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1642442045528,5,0,easy to learn and do with guided module,0,0,Kaustubh Mani,92954505
+90293322~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1642170584804,5,0,Dr Chuck teaches fantastically!! Was a fun filled course,0,0,Vineet Dabholkar,90293322
+21089360~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1642094347130,5,0,People like chuck are what make the subject alive!Most people kill the subject making everything into a race for marks or Money !,0,0,vivek seelam,21089360
+21347099~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1642002943488,5,0,Great course.,0,0,Rainer Strauss,21347099
+44194226~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1641425892877,5,0,So good material! and professor,0,0,Laura Vanessa Díaz Velásquez,44194226
+87666300~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1641316452717,5,0,GREATE COURSE,0,0,MILAD AFSARI DODRAN,87666300
+74876238~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1641168569942,5,0,"Wonderful instructor, interesting course, very useful",0,0,Christopher Khoury,74876238
+83720579~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1640241111064,5,0,Amazing Teacher Learning is Easy This way,0,0,Dilpreet sandhu,83720579
+93910130~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1639852025370,5,0,"L​oved this course. Was challenging, at the end but I learned a lot!",0,0,O Sharpe,93910130
+97060441~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1639498289197,5,0,Good course,0,0,Fabian Estelle,97060441
+74220017~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1639213576832,5,0,"This is a very beginner friendly course. The instructor is one of the best online teachers I have come across and what he teaches is very clear and precise.If you have good knowledge of HTML and CSS, I would recommend you to skip this course.",0,0,Khush Ramani,74220017
+16469698~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1638901689396,5,0,"Excellent, like every course of Dr. Charles",0,0,Eduardo Andrés Vega Murgas,16469698
+9944287~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1638841414036,5,0,C​ourse is a great introduction to web application development using Django.,0,0,David M. Kimani,9944287
+57630379~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1637954551567,5,0,"Excellent course, very well paced and easy to understand.",0,0,Carlos Alvarez,57630379
+61327372~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1637643810687,5,0,A good steep for begin in Django,0,0,Roberto Alejandro FARFAN PEÑA,61327372
+73357154~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1637508034081,5,0,"This course is great as a starting point to learn about html, css and django. I eventually learned what happens when clicking on a link and how websites are built.",0,0,Seyed Amirreza Mousavi,73357154
+581292~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1636129084979,5,0,"A nice and pleasantly paced introduction. More web application technologies than Django, which makes sense. ",0,0,Simon Iversen,581292
+49178373~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1635500614481,5,0,Best Course,0,0,Muhammad Zohaib,49178373
+42849553~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1635451735682,5,0,"A very complete quick start to Django and its basic bases to start developing, hope to see more in the next course",0,0,Miguel Angel Acosta Walteros,42849553
+66065189~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1634640739332,5,0,E​xcellent for beginners,0,0,Sarim Ahmad,66065189
+94442205~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1634607754515,5,0,great work! thanks every body!,0,0,Mohammad Amin Ghorbannezhad,94442205
+43558226~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1633414563124,5,0,Great learning!!,0,0,Saurabh Kumar,43558226
+26556212~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1633008004791,5,0,good,0,0,김영석,26556212
+44082129~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1632256481853,5,0,A Great course to learn the basics of how a website works on a server.,0,0,Mursaleen Ahmad,44082129
+77876934~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1632149663497,5,0,T​his is Really great course. Thanks a lot Dr. Chuck for this course.,0,0,Sujit Kumar,77876934
+91764598~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1631865227103,5,0,good,0,0,Shashi Kundan,91764598
+43634929~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1631850351287,5,0,excelente,0,0,Andrés Felipe Gómez Bravo,43634929
+13890200~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1631709300937,5,0,The first course in the Django For Everybody specialization was fun and Dr Chuck is great.,0,0,Daniel Grubbs,13890200
+50480922~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1631468815489,5,0,"Great course to start understanding how works web application with djnago. Dr Chuck give us a little summary of  HTML, CSS and SQL to keep getting high knowledge. Thank you!",0,0,Marlon Stevan Muete Henao,50480922
+38757316~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1630753730749,5,0,"Recorri à COURSERA numa fase de procura de um novo desafio profissional e participei no programa de CURSOS INTEGRADOS. Este programa permitiu-me fazer uma avaliação em várias dimensões pessoais, fundamental para o meu desenvolvimento enquanto profissional. Dotou me de competências e ferramentas para me relançar no mercado de trabalho
+Parabéns coursera pelo lindo trabalho.
+Malingas Cumbane
+cpts. 
+
+",0,0,Malingas Armando Cumbane,38757316
+89294866~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1630512851984,5,0,Great for beginners who  are getting started with web development using django,0,0,Raja Muhammad Asher,89294866
+90456145~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1630495708377,5,0,Best course for starting django ,0,0,Yogesh,90456145
+41743431~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1630491698979,5,0,"Learnt a lot about Web Technologies and basic concepts like HTTP, HTML, CSS etc.",0,0,Narsimha Sadula,41743431
+89882311~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1629972986924,5,0,Very helpful course for me.... ,0,0,darshan pipaliya,89882311
+34825929~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1629823163267,5,0,Buneas bases para empezar en el desarrollo web,0,0,Cristian David Lavacude Galvis,34825929
+91445400~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1628759009212,5,0,Excellent for Beginners.,0,0,Shine Cardozo,91445400
+58298725~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1628694015556,5,0,very good course,0,0,Vaibhav Nalawade,58298725
+3832267~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1628518370379,5,0,I appreciate how concise and straight forward this course is.,0,0,Deborah Perez,3832267
+68018631~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1627605212940,5,0,Muy buenas bases para empezar,0,0,Kevin Valencia Marin,68018631
+51125164~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1627569733196,5,0,Good starting point for web application!,0,0,Bo Yu,51125164
+87877529~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1627538870316,5,0,This course is a good appetizer for Django.,0,0,JOHN JIREH GARCIA,87877529
+48949670~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1626452990998,5,0,.​,0,0,RAMAN RAJ,48949670
+2555023~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1626362217056,5,0,"E​xcellent course that provides a hands-on introduction to web technologies like HTTP, HTML, CSS, SQL and the famous Python web framework Django. Well-paced, interesting assignments, detailed lectures all presented by a great instructor!",0,0,Fabian de Alwis Gunasekare,2555023
+46164079~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625831882345,5,0,Good to start with django and learn,0,0,Govinda Kumar,46164079
+53256607~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625828351416,5,0,nice,0,0,Dikshant  Sharma,53256607
+27676386~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625418185102,5,0,"very basic introductory course to web dev you can say, nothing to do with django if not for install",0,0,Arnab Bit,27676386
+86974402~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625129340946,5,0,very intresting method of teaching,0,0,prit kheni,86974402
+71642640~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1625040233375,5,0,very excellent course,0,0,hassan katbay,71642640
+82360634~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1624934853746,5,0,Dr Chuck course is the best!,0,0,rip wang,82360634
+65343638~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1624902087450,5,0,Course 1 was the excellent,0,0,Sneha S Chaudhari,65343638
+41126796~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1624707564348,5,0,Really great topic with great instructor,0,0,Yussef Raouf,41126796
+36511755~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1624050036745,5,0,E​l curso es bastante bueno para entender las bases de HTML y CSS. Lo unico que me parece que quedo faltando es en profundizar un poco mas en el apartado de SQL.,0,0,Santiago Bedoya,36511755
+65916638~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1623901993645,5,0,"Me parecio muy dinamico y util todo el contenido para continuar aprendiendo, muchas gracias.",0,0,Ricardo Arrechedera,65916638
+86008767~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1623221110936,5,0,This course provides a strong foundation to web applications.,0,0,Sugam Karki,86008767
+83478564~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622899262154,5,0,A great foundation to Django.,0,0,Joe Polgrabia,83478564
+60480733~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622359179411,5,0,This course is very good only if Dr. Chuck is your instructor. I've learnt alot from this alhamdullillah you all should take this course if you wanna work python as framework.,0,2,Muhammad Zulkifal Qayyum,60480733
+29146743~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622217586880,5,0,"Amazing, amazing teacher. Learned a lot.",0,0,Rajdeep Mondal,29146743
+77290470~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622128900590,5,0,Thank you for this amazing course Coursera..!,0,0,Sagar Koshti,77290470
+61107189~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1622094870294,5,0,muy bueno,0,0,Luis Ignacio Pastenes Montenegro,61107189
+71558232~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1621233408801,5,0,"I'm really grateful for Coursera for offering me this course as it helps me in covering the basics of how the network works, Django, HTML, CSS and SQL and I'm very motivated to dive deep into these topics.",0,0,Bala Sankar,71558232
+44037567~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1621219965375,5,0,This has been my favorite course on Coursera so far! I loved every single lesson of it! Thank you so much Sir Charles! ,0,0,Animesh Singh,44037567
+42167549~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1620225173548,5,0,This course will teach you the basics of the web.,0,0,ZESTARLAB World,42167549
+83514128~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1620194114456,5,0,it is very useful and gain more knowledge tankyou for giving  the course,0,0,6033GUGAN PRAKASH,83514128
+73629069~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1620110582244,5,0,Excellent,0,0,AHSAN  SARWAR,73629069
+68201844~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1619787371982,5,0,"This is just my starting, the course is too much beginners friendly i recommend everyone to have a look at it even if they are not from tech backgrounds, the things are explained very well , i am looking forward to become a good web developer in future",0,0,Satyam Gupta,68201844
+83752711~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1619282752619,5,0,It's great! ❤❤❤,0,0,amir hossein zamanian,83752711
+63590448~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1619263220605,5,0,perfect!,0,0,Hakan Bakacak,63590448
+48434675~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1619201930992,5,0,VERY GOOD,0,0,MOHAMMED WASHIF ALAM,48434675
+58163483~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618688265179,5,0,"Fue un excelente curso, aprendí mucho y me pareció una hermosa experiencia. Espero tener la oportunidad de hacer nuevos cursos y conocer muchas personas.",0,0,Julio Flores,58163483
+63709198~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618171168222,5,0,"Excelente, para adquirir los conocimiento básicos.",0,0,Einar Fabian Valero Perez,63709198
+83060627~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1618046403350,5,0,"Not just the great course, I love the instructor as well! Easy to understand his lessons, also gives more on the foundations. Shout out to Professor Charles Russell Severance!",0,0,Harits Muhammad,83060627
+39916653~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1617607619271,5,0,Loved the Instructor!!,0,0,Gunda sailikhith,39916653
+670744~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1616376682960,5,0,Dr. Chuck is the best,0,0,Carlos Rangel,670744
+9405101~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1616246254804,5,0,"Excellent instructor! He was engaging and the lesson are in a digestible length. Also, there was a lot of thought that went into how this course is designed which helped to make it easier to complete as you can focus on the lesson and not fight with auto graders.",0,0,Chelsea Wilson,9405101
+44957927~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1615735582670,5,0,Good Course. Its best for learning basics of Web technologies.,0,0,Haris Gul,44957927
+9660363~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1615474174192,5,0,Goodbasicknowledgeisgiveninthecourse,0,0,Harshit Kumar Mishra,9660363
+44142784~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1615240817648,5,0,"Excellent course. Even you have very little knowledge about Python, the course will take you to end with the style of the tutor and the knowledge it will provide. I learned a lot and am is very much satisfied.",0,0,Ahmad Ansari,44142784
+1431150~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1614923346116,5,0,really enjoyed learning it,0,0,lalhming muana,1431150
+49213807~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1614846220647,5,0,"This Course had the basics of how to use Django framework using Pythonanywhere.com , Thanks to the Open Grade Tools. I could understand way Better.",0,0,RAGA HARI DEEP  MOLAGAZZELA,49213807
+38630490~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1614736261162,5,0,"Learn about basically about Front end include HTML CSS and some SQL basic, and how to run Django server and deploy it",0,0,Hau Nguyen,38630490
+56957113~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1613809066465,5,0,Perfect course! Thanks,0,0,Arafat Bauyrzhanuly,56957113
+24282153~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612772760405,5,0,A well structured and thorough material serves as a great foundation for someone entering the world of web development,0,0,Rustem Zhibitayev,24282153
+4828614~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612441265557,5,0,Very good initial skill setup to prepare yourself to learn Django framework,0,0,Rob H,4828614
+77379892~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612376254725,5,0,Thank you so much for such an amazing course!,0,0,Софья Сковоронская,77379892
+52072186~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1612289677623,5,0,exciting. excellent,0,0,Sher Dadakhanov,52072186
+496861~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1611855883620,5,0,"A nice introduction to web development, which covers a great deal of basic knowledge.",0,0,Wai Kei Wikie CHAN,496861
+25256242~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1611259500143,5,0,good for python lover,0,0,Elhammoumi Youssef,25256242
+55217619~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1611085687455,5,0,Learning is fun with Dr. Chuck!,0,0,Sayyid Ali Sajjad Rizavi,55217619
+43455329~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1611058967692,5,0,Fantastic Course. Dr Chuck is an excellent teacher. His approach is very accurate and non-judgemental,0,0,Seunfunmi Adegoke,43455329
+3302953~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610889618740,5,0,Excellent,0,0,Carlos Mauricio Kreitmayr,3302953
+69612493~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610709890871,5,0,Really great!,0,0,AB. MD. FAISAL RAHMAN,69612493
+51740610~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610301421465,5,0,I really loved taking up this course. The lectures were easily understandable and I was able to take up the course at my own pace. The resource materials was too good. I enjoyed this course thoroughly.,0,0,Amal Raj,51740610
+78477892~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1610026573302,5,0,Great,0,0,Minh Huy Lam Quoc,78477892
+36450844~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609955933926,5,0,great course and great instructor ,0,0,morshed matit,36450844
+2658929~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609647389916,5,0,"This teacher is the best. He's approachable, knowledgeable about the history of the software development. The additional resources and information lend a richer understanding of what we're learning, and also help to stir up more excitement. You can sense the professor's enthusiasm in passing forward what he's learned over the years.",0,0,Quoleshna Ze'nean Elbert,2658929
+9739175~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609448756467,5,0,"I like this course so much. Really nice django course with an introduction to the sql. But  css is advanced, great. Thank you Dr. Chuck.",0,0,Igor Svrček,9739175
+7529968~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609316493171,5,0,"Great pace, great overview and simply explained.",0,0,ForestCoder,7529968
+22958543~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609278756303,5,0,"The course offers a nicely spaced, easy introduction to multiple technologies. The instructor kept me interested and provided free tools that could be used to complete all assignments quickly.",0,0,Clifton Hudson,22958543
+48434687~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1609105735567,5,0,awesome,0,0,Azizulloh,48434687
+57882517~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1608760600462,5,0,To gain basic knowledge about web development this course is very helpful and lecturer is very experienced .grateful to gain knowledge  form him  happy learning  ,0,0,V. Karikaran,57882517
+71729964~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1608648844269,5,0,Well explained and easy to follow. Important hints are given by professor. I would like to attend more coursed from him in the future! Thank you!,0,0,Liufeng Sun,71729964
+76353790~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1608554005400,5,0,"Best teacher ever, I was attedning russian courses before and comparing with them this lector is much better!",0,0,Asset Askarbekov,76353790
+58997505~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1608247427983,5,0,Un curso Genial,0,0,Eider Alejandro Pena Dagua,58997505
+19616994~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1607368010685,5,0,Learning the skills That I want to learn ,0,0,Zeeshan Tariq,19616994
+29522577~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1607293523596,5,0,"Una muy buena introducción a la programación web en general. Voy por el segundo, espero completar los 4 pronto.",0,0,Alexis Alfonso,29522577
+51367305~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606656784883,5,0,Very well organized course!,0,0,Tiffany Lin,51367305
+74485426~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606505346342,5,0,Great teacher ,0,0,Ayman Kadi,74485426
+3556025~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606208437597,5,0,"Overall, this course provides basic levels of web development and a little experience with Django. This is similar to the entry-level or elementary level for the web development. This course was good both as a review and a reminder of the basics of the web development. thanks",0,0,Yergali B,3556025
+39098884~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606161775973,5,0,Well put together course! Would recommend any day.,0,0,Gratus Devanesan,39098884
+23229761~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1606128539839,5,0,"I think this is a great introductory course for web development. Actually, maybe it is not super practical but it gave me really good theoretical knowledge.",0,0,Hasimov Hasim Mahir,23229761
+59054438~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605644634910,5,0,"This is a great introductory course. I'm glad it helped me remember some HTML&CSS basics. However, you should understand that it mostly prepares you for the other courses in the specialization and doesn't explain much about Django itself.",0,0,Kateryna Repekh,59054438
+75825537~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605544128745,5,0,"grave à ce cours, jai augmenté mes capacités dans le domaine des technologies internet. je remercie les instructeurs et les autre participants qui ont rendu toute cette période d'apprentissage mémorable et flexible",0,0,Joseph Cabrel Ngako Nguemaleu,75825537
+63313397~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605360367576,5,0,Great course for beginner for SQL.,0,0,Emir Rithzuan Bin Suhaimi,63313397
+76501201~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605275631211,5,0,"Brilliant beginner friendly course for inspiring I.T. professionals  of any level, it is a great introduction and would recommend to anyone.",0,0,Mark Bato,76501201
+69497265~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605073741795,5,0,Very good course. Excellent instructor,0,0,Dostonbek Kholboev,69497265
+21076680~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1605015377427,5,0,"Whatever Dr.Chuck comes up with is unquestionable and fun to understand... the way he takes you back in history makes you want to stay there and just feel things of the past. With the well-structured assignments that are meant to give you a high-level understanding of everything in this course, you get the confidence to do more in it. He just makes it so simple for you.",0,2,Mohammad Anas,21076680
+75248171~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604827371512,5,0,The course was great! Thank a lot.,0,0,Berke Anday Baloğlu,75248171
+70916728~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604481296444,5,0,very good course,0,0,Erick Saddam,70916728
+43410751~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604473501461,5,0,"Really appreciate how the teacher taught in this course. Too good experience, Learned a lot.",0,0,Priyanshu Shukla,43410751
+24323352~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604466544171,5,0,"very awesome course, looking to take the next course of the specialization  ",0,0,Abdoulaye Sedego,24323352
+4751295~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604462024057,5,0,Great intro course to get us up to speed!,0,0,Shane Bacchus,4751295
+5734362~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1604414494231,5,0,Great one!,0,0,Juan Pablo Vargas Acosta,5734362
+65289944~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603937663513,5,0,"Muy bueno, se explica bien.",0,0,Juan Jose Rodriguez Delgado,65289944
+74213202~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603843151072,5,0,Awesome!,0,0,Janric Malate,74213202
+49370892~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603806692309,5,0,"Amazing course, but it only matters if you take the whole specialization, not just one course, than it will be worth it.",0,0,Muhammad Zuraiz Zafar,49370892
+7948424~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603737094082,5,0,"Dr. Chuck is awesome. His knowledge in different fields like Python, Network, SQL, PHP is very fantastic. his way of teaching is fantastic, he carries the lecture from bottom to top so smoothly. Only because of him, i have continued to study different python courses.Thanks Dr. Chuck. !! You are my hero. !! ",0,0,Pankaj Pateriya,7948424
+62099242~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603714344658,5,0,Great Course. Loved it totally. ,0,0,Anshuman Tiwari,62099242
+8955429~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603685822586,5,0,Cool course! Refreshing!,0,0,P S Raghotham Rao,8955429
+67995956~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603571997547,5,0,"Great introductory course of Django, HRML CSS and SQL!",0,0,Marlon Armando Meneses Bejarano,67995956
+74362252~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603553414557,5,0,cool,0,0,Соловьев Юрий Олегович,74362252
+50686639~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603339021004,5,0,great experience!,0,0,Riban Kumar,50686639
+56014015~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603296927226,5,0,Nice course ,0,0,ABDULAZIZ NOREDIN QADMOR,56014015
+74011790~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603198761883,5,0,Learned a lot from this MOOC :),0,0,Reign Jay Craste,74011790
+62054309~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1603096720247,5,0,it is really a excellent course. This course helps me a lot in building a concept . The best part is that you have to perform practical after every week. This thing help me to learn concept with practical.  ,0,0,Navneet,62054309
+14089809~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602982627309,5,0,Dr. Chuck is Awsome! Academic and funny as well.,0,2,carlos lima santoro,14089809
+15033256~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602901898494,5,0,This course is very approachable even if you don't know Python or Django or other coding languages. It's a nice gentle introduction back into course work as well. Perfect if you have limited time.,0,1,Patrick Maloney,15033256
+72969011~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602730199711,5,0,"En base a la descripción del curso me parece que no es exactamente lo que decía ser ...... el nivel es muy básico, para alguien con menos experiencia está bien.",0,0,Eloísa María Ortiz Obando,72969011
+58382859~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602682177730,5,0,"Great course, very good content and Charles Russell Severance is a really good teacher. I have became his fan.",0,0,BHASKAR PAUL,58382859
+29166508~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602655388571,5,0,good,0,0,Raiymbek 777,29166508
+72500540~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602608622274,5,0,"Excellent course, very well explained and with a lot of material!",0,0,Federico Rios,72500540
+42045221~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602595391416,5,0,"During this specialization not only I learnt django but also design patterns in web, industry standards and other advance concept. This course surely will take you from beginner to a intermediate level Django developer. I thank Dr. Chuck for this specialization. I expect more courses from Dr. Chuck.",0,0,Ameya Shahu,42045221
+52935911~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602486466230,5,0,"This was my first time taking a Django course, therefore i was not confident I would be able to finish the course. However, the Instructor was very calm, thorough and interesting enough to make me regain my confidence and complete the course. i definitely feel motivated enough to take the other web development courses in this specialization. Thank you and I am immensely Grateful",0,0,khadijah badmos,52935911
+57199734~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602399048043,5,0,it was great course learned alot,0,0,Bhavesh Waghela,57199734
+73593274~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602247234787,5,0,It was very cool!,0,0,Лопатин Кирилл Геннадьевич,73593274
+73368775~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1602207070510,5,0,I was great,0,0,Ahmed El.Sayed,73368775
+71136025~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601571141182,5,0,It's a great course,0,0,Deleted Account,71136025
+42597752~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601360548267,5,0,"Really a Great course, Helped a lot.",0,0,Ayush Mishra,42597752
+73199514~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601297065051,5,0,"The thing that I loved the most in the course wasn't Lectures, It wasn't the assignments. It was the bonus videos. They are just so lovely and inspiring!!",0,0,CHIRAG TANEJA,73199514
+70264334~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601277612232,5,0,"Thanks to the University of Michigan !AND Charles
+Severance for This privilege.",0,0,TWIZERIMANA Jean Claude,70264334
+56455348~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601179377739,5,0,Very informative. The theory is very well explained even though it is don very superficial since the nature of the topics at hand.,0,0,JOSE ALVAREZ PUMARINO,56455348
+49388490~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601159903759,5,0,  Charles Russell Severance (dr. chuck) is awsome! Great course! Greetings from Uruguay  ,0,0,Valentin Vazquez,49388490
+60856771~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601146010581,5,0,Dr. Charles is the Best,0,0,Ahmed Mohamed Abbas Elsayed Mohamed,60856771
+5538518~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601128441935,5,0,Great course!  Thank you!,0,0,Andrew Foord,5538518
+64540147~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601091743561,5,0,The Course was Extremely helpful ,0,0,Peter Bemshima Emmanuel,64540147
+53949858~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1601064351472,5,0,Not much playing around with Django. But I think it's definitly good starting with basics. Quiz and Assignment are really fair. The lectures are very nice. Listening to Chuck is fun and beside the pure knowledge you get to know something about the good old days :-),0,0,Markus Ziegler,53949858
+43111018~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600977505237,5,0,It's worth the time,0,0,Eyram Kwame Ekpe,43111018
+45804888~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600874035615,5,0,Drchuckisawesome,0,0,Sidharth,45804888
+46789906~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600814656174,5,0,"It was an amazing course, not only the tech topics but walks you through other countries",0,0,Shoukrey Tom,46789906
+4891974~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600747422870,5,0,"Thank you Dr. Chuck! I loved the culture extra notes and the interviews, it was amazing.",0,0,Federico Sananes,4891974
+32579867~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600685746946,5,0,Its introduction to Django is so simple,0,0,Ssentumbwe Enoch,32579867
+58770461~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600530892216,5,0,awesome experience,0,0,Arshiya Masood Shaikh,58770461
+63198720~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600509517810,5,0,This course is perfect. Thank you !!!,0,0,Shoon Lei Naing,63198720
+67121859~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600456884726,5,0,The Course was good. May be dug into some very basic stuff that might be targeted for absolute beginners. Overall a great starting point!,0,0,Abdullah Sial,67121859
+39197051~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600416837956,5,0,Really it's a Good Experience to Learn Django in This Course,0,0,Dilip Singh Kushwah,39197051
+19314802~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600289309586,5,0,A great course to get the basics of Django!,0,0,Ana Graciela Vassallo Fedotkin,19314802
+36037903~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600260059513,5,0,Awesome course! Dr. Chuck is an amazing teacher and thank you to his team!,0,0,CJ Johanson,36037903
+38422209~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1600157538758,5,0,Awesome Course,0,0,Xa Yed,38422209
+65728753~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599882888668,5,0,Best Instructor Ever Dr.Chuck!,0,0,Kaustubh Deshpande,65728753
+36421046~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599821424768,5,0,it's best.,0,0,Hassan Shuvo,36421046
+14213554~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599590583396,5,0,That's a awesome course,0,0,TANVIR FAYSAL,14213554
+63202443~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599571725679,5,0,LOTS OF FUN.,0,0,Rafael Jan Teodoro,63202443
+34401668~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599489937759,5,0,"This Course is great, if you are a beginnner and want to explore djjango.",0,0,Syed Ali Abbas,34401668
+58822947~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599407554042,5,0,Excellent to learn the fundamentals  of web development and how to use the pythonanywhere console. Will be taking the rest of the courses soon :),0,0,Mejia Serna Erick Alejandro,58822947
+66180351~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599294763480,5,0,great subject taught by great teachers and this subject for being python and django professionals. Happy teachers day,0,0,Subhransu Das,66180351
+70452997~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599120607213,5,0,"Professor Severance takes the time to show how to do things in walk-through videos. His explanations are clear, his pace is right and his assignments provide a very good opportunity to consolidate learnings.",0,0,Alfons Trabal Camon,70452997
+566024~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599052619529,5,0,Great to get the elementals for Django.,0,0,David Noguera,566024
+36183031~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1599045241043,5,0,Good course! The information represents in a clear and suitable format. I like the instructor and courses from Michigan University. Thanx:),0,0,Надія Скиба,36183031
+47475828~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598956439147,5,0,the way dr.chuck explained was amazing.,0,0,Addanki Asish,47475828
+38138582~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598899707629,5,0,Great Course,0,0,Shahriar Hasan Fahim,38138582
+67104267~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598889728237,5,0,good basics introduction by dr.chuck,0,0,Ketul Thakkar,67104267
+36118222~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598881819804,5,0,Very smooth walkthrough ,0,0,Raffaele Sgarlato,36118222
+29354181~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598791811686,5,0,Amazing experience. great course,0,0,Sandeep Bandaru,29354181
+65813937~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598713498672,5,0,nice,0,0,Naing Lin Htet,65813937
+59832885~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598633151075,5,0,Great!,0,0,Janitha Nawarathna,59832885
+49953504~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598603031097,5,0,Nice course,0,0,Binamra Lamsal,49953504
+35482654~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598541957438,5,0,"
+Great course. I love python, and I have always wondered how to use it 
+for web development. Charles Severance is a very engaging and 
+knowledgeable instructor.I found this course a little too easy if you already have python experience, but the history of the internet component is really cool. ",0,0,Bart Cubrich,35482654
+21254194~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598510548176,5,0,"Amazing Course, Starts from the basics of everything. ",0,0,Akash Singh,21254194
+55784559~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598436369569,5,0,The Best course for the beginner web developer and you will love the instructor and they way he teach,0,0,waqar kaleem khan,55784559
+66004902~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598429445825,5,0,Loved this course.  Excited for what is to come.  I knew the basics of this.  I am super excited for Django,0,0,Matthew Fischer,66004902
+10269~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598412568040,5,0,Very interesting presentation of Django,0,0,Pascal Uriel ELINGUI,10269
+69354954~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598340157327,5,0,Excellent,0,0,ranidu harshana,69354954
+31128981~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598254857705,5,0,Excellent Introduction and very good materials (and bonus). Thank You Dr Chuck,0,0,Pascal Picard,31128981
+47196626~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598203280515,5,0,i love how this guide teaches... i never got bored ,0,0,shikher raina,47196626
+12567986~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598140279904,5,0,Nice introduction to elements of using Django,0,0,David Shackelford,12567986
+43414080~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598054084900,5,0,"Excellent teacher , excellent material.  I enjoy it.",0,0,Jose Ignacio Barraquer Lopez,43414080
+32809012~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1598014587892,5,0,Django for Everybody is an amazing specialization that everyone should take and learning from Dr.Chuck is wonderful experience. Thanks to Coursera and Dr.Chuck :),0,1,Robin Singh,32809012
+47047040~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597981916546,5,0,"Great introduction, you really get a working knowledge about how the internet works as well as a wide view of the Django capabilities",0,0,John James Tello Cajiao,47047040
+57959853~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597940254626,5,0,I think the assignments and real-world practices are ingenious!  The course is well-planned and provided experiences that I appreciate so much.  The instructor explains concepts very well and provides background information that helps to anchor the concepts into my mind's schema.  Thank you for a wonderful course experience!  I look forward to the rest of the courses in this Django Specialization.,0,0,Marci Sprouse,57959853
+36443507~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597724988491,5,0,"self paced and very well explained, also, very uselfull course material and very interactive. I learned new things. I'll recommend it for people who is willing to review some of html, css and trying to learn django ",0,0,IVONNE ROCIO HEREDIA LEON,36443507
+5028115~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597703937705,5,0,Nice Intro to Django,0,0,Esau Oliva,5028115
+52709712~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597680656714,5,0,Sir charles severance hattoff to your teaching.You are just an amazing teacher.The students including me and several others highly appreciate what you are doing and please continue to do more of this kind of excellent work from which the students like us are benfitted the most.I am from India and wish to study in the university of michigan as a student from an amazing teacher like you.,0,2,tech and gaming,52709712
+41969556~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597662075323,5,0,Awesome learning experiance,0,0,Teny,41969556
+58107854~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597461250926,5,0,I love the course instructor the way of he teach,0,0,Biddut Bhowmik 172-35-2140,58107854
+68801155~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597442707718,5,0,Great basic course on web application technologies and Django,0,0,NICOLAS PETTERSEN CORREA,68801155
+36516186~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597383713697,5,0,"Nice course, the instructor is great. I thought this one was a little bit too light, but it is mostly just introduction to tools. Definitely will be following up on the next courses.",0,0,Pedro de Souza Queiroga,36516186
+30953090~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597372816254,5,0,Amazing Introduction to Django!,0,0,Muhammad Abdullah,30953090
+62660382~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597260418559,5,0,"Dr. Chuck is just one of the fantastic teachers , i have ever seen.",0,0,Parth Sharma,62660382
+63454623~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597199070672,5,0,This is a very useful introduction to understand how web programming works,0,0,Johan Esteban Cañas Ossa,63454623
+31756039~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597180959634,5,0,Thank you so much for this great specialization ...,0,0,أحمد ماهر فوزى محمد سلام,31756039
+15208472~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1597060609275,5,0,Dr Chuck is the best teacher.,0,0,Rahul Shinde,15208472
+1807540~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596993004325,5,0,Dr Chuck for President!!!,0,0,Bertrand Janne d'Othée,1807540
+56065586~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596976057796,5,0,great course! loved it! now moving on!,0,0,Saif Arshad,56065586
+44797724~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596876433137,5,0,Good introductory course. Please have a more in-depth course on django.,0,0,varun pandey,44797724
+64985995~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596796092624,5,0,GReat course,0,0,Vivekanand Adabang,64985995
+48353903~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596795098915,5,0,Great Course . I loved it ,0,0,PALLA ASHOK,48353903
+55008543~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596733718079,5,0,Excellent course for modern web development,0,0,Nischay Mehta,55008543
+55704902~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596705776387,5,0,This Course is very Good. I just love the way how Dr. Chuck explains things.,0,0,Satyam Mishra,55704902
+66711256~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596637222513,5,0,Learned basic web application development.,0,0,D. Shiva Kumar,66711256
+36425549~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596555907771,5,0,Wonderfull course by Dr. chuck and going for course 2 in this specialization...,0,0,Aniket Jain,36425549
+41260739~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596440003444,5,0,Two enthusiastic thumbs up!,0,0,Bogdan Chira,41260739
+47507744~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596389278989,5,0,Its the best course to start learning Django. All the basics for the future courses has been covered here.,0,0,Ashutosh Kumar,47507744
+27989255~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596368214393,5,0,Great course,0,0,Jesus Maria Zabaleta Franco,27989255
+64625994~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596229543628,5,0,Excellent Course,0,0,Sergio Augusto Rueda Rojas,64625994
+46589878~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596225610054,5,0,"Course was awesome and I have learned a lot, thank you for all, Dr. Chuck!",0,0,Alfonso Jimenez,46589878
+49949247~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596201717145,5,0,The best Instructor i've every had,0,0,Anurag Ravindra Deore,49949247
+43928074~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596197296864,5,0,amazing course!!,0,0,Akshat Dokania,43928074
+35780606~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596186872013,5,0,"Amazing introductory course for HTML, CSS, SQL and of course django itself, it melts all of these concepts together bit by bit.",0,5,Nicholas Yafremau,35780606
+61786523~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596128587242,5,0,Everything was excellent. I just got bored in CSS and HTML part but this is not because of lack of quality of course but because of my personal preference. I recommend everyone to take this course for web development.P.S Loved the dog in week 5),0,0,Yalchin Mammadli,61786523
+54736991~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1596040652181,5,0,"Great instructor, Dr.Chuck :)",0,0,Bsef19m518-WALEED MUSTAFA,54736991
+57995984~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595848880277,5,0,Nicely Explained,0,0,Rahul Choudhary,57995984
+41983350~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595825535831,5,0,Great Course. It starts from scratch for web development.,0,0,hiten sidapara,41983350
+67342439~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595812185940,5,0,muy buena opcion para aprender django,0,0,David Maldonado,67342439
+64384545~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595795232666,5,0,Nice,0,0,Pappu Kumar Sharma,64384545
+60678276~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595783819044,5,0,nice,0,0,Mubin Abdul kader,60678276
+57831819~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595749618726,5,0,good course,0,0,Meet Vijaykumar Patel,57831819
+34504227~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595699229971,5,0,"Nothing more, nothing less. A well-balanced refresher course for beginning web dev! Thanks, Dr. Chuck!!!!",0,0,Deekshith Anand,34504227
+18785289~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595617550782,5,0,This is a great course! Dr. Chuck is very demonstrative and hit the nail on the head.It shows his vast experience in online teaching and continuous improvement on his teaching and material. Dr. Chuck is a blessing!,0,1,Jian Guo,18785289
+22627870~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595592902404,5,0,"I would describe this course as a simple, quick Django introduction + refresher of web development. It gives us an idea of what we are going to deal with in the following courses in the specialization.",0,3,Michael Siu,22627870
+61121914~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595579163812,5,0,It was a beautiful experience .Dr.chuck was very engaging in the class.i strongly  recommend this course for who just completed python and looking for best web development courses.,0,2,SALAHUDHEEN MK,61121914
+11536526~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595573370429,5,0,prof.Chuck is the best! I thoroughly enjoyed the course and as a software developer I was able to refresh my web development understanding better,0,0,Krishnaaditya Pappu,11536526
+59638480~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595517573545,5,0,Great course ;):),0,0,Moncef Karim Aït Belkacem,59638480
+46136968~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595502640390,5,0,Very good course for beginners and well understanding how web works under the hood after taking this course.,0,3,Muhamamd Umer Farooq,46136968
+64910456~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595470358543,5,0,"Thank you Dr. Chuck. I came here after Python for Everybody and was looking for what to do next, when I found this wonderful course. You truly are an amazing teacher. Hoping to meet you in your Office Hours one day. ",0,5,Hamdan Iftikhar,64910456
+5393793~COURSE!~416fMYWSEeqMzg4Q-SipSQ,1595340530435,5,0,Great view and great skills,0,0,vignaux,5393793

@@ -1,0 +1,14 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+7126815~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1659705024629,1,0,"It's mainly a copy and paste that does not always work. For example, the Grafana deployment is currently successful, but Grafana isn't working because the ""latest"" image changed some configurations.
+
+The whole ""course"" is not different from many blog posts you can read for free in 10 minutes.
+
+I'm pretty disappointed in Coursera.",0,0,Matteo Marchelli,7126815
+96648521~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1658994798071,1,0,"everything copied and executed from below, link.https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/thats the reason there is no refund for such cources. courseera would have allowed one session overview to watch before paying..This is my first and last subscription. ",0,0,Venkataramana Reddy,96648521
+60285991~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1657789161292,1,0,"V​ery basic course.
+Could not run all parts of the guided project, seems to be some kind of misconfiguration or missing files.",0,0,Robert Nordesjö,60285991
+5454509~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1633203177717,1,0,"T​he student doesn't learn anything valuable from this course. It's basically a set of instructions which doesn't require thinkig at all because the instructor does everything for you. In that case at least I would expect that some theory would be pass on in these videos but not, it's basically reading the prepared README files. The author also struggles with command line which makes these video much long than they should be taking into account that they don't include any valuable knowledge. If you want to learn more about how k8s, prometheus and grafana are integrated you have to look for it yourself.",0,0,Hubert Skowronek,5454509
+89519144~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1658172710525,2,0,Too many times copying and pasting commands without a good explanation as to why it was needed.,0,0,Arthur Hamlin,89519144
+89069438~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1625584434984,2,0,Very slow and felt like the instructor had no idea how to use terminals,0,1,"Ingram, Marc",89069438
+4940147~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1641491214935,3,0,C​omplexity hidden in the scripts that we are only running without eplanation. Simple things such as moving beetwen folders using terminal should be skipped and yaml scripts should be explained in detail instead.,0,0,Adrian Królak,4940147
+47720533~COURSE!~ZnaPG6oLEeun6RIYOHteKQ,1643662596402,5,0,Great introduction to prometheus and Grafana,0,0,Akomoneh Raymond Anumaneh,47720533

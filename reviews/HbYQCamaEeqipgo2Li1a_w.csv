@@ -1,0 +1,4 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+98431099~COURSE!~HbYQCamaEeqipgo2Li1a_w,1666613181407,1,0,"G​ood content gone to waste. The outograder doesn't work, so you have to quit the course in the second week.",0,0,Js Sr,98431099
+105616742~COURSE!~HbYQCamaEeqipgo2Li1a_w,1658425716253,1,0,Autograder gives zero feedback. ,0,0,Anastasia Stuckner,105616742
+17695848~COURSE!~HbYQCamaEeqipgo2Li1a_w,1673215092311,3,0,Course is pretty raw. Most of practice tasks are ambiguous. Some tasks can be done in different ways but the author wants it to be done in one specific. ,0,0,Daniil Kerechanin,17695848

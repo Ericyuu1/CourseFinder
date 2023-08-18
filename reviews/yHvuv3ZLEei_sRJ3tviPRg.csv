@@ -1,0 +1,384 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+63211550~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1596467292193,1,0,very boring,0,0,,63211550
+61755899~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1594550903987,1,0,So boring,0,0,Thanadon Bunkerd,61755899
+24430351~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593444339781,1,0,I don't have enough space within this paragraph to list everything that is wrong with this course. I can only give you a simple yet powerful advice: Don't. Just DON'T !,0,1,galimba,24430351
+57710845~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589107567562,1,0,Unsatisfactory,0,0,Himanshu Maru,57710845
+8092339~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1565032019066,1,0,Lot of talking. Simple practical project breakdown and showing the concept would have been helpful,0,1,shahin mahmud,8092339
+72179429~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1624336712598,2,0,"This course is good for who never know Git control, docker, CI/DC, Jenkin, Ansible but it's very basic for who already known those tools ",0,0,Borin,72179429
+79142464~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1612193518061,2,0,"A lot of rambling. Instructor is too much in his head and not able to communicate clearly. First week is good and gives a fine overview of DevOps, but it quickly goes downhill from there. The fourth week was a waste of time and could as well have been skipped. Much is briefly mentioned but not really explained, so it's hard to make sense of it. Also, if you answer wrong to some of the quiz questions they refer back to videos that don't contain the answer.I'm glad I'm finally done listening to this instructor. Can not recommend.",0,0,Henrik Nørgaard,79142464
+7733883~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1607197627029,2,0,"quite vague content and lots of repeating phrases, the content could be delivered in 1-2 hours max.",0,0,Andreas la Quiante,7733883
+39100227~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591455898704,2,0,"Very wordy, and non handsOn",0,0,Tasmina Khan,39100227
+40923907~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587675766716,2,0,Would be better if it have some labs or assignments for practical knowledge,0,0,Muhammad Hamza Saeed,40923907
+47211583~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1579099299576,2,0,"Difficult to understand, the teacher talks too fast, and the course u too short, it could be better if it the course was deeper.",0,0,Rene Olguin,47211583
+35322575~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1565965522163,2,0,Very technical approach to grasp the rationale of CI/CD as a concept. Also in week 3 the exm question about integration tests (ice-cone vs hourglass) technically has 2 correct answers. With both of these answers the layer of medium sized tests might require more attention.,0,0,Matthijs Breijer,35322575
+99809290~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1666014096597,3,0,"T​he overall theoratical information provided is really helpful and insightful. A few more practical examples, or practical assignments would help this to be more interactive, Hence, making the experience more playful and memorable.",0,0,M.Fakhar-ud-din Shakeel,99809290
+108689247~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1655901582467,3,0,so usefull,0,0,Dara Sivakumar,108689247
+55349482~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1620733053113,3,0,"The Instruction simply talking about the devops term, that is not sufficient to learn devops. They can provide some real life example in simple and better way.",0,0,Shreyas Bhisikar,55349482
+80364226~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1611936437475,3,0,Need notes and summary because the questions / quiz were not straight forward and answers were difficult to capture from the videos,0,0,John Tin,80364226
+28212281~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1608843442665,3,0,Good for general understanding! ,0,0,Kumar Anshuman,28212281
+49701337~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1597052762799,3,0,.,0,0,David Bargados Fernandez,49701337
+57094056~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595947698920,3,0,More Concepts should be explained in a proper format,0,0,Aquib Jawed,57094056
+40479615~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595855582860,3,0,"It would be good to have detailed presentation decks. While the idea of listening to the video (as if we are listening to a story) makes sense, but we need detailed decks as well at the end to review the material. The decks provided currently are not sufficient - they do not cover all the essential points covered in the videos. Apart from this, this was a helpful course. I wanted to get an introductory idea- I got confused at places, but I feel this is a good introductory course. Thanks. ",0,0,Sandeep Sharma,40479615
+34285449~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595711369315,3,0,"Good,Some Hands -On  exercises would have been good ",0,0,Through the lens,34285449
+54454580~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591537470507,3,0,I think the course should give us a little hands-on experience on creating a pipeline and tests with any tool. Setting up a pipeline is not as trivial as it seems even though after setting it up the first time it becomes really easy.,0,0,Agustin Nieto,54454580
+26075776~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586594467386,3,0,"The course is pretty good in most areas.  Some areas were not well covered.  For exampIe, I did not think that the concept and usage of an Artifact Repository was well explained.  I would have liked more practical examples, and I felt that some of the interviews were a little unstructured and could have been better moderated.  Overall, the course was useful to me in understanding what DevOps and CI/CD are, and how to get started.  ",0,0,Robert Garner,26075776
+49616439~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583865991892,3,0,lack of practicals/hands on session,0,0,Tapas Padhi,49616439
+45563804~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1573789262006,3,0,"Good course, but it will be better if the key point of the course is properly written in the presentation slide.",0,0,Mohd Ismail Bin Abdan,45563804
+43338290~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1571236995587,3,0,Speaker talks to fast and you need to review / retake the videos to understand him,0,0,Allan Carlo T. Ramos,43338290
+7534764~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1547636269191,3,0,"REally for beginner, need more details in therms of methods.",0,0,Enrico Ughetto,7534764
+535492~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1542377114966,3,0,Too much water. Not very practical,0,8,Andrey Markelov,535492
+93342273~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1662495833633,4,0,"Very helpful in explanation, easy to understand but need some online searching to keep up with the different terms and technologies presented.Finaly I understand what is the need for kubernetes, CI/CD, Docker, UT, Integration tests, system tests, DEVOPS, etc, ...The questions in the exams where a little bit hard to understand.Thank you for this formation",0,0,Osama GHONEIM,93342273
+104363784~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1649230955855,4,0,Good,0,0,N Umashankar,104363784
+102810120~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1648922145239,4,0,Good topics and knowledge sharing,0,0,KOMAL RANI,102810120
+53721756~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1646642666013,4,0,good introduction,0,0,Gary Legg,53721756
+89875278~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1637253696993,4,0,Good,0,0,ARITRA MONDAL,89875278
+94089400~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1637150871395,4,0,Good course for starters and mid-managers too,0,0,Rohit Godbole,94089400
+30196043~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1630981970024,4,0,nice course.It helps a l,0,0,Tuấn Đức,30196043
+37623681~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1628527030963,4,0,"Could be organized more, good to start with.",0,0,Tejram Patel,37623681
+77450943~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1628035950830,4,0,Great for acquiring the DevOps mindset. Good interviews. Needs more advanced courses on each relevant technology to gain actual familiarity.,0,0,Scott Yang,77450943
+82164392~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1617206651168,4,0,Meeting with the industry experts was good to understand the tools apart from the theoretical aspect of DevOps. Was able to get a fair amount of understanding about the pipeline & will be covering the same in the day-to-day work.,0,0,Krishna,82164392
+45598863~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1615648566456,4,0,"Nice Course. A lot of interviews from real people who have faced and solved the problems the course mentions. The course walks you through different phases of CICD with proper examples, ensures importance being given to important topics.",0,0,Pankaj ZAPARDE,45598863
+72815957~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1612125426133,4,0,This is a very good course for beginner level. It is best if you have some background into what a pipeline is and how it works but you'll be able to keep up none the less. I don't really feel like I learned everything I wanted to know about DevOps in general but i've gotten a pretty good idea on how things run now.I highly recommend this course for anyone looking for clarification on how big systems run and how the different sections of IT interacts with each other.I really wasn't fond of the pop-up questions in the middle of every video. They were insanely annoying and completely break focus.,0,0,Huda Yousef Abdel Jabbar Abu Afifeh,72815957
+77819833~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610557870534,4,0,Very informative and detailed ,0,0,Hari Hara Prasad Vagga,77819833
+69366464~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1607702246262,4,0,Very good! Nice kick off.,0,0,Mauricio Poggio,69366464
+40308781~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1606081860064,4,0,This is a great course to help one get up and going with the theoretical aspects of CI/CD and the devops culture.,0,0,Thoka Mamabolo,40308781
+71970516~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1605680914041,4,0,fantastic course to understand how CI/CD is important  and beneficial to the organisations big and small.Managing and developing products/solutions with CI/CD is not only efficient but effective as well.,0,0,Vinay Vijaykumar Deshmukh,71970516
+70200607~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1605267294717,4,0,NA,0,0,Amarendra Singh,70200607
+15991879~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604738605422,4,0,A good courses for better understanding of the importance of Continuous Delivery. It also introduce multiple topics on how to incrementally improve your pipeline.  The good thing is that there are real-life experiences from developers who are successful in continuous delivery.,0,0,Paul Ivann Granada,15991879
+75470730~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604029418854,4,0,N,0,0,Karthik Vemula,75470730
+73940826~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604002645306,4,0,"I thought this was a solid introduction to DevOps, especially from an Agile point-of-view.  This class presents an overview of an ideal organization with DevOps processes in place and a matured CI/CD pipeline. It does not emphasize technical details, but does offer sources for further research and study.  It would be well suited towards a project manager, product owner or scrum master of a technical team as it outlines how CD and DevOps should work, with testing baked into the process and continuous deploy as the end goal.",0,0,Jim Tharp,73940826
+69295799~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1603164357801,4,0,"Es buena opción si queres una introducción clara y directa a DevOps y CI/CD; que es, cual es el rol dentro las empresas , como es su funcionamiento, los quices ayudan a afianzar los conceptos vistos, aunque hay preguntas que no estan tan claras en los videos, buena documentación y casos de uso de empresas reales de la mano sus ingenieros",0,0,PABLO URBANO,69295799
+42748853~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602932956549,4,0,Wonderful Journey of devops.,0,0,sambhav yadav,42748853
+71557869~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602381541302,4,0,Too easy...,0,0,David A. Divas,71557869
+71999149~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600276597543,4,0,good,0,0,Francis Almeida,71999149
+71694376~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600217091516,4,0,This is a very good basic course of what is CI/CD and how it can help to build a good pipeline for your project.,0,0,Ambrose Nikale,71694376
+55886353~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600017486254,4,0,An Excellent course to get insights to the CI CD for a project.,0,0,Vivek Venkatachalam,55886353
+48453287~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599690323187,4,0,"Good course, and a good techer.",0,0,Santiago Miranda,48453287
+68686566~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599535840671,4,0,Good,0,0,Venkat Babu,68686566
+45044197~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599404553555,4,0,"A great class but some of the quiz questions were difficult to pull out from the material- when I would get a wring answer and re-watch the video, it was still not very clear what the answer would be. ",0,0,Robert Kraft,45044197
+56536511~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599317860206,4,0,Its very nice course for beginners and give a very good conceptual understanding of Continuous Delivery and devops. ,0,0,Ramesh Roshan Mudliar,56536511
+68052693~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1598336462034,4,0,In this course explain basic for devops and how to work devops team with developer and tester and which facing issue in this filed all this explain in this course.this course for beginner those who don't know the devops .,0,0,Ganesh sawant,68052693
+50022112~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1597772145578,4,0,nice ,0,0,Sajed Ali Quadri,50022112
+68867960~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1597112978100,4,0,"It was an amazing experience. This course can be improved if we could include some common DevOps methodologies that have emerged such as People over Processes over Tools, Continuous Delivery, Lean Management , Visible Ops Change Control and Infrastructure as code. Yes, we have learnt about Continuous Delivery and Infrastructure as Code but the remaining can be included to make this learning journey more fruitful. Thanks a lot.",0,0,Shihabun Saquib ,68867960
+62610779~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1596874044108,4,0,Great course to know the basics of Devops,0,0,Kuladip Bhowmik,62610779
+65862010~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595946610967,4,0,More examples should be given for CI/CD. Examples given for unit and integration testing was excellent.,0,0,Mohammad Tausif Raza Ansari,65862010
+64269240~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595692981347,4,0,Presentation tools can be improved.,0,0,Pratap Nalamala,64269240
+63638099~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595438690367,4,0,This is a great course to understand things on continuous delivery and DevOps.,0,0,Sushil Timilsina,63638099
+43962757~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595331612444,4,0,This is a good course for begin,0,0,Amit Singh,43962757
+15836758~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595190035275,4,0,Great learning experience! Helped a lot with the general understanding of CD. Great start if one is interested in devops as whole.,0,0,sara koundouno,15836758
+64128897~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1594926656509,4,0,this course is extra  add on skill and practice  to the Software devloper and tester to understand the flow of buisness and application and for making testing plans and the pipelines in the DEVOPS ,0,0,Ganesh Kharat,64128897
+54422~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1594910579228,4,0,I am new in DevOps and the explanations were clear and complete. I enjoyed the interviews of engineers and experts of pipeline to understand the concepts from a practical perspective!,0,0,Yeimi Peña,54422
+60872370~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1594699872843,4,0,"Nice explanations, and charismatic hosts, this course will be improved with more tech demos.",0,0,David Alejandro Montaño Restrepo,60872370
+55839782~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593407932496,4,0,GOOD,0,0,V S VISWANATH,55839782
+48407656~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592058350104,4,0,Fundamentals of CI/CD and DevOps are explained very nicely. Interviews from the industry experts gave a practical view point as well.,0,0,Prateek Agrawal,48407656
+38932892~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590560188486,4,0,"Very useful For who want to carieer in devops ,best course.",0,0,Vrushabh Jadhav,38932892
+55754155~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589648554968,4,0,The overall course is great but lacks the live project demo version of all the techniques taught in it. but for a beginner level to understand overall DevOps this sis a great course.,0,0,Vishwashree Karhadkar,55754155
+59898817~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589416289336,4,0,"As a software developer, I would like to say that this course is really for beginners. You will get an overview about continuous delivery and the terms and softwares used commonly in continuous delivery pipelines. There is a sample pipeline diagram which shows how CI-CD looks like and I think it would be better if there were more examples of integrating projects into CI-CD pipelines. I would recommend it anyway since it's better most of the resources randomly found on internet.",0,0,Murat Gözel,59898817
+54670699~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1588417959403,4,0,"I think the course is good for someone who has never done anything with CI & CD, but it was mostly just covering the theory of ""why"" you should do something with little in the way of practical examples. ",0,0,William Elan Dunne,54670699
+56334700~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1588392463308,4,0,Good experience,0,0,Dalmiya Killamsetti,56334700
+56306934~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587923413736,4,0,This is very helpful to explore knowledge and apply our real time scenarios.   ,0,0,GIRIBABU MADAPALA,56306934
+39503013~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587821130885,4,0,Good course which i had learnt alot. Recommended for those keen to understand on CI/CD and this is a good start. ,0,0,Lim Yi Ting ,39503013
+40159185~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587467510255,4,0,"This course is great for beginners, but it would be better to add a pre-requisite of knowing basics of github so that everyone can get a much clear understanding of the demos.",0,0,Prafulla Raichurkar,40159185
+34538977~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587151026049,4,0,"I feel like the course will benefit me more if I currently have a job, as the discussions assume that the learners are full-time engineers. Having said that, I've learned the various types of tests, how they could be integrated with a CI system like Circle CI, the benefits of a serverless model, and what Ansible is. Overall, it's a good course.",0,0,Jimmy Chen Chen,34538977
+54193757~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586354778376,4,0,Really good topics ,0,0,Shashank Mitra,54193757
+37604597~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586353000606,4,0,"Great online materials, presentation, & training for DevOps!",0,0,Virgo Destacamento Tejada,37604597
+52381254~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1585901594332,4,0,Very nice to bring some real cases like the interview we could see with experts,0,0,Ana Paula Pinheiro,52381254
+49142132~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583562985014,4,0,Niceandgoodmaterial,0,0,Peddada Venkateswara rao,49142132
+33133961~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583120171760,4,0,It is good for learning and improve the skills and understanding by quiz.,0,0,Ridhima Mittal,33133961
+34232439~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1582110169058,4,0,For foreign learners it is a little bit frequent speech of the teacher. Subtitles have many mistakes.,0,0,Смирнов Анатолий Анатольевич,34232439
+46811686~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1581272510042,4,0,This is a good course of which I'd like to recommend it to my friends to learn.,0,0,Zhao Hailong,46811686
+8184294~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1580552477186,4,0,Buena introducción para poner en marcha los conceptos de entrega continua bajo metodología DevOps,0,0,Vicente Pozas Mata,8184294
+48019930~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1580032476535,4,0,Good course to start for DevOps,0,0,Thu Kha,48019930
+31909305~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1579308567757,4,0,To the point and a great introduction. interviewing the industry experts was a huge plus,0,0,Vishal Shah,31909305
+45925709~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1575877550017,4,0,Course was Excellent in terms of Theory and would be better with practical assignments w.r.to CI/CD real-time applications.,0,1,Venkata Naresh Mandhala,45925709
+45441537~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1574545079627,4,0,a lot of interviews,0,0,Черёмухин Алексей,45441537
+45418567~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1574444134502,4,0,The course is a nice way to learn the foundations of DevOps. The interviews really helped to understand how it all takes place in the real world.,0,0,Rafaela Rodrigues Martinho Nunes,45418567
+40635360~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1573440839228,4,0,Very close to my use in implementation approach,0,0,Banpot Anantachoke,40635360
+44986265~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1572635247063,4,0,"The material presented was outstanding, and Alex did a fantastic job presenting it. Sometimes I think I lost some of the key points that were being stated. I know that PowerPoint is blah and almost taboo for communicating ideas, but sometimes a good bullet list is a good thing. I want to be able to show up at an interview for a CI/CD position and be ready to evangelize the positives.",0,0,Randal Stevenson,44986265
+42039599~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1571597638970,4,0,"Due to there being so much content and details, parts of the lecture were a little difficult to follow but the overall content was very informative.  For the areas that were difficult to follow, I went to the transcript as I'm sure many have and the reason for them but the transcripts were a little off, transcribing words wrongly or adding words that were spoken.  The course was very enlightening and outlines exactly how CD & DevOps should work and how much more effective it is than what my organization is currently using, of which I really have no coherent description. ",0,2,Melisia Simmons,42039599
+29073175~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569530414352,4,0,très bon cours pour découvrir le monde de la livraison continue CD et de la livraison d'intégration continue CI avec l'explication du pipeline et des différents métiers autour de celui ci.,0,0,Lionel HACHENBERG,29073175
+43102851~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569061240446,4,0," I found the course well structured and documented, giving a good overview of the CD and DevOps. The video/audio are of good quality, very intelligible.  There are interesting resources provided along the core course of each week",0,0,David Bouvier,43102851
+9299884~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569055113209,4,0,Very good course,0,0,Jayaram Parida,9299884
+42869186~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1568284248603,4,0,Wonderful course to get insights on the Devops buzz.,0,0,Anju Kamboj,42869186
+40836540~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1565090831439,4,0,"A good introduction to DevOps but I found the interviewees for week 4 to be light on insight, mostly just listing the technologies they use. Also I'm pretty sure there was a test question in week 2 on a subject that wasn't introduced until week 4 but you can always use the internet during tests to help you answer questions you don",0,0,Stuart Atkins,40836540
+39322719~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1564854514788,4,0,The course covered ci cd pipelining with tools and examples.,0,0,Basil Paul,39322719
+1506629~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1559375503373,4,0,this is more of a management course for dev ops. ,0,0,sooraj thekkedath,1506629
+550624~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1557159856102,4,0,Devops 101. Good for a starter. ,0,0,Immanueln Noel,550624
+33800419~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1556197230154,4,0,Ideal for understand how the DevOps world works.,0,0,Raul Rojas,33800419
+6295269~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1552246090013,4,0,Very useful information to implement a CI/CD pipeline,0,0,Sergio Arnaldo Méndez Aguilar,6295269
+16544953~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1541269298967,4,0,I'm founded many helpful information in this course thanks!,0,0,Thanh vu kim,16544953
+21813660~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1674641528320,5,0,"Very good and clear overview of what CICD is about, including the associated components and context (tools, teams etc. ). I really liked the mix of: - 'theoretical' explanations by the teacher, including sketches- concrete examples walks throughs by the teacher (looking at pieces of code)- interviews with people working in different companies and having different responsibilities. Thank you for a nice course. ",0,0,Anne-Sophie,21813660
+62330938~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1668556052077,5,0,Very good for developers an testers,0,0,Leonardo Patzi,62330938
+114788895~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1667835620681,5,0,Good,0,0,Mohanraj Balamurugan,114788895
+108936162~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1666255434021,5,0,best faculty show how we deploy things only need,0,0,Mradul Anand,108936162
+115873899~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1665543421494,5,0,V​ery easy to understand and very helful,0,0,CHILUKURI SAI BHARADWAJA,115873899
+112440625~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1664542985560,5,0,T​his was an excellent course and I took away a lot of great information.,0,0,David Stanuszek,112440625
+44717317~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1661640765074,5,0,"Great introduction to the DevOps pipeline - and how the Software Developer, Tester and Ops roles are changing. The interviews with the practitioners helped make DevOps very real.",0,0,Andrew Coates,44717317
+42896224~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1659899741554,5,0,Good for begainers,0,0,Tarun Mankar,42896224
+104608342~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1657709808264,5,0,It is helpful,0,0,Pulapati Jyothirmayee,104608342
+109390161~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1657613899122,5,0,This course is really nice.,0,0,Sagar Chowdhury,109390161
+108157187~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1656347498340,5,0,good,0,0,JITENDRA AGRAWAL,108157187
+83674638~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1653543809251,5,0,"It was really usefull course, thanks for your job!",0,0,Георгий Пересунько,83674638
+89793622~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1649149768318,5,0,good,0,0,N Divya Vani,89793622
+104159827~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1649044277257,5,0,Good one. ,0,0,Pragyan Dalai,104159827
+24066086~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1648072254765,5,0,great detail ,0,0,Todd Kromann,24066086
+102935813~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1646983538393,5,0,Course content is really very nice and easy to understand.,0,0,Sangeeta Somnath Salunke,102935813
+99364047~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1646932699590,5,0,The course combines general information for DevOps and focuses on testing and that's good!!!,0,0,Oleh Pitsun,99364047
+93425232~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1644904598184,5,0,"The Instructer Know's what he is talking about and thats why i got all his knowlege so good that i added this skills in my Linkedin Profile , pretty confidently.",0,0,Aman,93425232
+95206668~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1642399451693,5,0,"If you are interested in DevOps, this course will be a good start for you to get acquainted with its main concepts and make you curious enough to learn more and work with it and keep going. Especially interviewing people with experience in DevOps is very useful and inspiring. Mr. Alex Cowan ,course instructor, seems to want to teach you everything. With a very fluent and honest expression. Thank you Mr. Alex.",0,0,sara maknooni,95206668
+12844304~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1641289955092,5,0,Very good course!,0,0,Cezary Domicewicz,12844304
+85604581~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1641213998996,5,0,Overall course content is very useful and it's a proper outline for beginners. One thing is sometimes we need to put extra effet to understand whats the speaker saying because of his fast speaking style. However Thanks a lot Alex and the University of Virginia for making a kind of amazing course.,0,0,Waruna Kaushalya,85604581
+98471802~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1640929581230,5,0,Good Course,0,0,Shekar Reddy Bontha,98471802
+67199805~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1640781442861,5,0,"Thanks to the course! It explains very well the importance of to build a continuous integration and continuous delivery CI/CD pipelene where automatically to build, run the entire tests pyramid: small tests, medium tests and larges system test, and deploy it to the production in order to have an infrastructure able to create and validate new incremental features for the clients and to test our iterations/sprints in a real production environment ensuring working software and that the software verifies the clients needs.",0,0,Vincenzo Ciriello,67199805
+81398351~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1640408109273,5,0,"The course was very helpful in understanding the different job roles, product testing and automation, and CI/CD along with how pipeline works. The instructor was great and made it easy to understand the whole concept.",0,0,RAUNAK BHATTACHARYA,81398351
+81792235~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1639488551464,5,0,"Como principiante, encontrei um material bastante interessante e fácil entendimento. Valeu muito o aprendizado. Super indico. ",0,0,Mirian dos Santos,81792235
+96390757~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1639452807406,5,0,thanks,0,0,MIHIR ACHARYA,96390757
+94791970~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1638731808821,5,0,"Great course, I like the way it was design, the test are complete and all well organised.",0,0,Josue German Torres Araque,94791970
+95559179~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1637952017092,5,0,Excelente Curso,0,0,Arturo RodriguezRodriguez,95559179
+92514139~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1637158211615,5,0,Good place to learn,0,0,Ramarao,92514139
+45172647~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1637090392033,5,0,Contents and lectures are helpful to understand the Plan and how to implement it in real life scenario,0,0,Swarup Dey,45172647
+33119064~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1636228311479,5,0,excellent,0,0,Subham Mallik,33119064
+95920295~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1634965927345,5,0,Good,0,0,Qiru Huang,95920295
+48839257~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1632588099078,5,0,I​t gives a really good insight about the delivery pipeline and how we can make it more meaninful.,0,0,Harsha R,48839257
+45767729~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1631452639452,5,0,it was great,0,0,zahed zibaee,45767729
+82745388~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1630943727981,5,0,Great Contents,0,0,arief samuel,82745388
+38487106~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1630378293943,5,0,"Thought it would be more hands-on and technical, but it was still great to learn the process. The interviews from industry folks were excellent.",0,0,Siddhartha Dutta,38487106
+32128768~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1629899539759,5,0,This is one of the well crafted course to understand the Devops and CI/CD in the effective way.The examples and the interviews provided in the course is much simpler to understand the DevOps in the day to day IT project Lifecycle.,0,0,Neha Gupta,32128768
+91154471~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1629845254826,5,0,Instructor did a great job explaining the fundamentals. I particularly like the example codes and walk through of entire CI cycle. I enjoyed the interviews and experts video as well. I will recommend to anyone who wants to understand the basics of CI and CD,0,0,dhivagar palanisamy,91154471
+87854646~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1627657278641,5,0,merci ,0,0,Nour-el-Houda MOKHTARI,87854646
+85746221~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1626806026655,5,0,"Amazing course to teach us the fundamentals of the ongoing CI/CI, and Dev, and Ops division in roles and their integration as well.",0,0,Teodor Iliescu,85746221
+76182214~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1626502484442,5,0,Good starter course for DevOps.,0,0,Adarsh Kumar JaiKumar Dubey,76182214
+33069644~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1626089982461,5,0,this course was really helpful.,0,0,Mphonyane Motsoene,33069644
+85934576~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1625511640858,5,0,"It makes you reflect on the aspects regarding your current team, giving high-level insights into what CICD is. But also explaining by practical, yet simple, examples.",0,0,Marta Lewandowska,85934576
+37131646~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1625242640734,5,0,Good Content for Beginning Career in this Automated Management World,0,0,KUSUMA KALYAN,37131646
+88400955~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1624301393277,5,0,I like the content but there are to much interviews ,0,0,Nouf Almousa,88400955
+36816340~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1623968018137,5,0,Excellent,0,0,James Daniel,36816340
+46180825~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1623117259529,5,0,"Hola!, una muy buena base del Continuos Delivery & DevOps para lo beginners -dentro de los cuales me incluyo-, con la opción dentro del mismo curso de profundizar en algunas herramientas relacionadas. Con un buen apoyo de recursos didácticos y un cierre muy bueno de relato de experiencias. Gracias a Dios lo concluí. Saludos y bendiciones!  ",0,0,Erick Lobo Marín,46180825
+52523399~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1622175166868,5,0,"Gran curso, explica claramente los conceptos y motiva a seguir aprendiendo",0,0,Edinson Guzman,52523399
+79162044~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1621521408915,5,0,Fantastic Course!,0,0,Kevin Kennnedy,79162044
+17672053~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1621325581581,5,0,"The course material was really good, but apart from that I really liked the interviews with the actual experts from this field who shared the much needed knowledge regarding the actual real world implementation of CI/CD. It was really motivating",0,0,Diparnab Dey,17672053
+58145145~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1620363573344,5,0,Thanks Alex. It was very detailed and clear walkthrough. It encouraged me to start thinking in DevOps direction considering benefits and high productivity. Thanks once a,0,0,Abhijeet Rajput,58145145
+25934235~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619758593878,5,0,Great course for understanding basics of CI/CD process and how  different teams and  tools  fit into the DevOps process.,0,0,Rabindra Sahoo,25934235
+76071318~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619745886391,5,0,"Muy buen curso, se puede conocer sobre la importancia de la implementación de DevOps en el proceso de desarrollo de software. Felicito a Alex Cowan por tener bien estructurado el curso, hay equilibrio entre teoría y práctica, y las entrevistas hacen que tenga un alto soporte de importancia en el ámbito laboral.",0,0,Carlos Andrés Palma Suárez,76071318
+81759899~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619406557338,5,0,"Me permitió entender mucho mas lo que significa trabajar para una mejora continua , utilizando diversas herramientas y comprender el proceso de pruebas más  a fondo.",0,0,Lorena Olivia Fuentes Chavez-Bravo,81759899
+78966769~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619388864969,5,0,Great high level review.  The best aspect of the course is the focus on culture rather than specific skills.,0,0,J. Joel Hulett,78966769
+43175118~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619161347107,5,0,A great course,0,0,AL-HUSSEIN ABUBAKAR,43175118
+36810531~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1619105213250,5,0,Excellent course combining very good theoretical content with practical examples.,0,0,Tulio Polonio,36810531
+181854~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618844470564,5,0,"A great course, very didatic, with lots of interviews which gave a new depth to the subject.",0,0,Sonia Regina Ribeiro,181854
+66432074~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618580572796,5,0,It's one of the best course that I've followed. Love it.,0,0,Jayasundara Mudiyanselage Nuwan Chameera Gunawardana,66432074
+83314155~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618576907493,5,0,"Excelente curso, especialmente porque está enfocado desde las experiencias aplicadas al mundo real.",0,0,Alex Amaya,83314155
+83285043~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618418922299,5,0,Thank you for such valuable course,0,0,Kamal Kumar Malkari,83285043
+83348155~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618405660888,5,0,Very nice course!,0,0,Michael Gyczew,83348155
+82518269~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1618243641720,5,0,"Excellent course, very informative and easy to follow and understand.",0,0,Girish Kumar Kalikkottil Padmanabhan,82518269
+81693935~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1617879400902,5,0,great course,0,0,Sweta,81693935
+49088796~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1617166202944,5,0,improved knowledge on devops,0,0,VELDI HARIMANIDEEP,49088796
+80693577~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1616668325632,5,0,Great Course,0,0,Saichandan Ganagi,80693577
+53485736~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1616334964120,5,0,clear and pleasant to listen to content. Great examples and guest speakers/interviews.,0,0,Han Langereis,53485736
+53167954~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1616019278968,5,0,"
+Very good course for beginner level. 
+
+",0,0,Єлизавета Кузьма,53167954
+74394734~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1615610805554,5,0,Very Nice !,0,0,HÜSEYİN HÜR,74394734
+79328350~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1614258526422,5,0,"Very good courses, it covers all the basic points.. ",0,0,Nitish Kumar Singh,79328350
+44348801~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1614099496252,5,0,Good overview of what CI/CD is all about.  Good examples of tools to look into get started. ,0,0,Sean Behan,44348801
+79224383~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1613883122767,5,0,Thanks!,0,0,Jorge Cisneros Santana,79224383
+63642168~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1612699208134,5,0,Very Informative,0,0,Kuldeep Kaushik,63642168
+72097374~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1612627592643,5,0,"For Beginner like me in Quality Assurance field, it really helps me a lot to understand the concept of CI/CD.",0,0,AmmͥบfͣfͫyiŇg,72097374
+51975216~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1612296652555,5,0,Brilliant Instructor,0,0,Ilango Ponnambalam,51975216
+67198059~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1611525720470,5,0,Basic but effective course!,0,0,GIANCARLO CINQUE,67198059
+78055836~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1611482079437,5,0,Very detailed and intuitive course,0,0,Rupesh Kumar,78055836
+1689128~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1611268321712,5,0,Interesting course with valuable information for those who want to learn about modern software development techniques,0,0,Houman Rastegarfar,1689128
+18896118~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610897778339,5,0,nice course for technical and non-technical people.Not going to deep in single areas but a viable introduction to all fields.Even if you know some topics already there will be something new.,0,0,Martin Würflein,18896118
+16726817~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610330891063,5,0,"I am so glad that I took this course. The instructor was excellent - clearly explained things, and made it easy to comprehend the learning objectives, even without having experience writing code. ",0,1,Jessica Underwood,16726817
+48341517~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610228153966,5,0,"Very Good course and the interviews are a great asset. Information is current and helps towards building an understanding towards a DevOps mindset. Only gripe, some questions need to be put together better as they can be confusing (I answered them out of work experience) ",0,0,Ioannis Pandithas,48341517
+30825470~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610088396745,5,0,"Excellent introduction to this topic. Very recommendable if you want to get the whole subject ""in a nutshell"". In my opinion this course represents a very good starting point where you can easily build upon.",0,0,Klaus Günther Puchner,30825470
+47984411~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1610031127368,5,0,it was best to learn about CI/CD ,0,0,KUSHAGRA BANSAL,47984411
+34561767~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1609553365484,5,0,Excellent course on CI/CD.  Alex is great in explanation CI/CD and the different roles.   The interviews are also good.,0,0,Will Lukang,34561767
+21046473~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1609190122819,5,0,goood,0,0,Francisco Cortes,21046473
+73921992~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1607597156147,5,0,great course,0,0,Sheyam Aljammaz,73921992
+2183763~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1607364605368,5,0,"As the first time I do a DEVOPS course and a person who has never worked on this methodology, it seemed very good and simple. thanks.",0,0,Eduard Alejandro Sánchez Lopera,2183763
+74865761~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1607115781030,5,0,More helpful to next CI and CD ,0,0,Reddykumar Vallipagu,74865761
+62506174~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1606731355582,5,0,good course,0,0,SUGUNA M,62506174
+64729096~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1606584760123,5,0,thanks,0,0,Md Kaimon Hasan,64729096
+37984455~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1606275891099,5,0,Excelent Course,0,0,Ale Silvera,37984455
+69223502~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1606192008245,5,0,This course was a great source of information to face our own transit to continuos integration implementation,0,0,Carlos Wilfredo Eguez Terrazas,69223502
+7764738~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1605308306101,5,0,"Excellent introduction to CI, CD and DevOps for developers",0,0,Gerald Nnebe,7764738
+23551095~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604679646879,5,0,Great course for anyone that is not familiar on the topic. I am not a dev and understood everything!,0,0,Martin Carrica,23551095
+27597035~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604558261956,5,0,"Thank you so much for a amazing course help me understand concept of devops , pipelines , tests and the CI/CD",0,0,Bipin Budhathoki,27597035
+51950125~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604482426571,5,0,very good experince,0,0,Akzhol Imangazin,51950125
+36113419~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604345217217,5,0,awesome!,0,0,Oswaldo Peralta,36113419
+36311681~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604284565802,5,0,Great instructor. The course provides a high-level insight into CD and DevOps. Quizzes could be designed better. Not all of the false choices were necessarily false.,0,0,Masoud Aliramezani,36311681
+75459893~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1604037521972,5,0,"CI & CD Course was very good and very interesting , learn lot of things",0,0,Ajay Katariya,75459893
+49851961~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1603852575303,5,0,Very good,0,0,vishnuvardahanrao Rachuri,49851961
+73606770~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1603469764672,5,0,"I have learnt a lot from this course, I hope I will be able to implement the knowledge I have gained.",0,0,Refiloe,73606770
+73205219~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1603174415133,5,0,The course gave a really good overview of basic concepts and terms. It's helped me articulate devops concepts in the office and communicate effectively with the development and operations team. ,0,4,Lucie Fonseca,73205219
+4266490~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1603173217293,5,0,Хороший вводный курс,0,0,Valery Shapetin,4266490
+74287649~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602961631478,5,0,"Really helpful! As a Test Engineer, it is really great to learn more about DevOps and CI!",0,0,Mark Joseph Deada,74287649
+58550227~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602568431538,5,0,It's a good course with interviews with folks in the industry.,0,0,Suyash Sambhare,58550227
+36403124~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602342448963,5,0,indispensable for today,0,0,William Andrés Rodríguez Borja,36403124
+12865368~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602151382860,5,0,A very detailed and deep course about concepts and dynamics related to devops and CI/CD pipeline. Thank you for all the useful information! ,0,0,Andrada Nastasie,12865368
+73354434~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1602070126166,5,0,Good understanding and better explanation ,0,0,Soumya Tiwari,73354434
+72101917~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1601664755114,5,0,Good amalgamation of understanding on both DevOps Roles as well as the importance of Continuous integration leading to continuous Delivery operations.,0,0,Chayan Mitra,72101917
+73589678~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1601489385285,5,0,good,0,0,Saurabh Khochare,73589678
+57214258~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1601370188686,5,0,--,0,0,Prabhjeet Kaur,57214258
+46701696~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1601210414524,5,0,"Very recomended !My company is migrating to devops world so, as a develops team member I needed to know what that means.
+
+The clear teacher explanations, the examples and the interviews with devops experimented users helped my so much to understand it.
+",0,0,DOMINGUEZ OLIVAR IGNACIO,46701696
+67569997~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600922743750,5,0,This course covers in depth concept of How CICD works in an organization.Alex has explained the concepts of Dev/Testing/Ops very granular level which is easy to understand.Along with the course module the interviews recordings also gives an idea of how people have implemented the DevOps concepts.Overall the course material is very helpful and gives a very good insight into CICD Process completely.,0,0,Harapriya Dash,67569997
+51824923~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600915823025,5,0,Super,0,0,Dias Muratbayev,51824923
+71110823~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600867208712,5,0,Good course to understand Devops,0,0,Mihir Desai,71110823
+58089683~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600791811017,5,0,good and awesome,0,0,Ahamed Abdulla ,58089683
+44014658~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600630729130,5,0,"One of the most ""beautifully"" executed course. I enjoyed ! Yes , I enjoyed this course !And I have a suggestion, don't start with devops by ""installing jenkins"" .Start with this course !",0,3,Lakshay Bansal,44014658
+59585029~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600325013014,5,0,This is the most important course to be taken by every software engineer and i was never happy to know about this course. It gives you an over all idea of how to be a good engineer in delivering the product to the client.,0,0,Teja Manikya Vignesh Maddula,59585029
+50083807~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1600071786273,5,0,Very Helpful Course.,0,0,Recto Arieta,50083807
+1043717~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599722000272,5,0,Exactly what I needed to hear and read.  This is an excellent introduction.,0,0,Jean-Francois Burguet,1043717
+70680711~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599620483775,5,0,"The instructor is super nice, makes it easier to understand, and also he makes it very interesting. I never got bored with any of the topics that we had on the course. I found it very easy to follow. ",0,0,Verónica Bautista Vergara,70680711
+65759034~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599334208495,5,0,Excelent,0,0,José Julián Vargas Ramírez,65759034
+34885505~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1599305015557,5,0,The best DevOps Course Ever!,0,0,Izmilia Prastika,34885505
+53746632~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1598982644806,5,0,Very well articulated and well paced. Initially thought the interviews to be more advertisement but actually very useful to learn from the actual industry implementers. Good thinking.,0,0,Yogesh Desai,53746632
+53722840~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1598802697904,5,0,"It really was a great learning with this course, got to know new things in the skills I thought I was good in.",0,0,Gaurav Sahu,53722840
+66737869~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1598557639600,5,0,Perfect lecture times which kept me engaged. The idea of learning through emails was also great,0,0,Thaakirah,66737869
+11542324~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1598009745540,5,0,My sincere thanks to Alex Cowan for creating such a wonderful course with lot practical examples with great content and wonderful insights from Interviews with industry experts. I highly recommend this course to any devops enthusiasts.,0,0,Venkataramana Madugula,11542324
+68699629~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1597305703454,5,0,G,0,0,Rajkumar Palaniappan,68699629
+4306114~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1597008659631,5,0,A great course and a great tutor.I especially loved the interviews and found them really valuable.,0,0,Mustafa Albaghdadi,4306114
+58712825~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1596432191582,5,0,Thanks,0,0,Rashed Khan,58712825
+12146730~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595921502023,5,0,Best course especially to those who are new to DevOps,0,0,FRANSESCO MALILA,12146730
+40850243~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595420763594,5,0,"the Course content is too good and to understand. My experience is very nice on the Coursera.Thank you, Coursera!",0,0,Kapil Golait,40850243
+65332174~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595324437594,5,0,its very good concept .,0,0,Rajarajeswari Ganesh,65332174
+58043196~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595233390315,5,0,nice,0,0,Sakshi Upadhyay,58043196
+53966005~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595157743752,5,0,"Good course, more hands on exercises would be great",0,0,Tobias Becher,53966005
+57858294~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1595136928340,5,0,Nice.I learn how the pipeline works during  DevOps.,0,0,Rajyalakshmi Guda,57858294
+64671767~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1594691320389,5,0,thank you for the learning!!,0,0,Ralp P. Torregosa,64671767
+28366861~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593336498389,5,0,Great teacher! Learned a lot and took my first steps towards understanding the current techniques and knowledge in the Devops scene.,0,0,Rafiul Hasan,28366861
+53926499~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593318134449,5,0,Nice to have this course before investing on any payed course to get initial high label knowledge about CI CD.  ,0,0,Sudhir Soni,53926499
+51469259~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593243954280,5,0,"Good case studies, and technical exposure to DevOps",0,0,Mahalingam P R,51469259
+33134030~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1593191185968,5,0,"I am very thankful, it's helping me to understand how the DevOps process works, it's cover a lot of areas of CD & CI, special thanks to Alex the explanations were clear. I recommend this course for all developers who want to start with DevOps.  ",0,0,Amal BOUABID,33134030
+40053501~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592946970895,5,0,"This course gave me a good foundation for CI/CD, the tools available for use, and the first steps to take in implementing it in my work.",0,0,Jericho Leon,40053501
+62757236~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592752214532,5,0,This is great course to understand CI/CD pipeline and DevOps as a whole. Interviews videos and demo session with industry expert is very insightful. Go for this course if you are beginner and want to understand the DevOps.,0,0,Mohammad Mazharuddin,62757236
+63325108~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592680173324,5,0,"Thanks a lot, Alex. That was a great seminar. For me as a product owner it was excatly what I needed to gain a high-level understanding of the topic and the tools. The interviews and the demos of the tools have provided highly relevant insights. I'm sure it'll help me to improve the collaboration and the communication with my teams. ",0,0,Boris Eckstein,63325108
+35057220~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592591623531,5,0,Really good introduction to devops for beginners!,0,0,Will Peebles,35057220
+23828870~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592542405799,5,0,Great Course to have a broad understanding of Dev Ops and CI/CD framework.,0,0,Oscar Oswaldo Oliva Sandoval,23828870
+7736117~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592301697757,5,0,Very good introduction course,0,0,Igor Kyslyi,7736117
+61703103~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592071025699,5,0,Excellent course to understand CI/CD! The interviews specially add lot of value  ,0,0,Pinaki Bhattacharya,61703103
+37379173~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1592020554721,5,0,Good,0,0,Luthfan Hadi Pramono,37379173
+24136256~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591977419943,5,0,"This course is really practical oriented. I would recommend it to anyone as it gives you all different aspects (Dev, Test, Ops, Business). ",0,0,Jessica Kaleja,24136256
+23765174~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591956771705,5,0,Well explained and easy to understand. A good wholesome understanding of DevOps is the outcome. ,0,0,Kiiza Joseph Bazaare,23765174
+29864109~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591880508245,5,0,Good course with real life examples of how people are using each stage - possibly final set of interviews biased to Circle CI,0,0,Allister ,29864109
+24795386~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591787884698,5,0,Very good Explanation,0,0,Saurabh Suman,24795386
+61175857~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591715848012,5,0,"This course has enlightened me for having a knowledge of CI/CD & DevOps training. I am happy that Alex was very informative, clear with his points, and knowledgeable teacher on the subject. Interviews on Week4 was very good to hear how other companies were using CI/CD and how they achieved their goals. I am so happy to learn and have a knowledge on this subject.",0,0,Ali Ozdemir,61175857
+1935959~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591639952001,5,0,It is a good course that gives a broad understanding about CI/CD.,0,0,León Daniel Jaramillo Ramírez,1935959
+40103709~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591351951986,5,0,Great course. Gave me a very good understanding of the DevOps & CI/CD scenario and the course was great to have a kickstart in this cultural practice,0,0,Nitish Prajapati,40103709
+55374668~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1591074901997,5,0,Excellent course to understand CI/CD pipe line,0,0,Aravind Reddy Lankala,55374668
+34253627~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590956423898,5,0,Excellent course!  Thanks Alex!  The interviews were an excellent supplement to the core learning you provided.,0,0,James S Kockler,34253627
+57819337~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590867017668,5,0,Course well Planned and design to understand the basic practices of Continuous Integration and Continuous Delivery Pipeline. ,0,0,Sujata Atul Oak,57819337
+58060875~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590643809214,5,0,This course is really one of the best course to gain on overview of DevOps and Continuous Delivery,0,0,Shrey Sangal,58060875
+55133961~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590552677178,5,0,very interesting course,0,0,Prashant Kumar Gupta,55133961
+39723452~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590445525269,5,0,Great course! All concepts are clear to understand and it's really beginner friendly for someone who doesn't know much about ops or DevOps,0,0,Barış Başmak,39723452
+49022263~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590430480704,5,0,It was good course. Thanks for wonderful execution. I felt sometimes that language speed was high however was manageable.,0,0,Abhishek Mishra,49022263
+58234163~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590327198745,5,0,"It is a very interesting topic in the industry nowadays to be more productive by leveraging CI/CD pipelines. The idea of Continuous Delivery & DevOps was very well expressed by the course instructor and with the interviews, the viewers can grasp almost a full picture about why we need to think about CI/CD pipelines in depth. I highly recommend this course for anyone who has ambitions toward this topic.",0,0,Ganindu Dhananja Jayalath,58234163
+26508871~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1590320464240,5,0,"Awesome great learning for beginner , i really enjoyed this course .Thank you Alex Cowan. ",0,0,PHANI BHUSHAN,26508871
+60625181~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589809801917,5,0,Good course content which are well articulate. ,0,0,Saikiran Nazre,60625181
+57563965~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589788399229,5,0,"Very nice explanation. Now I am on position to understand the ops key skills and where ti integrate the idea if any thing goes wrong in deliverable. Interviews with tech guys, to get more clarity of using tools and their approach.",0,0,Prabhat Kumar,57563965
+7152895~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589752555090,5,0,"Very objective, with both productive enterviews and good technical material. ",0,0,Lindolfo Reinert,7152895
+47444243~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589195012731,5,0,Nice,0,0,Sitakanta Behera,47444243
+31235489~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589167966783,5,0,Very Interactive and thourough to explain your concepts better. The instructor is well versed in what he is teaching. This course is a good introductory course for professionals looking into Devops World,0,0,Yash Thaker,31235489
+55514342~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1589052341960,5,0,Excellent course,0,0,Rishabh Rathore,55514342
+2141477~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1588983365933,5,0,"Very useful with lot of real examples, interviews and the instructor provided knowledge and very good explanations with graphics and resources.",0,0,Manuel Villarejo Fernández,2141477
+44648767~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1588615071197,5,0,"A well structured, clear, conceptual, modern, and insightful course.",0,0,Gustavo Peixoto de Azevedo,44648767
+54206397~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1588083583899,5,0,Excellent ,0,0,Chaitanya Tekane,54206397
+49824194~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587807483440,5,0,"Fantastic learning. It was a unique way of learning. It helped me to stitch the knowledge I had in pieces.Thank you for the wonderful insight, assessment, interviews.",0,0,"Nidugala, Murali",49824194
+55500701~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587300098667,5,0,"Excellent course on devops and CI/CD. Provides a clear overview of concepts and techniques, also mixing in some nice perspectives and real-world examples ""from the trenches"". My own role is usually that of project management or product owner (with a strong technical interest as well). For me, the level of information was just right, and provides as lot of useful context.  To what certain teams in my organisation are already doing. To what I was already doing in part, but with lacking background knowledge (where this course helps to fill some gaps), And regarding further steps to take to move towards a more continuous pipeline. Very useful!",0,0,Daniel Twigt,55500701
+32003329~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587229893335,5,0,Really great course to give overview of CI/CI and practical examples and connect with CI/CD company leaders to share details. Learnt a lot on basics as well as importance of this. At start felt like lot of theory being shared but later as course progressed got to see application or web development teams using  CI/CD in action from CircleCI. Thank you Alex for sharing your knowledge and helping me learn CI/CD.,0,0,Nehe Akshay,32003329
+44744821~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587124223745,5,0,This course was well presented for DevOPS ,0,0,Sohail,44744821
+52269146~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1587059118591,5,0,This was a good overview course for someone with limited experience coming in with CI/CD,0,0,Jay Fredericks,52269146
+49726378~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586933654971,5,0,That's great!!!,0,0,Alexis Belles Subirats,49726378
+56317895~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586861724656,5,0,Good to learn device through coursera,0,0,Mansoor Ali Shaik,56317895
+49678908~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586802714789,5,0,The course is more than just a presen-the-material type delivery.  The interviews with real businesses to see how the point in the course is actually being practiced makes the messages much more meaningful.,0,0,Dale R. Morrow,49678908
+47842823~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586761776961,5,0,"Great course to cover lots of the areas around continuous delivery & DevOps. It doesn't give you lots of technical detail inside (leave it in resource for further study). The benefit for this is for beginner, you can have an overview of how all CICD/DevOps, SRE works. for people who really want to devote to this career, then you can slow down the learning path to check and practices the topics Alex provided in resources. No one can be an expert in all those areas.  The interviews in later weeks are great information to understand what the first line experts' thinking for this job.  ",0,0,Yu Cai,47842823
+47548561~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586457564127,5,0,"I am quite impressed with the teaching methodology and topics that were selected by Alex Cowan, Highly recommended",0,0,Ghous Khan,47548561
+49561170~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1586455483297,5,0,"Excellent course, both its content and presentation are great. Rooted in industry practice which makes it not just academic. I like that all slides are downloadable for reference. Also, the links to online resources are relevant and useful. ",0,0,Antonet Abbink,49561170
+52074255~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1585858127468,5,0,Very Nice course for Deployments,0,0,Sumit Satyam,52074255
+47602857~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1585062189659,5,0,Great!,0,0,David Roldán Martínez,47602857
+43039912~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583806383370,5,0,good,0,0,Shahlan bin Kardi,43039912
+48719562~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583757095116,5,0,Very Good Introduction to Pipelines and Devops,0,0,ANIRUDH CHAUDHARY,48719562
+48186320~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1583246894714,5,0,Great Cours about Continuous Delivery and DevOps and versioning control,0,0,Mohamed Brahem,48186320
+29973997~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1582570466154,5,0,"This is an excellent course. Alex, as always, know how to balance between the high level description and the low level details. I felt I got the right knowledge and terminology to start with. The interviews are always great addition to a course. Highly recommended! ",0,0,Erez Morabia,29973997
+47851674~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1581998434723,5,0,Great class for learning CI/CD!,0,0,Collin Mclean,47851674
+48226694~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1581690425690,5,0,Amazing course on process and tools to stand up CI/CD pipeline.,0,0,Laronda Gary,48226694
+3198068~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1580607811259,5,0,Awesome Course,0,0,Gary Thomas,3198068
+47468913~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1580371189088,5,0,Best course material to learn CI/CD pipeline in details.,0,0,TAPESHWAR SHARMA,47468913
+48358392~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1579791118920,5,0,"Excellent course information, the interviews in week four were especially helpful and really sparked my brain to come up with ideas that will allow my team to work in a more dev ops appropriate way for true CI/CD.",0,0,Danielle Favreau,48358392
+47134702~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1579584660344,5,0,very good course thanks a lot,0,0,Arkan Robby,47134702
+47167217~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1578816758223,5,0,Very nice course. Gives us a good insight of CI/CD and importance of moving towards automation,0,0,Mandar Chatufale,47167217
+37072159~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1578242863761,5,0,"
+
+It is an excellent course, finishing it you have all the knowledge to be able to implement this form of work. It is very complete and will help you understand devops and be able to use it.  ",0,0,Weber Cruz,37072159
+15496190~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1578144129733,5,0,Very beginner-friendly. I think the pace and content of this course would help relatively new software developers a lot in understanding what practices are being used in top notch companies,0,5,Sarang Memon,15496190
+30778449~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1578126231364,5,0,Excellent introduction to this topic,0,0,Andrew van der Hoven ,30778449
+37712787~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1578055727788,5,0,It was an amazing course,0,0,Ismail EL BAKKALI,37712787
+14195325~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1577359558976,5,0,V,0,0,koradedinesh@johndeere.com,14195325
+43977398~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1577128284179,5,0,"Nice DevOps Course. Explains the process in details with examples. gives you an idea on what next things you can do if you already using DevOps, else gives you a good understanding of it.",0,2,Sumit Kumar Srivastava,43977398
+45760668~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1575966208077,5,0,It is very good for the beginner. A lot of info can be used to craft standard process for software development. ,0,0,Mohamad Suwandi Bin Sidik,45760668
+2066198~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1575601024883,5,0,"Nice course with in depth information , good examples of tools and phases.",0,0,Reedam D,2066198
+22739831~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1575268424475,5,0,"This course is very great when you are working in a CI/CD environment. This will help you understand the whole pipeline for SW deployment and how can you enhance or speed up the time of deployment. With all the techniques, learning, and new ideas, it is a better kick off for a newbie in the SW industry. Thumbs up for this course!",0,2,Ivan Lawrence Nonan,22739831
+32353043~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1574318151561,5,0,"Great learning, I learned a lot about CI/CD",0,0,Varkhede Subodh,32353043
+46660513~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1574172356084,5,0,It covers all the basics about DevOps with examples and tools.,0,0,Boris Montiel,46660513
+34333177~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1574083803719,5,0,Very well explained overall theory ,0,0,Karolina Woloszyn,34333177
+45510530~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1573874198221,5,0,Amazing course. All concepts w,0,0,Ragini Betrabet,45510530
+41673529~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1573206495082,5,0,"Amazing details, views and insights. I learned a lot of how others do devops and what are the key factors for doing it well. The video quality could be improved a little.",0,0,Sebastian Breier,41673529
+44520510~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1573076995599,5,0,Excellent class. Reaches a good level of depth and detail while assuming no background in the subjects presented. Great instructor. Interviews to increase concrete examples are well done.,0,4,MKAB,44520510
+45026099~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1572919018860,5,0,very good cource ,0,0,Rosdalillah binti Mohamed,45026099
+5394765~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1572798852715,5,0,"Easy to follow with a lot of practical advice. It also looks at the rational for doing DevOps, which is a useful refresher",0,0,Dave Felcey,5394765
+36414682~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1570445302457,5,0,As per my expectations,0,0,Faran Saleem,36414682
+39101537~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1570365727845,5,0,Great overview and also some deep insights into Continuos Delivery @ DevOps.,0,0,Slavisa Dosenovic,39101537
+23414252~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1570075387209,5,0,This is very good basic course. It provided me one stop to learn about all the major concepts/tools on Dev Ops ,0,0,Gaurav Gupta,23414252
+44197932~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569540199368,5,0,The Lecturer was great in every step of the way. Explanations were very clear and concise. But I will encourage the facilitating of a practical and engaging project for a much more hands on approach. In General the course was great. I also enjoyed knowledge shared by allowing other professionals discuss how the manage the CI/CD in their various work places.,0,0,Samuel Asamoa Yaw Akrasi,44197932
+44240608~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569410799531,5,0,Was very useful to learn the benefits of CI/CD,0,0,Subhash,44240608
+45159532~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1569236219450,5,0,Amazing insights on what DevOps is and how it brings value to your product.Great course with great facilitato,0,0,Amit Shrikrishna Joshi,45159532
+32827622~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1568038267994,5,0,I've got to learn a lot on DevOps and CI/CD pipeline. Theory is clearly explained in short and to-the-point videos. The additional interviews tell stories of reallife practises.,0,0,Paul van der Meer,32827622
+44785025~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1568027295423,5,0,Very Nice and informative course. Thanks Alex for the same. would like to do more courses on coursera,0,0,GIRISH,44785025
+24117230~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1567803413255,5,0,"It's a great course, thanks Alex",0,0,Ahmed El-Faleh,24117230
+41969560~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1567641677502,5,0,Amazing Course !,0,0,Navdeep Cheema,41969560
+44118320~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1567127194936,5,0,Thanks for giving overview about  DevOps proess and the teams which are involved and their duties. Also came to know about CI/CD process.,0,0,Phanindra Kumar Athota,44118320
+42300366~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1566892741942,5,0,Excellent introduction course which is well delivered with interesting topics on the CI/CD Pipelines. Great interviews from expert individuals.,0,0,Paul McDaid,42300366
+41219752~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1565208264697,5,0,Excellent course. Thank you Alex,0,0,Warren Laine-Naida,41219752
+39628288~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1564995723297,5,0,Excellent course !,0,0,Fabrizio Diantina,39628288
+20544249~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1564493461482,5,0,A very good introduction to DevOps. It was very well explained the fundamental aspects of CI/CD and the emphasis that was put on testing was very valuable in order to put focus on that part of the process. ,0,0,Alfonso Abad Magaña,20544249
+40143746~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1563880344887,5,0,good,0,0,Masooth AYOOBKHAN,40143746
+37385555~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1563875409931,5,0,Very good course and structure - well presented and delivered,0,0,NealeC,37385555
+42726183~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1563856663773,5,0,"Excellent course with practical examples, and a  good teacher!",0,0,Marlon,42726183
+21624210~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1563800526787,5,0,"A great introduction to DevOps. Gives an overview of DevOps components, related processes and primary reasons for implementing DevOps. The course is mostly a conceptual overview and discussion of elements involved, thus no tool knowledge or hands-on necessary. If you have test or development experience a couple of the videos and examples will be trivial and can be enjoyed at 1.25 video speed. The quizzes were surprisingly good at verifying your understanding of the material and emphasize key points in the lectures. ",0,3,Kim Hjortholm,21624210
+41119367~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1563308227049,5,0,Very relevant topic and once again delivered in a very engaging and entertaining way. Alex Cowan rocks. Best facilitator of tech topics I have seen past 15 years. Thanks!,0,0,Daniel Storm,41119367
+39369737~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1561641066439,5,0,best course to understand CICD and devops basic,0,0,Ritesh Zade,39369737
+41699869~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1560754611417,5,0,Excellent course and subject matter. Alex is a great present and keeps it interesting and to the point. Can highly recommend this course.,0,0,Chathuranga De Alwis,41699869
+5087140~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1558865795381,5,0,"I was looking for something relatively non-technical, but helps understand at a high level what is needed before I can achieve ""CICD"" in my ops team which is a mandate handed to traditional ops. This course explains in a simple manner with some useful tools along the way, the steps, challenges and points you to the start line for your team. ",0,0,Ernest See,5087140
+39947095~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1558108759664,5,0,Great overview course and Alex was fantastic,0,0,James Waterfall,39947095
+1339911~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1557772510143,5,0,"A general discussion about the role of DevOps and the Culture within the organization a ""Must see"" for any professional who is looking for a serious step into gaining velocity when building his product or solution",0,0,Octavio Luna,1339911
+40110474~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1556197782504,5,0,Great intro into this space,0,0,Terri-ann Robinson,40110474
+32018672~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1555407512713,5,0,"This course definitely is timely and very helpful for everyone who are engaged in QA, Thanks to University of Virginia, you can earn a certificate.",0,0,Yonas Demeke,32018672
+26076224~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1554694166654,5,0,really helpful especially the interview with real first hand people working within Delivery and Devops team. Thanks.,0,0,Chiara Larraine Gerona Reyes,26076224
+26561095~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1554270273769,5,0,"Its very much helpful in understanding the flow of testing and operations in a company, and sharing a real experiences by interviews  ",0,0,Vinay Kumar M,26561095
+5532861~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1553603850542,5,0,"Although I did not paid for the certificate, I thought the subjects shown really good and well approached.",0,0,Ruy Francisco Silva de Almeida,5532861
+39485845~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1552904696604,5,0,Very informative course for be,0,0,Sumeet Phokmare,39485845
+31772088~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1552834447195,5,0,Very Good. It includes a practitioner to interact with.,0,0,Limas Baginta,31772088
+2215528~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1551877528842,5,0,Good overview of CI/CD with practical examples as well as pointers on how to get started,0,0,Peter Vicevic,2215528
+16948025~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1551613712952,5,0,"Alex is great at explaining things and taking the curse off of some relatively complex topics. I knew bits and pieces of this already, but now I know how it all fits together better and have more understanding about the business cases for each component.",0,0,Warren Puckett,16948025
+5742223~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1551018556270,5,0,very good course,0,0,Mohamed Amine M'BARKI,5742223
+36654539~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1550468419752,5,0,Recommended Course,0,0,Theodorus Widiatmoko,36654539
+6047552~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1550165372056,5,0,Awesome Professional Certificate course ,0,0,Harish Padmanaban,6047552
+39264668~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1550050504851,5,0,I like this course ,0,0,Dubey Ashish,39264668
+6355197~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1549637072900,5,0,useful,0,0,Усик Михаил Александрович,6355197
+18118500~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1547396288255,5,0,Excellent course. Good people giving interviews. Has really taken lot of effort to build this course and bring expert people for giving interviews.,0,0,Neeraj Kulkarni,18118500
+38453796~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1546519239889,5,0,"All bases covered: theory, examples, tooling, case study interviews. Great introduction course.",0,0,Marc Hoogendoorn,38453796
+11277229~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1546018795522,5,0,"What a course, very informative and practical.",0,0,Yonatan Fessehaye,11277229
+35984457~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1545408013143,5,0,Very good course.,0,0,Himanshu Shekhar,35984457
+2068669~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1545104145057,5,0,Excellent course which helps reinforce your understanding about CI/CD pipelines. ,0,0,Sudharaka Palamakumbura,2068669
+6258633~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1544625944301,5,0,Very well understandable course for DevOps and Continuous Delivery. Thank you Alex for very good level of videos and very motivating content of this course. It gives me new energy to improve our CI and to go forward from CI to CD with my team.,0,0,Vladimír Grimmer,6258633
+23084077~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1543605878283,5,0,"Really great - waiting for Specialization
+",0,0,Shyam Patrick,23084077
+37412338~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1543429439419,5,0,Very useful course. Gave me insight to working business plans and their challenges. There were some great tips and advices during the course.,0,0,Athanasios Kordas,37412338
+21867184~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1543245419518,5,0,good,0,0,RADHISH,21867184
+12253038~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1543158475119,5,0,Very complete with every aspect from Continuous Delivery.,0,0,Ruud Koolwijk,12253038
+18847205~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1542424242272,5,0,"Great course- super helpful. I liked that it was so comprehensive on DevOps and delivery. If you want to go learn everything about Kubernetes or Jasmine, there are lots of good options. What I needed was to better understand what all this stuff is and what matters when.",0,1,Sarah Cohen,18847205
+14625315~COURSE!~yHvuv3ZLEei_sRJ3tviPRg,1541684456637,5,0,"Excelente curso, principalmente na exploração de ferramentas free/open source como exemplo.",0,4,Bruno Eduardo Santos Monteiro,14625315

@@ -1,0 +1,9 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+820408~COURSE!~cDyjOhSFEeuaHQrJzOB1tQ,1650226659931,4,0,Great info! Poor sound quality.,0,0,Dr. Uohna June Thiessen,820408
+17568469~COURSE!~cDyjOhSFEeuaHQrJzOB1tQ,1630145609598,4,0,"Pro: Covers various techniques for handling imbalanced data sets. With metrics and visualizationsCon: - Audio is sometimes hard to hear. However the closed captions help. 
+- The Rhyme platform is problematic. Eventually I downloaded the dataset and ran the notebook locally. 
+- The complete notebook isn't available. I think it is better when you have a complete notebook and can concentrate on listening to the lecturer and annotating the notebook.Other:
+- There is no theory, just a demonstration of various techniques for under and over sampling. 
+On the whole I think this is positive. There are a lot of techniques. So first find the one that is relevant to your data-set - and then study it further on the Internet.
+- It seems that there have been changes in the imblearn library so sm = SMOTE(), x_sm, y_sm = sm.fit_sample(X,Y) doesn't work. You need to change it to fit_resample().Conclusion: Would definitely take another project given by the lecturer. Mainly because of the emphasis on visualizations and metrics. With so many examples on the internet - you'll always eventually have an ML that runs. The real challenge is ensuring the results are fit for use.",0,0,Yaron Klein,17568469
+512785~COURSE!~cDyjOhSFEeuaHQrJzOB1tQ,1606703647366,5,0,"Learnt lot of new technique for handling imbalanced dataset. Good project. However, I strongly recommend downloading the dataset from internet and run locally. Coursera's platform for running the project is confusing.....Overall good project.",0,1,Mohammed Khan,512785

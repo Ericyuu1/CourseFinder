@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+11865092~COURSE!~X8Zk74EQEeyoNA5LwAhmgw,1652306823017,3,0,"Le falta algún video más vídeos para explicar mejor el template que se empieza ( el del asssitente de bot ). Si intentas finalizarlo por tu lado una vez acabado el curse empiezan los problemas con Composer ( da problema con los Skills )  , asi que de poco sirve ese ejemplo.
+Pero por lo menos muestra los problemas que tiene el composer con la publicación y que / cómo son los servicios usados de Azure. Eso me pareció relevante y facil de entender al final. ",0,0,Carles Gutierrez,11865092

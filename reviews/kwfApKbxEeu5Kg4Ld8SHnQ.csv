@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+89812~COURSE!~kwfApKbxEeu5Kg4Ld8SHnQ,1638482674485,5,0,This was a good introduction to using Docker on AWS and a good introduction to AWS Fargate.,0,0,David Trower,89812
+12146730~COURSE!~kwfApKbxEeu5Kg4Ld8SHnQ,1622545005121,5,0,A good foundation to containers,0,0,FRANSESCO MALILA,12146730

@@ -1,0 +1,393 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+22116700~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1478698807059,1,0,按照要求抄了一遍程序却说我0分，自己试了一下程序没有任何问题，输出格式也正确,0,0,吴祺尧,22116700
+17290683~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1462344316918,1,0,课程复杂无趣，难度提升大,0,0,陈诗祎,17290683
+7574816~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440723105784,1,0,课程比较基础，但是明显老师没有认真准备，课程的视频是东拼西凑的，而且每个章节的作业和章节内容关系不大，有的作业对于新入门的人来说太难了。主要的问题就是作业和章节内容基本无关，老师准备主页太不认真。,0,1,songwei,7574816
+8531175~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446228423451,2,0,unable to submit any home work for marks,0,0,Di Wang,8531175
+6741417~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439551687252,2,0,课程很棒，干货很多。但是与同类课程相比，要说它优秀却很难。  毕竟这里是coursera，范围是全球。        ,0,0,刘瑞琦,6741417
+26678880~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1522174022510,3,0,我觉得还行,0,0,zhangdi,26678880
+30849056~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1519712889144,3,0,习题的细节让我很奔溃，希望能把题目说的更明白一些！！,0,0,shinan,30849056
+8084146~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1497325512224,3,0,讲的凑合ba,0,0,Deleted Account,8084146
+13618403~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472046817122,3,0,老师讲的很好，但。。和国外大学比较起来，整个课程在作业设置和社区助教帮助方面。。简直。。,0,0,Yiping Wang,13618403
+3176122~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455657373020,3,0,没有基础会学着很吃力┑(￣Д ￣)┍,0,0,Jingyue Gao,3176122
+6925059~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446470741129,3,0,base coursera.,0,0,haojunyu,6925059
+3241576~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441779745377,3,0,很适合大一新生的课程，但是课程中的assignment评价系统需要提升，因为如果不过的话给出的错误信息实在是太少了，后来才发现是因为编译器不同造成的。还有就是老师的语速实在是太低了，两倍速才是不昏昏欲睡的语速。,0,0,hongda zhao,3241576
+7143067~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439690136136,3,0,这个课的作业做起来非常吃力，只是简单的openjudge上的习题搬过来了，没有任何说明，甚至还不如openjudge上的说明详细，和当周的课程内容联系也不紧密。经常出现的一个情况就是，最后一章才讲的内容，搬到中间作为习题出出来，让人完全不知道如何下手。我对于习题经常是花了七八个小时，最后实在做不出来之后，只能google答案，结果一看答案。看见原来是一个知识点没有见过而已，只能呵呵。老师讲得的确很好，但是，这个习题的质量确实太糟糕了。讨论区也没几个人管，对于一些学生的提问，根本没有助教回答，经常一个问题，就是不了了之，因为没人知道答案有一些问题真的是反复出现，每个人都会遇到的。例如有一道题目——买房子。那个输入语句就没有讲过。也没有任何提示，讨论区里说是while（cin>>m>>k)但是也很含糊，我觉得这道题目就非常不适合放在这里，这一题明显应该放在字符串那一章才对本来是打五星的，因为作业要扣掉两星，最后打三星,0,11,Wan Kanzhen,7143067
+29883789~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1645827817431,4,0,课程设计和讲解都是不错的，几时有编程基础认真跟下来绝对有收获。但习题真的太让人火大了，尤其在对比上了Google开的其他编程课对比后，感觉这个specialization的习题不是为了测验学没学会知识点而是脑筋急转弯故意为难学生...,0,0,Y Yin,29883789
+10846212~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1640458513264,4,0,北大不愧是北大，老师讲课太好了吧，解答了很多新手会有的疑惑，满足好奇心，又通俗易懂地讲出了难以消化理解的知识点。没给五颗星是怕你骄傲。哈哈提出一点建议，有的作业还是有点难度的，如果加设一节难题讲解视频将会更加完美。感谢老师的用心编排，十分受益。我心中的cs50！yyds,0,0,Claire,10846212
+26812945~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1591528540612,4,0,优点：老师逻辑清晰，各个知识点都讲解到位。            计算导论中关于量子计算的拓展我很喜欢。            程序题与课业有一定结合，作为初学者课程是很不错的。不足：录制的视频有些有杂音，PPT并不是特别精美。            Does not support English subtitles,0,1,Mingzhe Huang,26812945
+49331862~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1589177322478,4,0,The homework sets are not in great order and some of them are too difficult.,0,0,Qicheng Wang,49331862
+44029048~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1581650053368,4,0,老師在課程講解的部分非常優秀，但是題目給的還是很吃力，對於一個剛學C程序的學生來說，自己編程實在困難，希望改進！,0,0,林宸宇,44029048
+40971805~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1578156856857,4,0,希望助教啥的能有几个在线的，虽然说是很久前的课程了。。但是正如老师强调的软件生命力，你这课程的维护更新是不是也该有生命力～,0,0,赵子清,40971805
+32738404~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1574730011295,4,0,"对完全没有基础的人来说是很好,但是作业的要求说明不是很明确。 提交作业后只会显示答案正确或在答案错误 没有说明",0,4,Yang Yunzhong,32738404
+23557778~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1562824786893,4,0,还行吧，就是我学的太慢了,0,0,Mark Chen,23557778
+12002252~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1562617935963,4,0,"老师讲的特别好, 特别喜欢这个老师. 但是课程感觉有点偏老了, 想要学习一些更新的编程语言, 希望可以更新",0,0,晔 胡,12002252
+7120595~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1539942649399,4,0,老师讲的通俗易懂，就是论坛里比较冷清。,0,0,zhu,7120595
+9063002~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1537406575775,4,0,y有课件就更好了,0,0,陈逸凡,9063002
+19004067~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1536172648892,4,0,c除了 作业有些坑浪费了不少时间以外，其他都非常不错，第一次上讲得这么好的课，看起来简单，其实涉及很多原理和底层的东西。,0,0,潘登,19004067
+21851083~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1535043815038,4,0,還不錯，不過對於新手來說不太容易,0,0,Wei Shuan Li,21851083
+7274946~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1532009326849,4,0,讲课讲得非常好。缺点就是评分系统非常不智能，其实如果评分系统能给出所有的测试样例，就可以极大地帮助学生。不过这或许是因为课程开得比较早吧。,0,0,Kai Wu,7274946
+20544967~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1524474370638,4,0,课程音频有高频噪音，最好可以后期再处理一下……然后 oj 的错误信息希望可以具体一点，本地开 -Wall 都没事结果是 Compile Error 我也很绝望啊,0,0,b,20544967
+29877320~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1521016049401,4,0,老师讲课很清楚，但是论坛已经基本上没有活跃度了。作业有问题却没人讨论。,0,0,Wang Qi,29877320
+30598028~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1519534931110,4,0,老师很棒！thanks,0,0,Yidan Li,30598028
+6406514~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1519001886498,4,0,课程安排结构合理，需要课下多复习和动手,0,0,Yufeng Zhang,6406514
+5671696~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1516654143245,4,0,适合入门，但是知识结构有点浅显，可以参考UCDavis的<Theory Of Computation>,0,0,Tao Xu,5671696
+8826152~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1512387765438,4,0,答案评价系统不好,0,0,"Zhang, Hao",8826152
+12019100~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1501840663073,4,0,讲的很细很明白,0,0,Roc,12019100
+27135931~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1500968895803,4,0,"讲师讲的很好,只是作业的编译器版本有点老旧,有时在本地编译明明是成功的,但是上传之后却是编译错误",0,0,曾观泽,27135931
+25163077~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1496556797688,4,0,讲解了计算机是怎么算数和一些计算机发展史  后面讲解了一些C的基础语法知识。 挺好的一门课程，感谢老师。,0,0,小木匠QvQ,25163077
+18340746~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1491625052769,4,0,讲的很好，题目难度也适中，很喜欢。,0,0,Yujia Shi,18340746
+11779931~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1485675631564,4,0,还有改进的地方，有些地方讲得有点不清楚哦！,0,0,Wenduo Luo,11779931
+7272455~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1483632559432,4,0,讲的很好，习题有点儿难，折腾好久断断续续搞完，累啊,0,0,Cifer X,7272455
+22015540~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1477645538950,4,0,做作业的时候很难找到自己的错，尤其是输出答案与样例一致。网络也找不到原因，使学习很困难,0,0,邢晓佼,22015540
+14948514~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1474268616356,4,0,课程内容安排非常合理，只是课后问题很少能得到助教回应。,0,0,Haojie Li,14948514
+9271035~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1473823871597,4,0,"Good to start programming in C language, but something used in homework doesn't mentioned in class material",0,0,Deleted Account,9271035
+19519870~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472008996311,4,0,基本没有答疑环节，课程内容还不错,0,0,杨凯强,19519870
+20350750~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1471845859524,4,0,too easy so not suitable for students with some programming experience.,0,0,LI Wen,20350750
+18960619~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1470731226496,4,0,老师讲的挺好，不过我觉得不够基础。,0,0,赵睿琦,18960619
+8876804~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1465975201010,4,0,通俗易懂，课程很棒，要多一点练习题讲解就更好了。,0,0,薛飞,8876804
+885313~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1459483998203,4,0,clear and easy for an outsider. seful ,0,0,Luyuan,885313
+17074978~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1459238337449,4,0,语速有些较慢，让人有种等得着急的感觉,0,0,HowardZhou,17074978
+4375154~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1456133240981,4,0,题目稍微有些简单。感觉指针，链表是不是应该早点讲，不一定非要学了那些基本的再去学其他。,0,0,囝岩,4375154
+6120012~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453299351384,4,0,挺好一门入门级的课程~,0,0,Aaron,6120012
+5183930~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452731035570,4,0,老师很有激情，讲课形象生动。但是有长时间的作业提交系统崩溃，且未被及时解决，很影响用户体验。,0,0,Haotian Zhang,5183930
+15214882~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452160967263,4,0,李老师讲课非常棒，深入浅出，让课程容易被学生理解。部分课后习题好像放错了位置，本周习题是下周要学的。如果学生上交的作业没通过，能告诉学生运行哪组数据不能通过，就可以帮助学生找到错误，期末考试最后一题我没通过，但是运行任何我能想到的数据都是符合要求的，这样我找不到自己的错误。,0,0,Jerod Shi,15214882
+16925064~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452060561372,4,0,清楚明瞭教學優質,0,0,Zack,16925064
+16567489~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1451198530795,4,0,课程设置很好，可惜穷鬼拿不到证书。。。不过学到知识都一样。,0,0,Gao Jiangfeng,16567489
+6555469~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1445617672044,4,0,思路清晰，有条有理，零基础也不怕,0,0,ZL,6555469
+10454202~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1443269793481,4,0,讲师很棒  ,0,0,Vin Potter,10454202
+14485542~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440827067568,4,0,作为一门设计给初学者的课程，优点在于课程内容很详细，在基础和细节方面讲授很到位，但是进度有一些过快，同时作业的设置有一些不合理，总体上很不错的。,0,0,Deleted Account,14485542
+10614124~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440459028740,4,0,"The content is good but should be more organized. More instructions and explanation should be provided for exercises. Particularly, the auto grading system should be improved. Besides a simple term like ""compile error"", more explanation should be provided to help students debugging. ",0,0,Ji She,10614124
+13914197~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440377699179,4,0,充实的课程内容。扣掉一星是因为作业安排混乱。,0,0,ZHOU Mengyuan,13914197
+14103297~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440230549825,4,0,week 1 ：计算机为什么能利用电路实现计算一：三次数学危机  毕达哥拉斯定理  ，几何方法；微积分，实数理论；集合论，不完备性定理。计算模型，图灵机构造：存储带，控制器；工作步骤：读取存储状态，根据存储内容和自身状态选取语句，据相应程序做三个动作，写入存储，变更自己状态，向左或右移动。图灵机工作实例。二：数在计算机中如何表示，二进制；逻辑上，数如何运算，布尔运算，与，或，非，异或，同或，半加器（本位，异或结果；进位，与运算结果）；物理上，计算是如何实现的，数字逻辑电路。week 2：计算机发展现状及发展趋势一：早期计算机；现代计算机，电子管计算机，晶体管计算机，集成电路计算机，超大规模集成电路计算机；快速，方便，经济二：目前芯片发展遇到问题：散热；晶体管大小限制，电泄露。量子计算机。week 3：计算机是如何运行程序的？一：冯。诺依曼计算机，控制器，运算器，存储器，总线，输入和输出设备。控制器从存储器读取指令，分析出计算指令和要操作的数，从存储器取出相应数放入运算器，运算器计算结果，输出到存储器或输出设备。控制器、运算器、存储器即CPU，存储器包括（寄存器）高速缓存、内存、外存（硬盘）。存储器：代码存储区和数据存储区。CPU指令执行：执行指令集的程序。程序执行：指令编译成代码，代码汇编成机器码（二进制）。,0,0,秦立龙,14103297
+6456475~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440210821235,4,0,是CS101类的课程，讲的挺全面的，个人感觉节奏还是有些拖沓，不够还是很喜欢。,0,0,陈浩泰,6456475
+13411181~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440123151259,4,0,李戈老师的解释十分精妙，深入浅出，十分适合初学者。还可以再多提供一些扩展的学习材料。,0,0,Michael Ma,13411181
+13267939~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440064274316,4,0,讲得很细。,0,0,ultimate,13267939
+14130534~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439687135599,4,0,a little bit difficult at the beginning,0,0,朱仁轨,14130534
+13409147~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439572371751,4,0,Lecturer is pretty good,0,0,zhghao,13409147
+8936698~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439525027568,4,0,"Very good course, recommend to take, but homework is kind of beyond what has been taught.",0,0,Hang Li,8936698
+107322992~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1655916307230,5,0,不错 很适合入门,0,0,Carlos Moya,107322992
+95849184~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1651663285792,5,0,非常棒的课程，非常棒的老师！,0,0,Kasie Zhang,95849184
+102845768~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1648377999099,5,0,老师讲的生动，,0,0,段星华,102845768
+65659949~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1645707790220,5,0,Thanks a lot!!,0,0,TroyeSam_0104,65659949
+95012261~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1640106951403,5,0,"A lot of details, really learn a lot.",0,0,zongen li,95012261
+46517027~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1636326464032,5,0,"Very helpful, higher recommend!",0,0,Yumeizhi Jia,46517027
+35565725~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1633519984081,5,0,习题很好啊，配合课程食用很棒，不会说只看不做然后越看越不会,0,0,谋铭 杨,35565725
+80372848~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1632810425836,5,0,好 好 ,0,0,王翔,80372848
+56719803~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1627664224206,5,0,超赞，老师讲得深入浅出，练习循序渐进，是入门很好的课。,0,0,Jiafei Zhang,56719803
+87852031~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1624215262572,5,0,挺好，挺喜欢这个老师的。,0,0,CHEN ZHUOFAN,87852031
+47470882~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1613981766809,5,0,不愧是北大的老师，对程序的讲解比我大一的C语言课的老师讲的更透彻细致，作业题也较为优质，对于函数、程序的细节和一些钻牛角尖的问题愿意一直讲解，为我解开了很多问题,0,0,Zihao Zhao,47470882
+77369977~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1608568329575,5,0,有的时候题目要求是否需要持续输入说的不是很明白,0,0,王雨辰,77369977
+74783636~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1606210999259,5,0,非常好的新手入门教程，李戈老师讲得非常详细且易懂,0,0,周玮琦,74783636
+61584854~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1605200111313,5,0,я хочу продолжить обучение,0,0,PERFILEV DMITRII,61584854
+47646519~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1604883581931,5,0,最好的入门中文课程,0,0,L cannan,47646519
+11329274~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1603662808254,5,0,不错的课程，老师充满人文关怀。,0,0,Chen Huan,11329274
+71751240~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1603151298767,5,0,Thank you very much! I really enjoyed this course.,0,0,Maiya Qiu,71751240
+72905484~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1602703914354,5,0,老师讲的非常详细，语速也非常缓和。循循善诱，一步一步把计算机的最基础的地方剖开来讲给我们听！并且老师的授课氛围也是那种很轻松愉快的，听李老师的课我很少走神！,0,0,聪 徐,72905484
+22871221~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1601888258430,5,0,如果能够再全面详细一些就更好,0,0,He Gao,22871221
+42182712~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1601714180715,5,0,非常好的课程～不过可能需要一些编程基础会更容易理解。小建议：作业提交时如果报错，能够看到错误时的i/o，这样能更有针对性地理解自己编程哪儿没考虑到。,0,0,Hongru He,42182712
+42988264~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1600142635935,5,0, 很不错，对于非CS班的同学很友好,0,0,谭博予,42988264
+63674009~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1596891742546,5,0,老师讲解很清晰！让我能很轻松的理解学习内容，这门课很适合新手入门。,0,0,Xiao Ran,63674009
+24051939~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1593818617493,5,0,awesome!,0,0,Li Ke,24051939
+63762498~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1592985528483,5,0,本门课程都是一些比较基础的东西，李戈老师讲的也很好，所以很轻松地学完了。下个课程再做详细的评价吧。,0,0,Hopen,63762498
+49464170~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1590236053698,5,0,老师讲的非常好！！！清晰易懂,0,0,Pengbo Wang,49464170
+12378908~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1586794462937,5,0,好老師，好課！,0,0,千容 黃,12378908
+52216471~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1586422312287,5,0,非常棒的一门课，老师讲的很容易听懂，注重基础，也很注重练习，棒棒哒。,0,0,杨志强,52216471
+46976553~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1581568035269,5,0,李戈老师讲的太认真了，冰激凌车太可爱了！,0,0,zhenhua Fu,46976553
+46749194~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1580201145893,5,0,非常棒,0,0,李金泽,46749194
+39541703~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1579615098534,5,0,非常好的上课体验！,0,0,cornell,39541703
+9470030~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1574141302360,5,0,讲解很清晰，让人一听就懂。,0,0,Shucheng Yang,9470030
+40828825~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1570977105970,5,0,I have learnt much in this course!,0,0,Issac_ Leong,40828825
+44692441~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1570261402930,5,0,讲解比较简单易懂，适合没有基础的新手。,0,0,Tusaim,44692441
+43280122~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1568876414483,5,0,The most specific course I have ever learnt. Thanks to Prof. Lee.,0,0,Jiangbo Wu,43280122
+43905071~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1568191338473,5,0,不愧是清华大学的课，深度就是不一样，不像很多课程只局限在当前的一些技术，还有很多对未来的一些探讨发人深省,0,0,ShawnWang,43905071
+33140723~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1566783736338,5,0,老师讲解由浅入深，讲课逻辑与思路清晰，既能学到编程思维，又能学到编程实践。谢谢老师的讲解！,0,0,Phoenix,33140723
+35486948~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1566562851735,5,0,这门课课程对于中文学生而言2倍加速，快速打牢C语言基本功，非常高效。谢谢李戈老师，让我们感受到一流学府的魅力。,0,0,edwardyao,35486948
+6521381~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1563840490342,5,0,"Great explanation, very detailed and presented in a clear style. Solid foundations. Modest titled course with lots of joy. ",0,0,邹沛成,6521381
+21557768~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1561618639011,5,0,Very detailed and insightful course. Cleared me  lot of minor details that I would have otherwise missed in University lectures.,0,0,Eugene Wang,21557768
+33660903~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1561278113067,5,0,浅显易懂，锻炼思维,0,0,qiyue shen,33660903
+40706884~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1559129740028,5,0,nice！,0,0,邱永辉,40706884
+29176371~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1558512265518,5,0,深入浅出，由浅及深，从实际出发，知识接地气，作业贴近课程内容，让人在不知不觉中掌握知识。,0,0,蒋宇健,29176371
+15214027~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1558432468994,5,0,很好的启蒙课，在我的职业生涯中也一直在起着潜移默化的作用。,0,0,Camille,15214027
+27478206~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1556615141856,5,0,非常棒的课程，要是上学的时候能够接触像李戈这样的老师，接触这样的课程，不知道能有多幸福，有机会的话会分享给身边需要的人,0,0,Yang ling,27478206
+37454330~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1556502041583,5,0,李老师讲课风趣幽默，深入浅出，相当棒的入门课程！,0,0,Yichao Wu,37454330
+9439183~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1556368674542,5,0,课程非常系统，练习也相对充足，虽然至今为止也没找到课件在哪里下载（不知道课程还有没有人维护），但还是值得一学。,0,0,Xianwei Luo,9439183
+14901553~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1556272215547,5,0,awesome guidance!,0,0,Wentao Hu,14901553
+8814533~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1554469571259,5,0,循循渐进，提纲挈领,0,0,黄思渊,8814533
+39046645~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1553532402288,5,0,很好，老师讲课很有趣,0,0,王创新,39046645
+23990141~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1551784710155,5,0,完美,0,0,excalibur95,23990141
+31612990~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1551105959887,5,0,由淺入深 講解傳神,0,0,YU SHUN MAO,31612990
+10418146~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1551091841130,5,0,很棒,0,0,张嘉麒,10418146
+30396982~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1549557350305,5,0,课后编程题有一些稍难，和进度不是很统一,0,0,yangcheng,30396982
+14112154~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1549197149997,5,0,从感性和理性角度分别理解计算机程序是个非常好的学习方法，并且老师讲解的节奏很好。尽管不是初学者，但是在老师这里还是学到了很多东西。感谢这位优秀的老师。另外，感谢老师科普冰激凌车！,0,0,MegaRange,14112154
+36900563~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1549119511587,5,0,这门课不仅仅在教我们写代码，更重要的是教给我们思考的方式。很喜欢李老师。思路清晰，对知识点的讲授清晰合理。,0,0,haiki,36900563
+38144273~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1548279902557,5,0,Impressive and details in C++ and C,0,0,Zijian He,38144273
+36434651~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1547272109108,5,0,较为基础，适合入门,0,0,XIAO LIU,36434651
+28274065~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1547195658176,5,0,很好的打基础的课。对于字符串的处理也很有帮助。一些小细节也提点到位。,0,0,王桢,28274065
+18455151~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1546929184094,5,0,很棒的课！,0,0,韩旭,18455151
+25725562~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1546314511221,5,0,老师讲得特别好,0,0,Peichen Tian,25725562
+24799149~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1546260451244,5,0,老师讲课通俗易懂，功德无量,0,0,万伟杰,24799149
+16071223~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1546046850737,5,0,"课程的架构非常清晰, 老师讲解细致且有大局观, 非常适合学习程序语言, 很建议同学们继续学下去, 获益匪浅.",0,0,Yiming Zhang,16071223
+38258212~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1545628305385,5,0,The best! ,0,0,Xiaolong Li,38258212
+32571179~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1545339954958,5,0,很基础但是很有用的一次课，当作本科的复习了，期待之后的课程,0,0,Tianyu Qin,32571179
+22988869~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1545239280087,5,0,"老师讲的课程简单易懂, 在语法知识的讲解上也浅显易懂, 让我一个新人都能很容易理解. 感谢老师, 对开始学习编程的我非常有帮助.",0,0,xujingrong,22988869
+8592733~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1544681686874,5,0,老师讲的很好，课程安排肥肠合理。琐碎知识点的确实落实很到位，但是wo x可程序的时候依然偶尔很迷茫很懵圈，加上错误的答案并没有明确的解答与分析，相同的题目有不同的答案却也并没有合适的资源，所以稍有压力，导致整个课程拖的时间比较久。,0,0,LinE,8592733
+25342690~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1543926588980,5,0,Very well. This course is suitable for those who want to learn c language but without any background.,0,2,chang liu,25342690
+32306050~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1542020379379,5,0,Good lessons. Also helpful for people who don not have learned it before.,0,0,Xiongtao Chen,32306050
+36002454~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1541849337248,5,0,高质量的基础入门课,0,0,桑天宇,36002454
+23846554~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1541429494393,5,0,比当年的c++老师好太多了，感谢各位老师能给广大普通学子一个机会接触如此高质量的计算机课程,0,0,Sinan Lin,23846554
+16237623~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1541061285468,5,0,很棒很棒的课程！,0,0,刘聪,16237623
+27570254~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1540092704876,5,0,补充了全部的计算机知识。,0,0,zydchina,27570254
+28850700~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1538922922034,5,0,非常好的课程,0,0,Deleted Account,28850700
+34819769~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1537112032144,5,0,非常棒的课程，异常丰富，完善了我残缺的知识体系。让我有机会从一个全新的角度，学习计算机科学。,0,0,Zhao Yifeng,34819769
+33804955~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1537071298946,5,0,中文世界里最优秀的C语言课程,0,0,Jiang Feng,33804955
+28229877~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1536896488100,5,0,一点也不枯燥,0,0,ZHAO XI,28229877
+31640716~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1536812073962,5,0,非常初学者友好！,0,0,Shuning,31640716
+33040331~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1536612218772,5,0,我是一名软件工程的毕业生，本科在读的时候没有认真学习，现在在补课。李老师讲课是真的非常清楚，导论部分的很多内容，我现在看仍然能有很多收获。如果能给4.5是想给4.5的，因为OJ系统不太人性。很多在我的电脑上能编译通过的代码，提交到OJ上会提示编译错误。很多在我电脑上没有问题的代码，提交到OJ上会提示Wrong Answer。可能是有某几个极端的测试用例没有通过，为什么不直接给出错误的用例呢。。。这样调代码不会花费那么长时间。最后，李老师讲课真的棒！！！！！,0,0,Huang Xin,33040331
+27754416~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1536287336759,5,0,好喜欢这门课！上完还很恋恋不舍 李老师很棒 算是C语言入了个门 非常有趣！,0,0,Wanru He,27754416
+14234478~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1535613533621,5,0,氛围比较好的一门课，有足够的练习,0,0,Yongyi Zhou,14234478
+27816413~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1535359117041,5,0,nice,0,0,yuanxin,27816413
+34633536~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1532065143295,5,0, 比我大学老师讲的好多了！,0,0,Hangjia Liu,34633536
+29512958~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1530150531058,5,0,感谢李老师系统梳理了计算机知识，讲课风格轻松易懂，通过比喻和图画易于理解，像我这样自学的人真是受益匪浅。,0,0,曾瑞,29512958
+30340028~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1530113024985,5,0,老师讲课深入浅出，很喜欢李老师的讲课，非常棒的一门C语言入门课程,0,0,Edward Kuang,30340028
+27123195~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1530059582221,5,0,通俗易懂，非常具有启发性。,0,0,YongyiWang,27123195
+34339920~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1529050818725,5,0,很好很棒很充实,0,0,章鱼鱼鱼鱼,34339920
+15450136~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1528716118226,5,0,非常棒的一门课！,0,0,menghengxue,15450136
+32415052~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1526030346435,5,0,GOOD CLASS FOR C BEGINNER.,0,0,Qiaoqiao Ge,32415052
+24917156~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1523079145831,5,0,讲得非常好 收获很大,0,0,张嘉星,24917156
+18935970~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1521734474927,5,0,f,0,0,Yanxiang Yang,18935970
+30427210~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1520676210801,5,0,课程太好了，老师很认真，课程由浅入深，作业适量，超喜欢！！！继续学下去,0,0,Yueyan Wang,30427210
+30529551~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1520579300274,5,0,计算机基础,0,0,LuckyHXQ,30529551
+30114430~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1519573662728,5,0,"This is a very good introductory course in C language. The course is detailed and the course structure is clear. From the perceptual to the rational, step by step, through the homework to be able to internalize the knowledge into their own skills.",0,0,阿娘保号,30114430
+16436504~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1519085807953,5,0,"Ge Li is a very knowledgable instructor, and the course pace is perfect, even for experienced engineers, they can refresh their basic knowledge about the computer.  As an introduction course to Computer Science and C language, this is a very useful course and you will be able to understand the important basic C knowledge and write simple C programs after the course. I love it!",0,1,Ming Mou,16436504
+31052116~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1517607520406,5,0,感觉老师讲的很有意思，消除了我对编程的恐惧，也感觉入门了！哈哈哈 好老师很重要呀,0,0,Carol Chen,31052116
+25768078~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1516274600081,5,0,课程设计十分用心，老师讲课也非常好！,0,0,鸣,25768078
+28256631~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1514367079662,5,0,挺好的,0,0,Huang Ye,28256631
+20021424~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1514361837710,5,0,非常好的入門課程,0,0,Yvan Liu,20021424
+29471504~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1513864284172,5,0,很好，很不错的课程,0,0,任杰,29471504
+11245090~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1513482479971,5,0,比我的老师讲得内容多而且讲得好,0,0,张锦贤,11245090
+26835458~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1513327419114,5,0,谢谢各位老师,0,0,YangBin,26835458
+30141746~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1512732105763,5,0,老师讲的非常清楚、非常有条理。,0,0,Leng Yuanmin,30141746
+22928705~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1512569711964,5,0,这堂课虽然是语言入门，但是李老师讲课的方法非常好，由浅入深，循序渐进，不断的通过问问题来引发思考，并且很自然的引入下一个主题，有一种知识点非常连贯的通透感，不愧是北京大学的课程，李老师非常棒！,0,0,Yifan Yang,22928705
+18149925~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1510742270882,5,0,我觉得李哥是位有趣的老师。他的课可以引领你进入C的世界。,0,0,skolly,18149925
+2264746~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1510405569630,5,0,循序渐进，浅显易懂,0,0,Yang Peng,2264746
+2767298~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1509919686764,5,0,good course as an introduction level for programming in Chinese,0,0,Deleted Account,2767298
+24484326~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1509355890394,5,0,老师讲的很用心，不会让初学者学不下去，学下来挺轻松的，作业题有时候和课程不一定能匹配，但是确实可能知识点太基础了不好出题，但是题目也不会很难啦，用心些就可以想出来,0,0,Deleted Account,24484326
+27104099~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1508911975282,5,0,简单，易学，一个好基础才能打江山。,0,0,涂华兴,27104099
+17052380~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1508642912542,5,0,很好，大学课上讲的和这个没法比……,0,0,changelchen,17052380
+12431790~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1508576738217,5,0,"很充實的C語言介紹, 不適合C語言初學者, 適合以前學過要複習的同學",0,0,Jackie Zeng,12431790
+19220181~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1508569088362,5,0,循序渐进，很棒！！,0,0,张东伟,19220181
+28814592~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1507728775217,5,0,本课程深入浅出的讲解了计算机的发展以及编程语言的由来，对于理解和学习C语言很有帮助。感谢！,0,0,张挺,28814592
+21723003~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1507440932345,5,0,很不错的课程 讲的浅显易懂热切很有趣但是提交作业有时候会莫名其妙compile error， 希望能解决,0,0,ZHANG JW,21723003
+16981105~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1506855207639,5,0,李戈老师讲得非常好！十分推荐,0,0,Ji He,16981105
+15093598~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1506661430603,5,0,很好，零基础也很好上手，很棒！,0,0,涂凯文,15093598
+7719212~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1506447423434,5,0,非常不错的课程，是入门C语言编程的好选择,0,0,方盛洲,7719212
+14276683~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1506354956580,5,0,课程很棒，我还通过其他途径学习了数据结构等内容。,0,0,罗朝欣,14276683
+18911588~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1505317401786,5,0,不错，蛮好的入门课，希望再接再厉！,0,0,noarsark,18911588
+28658087~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1505273169751,5,0,老师讲解很简洁，抓住重点，偶尔幽默一把，很喜欢。在coursera完成的第一门课程，耶！！！,0,0,ZhangLei,28658087
+27702486~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1505112844341,5,0,课程很显浅易懂，授课内容对于不是该专业的学生来说也能迅速掌握。没有基础的学生有可能在开始安装软件（版本问题）和编程阶段有点棘手，希望论坛里的提问可以能够及时得到解答。,0,0,周文浩,27702486
+14353328~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1504303629506,5,0,"I Have nothing to say, but thank you !! the best C class I have ever got. I should have asked my college program returned my tuition and back to coursera/Peking university!",0,0,Jingxia Pang,14353328
+21677770~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1503637445931,5,0,我认为一个提升兴趣的老师比一个单纯灌输知识的老师，更懂得教育。因此个人很喜欢这门课。；）,0,0,张田,21677770
+26777724~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1503458727212,5,0,这个课程很棒！能够让我系统学习计算机。题目难度也不错👍。老师讲的很棒！,0,0,高远,26777724
+25169699~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1503368240916,5,0,特别i基础的c语言知识，尤其是字符串数组的，讲的很精细。值得看一下,0,0,董可可,25169699
+18279462~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1502868395203,5,0,由浅入深 循序渐进 有基础的可以快速重温知识，随后通过考试。,0,0,yansiyu,18279462
+16063984~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1502528533491,5,0,很棒，很生动！,0,0,Wang Yong,16063984
+18029254~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1502296185808,5,0,李戈老师讲课很细致，通俗易懂！,0,0,keliangwang,18029254
+26825220~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1502272937737,5,0,很基础，很好用，谢谢哈。,0,0,HHE,26825220
+11600100~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1501826740213,5,0,本来没有抱多么高的预期，却意外获得许多惊喜。妥妥地打了一遍基础。学到每一个细节都马虎不得，再“小”再“简单”的问题也要自己实际做过才清晰。积累了无数小而简单的问题，复杂的问题也变得迎刃而解。,0,0,Tong,11600100
+27572444~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1501770033283,5,0,作业评价系统有点令人蛋碎……课程对我而言还是很有帮助的,0,0,ZHOUJIANFEI,27572444
+10389059~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1501416771543,5,0,老师讲解得耐心细致，特别是每个单元的作业准备得很用心。,0,0,火火,10389059
+19104321~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1501307609934,5,0,Good!,0,0,Lewis Lu,19104321
+5190576~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1500863387124,5,0,重学习基础，老师深入浅出，很不错。,0,0,Richard wei,5190576
+10092700~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1500386406026,5,0,李老师非常幽默有趣，讲解也很生动细致，介绍了一些底层的知识，感觉收获很大，推荐给各位入门者,0,0,Hongkuan Wang,10092700
+25476312~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1500291425840,5,0,非常好的课程！很详细易懂，提出的也很精巧,0,0,Jonathan Chang,25476312
+1701539~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1500086123002,5,0,A good course for a very beginner!,0,0,Wen Shih,1701539
+24979416~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1499695518971,5,0,这是我完成的第一门Coursera的公开课。,0,0,张骞,24979416
+11189847~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1499688057096,5,0,作为编程零基础的学生，这门课内容由浅入深，而且作业难度刚刚好。,0,0,Keren Zhou,11189847
+3250737~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1498488042006,5,0,very good and easy to understand,0,0,Tu Chu,3250737
+25278635~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1496404661780,5,0,很好的课程，能让我从底层了解计算机，了解编程,0,0,万华源,25278635
+21892290~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1496162594912,5,0,说得好,0,0,zake,21892290
+11493963~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1496069229901,5,0,Sir Li is passionate,0,0,强力,11493963
+24328947~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1494744431575,5,0,good enough,0,0,Backspace,24328947
+21347111~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1494472737354,5,0,fit for beginners,0,0,Lily,21347111
+24347048~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1494155619339,5,0,老师讲课通俗易懂，内容深刻实用，非常适合初学者自学。,0,0,Tstyllr,24347048
+13565825~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1493905657653,5,0,打好了计算机编程的基础，非常棒的课程，我会推荐给我的fellow。,0,0,Weizong Shao,13565825
+24370547~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1493652002610,5,0,"excellent lessens, excellent teacher",0,0,amos wu,24370547
+23346438~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1492354204007,5,0,李老师的课是男票介绍来的~~说他人很和蔼，也参加表演节目什么的，是真心疼爱学生的、非常好的老师。开场的视频很爱！！大家都来听啊~我这种纯纯文科女都津津有味！！！,0,0,shenke0507,23346438
+18199081~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1491932317167,5,0,好！,0,0,王子睿,18199081
+12379886~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1491617242327,5,0,挺好的课程，不过作业对于新手来说可能有点难，并且作业和该周的课程关联系不是很大,0,0,Yiming Chen,12379886
+16717662~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1490585293473,5,0,很好的课程，只是很抱歉前段时间太忙了，拖了很久才完成。,0,0,吴佳齐,16717662
+23386393~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1490511188386,5,0,挺好的，难度很合适,0,0,余维浩,23386393
+6076344~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1490150792216,5,0,李戈老师讲得很好！,0,0,Yanqiang Wang,6076344
+18990082~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1490146980831,5,0,老师讲解的很好，感谢！,0,0,Zhang Limin,18990082
+20984183~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1489126811025,5,0,确实适合初学者！,0,0,sleepingZzz,20984183
+12647242~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1488791743298,5,0,One of the best courses to retrospect  basic programming.A chase to strengthen the foundation. ,0,0,YanJun Lyu,12647242
+21311555~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1488788272544,5,0,非常适合初学者！,0,0,忻迪安,21311555
+18211306~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1487771160162,5,0,老师讲课超级棒！！,0,0,伍小柒,18211306
+8043120~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1486570207473,5,0,老师非常专业，教学视频循循善诱，让我容易理解；课的内容既不多也不少，学起来很轻松；课后题非常棒，做完课后题编程技能大大提高，这是这门课最大的收获；美中不足的是习题课助教讲得太快，抓不住重点，而且习题课的视频模糊，看不清楚。好啦，我要继续学习余下的课程啦！,0,0,陈小威,8043120
+23810253~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1486477383275,5,0,满分 不怕你们骄傲,0,0,jzp,23810253
+22907273~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1486133102888,5,0,应该更早，大四甚至研一就知道这门课才好！,0,0,HAN YOUYANG,22907273
+20152503~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1486053327222,5,0,非常好的入门课，层次安排合理,0,0,华江涛,20152503
+10936569~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1485567455283,5,0,形象生动,0,0,qxp,10936569
+3430851~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1485333437450,5,0,Strongly recommend,0,0,Haiyu,3430851
+4838942~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1483438633763,5,0,perfect introduction course,0,0,过群,4838942
+6736663~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1483341182185,5,0,很棒的课程，讲的很清楚！,0,0,王子健,6736663
+14665063~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1482849566388,5,0,求该课课件1157629666@qq.com。。谢谢,0,0,潘兴鑫,14665063
+8716160~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1481856200286,5,0,老师讲的太好了,0,0,唐亮,8716160
+5569741~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1481002303870,5,0,讲的好,0,0,蒋进进,5569741
+22552453~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1480676667417,5,0,非常适合初学者,0,0,无来无去、不悔不怨,22552453
+10514078~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1480102479557,5,0,教师讲解细致，适合初学者入门。,0,0,卢辰鑫,10514078
+21063361~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1480101501676,5,0,非常棒的一门课！老师讲得特别详细，易懂，可以说是非常容易理解和上手的一门C语言课啦！感谢老师！,0,0,Zibo Chen,21063361
+4241111~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1480090413649,5,0,作为非信息工程专业的人，这门课作为一门入门课十分有用,0,0,gao hang,4241111
+22636195~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1479749110546,5,0,谢谢老师，讲得真好,0,0,joehe,22636195
+13425719~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1479366052364,5,0,虽然，我只是旁听，但是我觉得老师讲得很清楚，非常适合没有编程基础的人学习,0,0,江丽,13425719
+21651217~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1478855915540,5,0,课程结构非常合理 循序渐进 非常有益,0,0,Jing YiMing,21651217
+11737599~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1478224787609,5,0,非常好！老师教授得很幽默！就是如果作业能更多一点就更好了,0,0,Renjie Ding,11737599
+5946502~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1478080341368,5,0,The teacher is very funny! ,0,0,李宁,5946502
+15008948~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1477937653569,5,0,老师讲的很清晰，C语言确实比python之流难多了。另外这个课相对不水，视频量作业量都还算可以（跟北大实际课肯定还是有差距），相比大量的水课算是非常值得学习的。大赞！,0,0,Zhan Ying,15008948
+20262455~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1477496200784,5,0,很好，就是最一开始的介绍似乎远了一点，和现代计算机关系不是很大，其它都非常好。,0,0,严卫军,20262455
+7611919~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1476839282932,5,0,作为一个来复习的，李老师的教学轻松且高效，绝对为入门第一选择,0,0,barney liu,7611919
+9475662~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1476643613178,5,0,淺入深處，不愧北大的質量,0,0,王維煜,9475662
+891330~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1476478379023,5,0,"这是我在Coursera上完完整整听完的第一门课！教学内容浅显易懂，非常适合入门级学习, 老师讲课生动幽默，大大的提高了我对计算机编程的兴趣！感谢！  ",0,0,Tianyue Peng,891330
+15455393~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1475894737849,5,0,编程思维的训练！非常赞！！,0,0,Junhua Xiao,15455393
+2786476~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1475503087535,5,0,Helpful In someway.,0,0,yiwenshao,2786476
+16506149~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1474888045278,5,0,不错,0,0,九琉璃酱,16506149
+19915893~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1474550778463,5,0,打开了新世界的大门。,0,0,lenkali,19915893
+21187257~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1474431306544,5,0,Good,0,0,Andy,21187257
+19334819~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1473512823897,5,0,A very good class. I love the lesson of the history of the math!,0,0,史天阔,19334819
+15609725~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1473213491506,5,0,讲的很好，我这一点没有编程基础的人也可以入门。谢谢啦,0,0,朱罗北,15609725
+20573610~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1473013027692,5,0,非常好，如果能有更多互动就好了，有些地方安排有点小问题,0,0,Hansheng Li,20573610
+7335152~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472817816328,5,0,很简洁，配合作业比自学效率高。,0,0,施瀛珠,7335152
+14830604~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472679343989,5,0,"非常非常好的入门课程，强烈推荐没有基础的同学作为计算机的入门课程。
+李老师在最开始（第一周到第四周）讲述了计算机的发展、程序的基本原理等等基础知识，非常有趣，十分推荐。
+在第五周，讲了怎么从现实问题转成程序，作为过渡章节，非常重要非常重要非常重要！
+后续的就是对c程序的各部分内容做了介绍，穿插了部分算法。个人觉得这种穿插讲述非常好！
+如果讲到缺点的话，那就是练习题不如北大本校的多（李老师原话）。非常建议增加练习题，以及，在论坛中可否请助教老师将题目的解题思路写出来，以便学生们作为参考和对照。
+从现实问题到计算机程序，思路是非常重要的，但是作为mooc学生，平时比较难有人指导怎么进行思路的考虑，以及不同解题思路的对比和选择原则。
+",0,1,Guodong Huang,14830604
+19934978~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472221253030,5,0,good,0,0,john,19934978
+16008714~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1472109054542,5,0,课程讲述的计算机历史都比较老了，因为是好几年前做的视频。希望李老师能更新计算机历史的内容。,0,0,钱骆骏,16008714
+5822696~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1471181985457,5,0,很详细  适合初学者和提高自己,0,0,徐宏博,5822696
+15249859~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1470633677637,5,0,棒！,0,0,Han Liu,15249859
+15144972~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1470489489747,5,0,很不错的课程，深入浅出，适合初学者,0,0,mjk,15144972
+9497352~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1470468389187,5,0,希望可以提供課程講義,0,0,吳晢勤,9497352
+19455340~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1470137733312,5,0,适合于C语言入门，老师讲的无可挑剔,0,0,kevin,19455340
+16829354~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1469887768016,5,0,老师的普通话比较好,0,0,Deleted Account,16829354
+6415051~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1469021235884,5,0,老师很棒，能够深入浅出地解释计算机的工作原理，更重要的是帮你梳理计算机的发展史。是一门很棒的基础课，给N个赞！,0,0,Yoda Ye,6415051
+5419454~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1468502105315,5,0,老师讲的很详细，全面。有助于初学者加深理解。,0,0,蒋逸,5419454
+11501258~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1468135279871,5,0,老师讲得特别好，是很好的入门课,0,0,ccjiangshan,11501258
+11593437~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1466937298672,5,0,从最基础的开始讲起，零基础的同学也能听懂！而且习题和视频下面还有其他人对于各种问题的留言，一般自己的疑问结合其他同学的留言就能想明白。还有习题有问题的话，除了其他同学能回复并解答，还有一位助教帮助解疑，很好！,0,7,Yiyuan Huang,11593437
+9226446~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1466000130774,5,0,老师的讲解非常生动易懂，必须评价点赞！      ,0,0,兰建波,9226446
+17580946~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1465660068437,5,0,老师讲得很有趣，这门课真的是C语言入门的好课程,0,0,y442974010f,17580946
+16871958~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1465615207052,5,0,老师讲得十分详细，主要是兴趣入门，前期作业都是代码抄写便于上手。对于有些基础的我来说，基本是开着两倍速过的(･･;),0,0,Tinyrolls,16871958
+16981988~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1464097073635,5,0,非常好。。非常感谢,0,0,蟑螂,16981988
+18553858~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1463530819790,5,0,好,0,0,baozi,18553858
+16523007~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1462759500174,5,0,老师讲的灰常不错！,0,0,zhang_yin_liang,16523007
+12799316~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1462606481037,5,0,李老师讲的生动形象，非常棒，为初学者指明了一条通往计算机的大路。,0,0,闫文博,12799316
+18662059~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1462191069411,5,0,很好的入门课程，但是后期作业偏难,0,0,Lyu Ning,18662059
+15816909~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1461818080984,5,0,真的收获巨大,0,0,Zhe Wang,15816909
+14940911~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1461651452929,5,0,挺不错的课程，就是作业还得交钱才能解锁，本想评个四星半。,0,0,孙佳燕,14940911
+4123588~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1461629320909,5,0,原来上过课的回来继续上课……orz……太久远没记住……orz……,0,0,XinRan Zhang,4123588
+18893014~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1460882653507,5,0,"thanks,",0,0,Deleted Account,18893014
+15939228~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1460776877856,5,0,老师讲的很有意思啊，很有魅力,0,0,汤瑞,15939228
+11584243~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1460700788100,5,0,老师讲课生动，详细。对于初学者提出了入门计算机编程十分忠恳和有用的建议，值得推荐的好课程，谢谢coursera！,0,0,frank_宽,11584243
+18587292~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1460341151926,5,0,作为一个文科生却深爱着计算机的我，非常想通过自学来完成计算机语言学习，可是每次遇到费解的问题，身边没有老师指导，最终都止步不前，在线教育让我循序渐进的学习基础知识，虽然还是很吃力，但是我相信随着时间的推移，我一定能完成自己的目标，谢谢老师的课程讲解。,0,1,钟秋晨,18587292
+8257304~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1459776255143,5,0,李老师上课非常棒，让非计算机背景的人一听就懂！！！,0,0,陈雯,8257304
+5039599~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1459653050492,5,0,趣味性和学术性完美结合，吸引我不断地学下去。。。,0,0,YB M,5039599
+16552092~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1459418485481,5,0,北大的课很有启发性,0,0,Dawn Jack,16552092
+5116328~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1458885667303,5,0,说得很有趣,0,0,神之一手,5116328
+4900222~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1458575297968,5,0,适合自我驱动学习者,0,0,GE Yuanjun,4900222
+18319650~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1458477068656,5,0,讲解细致全面，高屋建瓴，对初学者十分友好,0,0,桑国华,18319650
+18199436~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1458394696989,5,0,``,0,0,Leo Jack,18199436
+15272863~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1458090826260,5,0,老师讲的细致,0,0,朱紫钦,15272863
+998472~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457869805842,5,0,老师会讲一些底层的东西，比较深入，很好,0,0,王俊懿,998472
+9751914~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457855140308,5,0,很适合学生听,0,0,阮阜森,9751914
+6091883~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457374679798,5,0,非常好学了好多啊,0,0,YK L,6091883
+10689162~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457317685384,5,0,老师讲得太好了，很高兴在入门的时候能够碰到这么一位老师。,0,0,王梓檐,10689162
+17389358~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457184579865,5,0,prefect,0,0,李梦,17389358
+18129014~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1457165027995,5,0,为数不多的精良中文课程，给中国学生学习编程带来了方便,0,0,王思琦,18129014
+16251080~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1456985236413,5,0,这一部分讲的倒是挺好，我已经是学过的，学的不好，所以重头开始的，要是能免费就好了，我觉得可以给更多的代码！很好很好，要坚持看,0,0,康亚军,16251080
+16469250~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1456299946617,5,0,good lesson,0,0,黄齐胜,16469250
+10015534~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1456151739717,5,0,不错，如果提供更多的参考资料就更好,0,0,肖壮清,10015534
+16300652~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1456072357340,5,0,内容稍微有点老，不过老师讲的很生动，还是适合有点基础的人学习,0,0,朱江,16300652
+14124005~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455804914350,5,0,详细，清楚，适合初学者。,0,0,gattuso,14124005
+5088133~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455548986530,5,0,这个课很不错，我很喜欢！！！,0,0,Philip Young,5088133
+12300978~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455379534859,5,0,​Extremely Fun and Helpful!!,0,0,Xinhe LIU,12300978
+16194434~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455347222280,5,0,很不错，对于没有任何基础的学生来讲是一门很好的引导课程,0,0,徐子翔,16194434
+16291685~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455162264573,5,0,深入浅出，非常好的一门基础课,0,0,苏起湘,16291685
+17293562~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1455112102525,5,0,李老师讲的非常生动！非常用心！这是一个很好的入门教程,0,0,Zhongwei Shi,17293562
+10645083~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1454752358624,5,0,老师讲得很风趣，并且很详细...非常适合我这种入门者啊...,0,0,Shuailin Li,10645083
+7275634~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1454406770289,5,0,老师讲得很细，也很生动，不过学这门课最好有一点基础。,0,0,Mark Lee,7275634
+13516324~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453943664070,5,0,先从兴趣出发，从感性到理性，加上老师风趣幽默平易近人的授课风格，让这门课非常有趣。,0,0,李逸飞,13516324
+16331371~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453864023880,5,0,讲的很详细、透彻！很喜欢这个老师，赞,0,0,1572975713@qq.com,16331371
+13816770~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453820908785,5,0,老师很不错，讲得很详细，条理清晰,0,0,何以琛,13816770
+12624099~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453627799270,5,0, A good introductory course. Easy and you can begin to program after taking the course. You may skip the first few chapters since they may not be about the techniques you want to learn.  ,0,0,Xuetao HU,12624099
+17184763~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453443193804,5,0,很好，很生动，让我受益匪浅,0,0,陈tr,17184763
+16685589~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1453015329307,5,0,太棒了！受益匪浅，谢谢！,0,0,小彭,16685589
+5091512~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452827536970,5,0,只想说这课程不是一般的棒！！！,0,0,陈永春,5091512
+13598773~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452775413953,5,0,太棒了！易懂，课的进度安排合理，比好多书好多了,0,0,罗嘉炜,13598773
+15959259~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452668056333,5,0,十分喜欢李老师的讲课方式,0,0,正能量,15959259
+5637602~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452380351713,5,0,不愧北大,0,0,LIU MING,5637602
+13377147~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452331599524,5,0,千言万语汇成两个字：感谢。有点小意见：视频播放过程中时有卡顿，希望能有所改善！,0,0,杨清宏,13377147
+67611~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452232804876,5,0,给你打五分就是想告诉大家一定要选这门好课，并且远离其他垃圾课程。另外说下，浙江大学的C语言课也很不错，和李戈的课不相上下。,0,0,Chao Li,67611
+13878739~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452089791169,5,0,Fundamental and detailed ! ,0,0,马汝天,13878739
+5265611~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1452063820021,5,0,老师讲课条理清晰，也有各种c语言史话穿插，学起来不会枯燥也很有效果！,0,0,周凯月,5265611
+15830917~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1451646360529,5,0,已经工作了，现在只想按照自己的兴趣发展，这门课是转行编程的第一门课，李戈老师讲的非常好，不管以后是否从事编程工作，都会感谢李戈老师,0,0,Song Ya,15830917
+16140176~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1451641844603,5,0,讲的很不错。,0,0,周浩,16140176
+5963837~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1451220174351,5,0,老师讲得很好，视角独具风格,0,0,王梓亦,5963837
+16241621~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1451027962577,5,0,要是中国人的网速快到能流畅的看就好了,0,0,Lan Qing,16241621
+12051464~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1450850786382,5,0,Ge Li is an amazing instructor and taking this subject is a quite incredible experience. ,0,0,Huan Ding,12051464
+14607173~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1450268021608,5,0,感觉非常好，感觉老师很用心,0,0,Deleted Account,14607173
+16481007~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1449912564358,5,0,拓宽了知识面，很好,0,0,高天一,16481007
+14040295~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1449759058215,5,0,收获很大,0,0,周郑晔,14040295
+16140689~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1449225515173,5,0,讲的很棒～,0,0,郑明恩,16140689
+13505054~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1449220423140,5,0,希望能继续推出后续的课程~感谢老师~感谢coursera这样一个平台~,0,0,张晓阳,13505054
+9980965~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1448583882557,5,0,C++入门很适合，老师讲的超好。,0,0,赵全,9980965
+10664666~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1448353841992,5,0,老师非常有细致，循循善诱，零基础的人也能听得很明白。,0,0,吴昊帅,10664666
+15814198~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1448069896968,5,0,老师的讲解非常清晰，课堂氛围轻松幽默，这是很好的一门计算导论Mooc,0,0,黄文杰,15814198
+15647504~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1447740723786,5,0,老师上课生动，由浅入深地讲解给我们听。李老师是个很细心、很棒的老师。,0,0,Lee Hui Shiung,15647504
+12331647~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1447418262640,5,0,Excellent course!!!,0,0,Luoyan Zhang,12331647
+3832008~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1447383662421,5,0,Really Great!,0,0,Sun Jeep,3832008
+16100469~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1447123800820,5,0,这是我听过的讲的最好懂的。,0,0,Youngeyes,16100469
+6742085~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1447119473529,5,0,非常适合零基础的同学学习,0,0,sk,6742085
+15712578~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446967430183,5,0,"geili,老师讲的很好，感谢",0,0,Chauncy Grey,15712578
+13904050~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446779802098,5,0,很喜欢老师的讲课风格,0,0,Decp,13904050
+15092772~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446768766196,5,0,非常详细，老师很耐心，适合初学者,0,0,yaso,15092772
+15813978~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446084054903,5,0,老师讲的很好，继续加油，求更多更深入的课程,0,0,Ma X,15813978
+8163028~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1446071863737,5,0,Nice,0,0,Bao Yanqing,8163028
+8612383~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1445930752339,5,0,条理清晰，细节难点处都解释的很清楚,0,0,端木安,8612383
+12739001~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444922483238,5,0,课程讲的非常清晰易懂，而且有趣，非常基础。既适合初学者学习，也同样特别适合曾经学过但学的不扎实的同学二次学习一遍。,0,0,李亚楠,12739001
+2095416~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444894251515,5,0,very well course for the new student first time learning to write the code and the teacher was excellent in the class.,0,0,黃士庭,2095416
+6300647~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444746579633,5,0,"Study the bisic program knowledge by following this teacher, I feel much better than my own teacher.",0,0,钟宇尧,6300647
+9907325~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444539664595,5,0,Very helpful and intuitive,0,0,吕野,9907325
+13330397~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444485158197,5,0,It's very helpful for a beginner.,0,0,Hongze Qu,13330397
+10693178~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444381915627,5,0,真棒，很喜好李老师的课,0,0,刘晗,10693178
+15441410~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444297538339,5,0,very goog!,0,0,卢致远,15441410
+15005498~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1444267044346,5,0,very  for beginer,0,0,李泽辉,15005498
+8403610~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1443962130577,5,0,现在感觉很不错，在学习C语言ing,0,0,朱智慧,8403610
+14149792~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1443793158148,5,0,v,0,0,zhangfei,14149792
+8540784~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1443611689895,5,0, good,0,0,GAO Yu,8540784
+14423987~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1443084037214,5,0,nice,0,0,曹博宇,14423987
+14427470~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1442923813130,5,0,"Very detailed and helpful. Through learning this course, I gain a very solid foundation of CS. This is my first computer course. Thank Professor Li very much!!!",0,0,Xiaohan Tang,14427470
+1136444~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1442546521405,5,0,讲的非常清楚，赞！,0,0,Yifan Xing,1136444
+4067762~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1442497351598,5,0,循序渐进的讲授，很生动，很明白，很清晰，讲得很好,0,0,李佳航,4067762
+13802920~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1442411436617,5,0,g,0,0,郭子锋,13802920
+4383037~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1442195133642,5,0,老师,0,0,Yiming An,4383037
+14469425~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441962551120,5,0,讲解详细生动，善于带动学生紧跟课程节奏，部分内容有所深入，非常优秀的一门课。,0,0,Zuo Hao,14469425
+3639040~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441952054400,5,0,Excellent Course!,0,0,DaiJing,3639040
+13907119~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441507690306,5,0,讲的很好很详细,0,0,汤梓涵,13907119
+13918677~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441337903441,5,0,老师很有激情 ，讲课很有条理,0,0,蔡碧波,13918677
+14129911~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441168732825,5,0,希望可以完成,0,0,金错刀,14129911
+873549~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1441016369051,5,0,"simple,practical and very clear",0,0,胡梦雯,873549
+10841318~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440934823298,5,0,Very Good!,0,0,伟,10841318
+9700598~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440473350862,5,0,很棒的课程，适合入门者学习,0,0,Eric Yuan,9700598
+14384319~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440344629508,5,0,Very helpful!,0,0,keno H,14384319
+8526283~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440214051935,5,0,nice,0,0,dave ye,8526283
+9283841~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440109312358,5,0,Just what I want. I like this course. ,0,0,Justin Tang,9283841
+8999528~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1440030256739,5,0,之前没有系统学过C语言，虽然这部分很基础，但是听李老师讲的时候让人豁然贯通，尤其是前半部分的计算导论讲的很精彩。最好入门课，没有之一。,0,0,LIN ZICHUN,8999528
+14141537~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439991374396,5,0,That's a great course for the beginner,0,0,刘勇博,14141537
+9064138~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439987580991,5,0,基础但是很实际，课后的习题有些有点超出范围，总体还是很棒很棒的,0,0,张炜,9064138
+9657923~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439800115810,5,0,"Very clearly explation of C Language, Mr Li is really an experienced teacher.",0,0,Ping Zhang,9657923
+7792342~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439540744619,5,0,"Pretty good,especially for the rookie like me.",0,0,赵伟杰,7792342
+7837294~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439536711246,5,0,"Great course, which offers me with comprehensive knowledge and skills of computer programming",0,0,guijie wang,7837294
+13866601~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1439443443624,5,0,Very Good Class,0,0,CHUN-YU LIU,13866601
+1046871~COURSE!~Qzq_RhPlEeWfzgpfp_iBVw,1438943752067,5,0,Excellent,0,0,Yongzhong Deng,1046871

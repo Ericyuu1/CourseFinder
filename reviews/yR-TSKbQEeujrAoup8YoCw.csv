@@ -1,0 +1,14 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+76308376~COURSE!~yR-TSKbQEeujrAoup8YoCw,1673536098065,1,0,"Instructor does nothing but point (confusingly) to  other course material on other training sights (Tutorialspoint, IBM) and tells you to read. No meaningful hands on experience. Doesn't even walk you through setting up Visual Studio with COBOL extensions. Just sad. worse online technology course (out 20+ so far) I've ever taken.IBM should look into this. It's pitiful.",0,0,Richard Mattock,76308376
+24907593~COURSE!~yR-TSKbQEeujrAoup8YoCw,1656715413446,1,0,"REALLY BAD.Looks like the instructor didn't wanted to prepare this course, all the contents are lkinks to ""readings"" which various no lopnger exists, questions in quizes which makes no sense or simply wrong, for example:
+
+Question: This clause identifies a file in the COBOL program to be associated with an external data set.
+Expected ""SELECT"" but is wrong because SELECT is a STATEMENT not CLAUSE!Question: How do you program COBOL to identify an index-name?
+""Correct"" option  ""You create an index by using the INDEXED BY phrase of the OCCUR clause to identify an index-name."" ""OCCUR"" clause? and is SELECT STATEMENT!
+Finally: this course does not teach you how to program in COBOL, is 99% theory.
+
+Shame IBM!
+",0,0,Sergio Samayoa,24907593
+107261472~COURSE!~yR-TSKbQEeujrAoup8YoCw,1655339411119,1,0,Poor Video Content,0,0,Harold Mondragon,107261472
+48323916~COURSE!~yR-TSKbQEeujrAoup8YoCw,1660273238544,3,0,Excellent course but needs to update links and it would be better to have more practice in the IBM environment.,0,0,Edison Gómez,48323916
+83009007~COURSE!~yR-TSKbQEeujrAoup8YoCw,1645524050470,4,0,There was alot of reading.,0,0,Robert,83009007

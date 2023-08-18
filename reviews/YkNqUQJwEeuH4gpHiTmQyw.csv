@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+63245729~COURSE!~YkNqUQJwEeuH4gpHiTmQyw,1650222244671,2,0,W​hy is this in intermediate and not easy?,0,0,Ariel Cohen,63245729
+106920904~COURSE!~YkNqUQJwEeuH4gpHiTmQyw,1672652818548,4,0,"The webgoat repo has been restructured and looks different now, which could make some learners think they've taken a wrong turn.  I'd suggest forking from an earlier version (fortunately the project is on GitHub) to save a static repository just for this course.",0,0,TJ Sharley,106920904

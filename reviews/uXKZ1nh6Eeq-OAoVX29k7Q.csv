@@ -1,0 +1,73 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+17423847~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1627315220094,1,0,not at all informative,0,0,Vivek Dixit,17423847
+43379342~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1608218750183,1,0,Too short with insufficient information,0,0,Atishay jain,43379342
+4601279~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1599833401669,1,0,Its waste of taking. Its a very very high level waste of money. Note sure why coursera is hosting these kind of course,0,0,Guru,4601279
+37636405~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1598118231667,1,0,Multivariate was missing and need more explanations for mathematical backgrounds.,0,0,Goto Subaru,37636405
+36843062~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1597440622467,1,0,"In my opinion this course is too short. I didin't learn anything about the prophet library, just on command. The project should be more extensive. It took me just 20 minutes to run though all the notebook",0,0,NATALIA SOLEDAD REGALADO,36843062
+38416609~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1594239702277,1,0,buffering video.,0,0,Arpita Halder,38416609
+30520461~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593948276030,1,0,"Unable to access half the time, Useless ",0,0,Kiran Nimbalkar,30520461
+60797460~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593417276082,1,0,Rhyme file not received since 1 month after completion of the project,0,0,Vishv Patel,60797460
+48368741~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591710757993,1,0,Im facing problem with the videos,0,0,Hari Prakash C,48368741
+27317258~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591048369270,1,0,"Waste of time. All this lesson does is import the Prophet library, read in the pristine data, and call fit/predict without explaining how and when to tweak any of the parameters. He gives a 5 minute very-high level overview of the algorithm which isn't nearly enough time.",0,0,Akash Goyal,27317258
+4566566~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589764368519,1,0,"Extremely basic. Too much emphasis explaining pandas, when the big deal should have been Prophet. The implemenation was way too basic; it did not provide particular insights that weren't readily available on the Internet. The idea of paying to watch somebody coding is to grasp their expertise when they solve a problem. Here, the approach was very naive and simplistic. By instance, one important question that one should address is: how Prophet compares against ARIMA or exponential smoothing. I know, there is a paper explaining that, but just as we do when creating a ML model, one creates several approaches and benchmarks each of them in order to select the best.",0,0,Sergio Andrés Gutiérrez Pacheco,4566566
+57943595~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1588719915552,1,0,Complete waste of time and money. He has not touched the holiday feature which is main reason someone try to use prophet in their projects. Whatever he has told that anyone littile experience guy can do while reading the phophet help options. This type of course should not be provided by the Coursera as this impact the trust between Coursera and end customer.,0,0,Amit Khandelwal,57943595
+15870694~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1588242554667,1,0,"This course is totally useless and messy. It just teaches you to run a python package as a black box. Furthermore it's horrible from a scientific point of view, the instructor make predictions and doesn't check the quality of his prediction on a test set. Please run away from this course",0,4,Raphael Jaiswal,15870694
+657744~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1617409989651,2,0,rhyme is not helpful. use google collab instead.,0,0,Pavel Reyes-Mercado,657744
+418016~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1616851508501,2,0," What a waste of time & money! The instructor introduces very basic features of python packages like pandas and seaborn & give a very high-level overview of Prophet (which could be a one-paragraph article!) The course is not for intermediate at all, it's very simple even for beginner :)",0,0,Shahad Alshalan,418016
+21209736~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1587983302915,2,0,Videos for task 6 and 7 are not working properly.,0,0,Sanket Prasad ,21209736
+75756132~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1604758495888,3,0,The instructions were clear and concise however the certificate is not downloading and I can't even view it at all,0,0,Tom Burge,75756132
+50703932~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590631226635,3,0,na,0,0,Arvind Chandrashekar,50703932
+31077182~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590448625717,3,0,Too short and easy. Need in-depth detailed project course,0,0,dhruvil,31077182
+61755944~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590398684435,3,0,Rhyme gets slow sometimes which is irritating and i would prefer to use my own machine rather.,0,0,Nipunn Malhotra,61755944
+59500886~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590262364779,3,0,"The system is bit slow, which can be improved.",0,0,PULKIT GUPTA,59500886
+58406280~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589004644949,3,0,A very basic introduction to the tool,0,0,Sai Kiran Diddi,58406280
+41277448~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1606895211861,4,0,Well explained and lots of great indications towards fbprophet,0,0,Zayed Feroz Kazi,41277448
+59247752~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1597242060415,4,0,not so bad okok ,0,0,RITIKA SABHARWAL,59247752
+60117563~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593351102753,4,0,Good Project just the right Hands Experience,0,0,Arijit Chatterjee,60117563
+44288820~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591443076862,4,0,had issues with Rhyme didn't load fbprophet properly and the guide should've explained more about fbprophet than saying to refer the links.Felt this as an introductory project to try out to know things about future predictions.,0,0,DHANUSH A,44288820
+62499904~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591196458527,4,0,very good course. please add some more explanation in facebook prophet applying phase. i.e. maths behind theorey,0,0,Amey Atul Girdhari,62499904
+4874847~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590776342073,4,0,This was a good introduction to Facebook Prophet. They showed you enough to get started on your own. It would be great to see a follow on class that digs deeper into the underlying algorithms.,0,0,Tanya Catignani,4874847
+61757494~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590396907207,4,0,I think that the question 2 in the quiz answer should be c option,0,0,AAYUSH SINGLA,61757494
+41624422~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590388843391,4,0,The project session was definitely helpful.,0,0,Anshul Gautam,41624422
+36737315~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590062727297,4,0,Good hands-on short and sweet experience!,0,0,Jui Bangali,36737315
+27747127~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589015081049,4,0,GOOD,0,0,Ankit Goel,27747127
+30836636~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1586714816176,4,0,It is the quickest way for people in non-data science to predict future trends in a short and reliable way. Don't miss it. It will not take more than 2 hours. Worth a shot.  ,0,0,Thianesh UK,30836636
+8499009~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1638783043807,5,0,C​lear and concise introduction,0,0,Grzegorz Sabak,8499009
+73131599~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1604174986566,5,0,"All the credits to the instructor, gave me a clear understanding",0,0,Muhammad Kamran,73131599
+34362861~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1603124126676,5,0,Ryan Ahmed is best teacher available in guided projects.,0,0,haider ali,34362861
+41644048~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1601595893707,5,0,Beneficial Course!,0,0,Shrey Kumar,41644048
+52151548~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1600894396790,5,0,Amazing instructor !! loved it.,0,0,Ismat Saira Gillani,52151548
+63705919~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1599951466941,5,0,Good job! kudos on this modality,0,0,Ignacio A. Ruiz,63705919
+60352473~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1599860569927,5,0,"Through this course, I became acquainted with the Facebook prophet that I didn't know before. The course was exactly what I expected. Also, the instructor was great.",0,0,	 Md. Sadiqur Rahman,60352473
+65785508~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1597426168658,5,0,It is the best project with the best instructor! ,0,0,Kirt Preet Singh,65785508
+37873738~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1596066616865,5,0,Very useful!,0,0,Pablo Benayas Penas,37873738
+64114092~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1595649735280,5,0,"Introduces you to the facebook prophet, just what I expected. Really good hands-on project.",0,0,Alberto Andrés Ospina López,64114092
+41067689~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1594362902974,5,0,Amazing instructor. Great topic. ,0,0,Sihab Uddin,41067689
+62466876~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593950107212,5,0,nice,0,0,Cherry I. Tabada,62466876
+42602772~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593626827830,5,0,It was an amazing course,0,0,Roberto Tomás Velázquez Alonso,42602772
+49274383~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1593546646299,5,0,Good introduction to Prophet and visualization with Seaborn!,0,0,Sanket Gupta,49274383
+58767450~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592974785427,5,0,Thank You.This course was amazing. Now i can use fb prophet to make some predict :),0,0,Arma Fauzi,58767450
+60489173~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592751886536,5,0,Excellent Tutorial ,0,0,Rushikesh Shinde,60489173
+41195127~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592632410462,5,0,Excellent Way Of Teaching...Every Course Should Be Like This...Live Implementation Of Theory On Ral World Data..And Understanding Its Application ,0,0,Kartik Raj,41195127
+59561651~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592556684050,5,0,As a student I loved these type of short project. Learning from coursera is awesome with fun-filled.,0,0,MAMATHA C ECE,59561651
+62240185~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592486026831,5,0,nice,0,0,Vajinepalli suma sri,62240185
+62327166~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592474582124,5,0,Very useful,0,0,Elapati Saividhya,62327166
+34832361~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592417736501,5,0,"I am grateful to have the chance to participate in an online course like this!
+
+",0,0,Abhishek Prakash Gavali,34832361
+62517980~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1592059234424,5,0,good ,0,0,tale preethi,62517980
+47833756~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591805961129,5,0,"Amazing experience, I really like it!",0,0,YIHENG AN,47833756
+60135057~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591678744068,5,0,Good ,0,0,Muhammed shahinshadh E K,60135057
+41211770~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1591511812808,5,0,it is awesome just add one more example like avocado,0,1, harsh alpeshkumar bhatt,41211770
+28494326~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590240926285,5,0,Great course! This is especially useful if you're working on a forecasting project and need a good overview to get started. Highly recommend!,0,1,Tiffany Krause,28494326
+60237185~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1590223921663,5,0,"it's was very helpful, thank you soo much sir, Ahmed.",0,0,ACHRAF ALLALI,60237185
+59434883~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589909296714,5,0,"Simple, efficient.",0,0,Hamza,59434883
+53722933~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589795329102,5,0,Clear explanation.,0,0,Joey Lim,53722933
+51739172~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589774616259,5,0,Very simple and easy to follow which was perfect,0,0,Jacoby Wilkerson,51739172
+55770889~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589603718059,5,0,It's great to do this project and I am very happy to be a part of the project work. Thank you,0,1,ANIRBAN KARMAKAR,55770889
+58180257~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589459646395,5,0,Good!,0,0,Nikhil Malladi,58180257
+34530031~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1589117551825,5,0,loved it THANK YOU so much ,0,0,Tushar Elangovan,34530031
+53264618~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1587971573158,5,0,it is very much useful to predict the product prices in the future using Facebook Prophet,0,0,Parameshwar Tummeti,53264618
+47682288~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1587897271286,5,0,This course provides very clear and concise instructions for using facebook Prophet in predicting prices. It is applicable for many fields other than prices. Would recommend to anyone who is interested in making forecast/predictions.,0,0,Panyu Xue,47682288
+42889526~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1587549187598,5,0,Nice project and explanation. please make the syllabus bit hard to intermediate level. ,0,1,Aditya Agashe,42889526
+36753267~COURSE!~uXKZ1nh6Eeq-OAoVX29k7Q,1587407481532,5,0,Provides a good Basic understanding of Fb Prophet ,0,0,Aymal Khalid Khan,36753267

@@ -1,0 +1,11 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+20538572~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1622857589074,1,0,Poor examples,0,0,Fatima Abdelmoneim,20538572
+17986240~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1618227134140,3,0,Not a complete course. Lectures are informative but practical examples are limited. Most labs were on single slices but do not discuss combining slices and segmentation processes clearly.,0,0,Sitarama Kada,17986240
+95491170~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1665393151375,5,0,"V​ery complete course, it explained the workflow with high precision and good examples. The mathematical background can help you if you want to go deeper in tomography.",0,0,Javier Garcia Molleja,95491170
+7527328~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1657468924908,5,0,Really fantastic course!,0,0,于渤,7527328
+76309273~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1639171099660,5,0,E​xcellent!,0,0,Marcelo Salvador Celestino,76309273
+51273609~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1606118953519,5,0,"Eventhough this course is hard, I love it. Thankyou",0,1,Jayami Alwis,51273609
+63291000~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1594336435928,5,0,"The framework of theoretical aspects and jupyter notebooks helped me a lot to understand and to create my own pipeline. The FEniCS part of the last week should be given more time, since it is extremely detailed and also relevant.",0,0,Leonardo Monteiro Mazzariol,63291000
+64940529~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1594007276703,5,0,"muy bueno, practico y entendible",0,0,victor alberto bernal serano,64940529
+777240~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1590163258842,5,0,Excellent,0,0,Diego Jaramillo,777240
+55974076~COURSE!~3quq5BI8EeieMQ7mFtGFTA,1587828343504,5,0,Excellent basics on tomography and research oriented course.,0,3,Y N ADITYA,55974076

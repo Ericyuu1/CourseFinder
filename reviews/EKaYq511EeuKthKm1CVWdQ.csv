@@ -1,0 +1,37 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+104516867~COURSE!~EKaYq511EeuKthKm1CVWdQ,1676852038856,1,0,"To much concepts and theory, i need more practice examples and less theory concepts",0,0,LUIS ACERO MORATA,104516867
+88144915~COURSE!~EKaYq511EeuKthKm1CVWdQ,1654158602536,1,0,It's very hard to follow a bot's voice. Not at all interactive. A machine keeps speaking at a speed. That's not a way to learn something.,0,7,Prateek Pandey,88144915
+43338989~COURSE!~EKaYq511EeuKthKm1CVWdQ,1635709867259,1,0,"IBM stopped to maintain/support it's platform where the jupyter exercises are hosted since more than 1 year !It's a true shame, we discover at the end of the formation than it is impossible to finish it...",0,6,Arnaud H,43338989
+5997128~COURSE!~EKaYq511EeuKthKm1CVWdQ,1655790958262,2,0,It is Presentation deck with AI bot giving Voiceover narration. No one really teaching anything .,0,2,sohil gandhi,5997128
+5871870~COURSE!~EKaYq511EeuKthKm1CVWdQ,1644532680509,2,0,"To me, this seems like general BS full of buzzwords, but you won't learn anything practical anout how to use these tools",0,7,Peter Franek,5871870
+84584725~COURSE!~EKaYq511EeuKthKm1CVWdQ,1664492234180,3,0,"N​o project. Labs are only copy-paste commands.A​ lot of contents that are only explained using text (it will be nice if diagrams, images, examples are more used!)I​n general, it's a OK course, with the following course it could be a overall good in order to start your Big Data Journey!",0,0,Santiago Zuluaga Ayala,84584725
+84176242~COURSE!~EKaYq511EeuKthKm1CVWdQ,1650106767242,3,0,t​oo easy to solve the exmas!,0,0,Eric Jahnke,84176242
+96042064~COURSE!~EKaYq511EeuKthKm1CVWdQ,1645007822947,3,0,Too dry and technical plus I couldn't get some of the codes with the notebook to work. There is a better video especially for Hadoop on Udacity that gives a much better explanation and I do hope you try to make the material more digestable. Each video is trying so hard to cram as much information into it as possible without giving the students much time to understand what is going.,0,4,Mohd Shah Bin Shahul Hameed,96042064
+103703234~COURSE!~EKaYq511EeuKthKm1CVWdQ,1668238410533,4,0,This is really helpful for me to understand Big Data and Apache Spark!,0,0,SunjuYi,103703234
+103704301~COURSE!~EKaYq511EeuKthKm1CVWdQ,1668151571474,4,0,Good course,0,0,dhananjay kulkarni,103704301
+79457789~COURSE!~EKaYq511EeuKthKm1CVWdQ,1661286522755,4,0,"I​ like the content about Spark, it was well organised and demonstrated with hands-on lab, but not for Hadoop (HDFS, Hbase etc).  plus the long videos with robotic voice makes it hard to concentrate. In general it was a good course",0,0,Merouane Euldji,79457789
+16912614~COURSE!~EKaYq511EeuKthKm1CVWdQ,1655912402587,4,0,"Since I already had a previous banckground using Spark this course refreshed the theoretical foundations about its main topics: RDD, parellelism amog other. It was good to remember the way Spark works. On the other hand I must say there are some troubles with some labs environments where is not possible to work on the practical exercises.",0,1,David Arango Sampayo,16912614
+105882478~COURSE!~EKaYq511EeuKthKm1CVWdQ,1651484402966,4,0,hands on lab and quizzes at the end of each session was very helpful,0,0,jijo sam,105882478
+39250034~COURSE!~EKaYq511EeuKthKm1CVWdQ,1643541125872,4,0,"It is a great course on the theory part but there is no practical part "" I guess they was depending on the next course in the specialization"", also it would be better for more non robotic way in delivering the lectures.",0,4,Omar Hegazy,39250034
+76375511~COURSE!~EKaYq511EeuKthKm1CVWdQ,1637499044094,4,0,"Good course on the theoretical concepts needed to understand these tools. 
+However, there is not much practice.",0,1,Natale Foata,76375511
+26828431~COURSE!~EKaYq511EeuKthKm1CVWdQ,1635170017484,4,0,"P​ersonally, I've found that the knowledge delivering method should be redone in a more attractive manner. Concretly, the fact of giving too many texts and theories in the slides easily make students get bored and lack of motivation to continue listening. For such kind hands-on courses, we need more and more practical exercises instead of too many theories lectures without showing any demo neither coding in the slides",0,8,Long Nguyễn Thanh,26828431
+112039754~COURSE!~EKaYq511EeuKthKm1CVWdQ,1673140260283,5,0,excelente informacion,0,0,Wilson Edgar Vidal Diestra,112039754
+120606562~COURSE!~EKaYq511EeuKthKm1CVWdQ,1672935406161,5,0,"Excellent introductory course to big data, spark and hadoop!",0,0,EDGAR ARMANDO TREJO GUTIERREZ,120606562
+47944884~COURSE!~EKaYq511EeuKthKm1CVWdQ,1672532608569,5,0,"Muy util curso, sin embargo fue complicado es muy teórico",0,0,Jesus Gerardo Zavala Hernandez,47944884
+119556528~COURSE!~EKaYq511EeuKthKm1CVWdQ,1671735377982,5,0,Very helpful in future ,0,0,Muhammad Adil,119556528
+112038946~COURSE!~EKaYq511EeuKthKm1CVWdQ,1669481071992,5,0,excelente explicacion,0,0,IVAN ENRIQUE TASSO CELESTINO,112038946
+65695421~COURSE!~EKaYq511EeuKthKm1CVWdQ,1669469653301,5,0,Excellent training and documentation,0,0,Jesus Paz,65695421
+117842060~COURSE!~EKaYq511EeuKthKm1CVWdQ,1668548627422,5,0,"I found this course very interesting, great for an aspiring data engineer! It starts by introducing the concept of big data in general and then goes into more and more detail, analyzing Hadoop and Spark in depth. I highly recommend it!",0,0,Antonio Guadagno,117842060
+115547957~COURSE!~EKaYq511EeuKthKm1CVWdQ,1667995415185,5,0,"All the thinks I need to know about Big Data, Spark, Hadoop and Hive and explained in details",0,0,Noel David,115547957
+99921568~COURSE!~EKaYq511EeuKthKm1CVWdQ,1666938368647,5,0,well-structured course with comprehensive content and practical skills,0,0,CHIU WING SUI,99921568
+108125485~COURSE!~EKaYq511EeuKthKm1CVWdQ,1665859587587,5,0,w​ow,0,0,Sumit Kumar,108125485
+34217871~COURSE!~EKaYq511EeuKthKm1CVWdQ,1657673114567,5,0,Excellent! ,0,0,Rubens Tanioka,34217871
+71180055~COURSE!~EKaYq511EeuKthKm1CVWdQ,1653055129315,5,0,easy understanding,0,0,Minh Nguyen Thai,71180055
+25305041~COURSE!~EKaYq511EeuKthKm1CVWdQ,1652035678165,5,0,Fantastic blend of theory and practical (labs). The labs are short and have concise material.,0,0,Rorisang Sitoboli,25305041
+104843384~COURSE!~EKaYq511EeuKthKm1CVWdQ,1651615754654,5,0,Such a great course.,0,0,Urvish Makwana,104843384
+95160262~COURSE!~EKaYq511EeuKthKm1CVWdQ,1646707112973,5,0,the lecture was clearly understandible and I feel very gratefull to have this lecture thank you it was phenomenal😊,0,0,Aditya Pratap Singh Parmar,95160262
+88601780~COURSE!~EKaYq511EeuKthKm1CVWdQ,1643859897915,5,0,Good course,0,0,Shivam Kumar,88601780
+100466718~COURSE!~EKaYq511EeuKthKm1CVWdQ,1643112659362,5,0, leesons also the time i spend was unnoticable   thank you so much,0,0,TARIQ SAMEROVIC,100466718
+99853280~COURSE!~EKaYq511EeuKthKm1CVWdQ,1643104171236,5,0,good,0,0,chukka Anupama,99853280
+1819084~COURSE!~EKaYq511EeuKthKm1CVWdQ,1643066700016,5,0,"thank you so much , i really enjoyed the course ",0,0,Youssef Hanafi,1819084

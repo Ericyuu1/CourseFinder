@@ -1,0 +1,26 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+70975610~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1601525809851,2,0,"es interesante la parte de las historias. Los labs, no funcionaban correctamente (error 403)",0,0,Adriana Cruz,70975610
+46352188~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1600051220850,2,0,"The course is great for Advanced Programmers/Data Scientists and such, it's no ""Intro into..."" anything. It assumes a lot of knowledge, It throws a lot of theory at you and expects you to learn something of it...",0,0,Andres Micalizzi,46352188
+107923747~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1663544042309,4,0,A​lgunas clases no estaban traducidas al español. ,0,0,Raúl Alvarenga Arias,107923747
+46926282~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1656683059902,4,0,"Excelente curso, aunque algunos de los videos no tenia la traduccion al español",0,0,Emiliano colombo,46926282
+72865376~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1605034513407,4,0,En el 2do Lab La conexion a bigquery tal cual esta en la explicación no funciona,0,0,Alejandro Rodriguez Galve,72865376
+70400182~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1604948054914,4,0,"Explicaciones claras,buena proporción de teoría y práctica. Lástima que algunos de los ejercicios propuestos requerían utilizar bases de datos que ya no estaban disponibles, por lo que no era posible realizarlos.",0,0,Facundo Robaina,70400182
+2246627~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1575203481620,4,0,.,0,0,Alan Edwar Marquina Rodríguez,2246627
+40192013~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1565863665106,4,0,"Mucha teoria sin practica, al principio",0,0,Jose Texier,40192013
+17978322~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1563393063875,4,0,"Muy buen material, las explicaciones son muy claras y didacticas.Se puede mejorar con mas ejemplos sobre la aplicacion de los conceptos tratados en las clases y su aplicación en la vida real",0,0,Paul Dobson,17978322
+38132454~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1544501173548,4,0,Muy bueno como introducción a ML!,0,0,Alfredo Sebastian Fretes,38132454
+81064604~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1617167860265,5,0,Excelente Curso,0,0,Jorge Alberto Ramirez Lopez,81064604
+70987831~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1608167086083,5,0,Muy bueno,0,0,Vera Jose O.,70987831
+70309419~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1606934029945,5,0,Excelente!,0,0,Maria Victoria Otero,70309419
+21301145~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1604226323036,5,0,"Realmente una de las introducciones mas completa que visto al Machine Learning, se realiza un análisis de diferentes métodos siguiendo una linea cronológica de desde la conceptualización de la regresión lineal hasta el uso de redes neuronales modernas para clasificación de imágenes. Se realiza una revisión de diferentes conceptos tales como Gradient Decent, Loss, Learning rate, entre otros, permitiendo la visualización de dichos conceptos y como afectan a la red neuronal con TensorFlow Playground. El curso concluye con el estudio de la generalización de los grandes volúmenes de datos mediante BigQuery. ",0,0,Luis Manuel Aviles Altamar,21301145
+9471717~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1604016748051,5,0,Buen curso en el cual te introducen más en el empleo de ML en su plataforma GCP,0,0,Manuel Chamorro,9471717
+74089160~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1603914633233,5,0,Muy buen curso para personas que apenas estamos entrando a esta área de conocimiento. Muy claras las explicaciones y muy buenos los laboratorios,0,0,Germán Galindo Gaitán ,74089160
+64885763~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1603066790056,5,0,"Mil Gracias Google, Mil Gracias Coursera",0,0,Enrique Aguilar Martinez,64885763
+74237472~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1603021200258,5,0,Excelente curso muy completo,0,0,Gustavo Daniel Varlaro,74237472
+60505621~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1598141580225,5,0,Excelente!!!,0,0,Anahir Rial Troncoso,60505621
+1620399~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1597805716731,5,0,"Excelente curso, muchas gracias por tan valioso esfuerzo en la elaboración de estos cursos.",0,0,Edgar Torres,1620399
+61395146~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1590595401911,5,0,Buen curso,0,0,Pablo,61395146
+44642931~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1586128100963,5,0,gracias,0,0,DAVINSON MONTOYA RAMIREZ,44642931
+34985507~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1549304041700,5,0,Información clara y precisa para acompañar el aprendizaje,0,0,emanuel contreras,34985507
+28061207~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1546148074858,5,0,"Es algo confuso para los que no sabemos de SQL, pero al final se logra aprender acerca de como generar buenos Datasets mediante BigQuery y en general de uno propio.",0,0,Steven Parra Giraldo,28061207
+31830309~COURSE!~ltp8oW_yEeig5gq8RRNtIg,1542993321599,5,0,"Es muy útil este modulo para hacer el análisis de los datos y obtener una metodología para repetir los datos de entrenamiento, prueba y validación.",0,0,Arturo Ocampo Alvarez,31830309

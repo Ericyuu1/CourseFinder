@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+98817726~COURSE!~qZwKj74yEeuxGwpcZwh55w,1659971432575,1,0,"The course was blocked after I finished, so I can't revise it now that I need to use Simmer for my research.",0,0,Yuri Triska,98817726
+119004947~COURSE!~qZwKj74yEeuxGwpcZwh55w,1668914701561,5,0,"This course uses a typical manufacturing case to build a discrete event simulation model using the R package, ""simmer"". The course is well structured, explaining each of the model building steps clearly, and shows how to interpret the results of the simulation. ",0,0,Ross Gilmour,119004947

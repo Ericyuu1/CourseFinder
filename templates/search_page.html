@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!--<base href="C:/UI/" target="_blank">-->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <!---<meta name="keywords" content="HTML, CSS, JavaScript">--->
+    <meta name="description" content="Search courses">
+    <meta name="author" content="TTDS Group">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script LANGUAGE="JavaScript">
+        function openwin(url) {
+            window.open(url, "newwindow", "height=500, width=900, toolbar=no, menubar=no, scrollbars=yes, resizable=no, location=no, status=no")
+        }
+    </script>
+
+    <noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+    <title>Course Finder</title>
+    <style>
+        :root {
+            --primarycolor: #6fcacc;
+            --primarycolor2: rgb(57,162,164);
+            --othercolor: #efefef;
+        }
+        div {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        P {
+            line-height: 130%;
+        }
+        .writebox {
+            border-radius: 20px;
+            border:1px solid #ccc;
+            width:650px;
+            vertical-align:bottom;
+            background-color:transparent;
+            transition:box-shadow 0.4s;
+            box-shadow:0 0 10px #CCC;
+        }
+        .s_input {
+            width:98%;
+            height:25px;
+            border:none;
+            font-size:16px;
+        }
+        .s_input:focus {
+            outline: none;
+        }
+        .Search {
+            border:none;
+            background-color: transparent;
+            font-size: 16px;
+            cursor: pointer;
+
+        }
+        .Search:hover {
+            color: var(--primarycolor2);
+        }
+        .description{
+            background-color: transparent;
+            width: 700px;
+            max-height: 110px;
+            overflow: auto;
+        }
+        .button_a {
+            border:none;
+            padding:8px;
+            padding-left:15px;
+            padding-right:15px;
+            border-radius:5px;
+            background-color: var(--primarycolor);
+            cursor:pointer;
+            width:150px;
+            height:40px;
+            font-size: 16px;
+            color: white;
+        }
+        .button_a:hover {
+            box-shadow:2px 2px 2px #ccc;
+            background-color: var(--primarycolor2);
+        }
+
+    </style>
+</head>
+
+<body>
+<table colspan="1" width="100%" cellspacing="3" cellpadding="1" border="0">
+    <tr><td><br><br><br><br><br></td></tr>
+    <tr><td align="center"><img src="static/CF1.png" style="width:500px;"></td></tr>
+    <tr height="60px">
+    <td width="700px" align="center" vertical-align="bottom">
+        <form method="POST" action="{{url_for('search') }}" align="" class="writebox">
+            <table width="100%" border="0">
+                <tr height="40px">
+                    <td width="40px"><img src="static/searchlogo.png" style="height:30px; width:auto"></td>
+                    <td><input class="s_input" name="s_input" id="myInput" type="text" placeholder="enter anything for your ideal courses" ></td>
+                    <td width="60px"><input class="Search" type="submit" value="Search"></td>
+                </tr>
+            </table>
+        </form>
+    </td>
+    </tr>
+</table>
+<script src="../static/script.js"></script>
+
+<br>
+<table align="center" colspan="1" width="40%" cellspacing="20" cellpadding="1" border="0">
+    <tr>
+        <td align="right"><input class="button_a" type="button" onclick="location.href='aboutpage'" value="About us"></td>
+        <td align="middle"><input class="button_a" type="button" onclick="location.href='helppage'" value="Help"></td>       
+        <td align="left"><input class="button_a" type="button" onclick="location.href='advancedsearch'" value="Advanced Search"></td>
+    </tr>
+</table>
+</body>
+</html>

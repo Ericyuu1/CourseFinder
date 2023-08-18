@@ -1,0 +1,51 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+92955445~COURSE!~o6b4PczvEeqgiQpd1tLriw,1672244502931,1,0,very basic,0,0,Natan Drozd,92955445
+802261~COURSE!~o6b4PczvEeqgiQpd1tLriw,1630079317396,1,0,"T​his one star is only because it was not possible to set zero stars. I was unable to proceed with the project from Lesson 2 onward, because of the issue of intercepting keys when trying to follow the instructor (Ctrl+Q causes the browser attempt to close open windows). I could not resolve the problem and I noticed that more than 5 students asked for help in the discussion forum regarding the same issue, however the staff are completely unresponsive. I am very sorry I spent money and then a lot of time trying to resovle the issue described above.",0,0,Galina Troshkina,802261
+15158994~COURSE!~o6b4PczvEeqgiQpd1tLriw,1627475616021,2,0,I​ learned some new and probably relevant commands for docker. But that's basically it. I did play with Docker before so I was also not really a newbie in docker.,0,0,Fabian Girrbach,15158994
+84125229~COURSE!~o6b4PczvEeqgiQpd1tLriw,1617877376925,3,0,"This is a very basic and quite limited course, and while it may be worthwhile as a starting point to those unfamiliar with docker, you will only gain very limited knowledge. The instructor was also not always as clear as they could be when speaking. There are definitely better beginner courses available. ",0,0,COWARD ROBERT ANTONY,84125229
+84080566~COURSE!~o6b4PczvEeqgiQpd1tLriw,1617783739200,3,0,Very basic introduction.,0,0,Sascha Baumanns,84080566
+71646231~COURSE!~o6b4PczvEeqgiQpd1tLriw,1604078025404,3,0,Good for intro.,0,1,Thanos Koulouris,71646231
+65779533~COURSE!~o6b4PczvEeqgiQpd1tLriw,1602155424980,3,0,"  It would've been great if slides were provided for some detailed explanation about docker, images, container, and script.",0,1,MD MAKSUDUR RAHMAN,65779533
+47200394~COURSE!~o6b4PczvEeqgiQpd1tLriw,1643263662913,4,0,Good Course to take and learn,0,0,PRAMOD KUMAR SINGH,47200394
+88460503~COURSE!~o6b4PczvEeqgiQpd1tLriw,1630846230963,4,0,Good for knowing basic commands and operations of docker. ,0,0,Raviteja Rachuri,88460503
+88475097~COURSE!~o6b4PczvEeqgiQpd1tLriw,1627376741914,4,0,good,0,0,Kachi Reddy Veda Kumar,88475097
+75996684~COURSE!~o6b4PczvEeqgiQpd1tLriw,1625725600730,4,0,Awesome,0,0,Sonam Chunnilal Yadav,75996684
+59710125~COURSE!~o6b4PczvEeqgiQpd1tLriw,1620912837982,4,0,A good introduction to the very basic operations within docker.,0,0,Konstantin Perun,59710125
+47567885~COURSE!~o6b4PczvEeqgiQpd1tLriw,1620912303732,4,0,could have been better if taught about the docker file,0,0,Raghav Dayal,47567885
+70082105~COURSE!~o6b4PczvEeqgiQpd1tLriw,1618035783935,4,0,"Good introduction, yet somewhat too basic in my eyes as I still feel like I need to learn some more about Docker to be able to start using it in practice.",0,0,Florian Caro,70082105
+68127131~COURSE!~o6b4PczvEeqgiQpd1tLriw,1617772059575,4,0,"Little hard to understand the instructor some times, but a good introduction to start using Docker with Docker-hub.",0,0,Kai Morten Thorkildsen,68127131
+82900085~COURSE!~o6b4PczvEeqgiQpd1tLriw,1616624167864,4,0,"It's well explained, but it was too basic for my expectations",0,0,Guillermo San Juan Corral,82900085
+42620513~COURSE!~o6b4PczvEeqgiQpd1tLriw,1613270256613,4,0,"It very simple and clear to follow. The external platform have some issues with Ctrl+p Crtl+q commands, so you have to find another way to follow the tasks (this should be easier for those who have more knowledge in Linux), but the discussion forums has some tips. It could be more content but I learn something but of course I need to enroll in a another course/guided project to fully understand docker and containers.",0,0,Stephan Hanada Hermenegildo,42620513
+55597578~COURSE!~o6b4PczvEeqgiQpd1tLriw,1606145740357,4,0,"Faster course, but good.",0,0,Jerson Martínez,55597578
+59853242~COURSE!~o6b4PczvEeqgiQpd1tLriw,1601393384750,4,0,It would've been great if slides were provided for the course about the docker commands and it's work or procedure,0,2,Kazi Rafakat Hossain,59853242
+88597711~COURSE!~o6b4PczvEeqgiQpd1tLriw,1676252004664,5,0,Very clear instructions and good practices designed.,0,0,Jiao Li Yin,88597711
+115627237~COURSE!~o6b4PczvEeqgiQpd1tLriw,1665844289097,5,0,w​ell,0,0,Deena dayalan Rajkumar,115627237
+103569020~COURSE!~o6b4PczvEeqgiQpd1tLriw,1649425067369,5,0,Excelent material.,0,0,JOSE MIGUEL VARGAS PIMENTEL,103569020
+102015762~COURSE!~o6b4PczvEeqgiQpd1tLriw,1647565309079,5,0,Excelent introduction to Docker!,0,0,Felix Ramos,102015762
+48259951~COURSE!~o6b4PczvEeqgiQpd1tLriw,1643680104701,5,0,V​ery good introduction to docker usage,0,0,Infame,48259951
+92907039~COURSE!~o6b4PczvEeqgiQpd1tLriw,1640740891250,5,0,very instructive,0,0,Rogelio Martín Alvarez,92907039
+47217794~COURSE!~o6b4PczvEeqgiQpd1tLriw,1632403518460,5,0,good stuff,0,0,Kasi Viswanadham Dodda,47217794
+47217909~COURSE!~o6b4PczvEeqgiQpd1tLriw,1632128838258,5,0,j,0,0,Chippada Durgarao,47217909
+87456913~COURSE!~o6b4PczvEeqgiQpd1tLriw,1627646338154,5,0,Great hand-on tasks that helped me to understand Docker containerization.,0,0,Taqi Hasan Hasan Abbas Jafrey,87456913
+54165335~COURSE!~o6b4PczvEeqgiQpd1tLriw,1624353681532,5,0,"This course is easy to follow and very helpful in getting started with Docker. The instructor did a fantastic job in explaining the details.
+
+",0,0,Srikanth Siliveru,54165335
+87993651~COURSE!~o6b4PczvEeqgiQpd1tLriw,1624274985092,5,0,short and simple,0,0,NagaArjun,87993651
+81003880~COURSE!~o6b4PczvEeqgiQpd1tLriw,1622660943526,5,0,Excellent guided project. I was able to clearly understand what a container is and how to use the docker. Now I will take a course to better understand the theoretical part and the possibilities of using this solution. Thanks for sharing knowledge.,0,0,Mateus Purificação,81003880
+69348984~COURSE!~o6b4PczvEeqgiQpd1tLriw,1621175973509,5,0,fun and helpful,0,0,Vu Tri Hien (k15 HL),69348984
+83996612~COURSE!~o6b4PczvEeqgiQpd1tLriw,1620474092210,5,0,Great,0,0,Amol Chandrashekhar Patwardhan,83996612
+83403297~COURSE!~o6b4PczvEeqgiQpd1tLriw,1617810560566,5,0,Very useful !!!,0,0,Kanat Zhumadilov,83403297
+74082870~COURSE!~o6b4PczvEeqgiQpd1tLriw,1617438705933,5,0,Good explanation with lab ,0,0,Abhishek Kulkarni,74082870
+1680234~COURSE!~o6b4PczvEeqgiQpd1tLriw,1615378854917,5,0,Well created course for beginners.,0,0,Chandrika N,1680234
+56625457~COURSE!~o6b4PczvEeqgiQpd1tLriw,1615044922990,5,0,Very easy and helpful commands explained during the course.,0,0,Sanjay Chandran Nair,56625457
+80536609~COURSE!~o6b4PczvEeqgiQpd1tLriw,1614347885456,5,0,Excellent source of information,0,0,Alton Lloyd Wedderburn,80536609
+81494752~COURSE!~o6b4PczvEeqgiQpd1tLriw,1613768740627,5,0,This course is really helpful in getting started with using Docker.  The instructor does a great job explaining what is going on in a stepwise fashion.,0,0,Cheryl Bilsland,81494752
+1129270~COURSE!~o6b4PczvEeqgiQpd1tLriw,1612368823457,5,0,"Rhyme commands were a kind of challenge in the beginning while trying to exit from the container. After careful examination, i was able to find the sequence of steps and all looks good. But i am still looking for creating docker image from visualstudio project using docker file.",0,0,D MuraliKrishna Inampudi,1129270
+39425796~COURSE!~o6b4PczvEeqgiQpd1tLriw,1609106262080,5,0,"Para los que inician en el mundo de dockers y virtualización, súper práctico",0,0,Doly Zaracho,39425796
+70399275~COURSE!~o6b4PczvEeqgiQpd1tLriw,1606417443285,5,0,very good course to understand and tryout docker,0,1,Amarasinghe A.K.D.L.I,70399275
+17223752~COURSE!~o6b4PczvEeqgiQpd1tLriw,1604830626228,5,0,good instructions,0,0,Bernard Kimanzi Kiema,17223752
+10010509~COURSE!~o6b4PczvEeqgiQpd1tLriw,1603340123965,5,0,"detallada explicación de como crear una contenedor desde cero o modificar una imagen ya existente, por ultimo como subirlo a docker hub. ",0,0,Juan Carlos Gamboa,10010509
+70960888~COURSE!~o6b4PczvEeqgiQpd1tLriw,1602166191217,5,0,Muy bueno a modo de práctica,0,1,lenin garcia,70960888
+1172353~COURSE!~o6b4PczvEeqgiQpd1tLriw,1601537910755,5,0,"Simple, to-the-point, series of exercises that introduce you to the very basics of Docker.",0,0,José Carlos García Pedroza,1172353
+70356010~COURSE!~o6b4PczvEeqgiQpd1tLriw,1601141469935,5,0,verynice,0,0,Karan Kumar,70356010
+57819337~COURSE!~o6b4PczvEeqgiQpd1tLriw,1600883058347,5,0,Perfect Understanding of Docker concepts with examples.,0,1,Sujata Atul Oak,57819337

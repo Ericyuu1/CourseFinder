@@ -1,0 +1,107 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+4701005~COURSE!~02kFB79AEeyUxgoSRgtsGw,1673892681435,1,0,This is outdated. Things aren't done the way this app presents anymore.,0,0,Galadien,4701005
+90036382~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663702559519,1,0,"Y​outube has far better instructions and examples that actually work, don't waste your time or money like I did",0,1,Michael Doehrman,90036382
+114398659~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663650500658,1,0,​college has forced to join the course forced to student ,0,0,Nipun Goswami,114398659
+99976874~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669925690196,2,0,This course was extremely hard to follow and execute towards the end. The code in the AVPlayer Module just did not make sense. There were videos that started off in the middle of a sentence and the code that followed it just did not make sense. Hopefully this course can get updated with the proper videos to make the course easier to follow.,0,0,Carlos Frank,99976874
+114812080~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663274222862,2,0,N​ot much substance to it.,0,1,Jeremy De Freitas,114812080
+117319251~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675716761706,3,0,"This is a decent introduction to using Xcode and learning Swift. There's room for improvement, though. When building the video player in Xcode, I ran into several errors that I did not know how to resolve, and the course made no mention of how to resolve significant errors.",0,0,Deleted Account,117319251
+121683698~COURSE!~02kFB79AEeyUxgoSRgtsGw,1673293401058,3,0,To be honest I expected more. This course will not be easy for a complete newbie as the operations and the code itself are hardly explained and you don't know what you are doing. I've seen better courses and they weren't from 'Meta' ...,0,0,Harun,121683698
+40991916~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663511353640,3,0,"​overall the intro is honestly really good, but I was expecting the lecturer/mods to reply to students' queries at least, but for almost a month no one really interacts with you. Just felt like another youtube tutorial. 
+u​demy is much more better imo for follow-up questions, the lecturer there replies at least. ",0,1,John Salvador,40991916
+2405420~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662251994625,3,0,"I've only gone as far as week 3, so I expect my thoughts of the course to change as I go deeper into it. So far so good. Just a few thoughts:
+
+(1) The course could be clearer about the prerequisites required. It’s not clear to me if the student is supposed to know Swift or not. Week 3 has a video titled ‘Swift Simple Terms’ where the instructor explains basic keywords like `var` and `String`. In the video that follows - ‘Create the player’ - the instructor glosses over an implementation detail that uses the `override` keyword. No explanation is given on what `override` actually is, only a vague mention that it is required to implement the feature. 🤷🏽‍♂️. What is the overall assumption/aim here? Are we being introduced to Swift or are we expected to know Swift already? Giving attention to basic concepts one moment and doing the complete opposite the next is confusing. I think the course would be better if the instructor was consistent.
+
+(2) The course could be clearer about the type of student engagement that’s expected in specific chapters. For instance, take the ‘Week 3 - Project Setup’ module. We’re supposed to be building a video player here. If this course is suitable for ‘individuals with no prior experience’ then a great deal of the concepts mentioned here will be foreign. Most students will simply copy and paste whatever the instructor is typing in her IDE. This is alright, I think there’s a place for that kind of learning - where you simply watch and listen to appreciate the power of a tool without being expected to understand the details. It would just be a lot less confusing if the instructor mentioned that this was the expectation, and students shouldn’t bother too much about some of the complexities of the video player implementation that are being glossed over. Neither should they be worried about coding along. 
+
+On the other hand, if the instructor does expect the student to code along and grasp what’s being discussed then I don’t think a video player project is the most suitable project at this point in the journey. Developing a less complex feature/project may better serve the student.",0,1,Yamikani Chinamale,2405420
+6315154~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662127309059,3,0,"Definitely NOT a course for beginners, you need to know how to code in order to use the course.",0,0,Ellinor Grant,6315154
+98787547~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661535290333,3,0,"Having been studying iOS development for the past two years, I found this course underwhelming in both its content and teaching style. Had this been my actual introduction to iOS Development I may have been overwhelmed, confused, and discouraged by this course. It focuses on telling rather than teaching, and gives you a lot of unnecessary information that could be saved for later when you are more comfortable with iOS development. I feel like a company of Meta's standards could have created a far superior course than this. I must say, after seeing how they handled this course, I'm not looking forward to the remainder of the specialization.",0,2,Jeffrey Concerto,98787547
+119511858~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675693753094,4,0,"A few example projects and use-cases would've been nice.
+Otherwise a good course for absolute beginners in mobile development!",0,0,Ervin Dobri,119511858
+123057831~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675284046432,4,0,lot of big words,0,0,Victor Rafael,123057831
+94875484~COURSE!~02kFB79AEeyUxgoSRgtsGw,1673899039281,4,0,Very basica and good for funamentals.,0,0,Camilo Gonzalez,94875484
+77118902~COURSE!~02kFB79AEeyUxgoSRgtsGw,1673844137542,4,0,This is a great fundamentals course that provides learning objectives that can be applied quickly to those interested in mobile application development for iOS.,0,0,Ray Elkins,77118902
+121399477~COURSE!~02kFB79AEeyUxgoSRgtsGw,1672971671941,4,0,"Good start, and is beginner friendly",0,0,Mahik Patel,121399477
+104041489~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669943809874,4,0,This course is too generic and I wish there was more actual coding involved.,0,0,Valeriia Sundieva,104041489
+17853129~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669893941731,4,0,"This course include some basic IOS development concepts, a little bit easy for people with coding experience.",0,0,田兴业,17853129
+118744134~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669623570320,4,0,"Me pareció un curso bastante sencillo, quizá muy enfocado en la parte teórica más que en la práctica, lo cual no es necesariamente malo ya que para comenzar a ""meter las manos"" en el desarrollo de aplicaciones, es necesario aprender las bases y dedicar un tiempo en aprender conceptos y definiciones básicas. Me pareció bien organizada la información, aunque debo advertir que para alguien que no tiene NADA de conocimientos básicos de programación, tal vez le sea bueno leer un poco sobre lógica de programación antes de embarcarse en este curso, ya que esta parte se da por sentada en el curso.",0,0,Brian Jiménez Moedano,118744134
+114331410~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669386544884,4,0,interesting cource,0,0,K.Anusha,114331410
+96687057~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666727862841,4,0,n​ice,0,0,Ankush Shandil,96687057
+114739478~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664574325787,4,0,G​reat course overall but goes too fast in terms of the first asigment regarding the basics of swift code. Hope this gets a more focus part in the second part,0,0,Ricardo,114739478
+84074632~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664478451946,4,0,S​o cool! ,0,0,Yana Kolobovnikova,84074632
+86054867~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664073746804,4,0,G​ood beginner course. Some of the material was incorrect or out of date. There were also some grammatical errors.,0,0,Ronnie Vega,86054867
+106808129~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663800731600,4,0,​The course was very easy to follow. I am looking forward to the next ones. ,0,0,Odylic,106808129
+113553017~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663097714791,4,0,"l loved the course so much and i hope complete the rest of courses in the specialization i learnet about import statement and how to use UIKit,AVKit, what is UIView,appDelegate",0,0,abdallah yasser wafik,113553017
+48358693~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661485907771,4,0,Thanks of meta the content are clear and everyone can learn just he/she need to spend enough time to learn it.,0,0,Mohammad Edrees,48358693
+108729217~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661439618732,4,0,"I​ felt this course did a great job laying the groundwork for iOS development. I ran into a few hiccups, such as quiz questions that asked for information that hadn't been presented in the course yet, but overall the content is presented in a deliberate and easy-to-absorb fashion. ",0,0,Tyler Recker,108729217
+43109020~COURSE!~02kFB79AEeyUxgoSRgtsGw,1677329190950,5,0,"Hello! Thank you for providing an excellent course. Through this course, I was able to examine the overall process of iOS app development and confirm my learning through quizzes. I think I can recommend this course to others.",0,0,neue zeal,43109020
+110335636~COURSE!~02kFB79AEeyUxgoSRgtsGw,1676690946624,5,0,By following this introduction course i get more insight about iOS development,0,0,Dewa Nyoman Dharma Triyasa,110335636
+121612183~COURSE!~02kFB79AEeyUxgoSRgtsGw,1676214695344,5,0,great start for developing,0,0,KHOLOD MOHAMMED SALEH ALMUNEEF,121612183
+37678363~COURSE!~02kFB79AEeyUxgoSRgtsGw,1676193374599,5,0,Good jump start,0,0,Wasupol Tungsakultong,37678363
+76406548~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675514028097,5,0,Very engaging course. Gives the basics to help get started with IOS development. Would mainly recommend this to anyone with zero knowledge in coding and app development. Would advice taking more advanced courses otherwise.  ,0,0,Amir Aynetchi,76406548
+45240041~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675319418358,5,0,nice videos,0,0,Poonam mittal,45240041
+122712740~COURSE!~02kFB79AEeyUxgoSRgtsGw,1675172539596,5,0,Awesome,0,0,Ibragim Tanshanlo,122712740
+102192433~COURSE!~02kFB79AEeyUxgoSRgtsGw,1674919037221,5,0,Great course!!!,0,0,Khislatjon Valijonov,102192433
+120832827~COURSE!~02kFB79AEeyUxgoSRgtsGw,1674848975324,5,0,this is real course in this field,0,0,Selçuk Tamer,120832827
+104320689~COURSE!~02kFB79AEeyUxgoSRgtsGw,1672773335850,5,0,"good introduction to xcode and development, but not alot of content on how to make the app itself. luckily there are more courses in this series for this",0,1,Max Mayer,104320689
+118598296~COURSE!~02kFB79AEeyUxgoSRgtsGw,1672414665774,5,0,Good for a start.,0,0,Linar Davletgareev,118598296
+45528466~COURSE!~02kFB79AEeyUxgoSRgtsGw,1672053706222,5,0,Very informative and excellent,0,0,Muhammad Ali,45528466
+40144179~COURSE!~02kFB79AEeyUxgoSRgtsGw,1671106364931,5,0,Продуманная и качественная подача учебного материала,0,0,Владислав Глодовский,40144179
+105743600~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669922333316,5,0,iyi eğitim veriliyor,0,0,Yunus Ekici,105743600
+117566254~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669803473005,5,0,Un cours bien dispensé et mieux assimilé coup de chapeau à la Team Meta et Coursera good job,0,0,David KAZAD A KAPEND,117566254
+117335273~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669780772603,5,0,very helpful and provides everything you need to start your journey into becoming an iOS Mobile App Developer.,0,0,Muhammad Hilman bin Mat Jusoh,117335273
+25854247~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669086794313,5,0,Very nice tutorial,0,0,Yeasir Arefin Tusher,25854247
+118859333~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669056274209,5,0,I liked videos. Way things were explained was new to me although I have attended University and this experience wasn't new. Big thumbs up for professionalism.,0,0,Rodion Samoilov,118859333
+30011014~COURSE!~02kFB79AEeyUxgoSRgtsGw,1669044252404,5,0,Very Good,0,0,Jose Carlos Alarcon Chacon,30011014
+96585755~COURSE!~02kFB79AEeyUxgoSRgtsGw,1668981634217,5,0,It was great and easy to follow.,0,0,Alexandra Smith,96585755
+118581349~COURSE!~02kFB79AEeyUxgoSRgtsGw,1668719755230,5,0,"It was great for beginners, if there were more coding people would really get lost in it. Even that little coding while making video player was challenging for me who never coded.",0,0,Luka Eter,118581349
+85503810~COURSE!~02kFB79AEeyUxgoSRgtsGw,1668541546800,5,0,Very good overview of iOS mobile development fundamentals. The course outline introduces new content while maintaining the learner full engaged and looking forward to the next courses in the specialization.,0,0,Randal Neptune,85503810
+110473479~COURSE!~02kFB79AEeyUxgoSRgtsGw,1668070455691,5,0,Great start to the course! Learning so much! Thanks,0,0,Pieter Bothma,110473479
+97100795~COURSE!~02kFB79AEeyUxgoSRgtsGw,1667047848813,5,0,P​roject files would be nice!,0,0,Markeith Johnson,97100795
+81599145~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666967718615,5,0,L​ove it,0,0,Habeeb Bankole,81599145
+106353071~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666881073898,5,0,"M​ake sure you repeat videos, and have a basic technological understanding of how technology works before starting this course. Take the time to understand terminology as it moves quickly",0,0,Jordan Brown,106353071
+29368114~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666671214697,5,0,g​ood ,0,0,Ilyos Yuldoshev,29368114
+34876208~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666547515996,5,0,t​ricky answers,0,0,Gül Eda Aydemir,34876208
+43194484~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666367518802,5,0,V​ery efficient intro course to a very broad set of concepts. ,0,0,Dominiq Martinez,43194484
+95551101~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666347533613,5,0,T​hank you!,0,0,Shakhriyar Badalov,95551101
+53946303~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666146412474,5,0,G​ood Course for a Basic Introduction on iOS and Xcode,0,0,Daya Sagar,53946303
+98783077~COURSE!~02kFB79AEeyUxgoSRgtsGw,1666005416215,5,0,B​est into course to Ios,0,0,Charles Adu Boakye,98783077
+112740921~COURSE!~02kFB79AEeyUxgoSRgtsGw,1665424026603,5,0,G​reat Introductory course for iOS development.,0,0,Dipak,112740921
+95055212~COURSE!~02kFB79AEeyUxgoSRgtsGw,1665329130867,5,0,"V​ery good course! I enjoyed it a lot.F​or me was not very clear lesson with code in video_player. I didnt understand anything, just repeated the code and it works. I think it will be explained in next courses.T​hank you!",0,0,Olga Semizvonkina,95055212
+94716756~COURSE!~02kFB79AEeyUxgoSRgtsGw,1665107130533,5,0,"F​ue un buen curso introductorio que ayuda a conocer toda la historia que hay detrás de este gran ecosistema hasta llegar al día de hoy. Una vez concluído dicho módulo, pasamos a conocer un poco más la interfaz del editor y posteriormente utilizar el simulador y escribir algunas líneas de código.Principalmente este curso está enfocado a conocer todo el ambiente de desarrollo y su historia más que a escribir código que se vienen en cursos posteriores.1​0 puntos!",0,0,Matías Ojeda,94716756
+46892718~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664828711021,5,0,​this course is cool. I have learn a lot in few days. Thanks,0,0,Akinbande olugbenga,46892718
+116061000~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664671913774,5,0,"I​ would like to see more source code/code pens to interact with so that the course is a more of a hands on experience. Although, I expect I'll be able to do that down the line. Overall, this is a very well structured and informative introduction to iOS development.",0,0,Shelton Brown,116061000
+115237098~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664650654393,5,0,T​his is the first course i have taken so i can't really compare it to others.,0,0,Ege Topçu,115237098
+76813545~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664499066854,5,0,​Very easy to understand and well structured,0,0,Abdullah Clement Abdul Shekur,76813545
+80305530~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664363223420,5,0,T​he course was very engaging and decriptive. ,0,0,Anand Govindarajan,80305530
+103922455~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664310632581,5,0,M​uy bueno,0,0,Fabrizio Martín Pastor Suárez,103922455
+111899419~COURSE!~02kFB79AEeyUxgoSRgtsGw,1664223341252,5,0,I​ liked its very good for begginers,0,0,Angel Trejo,111899419
+110146636~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663974967444,5,0,"v​ery helpful to start with ios, xcode and swift",0,0,Mukund Pandey,110146636
+13092699~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663821752683,5,0,E​xcelentes conocimientos base,0,0,Benjamín Velázquez Valtierra,13092699
+107508979~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663729532744,5,0,G​reat course for now!,0,0,Gustavo García,107508979
+111001657~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663528318490,5,0,T​he learning experience was great very informative and easy to follow along with.,0,0,Crystal Ellis,111001657
+26495632~COURSE!~02kFB79AEeyUxgoSRgtsGw,1663144672414,5,0,G​reat course to understand mobile development and its different aspects,0,0,Gargi Garg,26495632
+33232288~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662863481375,5,0,V​ery good course to give you the bases of iOS development. This gives you strong theory to base your knowledge and starat your iOS development journey. ,0,1,Diego Cue,33232288
+56713600~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662848358045,5,0,g​reat start!,0,0,Mücahit Uçkun,56713600
+114091424~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662744334373,5,0,"A​ good introduction to iOS apps development. The instructions were clear and at a slow pace, so very beginner friendly. 
+Not as much coding as I anticipated, guess that would have to be in the third course of the program. Most are intros to knowledge around the iOS environment. Including different mobile OS, what an iOS developer at Meta does, the importance of project planning, learning about Xcode, etc.
+Currently, the course is taught using Xcode 14. Not quite sure if in the near future when Xcode 14 and iOS16 roll out, they will manage to update the course to the newer versions. Really hope they do!",0,0,Eric Kuo,114091424
+78530911~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662722320890,5,0,i​s a good platform,0,0,Agung Luo,78530911
+114221875~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662660864681,5,0,e​asy to understand and intuitive,0,0,Austin Ashcraft,114221875
+96764307~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662555823141,5,0,"​It helps me to do my first app
+So
+It's 5 stars ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ",0,0,Petro Strynada,96764307
+110501090~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662501006266,5,0,good introduction and good way of explaining,0,0,Daniel Valverde,110501090
+113883739~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662418736137,5,0,"T​his course was very good for a beginner. It helped me understand a lot of basic terms, reasons why apps are made, and we even did a project that in theory could be used in the real world, if touched up a little. ",0,0,Kenneth Fullbright,113883739
+114103128~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662190557168,5,0,"C​ours très  bien structuré pour débutants ou peronnes plus expérimentés. Possibilité d'avancer à son rythme, apect théoriques et pratiques intéressant",0,0,,114103128
+41759072~COURSE!~02kFB79AEeyUxgoSRgtsGw,1662009655923,5,0,good course but i wish there was more hands on work as opposed to a bunch of videos and quizzes,0,2,Eric D Romero,41759072
+13490149~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661986704699,5,0,Great course,0,0,José Martín Molina Espinosa,13490149
+112756692~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661978851774,5,0,G​ood material and videos to start developing iOS App.,0,0,Eric Guzman,112756692
+112913771~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661883259973,5,0,r​eally fun work. easy to follow,0,0,roscoe bassett,112913771
+90057840~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661867683422,5,0,Very well designed course to help students understand the basics. Does not feel too fast paced and ended well as to transition into the next course. ,0,0,Ang Wen Law Lawbin,90057840
+78693957~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661825832054,5,0,"So far so good.
+A lot to learn but I have the feeling that I'm at the right place on the right path.",0,2,Abdelkader Ait Assou,78693957
+6749645~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661786083789,5,0,A​wessome,0,0,Franklin Byaruhanga,6749645
+73523990~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661471240316,5,0,I​t was a great and well covered for beginners.,0,0,Hasan Yavuz,73523990
+107749596~COURSE!~02kFB79AEeyUxgoSRgtsGw,1661414516018,5,0,A​mazing start of great journey in word of iOS development!,0,0,Tarlan Guliyev,107749596

@@ -1,0 +1,11 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+1383791~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1599063767098,2,0,"This project should be more about GradCam Visualization and should dive deeper into its details, but not provide an explicit overview of all the steps necessary to build the original model.",0,0,Simon Sebastian Rittel,1383791
+57075465~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1608899229904,4,0,"(+)  Very insightful introductory project course to CNN and XAI. The instructor was explaining as much as possible to all parts. Providing such images was really helpful.(-)  There were several mistakes in the code. A prerequisite for this course could also be the mathematical background and thus, more explanation on why and how each mentioned-part could be provided. Not all explanation parts for XAI are provided to jpnb for students.",0,1,Alexandros Oikonomidis,57075465
+46564520~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1598495516632,4,0,it's an exciting course it covers all machine learning life cycle steps in a short time and organizable way,0,0,Samy Sabry Saad Elsheref,46564520
+17568469~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1632652547575,5,0,"A step by step explanation of how to build a Resnet Image Classification Convolutional Neural Network. Including how to use a technique known as Grad-Cam to visualize how different parts of the image effect the final classification. Cons: No theory. It shows all the pieces of a working model. But not WHY it works.Note: the notebook in Files is empty. The mostly complete notebook is in Files-->Notebooks
+
+",0,0,Yaron Klein,17568469
+64016982~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1596284888177,5,0,very helpful,0,0,Stud 20180354,64016982
+45931782~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1595893425427,5,0,thanks,0,0,Kamlesh Chhipa,45931782
+49313248~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1595830081051,5,0,"I like the course, it is exceptional.But if you provide the materials(train/test files) to download it will be better to apply it on our own ",0,4,Vipul Ghate,49313248
+27989255~COURSE!~w7my_bVmEeqIZw6eP9rxkw,1595202211697,5,0,"Excelente curso, Muchas gracias",0,0,Jesus Maria Zabaleta Franco,27989255

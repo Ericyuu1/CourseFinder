@@ -1,0 +1,432 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+47602803~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1670678087088,1,0,"too much theory, the course could include some lab practices and be more fun and memorable ",0,0,Adem Youssef,47602803
+2518692~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1637702317552,2,0,Not enough hands on experience,0,2,Antoine Compagnie,2518692
+84214202~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629453307309,2,0,do not meeting the expectations ,0,1,Tigran Manukyan,84214202
+43177194~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625819914556,2,0,Very basic course,0,2,Rawan Lazkani,43177194
+166707~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624377523381,2,0,Most of the discussion was theoretical. Some useful knowledge but not useful for real world MLOps,0,9,Rajesh RS,166707
+81139229~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622762626383,2,0, All pretty trivial,0,4,Koke Helmes,81139229
+3364785~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621697012684,2,0,I found the production part absent and is another ML course.,0,8,Snehotosh Banerjee,3364785
+65217576~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1670871792995,3,0,It teaches a lot about the basics of ML in industrial production. I find there is a lack of lab work and real-world examples. The provided lab works do not go in-depth teaching the concepts discussed in the course. They seemed superficial. More graded quizzes are needed to test the pupils and make the courses more interactive. ,0,0,Rukshar Alam,65217576
+8417380~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667501571984,3,0,"The content of the course is really good and gives a great brief about MLOps. However, there are very few lab exercises and all of them are ungraded. Moreover, all the lab exercises are in Jupyter Notebook. This is still a good introductory course to MLOps",0,0,Kamikaze,8417380
+33021334~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659775525783,3,0,I have worked in AI powered healthcare imaging industry for some years. Most of concept mentioned are our daily routaine. It is good to catch them up with constructed courses but I was expecting more juciy.,0,0,jitao fan,33021334
+27658996~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647019175560,3,0,"Consice and Vocational , especial to those working on unstructured data.  I enjoyed it. Thanks",0,0,Kenan Morani,27658996
+39378364~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641935511800,3,0,"G​ood overview of best practises, but still a bit too general and non-technical.",0,1,Ravi Autar,39378364
+89917390~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641300907540,3,0,"Good intro but it looks like in other courses from deeplearning.ai, while they teach you something, they also try to ""sell"" people a specific framework. In this case, they seem to be selling TFX. I still recall how they sold people the Trax library in the NLP specialization which has replaced Trax with huggingface. I take what is useful from these courses but I distrust their agenda.",0,1,Enrique Corro,89917390
+70007001~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638986355930,3,0,It seemed a little too general. I would've liked more labs.,0,1,Matthew Avaylon,70007001
+19076785~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633301726832,3,0,"boring and kind of wasting time. I mean, learning course 2-4 is enough ,why there is an extra ""outline"" course here? Also, the content is a duplication with Andrew's other courses in coursara.",0,1,yukongliang,19076785
+91905284~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632565106579,3,0,​very boring and should not be part of specialization,0,0,Kiran R,91905284
+93196275~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631018027239,3,0,its very good experience ,0,0,SRIKANTH MEDAM,93196275
+31909925~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626783849687,3,0,Much more a high level course respect to what i expected,0,0,diego polimeni,31909925
+35540313~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623588995605,3,0,I wish we had more practical exercises,0,0,Leandro Kellermann de Oliveira,35540313
+87376133~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623283067953,3,0,"It is really a nice conversation with Andrew Ng over some problems that you face when you try to put model on production, define projects and manage it. But, the frameworks that he proposes are totally general and this course has technical debts.",0,0,Diego Lopez,87376133
+27400377~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621584791158,3,0,"I know it's an introduction, but I got a bit disappointed. It's quite basic and even though it has some hands on notebooks, they're optional and you don't need to work on anything. Quizzes are easy, and I didn't have the feeling I learnt much. I'm still rating it with 3 because, well, it's Andrew Ng, and this his teaching is worth gold.",0,12,Francisco Javier Ramos Alvarez,27400377
+1517127~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1677210242270,4,0,Could've been more concise.,0,0,Payam Mousavi,1517127
+69892230~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1676617105339,4,0,great outline for real-life projects ,0,0,Rupak Roy,69892230
+120029443~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1675286900105,4,0,"Excellent conceptual introduction to employment of ML models. This is the first course I have taken that focuses on the ""outside of the box"" of the individual model and working on development and improvement of a model. ",0,0,Robert Jankowski,120029443
+49470398~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672412404013,4,0,Very overview as well as provide more good documentation,0,0,dat tien,49470398
+39189176~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672146561002,4,0,"Amazing course, the only problem is the video quality of the last week. ",0,0,Mohammad Abdallah Shwaiky,39189176
+115382885~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1666346068275,4,0,"I​ wish for graded programming assignments in this course as well.Although much of the things talked about here are theoretical, a programming assignment here would be immensely useful to a beginner to get a practical idea about the related concepts being covered and referred here across the couse modules.",0,0,Divij Sehgal,115382885
+101656523~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1661348768959,4,0,inhaltlich und didaktisch eine s​ehr gute Einführung. Etwas mehr Praxisanteil wäre hilfreich.,0,0,Mark,101656523
+8309646~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657924721391,4,0,It's a great introduction course. But excessively easy. ,0,0,Baurjan Safi,8309646
+29196739~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1655928505473,4,0,"The content is great, but it could be condensed a lot!",0,0,Christian Krudewig,29196739
+449019~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654427908570,4,0,"Ecellent course. Although very focused on unstructured data and deep learning, so if you are from a structured data background, you might feel left out.",0,0,Dhruv Nigam,449019
+94804033~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650485139163,4,0,Good foundational course,0,0,Arman Spinola-Khazami,94804033
+93100058~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649413323183,4,0,Great introduction!,0,0,Javier Pacheco Ostos,93100058
+25347712~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1648209566403,4,0,G​ood intro course on machine learning for production,0,0,Sudip Chandrakant Mahajan,25347712
+95862784~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647960486572,4,0,"It's cool, but it isn't for begginer",0,0,Kepchyck,95862784
+55682548~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647523043761,4,0,Theoretically worth watching... but lack off hands-on excercises.... It would be more helpfull if there were any open sourse tools thought in the course...,0,0,Sandeep Upadyaya,55682548
+6787679~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645543578596,4,0,"Good general info but a bit basic for anyone who has already worked within the modelling pipeline. Nevertheless, Andrew is a great teacher and I did learn some new concepts and things to think about. ",0,0,Ildefonso Mauriaca,6787679
+93152267~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645467419524,4,0,Maybe too basics for experienced folks. If you are the beginer this is a good class to take :) ,0,1,Anastasia Prokaieva,93152267
+11531992~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643210688483,4,0, use a more hands on approach.,0,0,Maria Elena,11531992
+100519044~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642882532667,4,0,"I​ntroduction to MLOps of deeplearning.ai, the course is a very good introduction and overview (even though no IT skills are learned at this point)",0,0,Simon Grouard,100519044
+18005500~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642516959960,4,0,light but usefull,0,0,davecote,18005500
+47360201~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1640730839436,4,0,"I was a little disappointed that this was heavily focused on unstructured data, but it was still a wonderful course. Many of the techniques of being ""Data Centric"" do not carry over as well to structured data. I am hoping I will hear more in the next courses of this specialization that address being data centric with structured data (which would seem to be more applicable to many business analytics cases).",0,0,Jeffrey Black,47360201
+74618366~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1640611130891,4,0,Great course for establishing real Machine Learning projects,0,0,Dong Pham,74618366
+1259129~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639408136043,4,0,"T​his course offers a lot of practical advice, the kind you won't find in most machine learning courses and the kind that you'll use on a day-to-day basis in your career as a data scientist. It's quite easy to follow and appropriate for beginners and non-technical students.",0,0,Jennifer Koenig,1259129
+8435296~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1637264871168,4,0,Too much story. It would be really great to see some codes and practical visual examples on real world issues.,0,0,Reet,8435296
+94299918~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636037751247,4,0,Good course to learn the jargon of ML-OPS will definetly give you good pointers to think about things you encounter daily on the job as a data scientist or ML engineer. Wish it would have been a little more technical.,0,0,Roberto Barroso,94299918
+77338374~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1635023920403,4,0,It's great course for you learning about the process build model and problem that your model was created for its.,0,0,Leonardo de Jesus Silva,77338374
+166005~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634872926125,4,0,"While the overall content of the course for ML LifeCycle is great, the examples and general assumptions are for supervised learning and labeled data, in some real scenarios, having labeled data is just not possible but by no means this indicates there is no possible AI solutions and models that give business value. So a little inclussion of unsupervised and semisupervised learning examples would help.",0,0,Cristian Castro Hoyos,166005
+36577272~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634103364213,4,0,"This course is a practical guide for someone who's interested in developing ML models in real life, make use of it and maintain, improve, and support it for business needs. To those folks whos coming from an academic background and haven't seen the landscape of the use of ML models in real life, this course can be a really good starting point ;). ",0,0,Yoshihiro Hori,36577272
+42819983~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633959631272,4,0,Useful course for understanding how ML works in production in an iterative approach. ,0,0,NITHIN J,42819983
+70150029~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631568476396,4,0,Amazing intro course,0,0,yeison diaz,70150029
+77404149~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630922760136,4,0,Some project plan / exercise / case study to be solved would have  added more  to the experience,0,0,Rajat Gupta,77404149
+16055037~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630873357089,4,0,"The quizzes are meaningless, often ambiguous and the answers sometimes wrong. The videos are useful.",0,0,Nik Bear Brown,16055037
+32912193~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630259759121,4,0,T​he concepts covered were really usefull and informative. But it could have been a chapter in a course rather than course in itself. ,0,0,akshay jagajampi,32912193
+92041473~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629374759979,4,0,"Very well explained. However, I feel that problems related to structured data are underrepresented though being extremely relevant for business in an enterprise context.",0,0,Christian Schieberle,92041473
+39395036~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627817243033,4,0,Excellent course,0,0,shushanta pudasaini,39395036
+12213831~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627442848793,4,0,"Great, but needs more content !",0,0,Simon Anez,12213831
+7112653~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627020388486,4,0,Really clear explanation about foundamentals of ML in real world,0,0,Umberto Surricchio,7112653
+25947502~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626971768142,4,0,"The methods are generally helpful. I would have liked more overview of available paid and open source tools, even if no specific recommendations are made.",0,0,Lukas Olson,25947502
+30628302~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626717594864,4,0,build foundations for MLOPs ,0,0,Mayank Agarwal,30628302
+88282474~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626273030199,4,0,"T​he course was very nice though for a Course that is part of a Specialization Course I found it to be too basic, even for an introduction. ",0,0,Magda Krzesniak,88282474
+41949029~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625968238249,4,0,Learn some additional information Mlop,0,0,Timothy Goebel,41949029
+71186902~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625718545606,4,0,Ernesto Anaya,0,0,Ernesto Anaya,71186902
+88430926~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625584546507,4,0,T​his course was very useful on planning ml model deployment lifecycle!,0,0,Myrzakhan Naukhanov,88430926
+49858353~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625388536284,4,0,Worked well in shifting the view from modelling into data. Worthwhile for that reason along. ,0,0,Filipe Gracio,49858353
+87687037~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625182835330,4,0,"Very interesting, a lot of new little concepts. I enjoy Andrew's tips.",0,0,Jaret Andre,87687037
+1154337~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625124857667,4,0,Very comprenshive course summarizes the concept of Data-centric approach in MLOps,0,0,Ahmed Morsi Abdelbaki,1154337
+86629036~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624610877507,4,0,I like the acknowledgement of the importance of data quality. Machine learning is much more than just training models. Real benefits can only be achieved when moving to real life data,0,0,Søren Juhl Andreasen,86629036
+5359354~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624573125973,4,0,"Quite basic, but still useful introduction to following courses of the specialization",0,0,Davide Valeriani,5359354
+18789182~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624311487464,4,0,"A​ndrew Ng's insights on the ML field are always very relevant. I would have liked to learn more about the different MLOps tools available out there, but I understand this might not be this class's objective, which is really about offering a general overview on the topic. ",0,0,Emile Salem,18789182
+78579380~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624254419135,4,0,It's better the course has some coding assignments to comprehend the ideas which is shared by Prof. Ng.,0,0,Hassan KeshvariKhojasteh,78579380
+358400~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623084789236,4,0,S​o far this course has been pretty great. Nifty Labs with a lot of useful info and methods.,0,0,Justin LeMay,358400
+7041568~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623031608647,4,0, Would be great if comes with more labs,0,0,changfuli,7041568
+4773~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622174016875,4,0,"T​his course help learner to gain key insights from one of the leader in AI field, for developing Machine leanring based applications. Course is keep more on discussion and thoughts than technical (more provided through ungraded lab exercies).  S​uggestion:I​t would have been better if the graded labs was made part of the grading and had more lab exercies on fastAPI and other topics. (I think, the purpose of the course is to teach it to a larger audience including non-tech people).I​ enjoyed and learned a lot from the course.T​hanks.",0,1,Ajit kumar,4773
+41278306~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621160012250,4,0,It had some great advice for how to design a machine learning system. More practical examples would have been appreciated.,0,3,Wesley Erin Burchnall,41278306
+33254502~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1620994578890,4,0,it was good to learn,0,1,Deepak Kandel,33254502
+1884406~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1677424121522,5,0,This course has a very good content,0,0,Alberto Llamas,1884406
+25185424~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1677238681225,5,0,With this course though I have been in the field of ML and DL I was able learn many insights and tips to consider while deploying ML in production.,0,0,Pranav Sankar,25185424
+110492521~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1677206649507,5,0,"love it, thanks so much for the insights! ",0,0,Gaby Salinas,110492521
+90460027~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1677159103212,5,0,Great start for MLops understanding!,0,0,Sanghavi Vemulapati,90460027
+88217470~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1676917937235,5,0,Great helpful ,0,0,Sandeep Kumar,88217470
+118597655~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1676767992028,5,0,I am very satisfied with my first course of the specialization. Thank you,0,0,María Luisa Acosta Sanjuán,118597655
+118335473~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1676618343187,5,0,This is a great course.  ,0,0,Quang Ha Thanh,118335473
+116955715~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1676365786901,5,0,"This is a great course for those who want to learn about MLOs. Thanks Andrew, thanks Coursera.",0,0,hadi nazari,116955715
+60047029~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1675842983459,5,0,A great course for getting into field of  MLOPS,0,0,ArSlan Mehmood,60047029
+117244821~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1675713679477,5,0,"This course is beyond just Introduction, Andrew has certainly has given me all the perspective of production level readiness for an ML Models and the strategies MLE must follow before heading for production rollout.  This course definitely gives the confidence and the knowledge to progress on ML Career. I would recommend anyone wishes to start there  ML career , this course is a must before stressing to much on just creating ML models alone. Special thanks to Andrew and team for this amazing Course. BR, Amit Kudnaver",0,0,Amit Kudnaver,117244821
+27089788~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1675006510918,5,0,"Thanks, Andrew <3 hope to work with this great mindset oneday",0,0,Marina Maher,27089788
+26625669~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1674465732039,5,0,Awesome,0,0,puneet gajwal,26625669
+43385277~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673783884092,5,0,Andrew Ng is great as always,0,0,Santiago Castro Vilabella,43385277
+21440630~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673723147737,5,0,The key concepts taught in this course have entirely changed by visuals towards looking at data and it gave me clarity on how we should proceed in the very first steps.  I will be starting with the other modules of this MLOps specialization as well. Hope to learn a lot from this specialization course. ,0,0,shlok pandey,21440630
+18467451~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673281352348,5,0,Excellent course! Andrew Ng is an exceptional human being. His teaching skill are impeccable and you as a student actually are interested in what he's telling you and learn more.,0,0,Pratyush Mohit Kommalapati,18467451
+9125347~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673243014326,5,0,Excellent course to understand the steps for deploying machine learning projects into production,0,0,Varun v t,9125347
+80180559~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673156362939,5,0,I really enjoy participating in a great class like Andrew's class. It's full of useful and applicable points that I encounter during a real prj. Thanks for sharing this asset with us :)),0,0,Somaye Kafi,80180559
+21362797~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1673012645176,5,0,"As someone with experience working with Machine Learning in Production, this course contains valuable information to which a can strongly relate",0,0,Yassine el khattabi,21362797
+1564362~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672982326406,5,0,"V​ery good introduction to ML Ops for the Data Scientists, to understand requirements of the real world. ",0,0,Sri Vallabha Deevi,1564362
+4067947~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672982253651,5,0,"I recently completed the Deep Learning Specialization and found this course to be the perfect complement. It filled in all the gaps from a big picture perspective and provided valuable insights on how to start a deep learning project, how to identify if a model has a problem, and more. I truly enjoyed this course and found it to be very helpful. Many thanks to Andrew Ng and the DeepLearning.AI team for creating such a comprehensive learning experience.",0,0,murat kahraman,4067947
+22897459~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672928054618,5,0,Deep analysis and learning for machine learning in production system,0,0,Devdatta Jadhav,22897459
+7273054~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672644499944,5,0,Very useful and relevant for project managing an AI project,0,0,Sean McLaughlin,7273054
+27899543~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672602307059,5,0,It is very nice and it is also beginner friendly. Hope you find what you are looking for. This course helped me a lot in improving my skill.,0,0,Himanshu Singh,27899543
+25672242~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672427881533,5,0,Very good advices for AI projects!!!!,0,0,Xristos Gkoros,25672242
+67193790~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672416397980,5,0,As every Andrew Ng's course this one is awesome: all concepts are clearly presented and illustrated. Thanks a lot for sharing your experience.,0,0,Marc Sebastien Di Martino,67193790
+6502835~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672245663263,5,0,I found the concepts learned from this course very valuable as one begins and iterates through a machine learning operationalization project.,0,0,Daniel Alvarez,6502835
+119495394~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1672215209588,5,0,good,0,0,Vivek Bhatt,119495394
+90974655~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1671862168716,5,0,"A great start with respect to the MLOps specialisation. If anyone wants to take this single course, then not a lot should be expected because this is only a start to the main MLOps.",0,0,Aaryan Ahuja,90974655
+164699~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1670372592011,5,0,Excellent course that covers the most important fundamental ideas. Violate these guidelines at your own risk.,0,0,Mark Shapiro,164699
+32081593~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1670103985913,5,0,Excellent introductory course helped a lot with my current project with deciding on the right metrics for error  and performance analysis,0,0,naveen raj,32081593
+116669177~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1669215298344,5,0,"I am an experienced MLE and I found this course very useful. However, in the beginning I thought it might be basic concepts, but after finishing the course I still need to go back to take some notes. It improves my skill that I will apply in my current job. Thanks a lot Andrew.",0,0,Maryam Bahrami,116669177
+118485727~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1668601754814,5,0,Top!,0,0,Reza Bakhtiari,118485727
+4872710~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1668197313266,5,0,"I am thrilled to have completed the course ""Introduction to Machine Learning in Production"" on Coursera! It is the first out of four courses in the Machine Learning Engineering for Production (MLOps) Specialization. It was a great introduction to key concepts in ML Lifecycle, data pipelines, deployments, and MLOps workflow. It is well-structured, easy to digest, practical and uses examples from real world problems & experiences to build a strong intuition and foundation on how to apply MLOps principles to real-world problems in production. I'm excited and looking forward to putting these skills to use in my career, current projects, and also to continue learning more about this fascinating field. ",0,0,Ohanu Michael izuchukwu ,4872710
+10151440~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1668173641603,5,0,Great introduction to ML projects aimed for Production.,0,0,TRAN Ngoc Thach,10151440
+101613774~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667875803806,5,0,A very comprehensive and clear course.  Good concepts about machine learning applications and how conceiving academic and industry ML pipeline and scope.,0,0,Oscar Cardona Morales,101613774
+11403139~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667816970986,5,0,"Excellent course. Happy to reconnect with Andrew after a few years to continue my ML journey.Full of useful tips & tricks, but also deep thoughts on how the ML community should evolve its practices.",0,0,cattaneo,11403139
+117275844~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667579661504,5,0,This course should be a must for every Machine Learning Engineer and Applied Scientist! AN ABSOLUTE MUST!!,0,0,Matthew Zak,117275844
+87709922~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667553809543,5,0,Great course by Doctor Andrew Ng,0,0,oyenola philip,87709922
+10326705~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667441051217,5,0,Thank Andrew Ng much.,0,0,Xuân Bộ Lê,10326705
+62006535~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1667311446944,5,0,very great certification,0,0,shaalini . s,62006535
+88891629~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1666600024526,5,0,"T​his course is full of practical insights on how to tackle real-world machine learning problems. Specifically for me, I was working on a problem for a long time and after taking this course and applying the skills I learned, I was able to get a wonderful outcome.",0,0,Ibrahim Yusuf,88891629
+26269750~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1666097397780,5,0,I needed to reset my deadline and start my learning again from week1 but it say error and was unable to reset the deadline. Not happy with the support.this is not about the course content but support for new users.,0,0,aitha venkatesh,26269750
+113926528~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1665930528230,5,0,E​xcellent course,0,0,Wei-Tsung Li,113926528
+107556066~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664973091103,5,0,"F​or someone not starting out with machine learning in production it is a good introduction and for someone with experience it can be good with another perspective on ml in production, just run the videos on 2x speed.",0,0,Martin Hjelm,107556066
+49228744~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664780284822,5,0,B​est Course about MLOPS beginners,0,0,sardar moazzam,49228744
+20737238~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664451588477,5,0,A​ndrew Ng at his best !C​risp and clear introducion,0,0,Aanand,20737238
+35022027~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664445227951,5,0,"A​wesome.
+
+Mr. Andrew is damn good and so his content. ",0,0,prajwal c n,35022027
+37032350~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664400733583,5,0,"T​emas interesantes, buena visión general de un proyecto de ML.",0,0,Gustavo Lazzeri,37032350
+26675640~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664204374697,5,0,"T​his is really one of the most important courses I ever took! Andrew as always explaining in a very clear and interesting way. The course material are so useful, I have been working in the ML field for 2 years and I learned a lot of new concepts in this course.",0,0,Omar Mohamed Atef Mohamed Amin Elgendy,26675640
+71298060~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1664003692937,5,0,I​ learn alot from this course. Respect Andrew alot about how he contribute to community,0,0,Nghĩa Phạm,71298060
+112148900~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1663813583344,5,0,I​t provide a lot of tips &  information for machine learning lifecycle,0,0,秀文,112148900
+8405528~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1663770050293,5,0,"Great way to get introduced into the steps of building, deploying and maintaining ML algorithms in production. The presentation was clear and concise, without ambiguity and with a lot of practical insights. Very useful and relevant for individuals working in the ML industry. Very happy with all courses taught by Andrew 👏",0,0,Nadezhda Avramovska,8405528
+114754712~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1663452037866,5,0,v​ery helpful content! it gives a holistic view on the whole ML project lifecycle.,0,0,Bryan Li,114754712
+17482663~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1663296259722,5,0,"Andrew is awesome. So deeply knowledgable, hands-on and down-to-earth.",0,0,Debasish Bose,17482663
+28148713~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1661739443463,5,0,great landing course for MLOps,0,0,Sayantan Sarkar,28148713
+82310131~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1661580369549,5,0,"explanation was very good, even a beginner could get his point easy.",0,0,Iradat Hussain,82310131
+91657004~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1661534409009,5,0,"very good, helpfully",0,0,Rokib Bastiar,91657004
+59186784~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1660666772317,5,0,"Excellent. Andrew has a capability to teach in such a kindly way that makes the course so pleasant and inspiring !Moreover we can notice all the experience he has and I felt so grateful that he shares it with us. Thank you so much ^^ That will defenitively help my  journey in data science, and I was touched by his end words : don't use AI if it is not helping people.  Promised, I won't ^^",0,0,Maxime Le Tutour,59186784
+47172358~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1660539707523,5,0,"T​he course content is practical, informative and exciting. I really enjoyed it. Thanks Dr. Ng!",0,0,Theodore Gaelejwe,47172358
+9476572~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1660525271859,5,0,Great introduction. ,0,0,Mukharbek Organokov,9476572
+22853114~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1660521490571,5,0,It's just amazing!!It covers a lot of concepts and practices of developing and deploying ML systems.But we have a plus: tips from Andrew Ng experience.,0,0,Kattson Bastos,22853114
+111312987~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659904115443,5,0,Andrew does a great job of explaining Introduction to Machine Learning in Production. The examples really augment the lectures.,0,0,Dennis Miyoshi,111312987
+11577101~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659841799229,5,0,top-notch training!!!,0,0,Brighter Agyemang,11577101
+105733~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659760857825,5,0,Fantastic,0,0,Koraldo Kajanaku,105733
+98976858~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659679925411,5,0,such a wonderfull wih a lot of information to learn ,0,0,Amirhosein Save darbandsary,98976858
+107890795~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659499361188,5,0,Great work,0,0,Lahiru Dissanayake,107890795
+3233594~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1659406410936,5,0,Practical ML knowledge delived very clearly!,0,0,Pankaj Kabra,3233594
+23909303~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1658825098984,5,0,Instructor provide easy-to-understand concepts and shows actual results concretely!,0,0,Max Kittituch,23909303
+109797294~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1658696134040,5,0,incredible,0,0,Mariana Mejia Sepulveda,109797294
+32525471~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1658579094236,5,0,This is the best introduction to MLOps that I could find. Thank you Andrew for making these concepts as simple as possible to understand.,0,0,KIPNGENO KIRUI,32525471
+27045078~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1658390389105,5,0,"Very useful course, special thanks to teacher Andrew NG ",0,0,letrungphong95,27045078
+94863291~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1658333264050,5,0,great course ,0,0,Diyako Sharifi,94863291
+110392816~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657791108472,5,0,very usefull for me,0,0,vicky_lee,110392816
+16845553~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657639002440,5,0,Very informative even if with some-experienced data scienctist. I but sill strong recommend to put the lab as compulsory since they're really helpful,0,0,Khanh Truong,16845553
+94984525~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657629756024,5,0,Great course!,0,0,Roberto Alonso,94984525
+79045794~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657610282094,5,0,It was fantastic. A lot was covered which makes me consider it more than just an introduction. ,0,0,Muhammad Kabir Hamzah,79045794
+29138475~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1657208689678,5,0,Excellent intro to ML in production. Andrew Ng gives very clear and practical advice around best practices across the ML lifecycle.,0,0,Patrick McNabb,29138475
+14784107~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656842587701,5,0,"Excellent content and explanations, as always Andrew Ng proves to be enormously valuable and effective in conveying concepts in an easy and very actionable way.The course contains many practical tips that every ML team should know by heart. My experience of multiple years in the field suggests that this is not always the case, and that team would have a unique opportunity to improve adopting these concepts",0,0,Stefano Brunelli,14784107
+70751502~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656770956010,5,0,I think this course is great. I started to understand the importance of a data-centric approach. Thank you for everything Prof. Andrew. I can't wait to start the next course.,0,0,Furkan Türkmen,70751502
+27567117~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656350479476,5,0,exceptional by andrew.,0,0,Kenneth Nicholaus,27567117
+34960071~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656336432319,5,0,was very good ,0,0,Aya Ahmed,34960071
+41299098~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656329058786,5,0,great,0,0,Atif Faridi,41299098
+90197233~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656266392311,5,0,It offers a good overview and also the possibility of completing the course in an easy way or working on more complicated exercises.,0,0,Athos Mekanna Moraes,90197233
+1761604~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1656161548610,5,0,It is a nice introduction to MLOps segment general terms and background.,0,0,Zoran Hristov,1761604
+87409722~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1655231298279,5,0,A​ course that extends your vision about machine learning in production and helps you to understand that training a model and getting it with a good accurate is not enough,0,0,Christian Luis Clemente Cortés,87409722
+12284742~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1655083858099,5,0,"I like this course, it help me to have vision about ML development process.",0,0,MohammadReza Lahmi,12284742
+41158370~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1655057478809,5,0,G​ood intro on key concept in MLOps. Would recommend it to anyone who is stepping into this field as well as for ML Hobbists to understand the main challenges of a ML production system,0,0,Andrei Nechaev,41158370
+31507853~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654847789911,5,0,T​hanks alot for such an awesome content.,0,0,Saad,31507853
+69994521~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654790134489,5,0,S​uch a great course! Thank you Mr. Andrew Ng!!,0,0,Parma Riza Ramadhan,69994521
+106212904~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654617614390,5,0,G​reat course!,0,0,Alessandro Loriga,106212904
+21423263~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654585391562,5,0,The is a very good introduction course for this amazing spezialisation,0,0,Aymen Soussi,21423263
+89106708~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654445681189,5,0,It was a very interesting and useful course for me and interesting topics were mentioned,0,0,S. Hossein Motaharpour,89106708
+104612779~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1654368709510,5,0,All the concepts are explained clearly and the best practices exposed are well useful,0,0,Alejandro Cadena,104612779
+37812206~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1653805161101,5,0,As always thank you soo much Andrew NG for Making knowledge about machine learning available for all.,0,0,Salem Shaikh,37812206
+521546~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1653279262264,5,0,"Prof. Ng does it again and offers more useful tips and insight to ML production issues. Great content, highly recommended.",0,0,Darren Snook,521546
+59121957~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1653125763981,5,0,This was a really good introduction for systemetic and production level approaches for machine learning.,0,0,Ibrahim Ghanawi,59121957
+5710484~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1653057315895,5,0,Another top course by Andrew NG. Provided a great overview of the process of putting ML into production.,0,0,James Gammerman,5710484
+60690218~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1652766496805,5,0,Really really worthtable to watch this and you will learn like actual practical knowledge which we used to follow in real world buisness ML problems.,0,0,Atul Patel,60690218
+5461768~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1652629910257,5,0,many real-world experience that helps ML in applications.,0,0,DingYi,5461768
+104567754~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1652426129990,5,0,Excellent to learn how to deploy a real ML system.,0,0,Anup Kumar Das,104567754
+9989943~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1651824111776,5,0,e​xcellent course,0,0,Aravinda Gayan,9989943
+59814559~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1651628299495,5,0,This course is quite informative and one of the best. Highly recommend someone who is keen to learn about Machine learning in production environment. ,0,0,Anirudh Ayyagari ,59814559
+27073002~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1651419056317,5,0,found insightful. A lot of practicle aspects been shared.,0,0,Sagar Desai,27073002
+81581985~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1651236333206,5,0,"Awesome Course, full of insightful knowledge from Andrew Ng. ",0,0,Nikhil Shrestha,81581985
+29298783~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650587511137,5,0,​good intro!!!,0,0,Andrey Melnikov,29298783
+105021144~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650551242178,5,0,good,0,0,Aman Kumar dogra,105021144
+56543704~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650456846923,5,0,nice,0,0,Preetam Gir Goswami,56543704
+64817372~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650433470995,5,0,Learned some basics of MLOps and terms in this course. Looking forward!,0,0,Saqueeb Abdullah,64817372
+104605958~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650369428856,5,0,Andrew Ng is a tremendous instructor.  I felt I learned a lot and in an orderly fashion.,0,0,Karl Keller,104605958
+59840106~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1650199581694,5,0,An excellent start for becoming a Machine Learning Engineer where one learns about the complete lifecycle of a machine learning project from scoping to deployment to monitoring.,0,0,Muhammad Ibrahim Khan,59840106
+102705242~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649874759432,5,0,"Found the course really helpful as it uses a lot of examples to better explain importance of some steps or their appliactions. I was surprised to see some issues that I worked on for weeks discussed here with a good way to address them and those were quite similar to what we did but took lot longer.
+This course is really great to help you make better decisions based on some standard practices and guidelines.",0,0,dodo rastogi,102705242
+86797057~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649870712623,5,0,"Great course, concise but valuable insights on how ML is actually used in the real world and what problems we typically face when deploying ML to solve actual business problems. Looking forward to the upcoming courses in this specialization.",0,0,G Aravind,86797057
+57849792~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649574521502,5,0,Great Explanation of Concepts,0,0,Sarthak Verma,57849792
+68779799~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649367605812,5,0,This course helped me land my first job as a data engineer. I am very glad to be a participant and student of Andrew Ng. I can't wait to finish its specialization. ,0,0,Will Gabriel,68779799
+60843423~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1649018298691,5,0,Great and  teach concepts clearly.,0,0,Manuel Turner Vergel,60843423
+99801101~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1648929047286,5,0,"Very clear and concise, incredibly valuable knowledge and techniques.  Thank you.",0,0,Eddie Mayen ,99801101
+20418437~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647684370091,5,0,Everthing related to mlops introduction was amazing covered and this course also gave me some key insights in the mlops field. ,0,0,Abdullah Mansoor,20418437
+103286719~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647523704938,5,0,Wonderful,0,0,Anugraha Shukla,103286719
+20333655~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647160401707,5,0,Very nice course. There are many points that are mentioned in this course that took me months to uncover on my own at work.,0,0,المعتز بالله بني يونس,20333655
+6160787~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1647106238178,5,0,Yet another excellent well structured and informative course from Andrew!!!,0,0,paul bright,6160787
+38507655~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1646844395050,5,0,W​ould have loved a programming assignment with this course.,0,0,Apoorv Agnihotri,38507655
+103223152~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1646722903929,5,0,Amazing I Like Feel Very Happy,0,0,Maharib Alam,103223152
+99831352~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1646256262563,5,0,"G​reat course for understanding of a complete cycle of model development, highly recommend!",0,0,Chester Fedorov,99831352
+9690504~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1646232474026,5,0,Great course with wise tips and insightful recommendations. I'll get to provide more value to the machine learning projects I'll have be involved after this course.,0,0,Rodolfo Jerônimo Teles,9690504
+97584866~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645661635512,5,0,Great course!,0,0,Jacó Júlio,97584866
+99243980~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645657162880,5,0,Learning from Mr Andrew Ng is MINING OF THE GOLD!!,0,0,Goga,99243980
+19239461~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645402188330,5,0,E​xcelent introduction to MlOps!,0,0,Otávio Guerra,19239461
+15592641~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645283695753,5,0,Concise and straight to the point! It is a good and broad introduction to the topic. I'm confident it has prepared me well for the next course of this specialization.,0,0,Stefano Dalla Palma,15592641
+8546973~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1645073680518,5,0,Very Informative.,0,0,chandra /mouli,8546973
+112781~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1644730525960,5,0,Wonderful and practical MLOps introductory Materials. Very systematic and useful! Always appreciate Dr. Ng uses the most easy to understand language to explain difficult problems,0,0,Di Wu,112781
+63729638~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1644502240306,5,0,Invaluable guidance on how to approach production-grade projects.  Loved the course!,0,0,Arian Naseh,63729638
+68952833~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1644423437193,5,0,Requires basic knowledgo of ML and DL,0,0,Saumya Shah,68952833
+38197529~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1644168795065,5,0,The optional lecture was realy a good additional value of this course. Thank you!,0,0,Endre Hegyi,38197529
+1210706~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1644091060723,5,0,E​xcellent course. Very easy to understand and most neglected topics. Perfectly compiled course!,0,0,Hamad Ur Rehman Qureshi,1210706
+29215957~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643960685172,5,0,"Great content, shame the video of Andrew NG talking is stuttering.",0,0,Ryan Codrai,29215957
+34621989~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643921259517,5,0,"Very well structured course, informative, interesting, logical with clear examples, I have had a clear view of a life cycle of an AI project and tips and pitfalls, hands on opportunities  to test  step. Andrew always remind students their responsibility of being ethical, highly recommended.",0,0,Eagle Shi,34621989
+9408003~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643812342196,5,0,Great insights. ,0,0,Miguel Angel,9408003
+46557208~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643633298070,5,0,well paced and complete material :),0,0,Gustavo Azzolin,46557208
+18959912~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643604069619,5,0,"A​ndrew Ng is one of the top instructors I have ever had in my life. He is extrodinarily clear and his thoughts are organized. The content was also very good. I have been building ML systems for years and he gave words and clarity to ideas I intuitively know, and pointed out a number of really solid new idea, allowing me to better communicat to my team. ",0,0,prom lewis,18959912
+75641593~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643470243628,5,0,This course gives useful insights about deploying machine learning systems in production from PoC stage. These insights are the same that an experienced ML engineer would have got in his/her practical experience in the industry.,0,0,Varshaneya V,75641593
+91781184~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643285651474,5,0,this is the best machine learning course which i have seen ever,0,0,Aadarsh M Agrawal,91781184
+75759601~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643114726958,5,0,Excellent course. As always Andrew makes the content of the course engaging and brings us new ideas and concepts. I would love to easy Andrew on the other courses as well because unfortunately the next courses were not so engaging. The content was delivered by just reading the slide and there only was slight explanation of more advanced concepts.,0,0,Panagiotis Souranis,75759601
+22203971~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1643016689573,5,0,"The course goes through error analysis, experiment tracking, scoping and more concepts related to machine learning projects. Very well taught by Andrew Ng.It is an excellent introductory course to ML projects management in a production framework and has my warm recommendation.",0,0,Michael Scherer,22203971
+30217575~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642646846012,5,0,B​est so far by Deeplearning.ai,0,0,Parth Dave,30217575
+92384701~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642615104478,5,0,V​ery interesting course for actual product implementation of Machine Learning: Andrew NG is the best master!!!,0,0,DYLAN CRISTIANI,92384701
+29055268~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642104833999,5,0,Nice intro building up the basic mindset.,0,0,Meng Chen,29055268
+23031197~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1642068413811,5,0,very nice introductory course for mlops.,0,0,VARUN SAINI,23031197
+11169346~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641944291367,5,0,Very insightful course. Many thanks for all the provided efforts over it,0,0,Ghada Soliman,11169346
+14974281~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641931197470,5,0,"Very well explained, Andrew Ng does a great job as always summarizing complex subjects in easily digestible lectures. A lot of thought went into this course",0,0,Nikki Aldeborgh,14974281
+31010562~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641845780469,5,0,"The whole specialisation is the best place to start if you are looking to productionize your machine learning models. The way they put forward each and every concept of MLOps life cycle will be  a big eye opener, for people who are  taking your machine learning models to production. ",0,0,Abhilash Gedela,31010562
+98048695~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641826322450,5,0,V​ery nicely explained,0,0,Vinit,98048695
+455590~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641805764503,5,0,AMAZING!,0,0,Marcelo Beckmann,455590
+27736976~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641700034318,5,0,G​reat course for introduction to ML in production,0,0,Loc Luong,27736976
+97313100~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641655107072,5,0,very helpful!!!!,0,0,Jaehee Lee,97313100
+17209176~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641534634898,5,0,Excellent!,0,0,Luis Carlos Manrique Ruiz,17209176
+4709566~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641398111079,5,0,Great introductory course that touches a lot of important topics.,0,0,Stefan Langenbach,4709566
+9925509~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641352497054,5,0,"Genial, es un gran curso, 100% recomendado. Es difícil, incluso en escuelas de posgrado, encontrar un curso que cubra estos temas en Latinoamérica. Los temas que se abordan aquí sin duda tendrán un gran impacto en los próximos años. ¡Gracias por democratizar el conocimiento y ponerlo al alcance de todos!",0,0,Jaime Acosta Daniel,9925509
+14026362~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641244190411,5,0,"Even as a Data Scientist, I found this very relevant to define & get a clarity on such frameworks & processess",0,0,david gladson,14026362
+58837226~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641198334173,5,0,i know about this language is more knowledge,0,0,BESTA KARTHIK,58837226
+8101910~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1641060985018,5,0,An excellent high level overview of the lifecycle of machine learning model development and deployment with a focus on business applications.,0,0,Kin Long Kelvin Lee,8101910
+3649140~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1640898349824,5,0,"It's really refreshing to see the ""behind the scenes"" perspective on ML algorithm development. Although I have been working in Computer Vision for more than 10 years, I found Andrew's frameworks to think about the project lifecycle and data very useful. Thank you!",0,0,Shekhar Sastry,3649140
+88756137~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1640252916299,5,0,G​reat course,0,0,Aeon Orbit,88756137
+29012904~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1640249886333,5,0,very very insightful! Thanks Andrew,0,0,Khaerul Umam,29012904
+11965158~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639996545978,5,0,Great course!  Really useful if you are a ML engineer,0,0,Alex Dlikman,11965158
+6295469~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639747120985,5,0,"This course would be very useful if you are ML-engineers, data scientists. However, this course does not teach you how to code. To code, you need to take Deep Learning specialization or some other courses.",0,0,Daniel Yoo,6295469
+18310683~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639545145161,5,0,"Andrew Ng presents a very thoughtful and insightful look at production issues in machine learning.  His insights answer a lot of the questions I had after finishing a bootcamp elsewhere, although I might not have been prepared to understand everything he said if I had not taken that bootcamp.His tone is very reassuring and intellectually stimulating, despite pronouncing all 'c's with a 'z' sound.  :- }",0,0,Brad Doty,18310683
+62849825~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639473067243,5,0,Indeed a great course. It changes your way of thinking in Machine Learning.,0,0,Shawn Leong,62849825
+11020983~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639239962950,5,0,An amanzing and useful introduction to start any ML project in a industrial context... ,0,0,Ivan Oscco Cossio,11020983
+95339367~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1639133386062,5,0,Andrew Ng is the best instructor in the world ,0,0,Mouad Lazrak,95339367
+11736678~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638990772184,5,0,one of the greatest courses on MLOPs,0,0,elnur,11736678
+14116636~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638759228163,5,0,"I have been involved with deep learning for more than 5 years (in academia), nevertheless learned a lot already. I am very curious about the next courses. Thanks for putting together this course! ",0,1,ismagil uzdenov,14116636
+36973384~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638723927511,5,0,I would like to thank Andrew for his very practical insights in the course. I don't think I could have asked for more.,0,0,Kiran Kumar Kodavanti,36973384
+35005325~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638699886823,5,0,G​reat!,0,0,,35005325
+3661022~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638469579054,5,0,Very useful discussions and views. Great reflections on the value of data in the full ML cycle and the real challenges of putting a ML system in production.,0,0,Martin Tripiana,3661022
+4028034~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1638082498874,5,0,"Andrew Ng is the mentor I've been searching for! Very grateful for this course, thank you!",0,0,Erica Brauer,4028034
+35235883~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636806106773,5,0, it was an awesome introduction to an important part of AI/ML that is going to decide the future of the field,0,0,Sushant Burnawal,35235883
+8884649~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636562649877,5,0,"Outstanding course, great depth and breath of ML in production",0,0,Mauricio Rey,8884649
+11122870~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636332276103,5,0,Excellent,0,0,EDUARDO STHORY,11122870
+21872007~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636072215262,5,0,Thanks! So inspiring,0,0,Mustafa Al-tekreeti,21872007
+72335277~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1636067636299,5,0,"Great theorical material to understand ML projects. The 1st (ungraded) lab exercise was not very clear though when playing with the front end and back end application, it would be nice to provide more information or tips on how to complete it",0,0,Carlos Andres Lopez Peña,72335277
+33087993~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1635677837603,5,0,It is quite good course I learned a lot of basic things from this course.,0,0,Viraj Hapaliya,33087993
+92163817~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1635527712651,5,0,O​ne of the best non-academic course I have ever experienced. ,0,0,Faruch Amini,92163817
+7140594~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1635096477897,5,0,This course is fantastic. Exceptionally well understanding of all the fundamental concepts required. Many issues that one would not have considered are well-covered.,0,0,Sadashiv Borkar,7140594
+62366675~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634517699490,5,0,"A​mazing introductory course that gives you the full scope immediately, as well as many theoretical details on each section. I expect the following courses of the specialization to dive into more technical things and frameworks.",0,0,Iosif Doundoulakis,62366675
+1805636~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634144979018,5,0,Years of practical experience condensed in this course. Extremely relevant material for Data Scientists / ML Engineers.,0,0,Rui Braga,1805636
+23335~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634055254940,5,0,Great course as always from Andrew!! ,0,0,Costa Hart,23335
+19911578~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1634045079185,5,0,Great Course. Well structured contents ,0,0,Kamal Raj,19911578
+21452898~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633976803957,5,0,This course opened my eyes on how to tackle any AI projects in a business environment. Thanks a lot Andrew!,0,0,Mahtab Shaan,21452898
+32936720~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633939495555,5,0,Good ,0,0,Duc Anh Lam,32936720
+48898539~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633449679733,5,0,G​reat introduction to key concepts and practices in production ML,0,0,Cayo Sobral,48898539
+18323832~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633209113829,5,0,"Excellent !, easy to follow and practical ... ",0,0,wendy,18323832
+73655295~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633182995816,5,0,"Este curso pode abrir minha mente sobre várias possibilidades em IA, estou ansiosa para o próximo. Obrigada pela oportunidade de aprender.",0,0,Fernanda Pereira Guidoti,73655295
+37450228~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633019330761,5,0,Awesome course for college grads to get a head start in Industry. ,0,0,Ayush Sharma,37450228
+21330935~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1633018499756,5,0,"T​his is an axcellent introductory course in MLOps, and also for anyone who is looking for having advanced skills in AI career.",0,0,mahsut demiroğlu,21330935
+18126421~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632985906253,5,0,"If you have work on industry projects, you must have come across such scenarios described in the course. This course provides a structured way to analysis different situations arises during a ML project life-cycle and teaches way to make decisions which increases the chance of success. It is really helpful.",0,2,Bhargav Upadhyay,18126421
+92417781~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632916242854,5,0,just one word. Awesome!,0,0,Mohammed Abdul Qavi,92417781
+93882011~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632872022153,5,0,"T​he flow of this course and explanation with examples, made learning quite easy, ",0,0,Steven Inje,93882011
+42220015~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632652584644,5,0,"This course acts as a very good guide in helping one improve the most important thought-process aspect of the project development, that's vital to work in the field of ML and AI. There are countless videos and tutorials on the internet today, that will help one learn the technical skills. But this course provides a shortcut to learn thought/project development process aspects which are usually gained only through years of experience. The best part was, all the concepts have been explained by taking a real-world use case, which makes the discussions non-trivial and practical.",0,0,Suneha K S,42220015
+3658118~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632513100112,5,0,"The first course of MLOps, and the best.",0,0,fernandes macedo,3658118
+83853740~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632485831960,5,0,Clear explanation,0,0,Kasidej Cha-umpong,83853740
+89065774~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632432466021,5,0,Very practical materials and application-focused methodology! A lot of rule-of-thumb gathered from ML pipeline experiences. Clear definition on acronyms and mainly easy-to-follow non-technical guidances. ,0,0,Xiaonan Sun,89065774
+35610162~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632245530347,5,0,g​ood,0,0,Trung Nghia Huynh,35610162
+42015733~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632229409002,5,0,Clearly explained everything,0,0,Harsh Vijay,42015733
+16556665~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632225721680,5,0,A lot of insights in a very short investment of time,0,0,Arunjith,16556665
+28785877~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632192596832,5,0,This Course covers all the basic practical aspects about ML Production.  ,0,0,DAYANANDA K,28785877
+29459290~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632147015732,5,0,This course is a wonderful overview of different steps of a machine learning project from scoping to deployment. ,0,0,Mahsa Paknezhad,29459290
+4065160~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632114668771,5,0,"I had a great time learning with Andrew in this Introduction to Machine Learning in Production online course. In 3 weeks, Andrew walked me through each step in the machine learning project lifecycle and shared many best practice tips (from years of experience of his own), which I felt could be directly adopted and applied. 
+
+I especially appreciate Andrew’s emphasis on a data-centric approach and raising human-level performance. There are two valuable and practical suggestions to increase your machine learning model accuracy and contribute to a successful ML project, which have not been given enough importance in practice.
+
+As always, Andrew’s friendly, clear, and concise style and his capability to explain complex ideas with simple language made some of the seemingly intimidating subjects easy to digest. 
+
+",0,0,Wenjuan Chen,4065160
+60391533~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1632025638564,5,0,Really well-structured videos that are easy to understand.,0,0,Kevin Dsouza,60391533
+11981507~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631980728682,5,0,The short videos made it easy to work through it fast. In addition the optional-lab tasks were really awesome.,0,0,Olaf Schaefers,11981507
+49067715~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631886071947,5,0,Excellent course !!!!,0,0,EMO SIANI LOIC ,49067715
+640073~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631850532344,5,0,Informative and enjoyable. Thanks.,0,0,Melanie Jean Brennan,640073
+75167157~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631806122730,5,0,Excellent course to learn about data-centric approach in Machine Learning. All the ungraded labs were also informative and useful.,0,0,Adarsh Wase,75167157
+24961969~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631524839011,5,0,"Again, great material and a lot food for thought! Thanks ! ",0,0,Paweł Królikowski,24961969
+45581925~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631499843743,5,0,Thanks Andrew and deepai for bringing very informative and easily learnable course for us,0,0,,45581925
+32095369~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631463211121,5,0,Solid and useful. Thank you!,0,0,André Silveira,32095369
+13039122~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631391697851,5,0,T​he course goes through methods to solve common operational problems that data scientists experience all the time but are not either aware of the problem or do not know how to solve the problem. All the methods are explained clearly with some practical examples. One of 'must take' courses by Andrew NG. ,0,1,Engin Kaptı,13039122
+92862190~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1631012043491,5,0,very good,0,0,VENKATA SIVA RAMA KRISHNA,92862190
+3679185~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630933221007,5,0,E​xcellent! ,0,0,Daniil Yefimov,3679185
+15422822~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630615914015,5,0,Great course for people who want to get the idea of putting Machine Learning notebooks' code into production!,0,0,Dao Minh Dung,15422822
+88585732~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630461950485,5,0,"T​his is about the whole picture. What comes around model, or where  model is in big picture. ",0,0,Reza Moghadam,88585732
+89386707~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630430098715,5,0,"Excellent course, you learn about the fundamentals of MLOps. A recommended course if you want to understand the life cycle of a Machine Learning algorithm in production. ",0,0,Daniel Hoyos Gonzalez,89386707
+13877832~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630404197578,5,0,Great course!,0,0,Shan-Jyun Wu,13877832
+16059371~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1630325393903,5,0,"extremely helpful course, gave a deep insight of data-centric machine learning",0,0,Gaurav Parashar,16059371
+56604508~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629976408592,5,0,V​ery straight to the point with fun and insightful labs!,0,0,Walt H,56604508
+74129628~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629815600924,5,0,add more animations would be better. Thankyou!,0,0,Arthur Lu Kai Lit,74129628
+16266216~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629652343245,5,0,Learnt a lot new and applicable concepts and practices. Highly recommended.,0,0,Shubham Saha,16266216
+7645~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629373468915,5,0,"E​xcellent introduction to MLOps by Andrew Ng.  Practical and clear.  Love the (ungraded) labs, highly recommendable.",0,0,Mario López de Ávila Muñoz,7645
+19522977~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629353303591,5,0,great course in intro for mlops,0,0,Zhassulan Shaikhygali,19522977
+32025438~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629322493242,5,0,P​rof. Ng is the best! ,0,0,Frank J. Martinez,32025438
+17262336~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629226558978,5,0,"Overall, an excellent and well presented introduction to ML in production.",0,0,Bob Kozdemba,17262336
+11706743~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1629056499842,5,0,"Excellent course, as always. Very well explain for both Data Sicientist, Software engineer and Manager  (with some basics undertsanding of ML). One of these courses that Data Sientist should follow.",0,0,Dr. Fabien Tarrade,11706743
+22327570~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628938829504,5,0,Great work! Very informative and eye-opening,0,0,Hieu Dao Trung,22327570
+151580~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628587181063,5,0,A​s always Andrew at his best :) ,0,0,Gourav Sengupta,151580
+89709020~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628516943464,5,0,Very informative,0,0,Rohan Wadhawan,89709020
+78694733~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628404028651,5,0,nice,0,0,Willah Mukasa Aroisi,78694733
+70168907~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628137784641,5,0,"Very informative but mostly therory, let me go throught next course in the sequece to work on handon",0,0,Sreechowdary Thagirisipu,70168907
+296480~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1628022474854,5,0,A great course that Andrew provided to fill the gap between machine learning/AI in academia (model-centric approach) and industry production (data-centric approach).,0,0,Ratha Pech,296480
+30917880~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627927557441,5,0,It's time to say thank you for this course and Mr Andrew Ng,0,0,Lộc Đinh,30917880
+23974989~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627915150992,5,0,Sensational!,0,0,Serhan Çiftlikçi,23974989
+49117246~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627909612083,5,0,Wonderfull!!!,0,0,Viktor Kosheliuk,49117246
+62624532~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627864291263,5,0,"C​lear, objective and practical course!",0,0,Paulo Frederico Souza Lomeu,62624532
+7917603~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627856145751,5,0,N​ice introduction ML production issues.,0,0,S Roychowdhury,7917603
+70033482~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627827974042,5,0,Another great specialization. Grateful to whole deeplearning.ai team,0,0,JAYESH DAMANI,70033482
+90333285~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627827152089,5,0,"Great, Awesome, Wonderful, Fantastic, Thank  You So much Prof.. :)",0,0,Raspiani,90333285
+680962~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627728143404,5,0,Thanks for the ,0,0,Luong Anh Tuan,680962
+78469371~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627573962046,5,0,thank you,0,0,Thành Huỳnh Đỗ Tấn,78469371
+73701739~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627425825324,5,0,very helpful course,0,0,vijay narsing chakole,73701739
+87593484~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627287685615,5,0,"Excellent course!! A new way to understand the key factors to master the Machine Learning lifecycle. This is much more than one course, this is an invitation to change our mindset through an exciting journey with Andrew Ng!!",0,0,Paulo Andre Andrade Martins ,87593484
+54951198~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627273757727,5,0,"Great explanation from this course, now I know how to develop a machine learning problem for productivity.",0,0,Zanuar Ekaputra Rus'an,54951198
+47070303~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627235158414,5,0,Have not yet competed labs - course in progress.  Request for review premature.,0,0,Susan Martin,47070303
+8685547~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627067512989,5,0,One can gain a lot of benefit from Andrew's experience.,0,0,Biju Krishnan,8685547
+33083115~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627064253303,5,0,It covers a lot of the real world problems data scientists find when trying to build machine learning solutions. Many of the best practices reviewed here are a common sense thing but having it wrapped toghteter here was really great ! ,0,0,Hernán Quiroz,33083115
+204192~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627052399573,5,0,"This is another great course by Andrew Ng: clear explanations, great examples, curious case studies!",0,0,Vladislav Georgiev Vasilev,204192
+15184933~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1627028235126,5,0,Nice and fast,0,0,Rafa González-Iglesias Glez.,15184933
+36514908~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626991474113,5,0,"I find this to be a very philosophical approach to Machine Learning, especially where Andrew NG poise questions that will make you rethink entirely the way you've previously approached ML Problems. The explanations are broken down in a manner that makes it so seamless to grasp. Thank you for this opportunity.",0,0,Muhammad “Alhaji” Dauda,36514908
+64263108~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626941519498,5,0,very nice experience,0,0,GEETIKA SAHA,64263108
+19784800~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626706161336,5,0,T​hank you for this awsome course. Learned so much :),0,0,Jitender Singh Virk,19784800
+61272030~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626697957484,5,0,Good Course,0,0,Sanjay Hotwani,61272030
+89717487~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626695293174,5,0,"Good course, easy to understand!",0,0,ZA Develop Me,89717487
+2543920~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626498586837,5,0,​,0,0,MohammadSadegh Zare,2543920
+19175859~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626488926749,5,0,"Thanks, Andrew!!!!! Your sharing real-life experiences was invaluable. This was super special as it has opened my eyes beyond the ML-code. I've realized what I have to do in my real job. I will spend more time on communicating with business teams to close the gaps on different metrics expectations. I will shift my mindset from code-centric to data-centric. I will check out my data before my team dives into the ML coding itself. Thanks, Andrew and the team!! ",0,5,Kyung-Hoon Kim,19175859
+31095708~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626339670837,5,0,"Great learning, thanks to Andrew Ng Sir​",0,0,Shreyas Rajendra Chim,31095708
+1346989~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626161190154,5,0,"This course was one of best that I've taken regarding the ML. I think this course should be the starting point for each student who would like to pursue a career in ML and AI. Understanding the problem in the business context before jumping to the solution, understating the data in the same context, are the key ingredients for defining the success of a ""product/service"" involving AI.  ",0,3,Picioroaga Florin,1346989
+8482282~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626094198657,5,0,"Beautiful and inspiring overview of hows and whys in any AI project, with hands-on  notebook examples. ",0,0,Marija Majer,8482282
+13960939~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1626068000118,5,0,"I​ntroduces you to the basics of MLOps in a well paced mannar. Would request to add more examples of structured data sets, as many companies usually are dealing with the related problems.",0,0,Nilay,13960939
+3715038~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625948981045,5,0,"As always, another great course taught by Prof. Andrew. Thank you coursera/deeplearning.ai team for offering such a great course. ",0,0,Manas Mukherjee,3715038
+32227066~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625787845789,5,0,Great!! I love learning using examples,0,0,Ruan Lucas Donino,32227066
+89587719~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625738243177,5,0,Explained in best way helped in understanding the thought process behind setting up ML in prod.,0,0,Aman Solanki,89587719
+89049286~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625665581744,5,0,"The Course is good, but total theory, ",0,0,Kiran Kumar,89049286
+47636200~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625526832494,5,0,Great!,0,0,Amin Tayyebi,47636200
+89030379~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625506071140,5,0,"I found that the course is quite useful and practical. I enjoy a lot watching Andrew's Lectures especially when he used many examples from his previous projects in his career , giving good demonstration of common challenges in ML model development as well as maintenance/monitoring in production. The course is well designed and gives us a very clear foundation about Machine Learning in production.",0,1,Keith Kam,89030379
+8699009~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625449935930,5,0,"
+The course was very enjoyable, the readings and classes give you a basic but concise approach of what it means to bring an ML system to production.",0,0,Mario Giraldo R,8699009
+14074472~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625143005788,5,0,In a simple word A mindset changer. ,0,0,MALEK BABA,14074472
+67292998~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625039934080,5,0,Great course on the introduction of ML in production. Well presented and useful background information.,0,0,Jonah Muiru Kuria,67292998
+78751998~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625036244499,5,0,"Thanks for this great course and everything, Andrew! You are awesome, fantastic, great and wonderful!",0,0,Jiangchun Li,78751998
+22423700~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1625016244705,5,0,T​he material is really close to the real industrial practice. Amazing reference if doing any ML engineering work. ,0,0,Yusa Li,22423700
+71357320~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624820211730,5,0,"Amazing work, thank you DeepLearning.ai",0,0,Albeiro de Jesus Espinal Pulgarin,71357320
+69623860~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624786851308,5,0,Nicely introduced the MLOps and illustrated some real cases.,0,0,GB Lin,69623860
+42738704~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624687329081,5,0,"Deep learning courses are always best, cover all aspects in theoretical as well as more emphasize on practical knowledge which helps a learner ready for the real life challenges in Data science domain...Thank You Andrew NG and Team ",0,0,Nilesh Gode,42738704
+50501673~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624656820593,5,0,Good explanations of the principal problems in the ML project ,0,0,DIEGO FERNANDO SANCHEZ CORREA,50501673
+3649806~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624438544158,5,0,This is a great introduction for how the mature machine learning product could be morph into  mature products with multiple challenges. It helps me a lot for understanding how future AI industry looks like !,0,0,ChenChang Shih,3649806
+42476496~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624382243912,5,0,The presented topics were perfect to give a overview the major steps to deploy a ML model ,0,0,Lúcio Rosa,42476496
+20150373~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624265813552,5,0,Robust and efficient frameworks to conduct ML projects,0,0,Rémi Moïse,20150373
+19866585~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624242186610,5,0,I would recommend this course to anyone who has to implement models in production. It is an introductory course but it does have a few key concepts that are good to keep in mind.,0,0,Ilce Medina,19866585
+9955277~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624234990319,5,0,"I liked how Andrew is able to simplify difficult and tricky concept without making you feel uncomfortable about lacking the knowledge. Everything is smooth and up to the point. In addition, the labs are interesting and highly related to the material. Overall, the concepts taught are very helpful and important to make you an real machine learning engineer not just a one who copy and paste bunch of theories, codes, ....etc.  ",0,2,Omar Ayman,9955277
+28883222~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624139853174,5,0,Excellent,0,0,Roberto Castaldeli,28883222
+34294875~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1624023088856,5,0,Much of useful information & insights!,0,0,Danylo Petrakivskyi,34294875
+87061684~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623933461632,5,0,"It is very valuable and includes insights how to handle data, model data and how to deploy ML models",0,0,Hussein Mazaar,87061684
+33139846~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623851737365,5,0,"This course is very hands-on. It clearly teaches Machine learning beyond python notebook. I enjoyed this course and currently taking the second part of this specialization ""Machine Learning Data Lifecycle in Production"". Great content from Andrew Ng and Robert Crowe.",0,0,Mindset Nuggets,33139846
+87579174~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623775680941,5,0, A great and helpful course to take!,0,0,Daniel Nguyen,87579174
+57631754~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623669213101,5,0,"Amazing course, theory based on experience. Lessons that no book have. ",0,0,andre maciel,57631754
+47251238~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623603585077,5,0,Incredible course. It describes in detail of how machine learning engineering is done in a production environment. It takes the aspects learnt for Course 3 (Structuring Machine Learning Projects) from the Deep Learning Specialization (also taught by Andrew Ng) and provides an even more in-depth knowledge base,0,1,Tamim-Ul-Haq Mirza,47251238
+13646893~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623601995818,5,0,"Great course explaining concepts on ML lifecycle and deployment, especially touching topics like concept and model drift, monitoring models, error analysis, experiment tracking, pipeline and lineage.  I loved it.",0,0,Motilal R. Singh,13646893
+16105614~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623575222857,5,0,"great learning ,thanks Andrew for such deep insight.",0,0,Amit Unix,16105614
+29585463~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623559565736,5,0,T​he course helped both validate what I knew about the topic and update me about many new trends/tools via high quality references + first hand experences from the instructor.,0,0,Jungwei Fan,29585463
+3555076~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623550859456,5,0,Very useful systematic view of the whole ML process.,0,0,Liang Li,3555076
+680840~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623434635768,5,0,Very nice course! The field of MLOps is not so well documented and fortunately we have very experienced professionals able to share their expertise. The content is very clear and the examples provided by the professor are extremely insightful.,0,2,Cristiano Garcia,680840
+29043967~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623429401600,5,0,A​ndrew's insights are gold. He explains with clarity and has the foresight to disseminate the knowledge the community needs when we need it.,0,0,Tyler Ganter,29043967
+11187059~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623414922081,5,0,"Very valuable course for those who already have some knowledge on machine learning or AI applications. Very close to what systems engineering processes recommend, as when seeking ISO15288 compliance. ",0,0,Hector Barrio,11187059
+8833444~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623319640384,5,0,"Excellent resource material to understand the problems faced when deploying ML models in production and how to handle them at each and every stage,",0,0,Aswin Giridhar,8833444
+12757195~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623259715967,5,0,Amazing Course!!,0,0,Tushar Singh,12757195
+72558758~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623254889844,5,0,I have been working in a large payments technology company for last one year and I can vouch for all the processes Andrew beautifully summarised. It does help a lot working in the industry.,0,1,Anand Vir Singh Chauhan,72558758
+9365583~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623194501296,5,0,Thank you so much,0,0,fatih aydın,9365583
+62062337~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623118447307,5,0,Great introductory course on the operations to keep a system afloat in production. ,0,0,AserGarcia,62062337
+54266511~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623063618626,5,0,love it,0,0,Khizar Sultan,54266511
+3725227~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623028273501,5,0,I really enjoyed the course as it did provide very practical insights and recommendations of best practices to implement ML models in the real world.,0,0,Sergio M. Cruz Zárate,3725227
+86251392~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1623019558050,5,0,Clear and concise. The lecturer approaches the subject with objectivity but also with immense passion for it.,0,0,Kacper Twardowski,86251392
+55549211~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622978495978,5,0,O​nce of the best! I learnt a lot of useful insights from this series,0,0,Hoang Viet,55549211
+148201~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622969507139,5,0,The course was fairly compact and you would be able to finish each week lesson every day if you eager to do so. It was fun and educational. I loved the surprise in the last question of the optional quiz in week 3.,0,0,Taku Fukushima,148201
+34956694~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622900817802,5,0, really a great course. It'll really change your way of thinking ML in production use and will help you better understand how can you leverage the power of ML in a way that I'll really create a value,0,0,rahul gulia,34956694
+86398528~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622879472278,5,0," The content of this course has been especially useful for me. I wish there were more emphasis on the tools recommendation as well, but the theoretical knowledge was just fine. Thank you!",0,0,UGENTERAAN A L MANOGARAN,86398528
+29196692~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622810954633,5,0,"Awesome content, easily understood.",0,0,Eliah Mbwilo,29196692
+10600377~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622751038644,5,0,Awesome course. Got to learn a lot of new things related to ML in Production.,0,0,Nikhil Kumar,10600377
+49767142~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622746616021,5,0,G​reat course with high-level information not covered anywhere else. ,0,0,Rob Bailey,49767142
+42776513~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622707874779,5,0,Excellent piece of work . Many Thanks to Mr. Andrew Ng,0,0,Jitendra Samantray,42776513
+507913~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622655998440,5,0,Immensely useful. This course is densely packed with practical tips and provides a great overview of this nascent discipline!,0,0,Wooyong Ee,507913
+86264026~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622578628975,5,0,"Very useful topics covered! Andrew explains in a clear way, with a lot of examples. ",0,0,Nikolina Kosanovic,86264026
+86868038~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622512260012,5,0,it is a best course ,0,0,Nikita ashok khodave,86868038
+1572581~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622437095759,5,0,Very good course.  Full of knowledgeable advice from a pro. ,0,0,Cameron D. Kimbrough,1572581
+79113352~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622412227696,5,0,Very useful and complex material made easy to understand by an excellent instructor! ,0,0,Nitin Madnani,79113352
+3952237~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622357019844,5,0,"Great for beginners but I also ejoyed it since it nicely tidies the practical knowledge that an experienced ML engineer/data scientist gains throughout his work. Overall, it's a good polishing over my knowledge and learned some new points that I didn't paid enough attention to.",0,1,Baturalp MANKIR,3952237
+64885763~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622252556105,5,0,Thank Coursera,0,0,Enrique Aguilar Martinez,64885763
+40836740~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622244713318,5,0,"This course is an excellent overview of the steps required to put ML into production.  Andrew's explanations are clear, and his examples are spot on. ",0,0,Megan McGee,40836740
+1557299~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622099249745,5,0,High abstraction level with toy examples on very complex things.,0,0,Justas Kalpokas,1557299
+57139270~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1622022953085,5,0,"Andew Ng is truly a world leader in the field, the way he approaches the subject and the explanations he gives are truly unparalleled. It always a pleasure taking a course he instructs.",0,0,Gent Spachiou,57139270
+9955445~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621982589233,5,0,"This course helped me to organize my knowledge, and showed the questions that I should regullarly ask to either technical, or business teams to create valuable AI-based product",0,0,Pawel Rosikiewicz,9955445
+54770961~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621928725930,5,0,Perfect!,0,0,Vyacheslav Khvan,54770961
+67045321~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621811381639,5,0,Seriously amazing,0,0,husam hamu,67045321
+30717015~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621807638864,5,0,A very good first course in this Specialization,0,0,Patricio Crowley,30717015
+19985563~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621801782390,5,0,Awesome Course.... :) Really I enjoyed a lot. I completed this 3 weeks of course just in 4 days along with my office work (too much interesting).Very helpful... Very knowledgable... Thanks Andrew Ng for the course. A big thank to DeepLearning.AI team.,0,5,Gaurav Gupta,19985563
+5397531~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621675997974,5,0,Fantastic,0,0,Ramil Joaquin,5397531
+17311844~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621607750627,5,0,"Amazing, invaluable knowledge as always. Thanks!",0,0,Héctor L,17311844
+20550656~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621593433193,5,0,"Even after having worked several years in the role of an MLE there were some useful ideas here and there that I'm excited about applying in the future. Overall, everything was very clear and understandable. I liked the lab about deployment.",0,2,Dennis Doerrich,20550656
+4841869~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621584513978,5,0,Practical and well-structured advices throughout the lifecycle of ML. Examples from real world problems & experiences make the advices more tangible and helps to reflect on own problems. ,0,0,dongkyoung choe,4841869
+48281730~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621574198948,5,0,Awesome Course. Will surely help me in the near Future.,0,0,NIKUNJ BANSAL,48281730
+54705~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621542179205,5,0,"Excellent course, as always!  Many thanks!  Great combination of theory + notebooks with practical examples.Everything is perfectly structured.  I will recommend this course to everyone!",0,1,Elga,54705
+37485912~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621467213007,5,0,"Succinct but full of meaningful examples, holistic approach to MLOps. Well done, Andrew & the team!",0,0,vadim marchenko,37485912
+16915045~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621421279411,5,0,Very Excellent Course. Allows me to seek and dig deep into the ML World,0,0,Juan Astudillo,16915045
+76899061~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621417978582,5,0,Great course! Easy to understand with many examples explained,0,0,PRADYUMNA KUMAR,76899061
+24759815~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621401808745,5,0,"This is a great course to learn many practical procedures and  techniques, to apply ML algorithms to real world problems and do it well, by avoiding common mistakes and deliver value.",0,0,Alejandro Mena Ramirez,24759815
+85115232~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621282898802,5,0,"Excellent course, as always. That's a really good introduction to ML in production.",0,0,Sunwaee,85115232
+41715668~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621250586977,5,0,"Learned very useful insights about Machine Learning engineering from Andrew, thanks a lot!",0,0,MoChuxian,41715668
+72751305~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621240780232,5,0,Excellent as always with Andrew!!!!,0,0,amadou diop,72751305
+45575575~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621162371467,5,0,Really good for anyone with strong background in DL and ML... And want to be able to start a real time project... Or lead a ML team,0,4,HARI AAKASH K,45575575
+86244721~COURSE!~8Ceijel7EeqVIgpj8IJl1w,1621028303774,5,0,"I give you the full review stars since I learned many new things that I did not pay attention to before, e.g.: I used to focus on models for many years instead of data.",0,5,Mohamed Abbas Hedjazi,86244721

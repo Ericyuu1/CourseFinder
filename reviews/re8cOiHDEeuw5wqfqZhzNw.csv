@@ -1,0 +1,47 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+9757703~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1648444771601,3,0,"Good content, but the delivery could be better.  The course is old (Sep 2020) and needs updating, since AWS changes some services (e.g. Elastic Search is now OpenSearch).  Not worth the price.  Videos with screen shots and sequwnce of steps are useful; videos with 'talking heads"" and generic statements are not useful .  Sections can be improved with more motivated examples.The discussion forums were useless -- the instructors did not respond to questiuons and requests for help.  Also, three labs werre planned but only one was published and accessible.",0,0,Eugene Belogay,9757703
+101994303~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1645677488585,3,0,Had a lot of troubles access the labs,0,0,AW,101994303
+10646095~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1614573647180,3,0,El acceso al algunos laboratorios fallo y no posible reintentar hacerlos ,0,0,Jose de Jesus Barrios Sánchez,10646095
+232485~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1658553102827,4,0,"If you are working with data in one of various roles such as business analyst, data analyst, data scientist and you are completely new to cloud technology, this is the course for you.It provides an overview of AWS's most popular services and explain what problems the services are designed to solve (i.e. the reasons for adopting data lake). Specifically, the instructors briefly walk you through different parts of designing data lakes: data ingestion (Kinnesis Family, AppFlow, API Gateway, Snow Family, Data Exchange), data storage (S3), data catalog (Glue Crawler, Glue Data Catalog), data processing (Glue Job, Lambda, EMR), data visualization and exploration (Kibana), machine learning (SageMaker).After the course,  you'll have a roadmap to dive into your interested topics.",0,0,Chu Van An,232485
+44664344~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1657646972746,4,0,"It is a good one. However, I had some problems accessing the exercises...",0,0,Muhammed Enes Baysan,44664344
+70965350~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1656871631996,4,0,"Missing Lab's during the course, unfortunately, from start to finish, none of the Labs could be started",0,0,Andrzej Zareba,70965350
+86921969~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1639044705834,4,0,Good content,0,0,Atithi Ranjan Jha,86921969
+70679759~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1634585326912,4,0,"Sadly the lab 2 is outdated, but otherwise the course is great.",0,0,João Alves,70679759
+79733693~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1627224586458,4,0,m​ore about ingest and consume data with kinesis and lambda,0,0,laurent raulier,79733693
+87081333~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1626036969836,4,0,Very good class. Except the problem in Lab2 of week 3. Author should fix it!,0,0,nina gribov,87081333
+35845178~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1621359648038,4,0,The system didn't allow me to work on the labs for weeks 3 and 4.I tried it in 2 computers and no luck,0,0,Rodrigo Oliveira,35845178
+78017559~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1621333134925,4,0,good,0,0,Lerata Maloke,78017559
+21668409~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1619037223756,4,0,Nice course for beginners. It allows to familiarize with AWS components and datalake fundamentals.,0,0,niamiot,21668409
+35084298~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1614942485151,4,0,One of the lab is buggy and content is a little bit superficial. But if treating the course as a light entertainment + little education it's learning pace is quite good. Although instructors are cool and make getting knowledge easy. I'm satisfied overall but will not reccomend it for people who already use AWS in everyday routine because content is really introductary:),0,0,Фёдор Алёхин,35084298
+2826479~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1613772308022,4,0,"I Loved it, just that is only a beginner course, I would like to have more courses like this one, so we can keep up with AWS and data lakes.",0,0,Henry Perez,2826479
+100609009~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1675835312133,5,0,"The best aws course is taught by two excellent instructors who use relevant examples, demonstrations, graphics, and content that is carefully organized.",0,0,Sandun Tharuka,100609009
+85901428~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1674160663922,5,0,"Excellent instructors, excellent content, excellent course!",0,0,Bálint Benedek Tóth,85901428
+3167082~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1668600442746,5,0,good insights of aws offerings,0,0,Ravi Kumar S C M M,3167082
+84953292~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1666824691236,5,0,A​ pretty nice course! AWS is AWeSome!,0,0,Danilo Fernandes,84953292
+12780054~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1662084599411,5,0,basic and approachable overview,0,0,Siyun F. (nomad_manhattan),12780054
+100688979~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1660388339900,5,0,good,0,0,Anup Kamalkishor Chandak,100688979
+85155640~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1659331752503,5,0,thank for such nicely design course for learning and handson,0,0,Nilesh Khabade,85155640
+77299256~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1648067171325,5,0,Exactly beneficial for those who are seeking to understand the basics of data analytics services,0,0,Abdullah Ates,77299256
+100640833~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1642692951691,5,0,Really useful,0,0,Yordan Terziev,100640833
+92577263~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1642590406749,5,0,"G​ood introdoctory course to AWS services, labs are top",0,0,Viacheslav Lazarev,92577263
+76842709~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1641849113216,5,0,thanks ,0,0,Mahmoud M. Doudah,76842709
+96054564~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1636833225217,5,0,"Great course, good tutors, labs  and balance healthy  between content and length. I recommend ",0,0,Jailson Boa Morte,96054564
+65448505~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1630338481736,5,0,Great couse with nice praticals,0,0,Mandar Thakar,65448505
+69912865~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1627891948892,5,0,good,0,0,Linh Vũ,69912865
+38730779~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1624392157520,5,0,Amaizing course! Please add the continuation of the course (Intermediate level). I faced some problem using AWS services because the AWS server many a times blocked me or did not give me complete access,0,0,Razi Khazi,38730779
+42128790~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1624006752521,5,0,Curso de gran ayuda para iniciarte en Data Lakes on AWS,0,0,Antonio Del Rio,42128790
+26924041~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1622856081648,5,0,Such an informative course.,0,0,Suryakant Soni,26924041
+41615781~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1617978012900,5,0,"Great course, great instructors, I learned a lot. Thanks.",0,0,Mehmet Teke,41615781
+26723846~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1617927310219,5,0,"liked so far, good speed and good to know knowledge about the product offering and concepts.",0,0,Vinit Agrawal,26723846
+47022638~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1616482471169,5,0,I really enjoyed this course.,0,0,Robert Burrell Donkin,47022638
+79019946~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1616424583748,5,0,Excellent course materials. Good learning ,0,0,Ramesh Kumar,79019946
+5731156~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1614988014786,5,0,This is an excelent introduction to Data Lakes that let me understand the flexibility and power of building a data lake using a serverless approach to achieve two goals: pay for value and seamlessly scale (mainly in the storage area). It would be great to have an update on using Glue Studio and Glue DataBrew.,0,1,Daniel Bravo,5731156
+69034573~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1614134154160,5,0,Excelente curso para iniciar iniciar en el mundo de AWS para Data Lakes,0,1,Jorge Contreras,69034573
+20148852~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1613310846964,5,0,Excellent course ! ,0,1,Tanzir Ahmed,20148852
+702443~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1613149120537,5,0,A very good first introductory course to data lakes and how to implement them using AWS services.,0,2,Ra‚ Kowalski,702443
+5051078~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1611957512662,5,0,Great overview of AWS data lakes already using it at work.,0,1,JP Leger,5051078
+37455447~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1611684853512,5,0,"Teaches the fundamentals of AWS env with a Data Lake related approach, it's a good course however I would like to see in future more videos related to the services inside the GUI of amazon or within the CLI",0,1,Daniel Beltran,37455447
+9429416~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1611001642913,5,0,It is a very good course with practical classes too,0,1,Gabriel Andrey Perego Nunes,9429416
+89812~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1610900591045,5,0,I liked the class. The labs were good for getting the message across. ,0,1,David Trower,89812
+43237675~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1610263250625,5,0,great start to learn data lakes,0,1,Lorivic Cua,43237675
+16950867~COURSE!~re8cOiHDEeuw5wqfqZhzNw,1609072258997,5,0,Awesome Course!!!,0,1,Dionis Matos,16950867

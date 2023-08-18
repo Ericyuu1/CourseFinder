@@ -1,0 +1,75 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+110066355~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1676212809155,1,0,A lot of bugs.,0,0,Alexander Petrenko,110066355
+37023318~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1676056465698,2,0,Perhaps the worst course from the Back-end Development Specialization.Some quizzes and SQL exercises are not in sync with the content taught. ,0,0,S,37023318
+114248385~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671477217145,3,0,"To be honest this module was probably the worst of the entire course thus far. I will outline some of the issues below.- asks questions about concepts it hasn't taught you and expects you to figure them out by reading between the lines THEN proceeds to cover these topics in depth videos after it already forced you to learn them on your own.  seems counter intuitive and a bit boring towards the end when youre covering things you already figured out last week. - it is clearly written by multiple people who all have different coding styles which creates problems when they change from snake_case to camelCase to alllowercase in the same quiz and its unclear which to adhere to and simply not typing it exactly as the current one causes you to miss questions on assignments. - there is clear typos, grammatical and spelling errors throughout the course which does not make it looks as professional as it claims to be. ",0,2,Dylan Deffert,114248385
+35174675~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668439095351,3,0,Very simple topics. Good for beginners.,0,0,Jahedul Anowar,35174675
+43100436~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668435475833,3,0,The final quiz is really frustrating. It's really easy to enter the correct answer wrong. Wrong according to the validation process. Not actually a wrong answer.,0,0,Jean-Paul Weijers,43100436
+184486~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665587260957,3,0,T​he course content is for way too beginners. The quizzes were confusing. I felt the quizzes were not evaluating your knowledge but your attention to spaces and details. ,0,0,Ivan Fuentes,184486
+68869706~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665576061056,3,0,S​till need to be include some basics like JOINS and improve the grading assessment in week 5,0,0,Agathiyan,68869706
+32564071~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1663079317886,3,0,"T​he final was pretty hard, #19 is incorrect. Overall, its a great course",0,0,Micah Bryant,32564071
+5370546~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662047522347,3,0,TLDR version: Good course overall with room for improvement. Quizzes are problematic sometimes.,0,0,Fred Toh,5370546
+120563506~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1677143645295,4,0,great but maybe it needed to be more practical and code based,0,0,Mahan Veisi,120563506
+96282259~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1675478525423,4,0,"Last knowledge test at the end of the course did not shown where the mistake was, I reviewed all lessons that were advised to review and the answer was correct, but still was marked as wrong. There is something to be corrected there.",0,0,Franco Franzini,96282259
+36426668~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1672968045038,4,0,"very Good Explanation and amazing instructor, but i think the content need to add more intermediate topics of databases such as how to deal with MySQL or what is views and indexs. ",0,0,Omar Raafat Mustafa,36426668
+67199349~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1672627978007,4,0,I have learnt a lot about database and mysql from this course. I was able to do it practically in my machine.,0,0,Rohan Karmakar,67199349
+112638388~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671101430821,4,0," need to improve course content, change order, and add more exercises.",0,0,Yu Chang,112638388
+21626~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670766062303,4,0,"Good introduction to databases. But there are some mistakes in question still. Like there were questions that started like ""How to update table"" while available answer options contained only ""update"" SQL statements. E.g. meaning question should be ""How to update a record"", because to update table ""alter"" SQL statememnt should be used.",0,0,Alexander Nichiporovich,21626
+40511748~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670254403815,4,0,It is amazing course to start with databasesbut there are two problems at assignments there is questions about the next videos and there is a problem at using online vscode sandbox of the course,0,0,Khaled Elkot,40511748
+117718371~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1669534394255,4,0,more practical  practice should be added,0,0,vijay tiwari,117718371
+115337054~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1669215296045,4,0,Final graded assessment questions have struggles.,0,0,Thet Lwin,115337054
+70763502~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1666300273993,4,0,"This cours is overall a good course to resfresh or learn the basis of SQL, but the tests could be better, especially the last one (it has a lot of formatting problems).",0,0,alfredo orsini,70763502
+41128701~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665426434183,4,0,"T​his course is awesome for beginners,",0,0,abdelrahman hassan,41128701
+68002491~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1661355438342,4,0,"Information was good, instruction was good, some errors and typos apparent in the assessments.",0,2,Noah Sylwester,68002491
+100784279~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1661211081625,4,0,"I think that this course gives the nessesary amount of information in regards to databases.  It really dives into database structure as well as basic SQL commands. When I say ""basic"" commands, I really mean the bare-bones commands, nothing too intense.  For instance, they don't talk about  ""joining"" tables or even doing ""Union"" commands.  Another thing is that while they dive into the database structure, they really do not discuss different database tools (Azure Data Studio, dbeaver, etc...).  Overall, this is a solid course for introduction to databases and SQL.  While it skips over some key points in SQL, it does provide some fantastic first steps on how to structure a query and create a database.",0,3,Timothy Preskenis,100784279
+124368544~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1677522444447,5,0,Un espléndido curso para todos aquellos que gustan aprender sobre las bases de datos relacionales,0,0,Bryan Guillermo Arévalo,124368544
+119222214~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1676779891462,5,0,GOOD,0,0,SHADRACK S,119222214
+116257412~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1676642115985,5,0,"Great Course, I learned a lot of new things, I already knew some but this course clarify a lot of things for me.",0,0,Miguel José Romero F.,116257412
+4040732~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1674330851813,5,0,amazing course,0,0,Abdelmonaem Shahat,4040732
+2248805~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1673373285321,5,0,"Excellent introductory course, and well explained.",0,0,Juan Martin Ortega,2248805
+21412139~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1673328651897,5,0,it's a great course thank you Coursera and Meta for this course.,0,0,seife Bekele,21412139
+112473495~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1672055485123,5,0,The videos were honestly really easy to understand and I actually had fun through the course. ( :,0,0,Abdulsalam Oguntola ,112473495
+26702887~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671899253807,5,0,Great resource! Simplified to the bearest minimal!,0,0,Abdul-Razak Sawal Alhassan,26702887
+67963760~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671789641654,5,0,Amazing,0,0,Shiyam Ram,67963760
+49911118~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671567308877,5,0,"This is one of the best courses so far in this specialization. Very well presented, very easy to grasp, and very enjoyable. I highly recommend.",0,0,Jansenio Amado,49911118
+48395857~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671186195936,5,0,It was a informative and precise course with sufficient labs to get hands on. I found Normalization is pretty tricky to implement. More detailed readings shall help me improve and gain confidence. ,0,0,Johnson Omotunde,48395857
+119828999~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1671044159705,5,0,"I really liked the topic of working with relational databases, as well as about sampling, updating, inserting into operators.The course will be useful for all those who are going to work on projects with SQL databases, as well as for those who are just starting to learn them.Recommend",0,0,Єрмоленко Тимур Геннадійович,119828999
+110631387~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670985005423,5,0,It was a fantastic journey on this course!,0,0,Henrique Morais,110631387
+110295461~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670835690932,5,0,an awesome course. have many contribution in grooming my skill.,0,0,Waqar Akram Bhutta,110295461
+118217374~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670669683714,5,0,amazing,0,0,Adeel Khan,118217374
+70436654~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670451630692,5,0,"I learned a great deal about SQL, Mysql, and database architecture that I will apply to my future projects.",0,0,Jesus Roberto Yanez Garza,70436654
+84909308~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1670056972677,5,0,Great course and materials.,0,0,Haian Ibrahim,84909308
+110415977~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1669556363444,5,0,"As per my experience, this is the most interesting course for me in this professional certification because it is very well organized and very knowledgeable.",0,0,Usama Shaukat,110415977
+81346069~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668879857097,5,0,It is a great priviledge learning from the best with a well explanation on Data structure,0,0,beloved vince,81346069
+35292074~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668580099008,5,0,Nice Course,0,0,Naeem Hasan,35292074
+93801366~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668565796369,5,0,This is a very comprehensive introductory course. I must recommend this course for beginners.,0,0,Sajjad Hussain,93801366
+12760848~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668497208762,5,0,This course provides comprehensive fundamental knowledge about database systems. The topics were well covered and instructors were top notch.,0,0,Maruf Hossain Sany,12760848
+86165471~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1668095874542,5,0,Great SQL Course for beginners.,0,0,Sanjib Roy,86165471
+95199621~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1666586019507,5,0,Very intensive course with a lot of grate information,0,0,Oleg Dykusha,95199621
+93477933~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1666519495854,5,0,I​t was really a best experience I have ever gained. The most special thing about this course is that it provide the lab for the exercise I loved it. Thank you so much team meta for such a great learning experience.,0,0,SAKSHI ABASAHEB BHANDARE,93477933
+73348598~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665630385957,5,0,T​he course was basic and well design to furtur progress in databases managment . Course has already cover all the basic and idea behind the database design and other aspect ! Love that course and now I have relavent skill to built my basic work database using mysql. ,0,0,Prem,73348598
+1658320~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665537509906,5,0,I​t was a great course!,0,0,Masinda Samuel,1658320
+70920113~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665432891566,5,0,"T​his is by far my favourite course with META. the videos, The instructor's teaching and delieving the content is pretty awesome.",0,0,Seif hossam,70920113
+65222737~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665413921493,5,0,"T​hey do not teach Databases and SQL anywhere like here. Meta sure does Software Engineering very differently. If you want to be the best, I guess you ought to learn from the best.",0,0,Izundu Dan-Ekeh,65222737
+3803593~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1665327346543,5,0,"T​his is the best IT course I have taken anywhere! 
+The course developers are geniuses in Educational Technology. I hope they get to develop more courses like this. 
+GlenMate.com",0,0,Sam Yeboah,3803593
+44400120~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1664666272317,5,0,"The most challenging course from the certification so far, yet not that difficult. I enjoyed the Labs since I learnt a few new concepts and refresh my SQL skills.
+
+✅ Pros:
+- Summarizes pretty good all the concepts and skills you need to get started with Relational Databases and SQL.
+- Provides enough information and Labs to learn what you need to conceptualize, design, and maintain Relational Databases.
+- After this course, you should be able to implement a fully functional database for a project.
+
+❌ Cons:
+- I would've loved to have more Labs, since I enjoyed a lot working on the ones that are included.
+- This course would be more valuable if you were taught how to deploy a Relational Database in the cloud, or in your own server (this might be covered in a later course so this might not really be a con).",0,1,Tadeo Bustamante,44400120
+22690338~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1663724761203,5,0,Amazing Course. It exposes me to Database modeling which was a good topic for me.,0,0,Tonye Waribo,22690338
+112126095~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662790505792,5,0,GOOD,0,0,Dinuka Hettiarachchi,112126095
+96394511~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662552292825,5,0,V​ery awesome course. You're gonna work realy hard to get your certificate in the end. But you're up for the challenge. Vamos!!,0,0,Emmanuel Akinbi,96394511
+6024502~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662328304111,5,0,Very informatic course.,0,0,JARLINTON MORENO ZEA,6024502
+70144464~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662236523350,5,0,Perfect course for those who want to learn about databases. Straight to the point and great quizzes alongside with labs. Last quiz had some problems with the first 10 SQL questions.,0,0,AHMET BERKAY KÜRKCÜ,70144464
+34515954~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1662197762966,5,0,It was an easy and helpful course! ,0,0,Amanullah Ahmadi ,34515954
+79632181~COURSE!~pmpvJcdAEeyduw6ktL3Xvw,1661292725716,5,0,"This is a wonderful course, made with soul.
+This is a wonderful story in simple words, step by step, about complex topics.
+Huge thanks to the amazing creators and Meta Corporation.
+I am a refugee from Ukraine studying to find a job and this course has been a huge support for me and my family during a difficult time after russia's dastardly attack on Ukraine. ",0,0,Viktor Kuntsevych,79632181

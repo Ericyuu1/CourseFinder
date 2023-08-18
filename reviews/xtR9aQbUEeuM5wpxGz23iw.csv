@@ -1,0 +1,4 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+58447596~COURSE!~xtR9aQbUEeuM5wpxGz23iw,1612224414141,5,0,Buen proyecto,0,0,Giovanni Andrés  Páez Ujueta,58447596
+68326982~COURSE!~xtR9aQbUEeuM5wpxGz23iw,1604106637416,5,0,Excelente introducción a PyCaret.,0,0,Antonio Huerta Montellano,68326982
+37984455~COURSE!~xtR9aQbUEeuM5wpxGz23iw,1603926525622,5,0,"Excelente, hice el de clasificacion y ahora el de regresion. Excelentes guias para aprender PyCaret",0,0,Ale Silvera,37984455

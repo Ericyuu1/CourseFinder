@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+45931204~COURSE!~8cDZTTDuEeyb5BLyoVYmQQ,1668533374058,1,0,je regrette les 10 euros que j'ai payé.ce projet ne vous apprendra rien. il n'explique pas les fondamentaux du SQL.,0,0,bouzouaya,45931204
+96230954~COURSE!~8cDZTTDuEeyb5BLyoVYmQQ,1635973800284,4,0,"good explanation but I was lost while giving names to my database and it woudl be great to understand how to read mistakes after executing the request, as the description of the errors given by SQL is not that intuitive.",0,0,Delphine Yirdaw,96230954

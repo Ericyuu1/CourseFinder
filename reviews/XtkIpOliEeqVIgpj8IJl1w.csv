@@ -1,0 +1,122 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+88164433~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1648015418560,1,0,I want to unenroll from this course as it is information is different in 2022,0,0,Nikhil Mahana,88164433
+55084825~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1604425137312,1,0,User area on rhyme is useless. ,0,0,Froyo Steiner,55084825
+121643206~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1675433016074,2,0,not worth takin it,0,0,ezra tollett,121643206
+84990116~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1619188841229,2,0,Not that good not for beginners it has not defined insructions,0,0,Ananya Bishi,84990116
+25899742~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1673577560750,3,0,"Overall this was a good introduction to the Glide app building  interface, but the outdated nature of the version the teacher used meant it took more time to find the corresponding features, and thus longer to complete the project.  Further, sound quality and background noises were not the quality I expected/hoped for with a Coursera course.  The instructor was decent.  I don't think English is the native tongue of the teacher.  He is certainly fluent and capable, but the accent and sound quality combo might be a bit too much for some.  I had to turn my sound all the way up and eventually switch to headphones to catch what he was saying.  Perhaps younger ears won't have this issue.  ",0,0,Tammy C,25899742
+8607159~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1667874763556,3,0,"This was a really good course. But a few things made it difficult for me. I tried using closed captions because some things aren't in the same spot on the site or even called the same. So it took longer to figure out where I needed to click and do work. The formula is complicated and could have been put on the screen for a few frames when we pause to get a clear look at what to type. Another frustration was having to go back and forth between screens to see what to do and then do my work. But again, after figuring out how the two screens were laid out differently and where to find the new version. It honestly took me almost 4 hours to complete and I only kept pushing because I really wanted to learn how to use this software. If the captions were better, I guess watching on a tablet while working on the computer would work, but I tried this course because of the split screen option. ",0,0,Brittiany Hightower,8607159
+35929156~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1667856542544,3,0,the information provided was very helpful but the tools are different than showing in the course... so for a person that is not  use to build apps wont find the options presented in the course. please update the video of the course.,0,0,Eli Jacinto Reyes Rangel,35929156
+39712373~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1657594806136,3,0,"the website we used in cloud  workspace is newer and updated , looks and elments are diffrent from the instructors videos which made it difficult to apply the steps explained in the videos",0,0,Aiman Alansi,39712373
+107847607~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1653959318752,3,0,"There was one big hole in the project (I believe), some lessons the audio was of poor quality. Wish they would have gone into much more detail. Overall it was quite nice.
+
+RJ",0,0,Robbie J Frye,107847607
+37186916~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1644294650173,3,0,Interesting way to build an app with a simple data structure,0,0,Josh Lim,37186916
+83109758~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1635946895138,3,0,"I don't understand they blocked cookies now I can't even sign in into glides, I can't even play and do the job in another browser video stoping once I left the tab! I don't know about the course did not able to finish it ",0,0,Pala Jagadeesh Kumar,83109758
+84985695~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1620493959658,3,0,The instructions were great and very details. Personally I feel the platform for the tutorials & exercise was a bit troubling. It made my browser slower and also made the video glitch all the time. Overall the knowledge from the course are very worth my. time,0,0,Yen Pham,84985695
+83017222~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1616067690697,3,0,.,0,0,Deleted Account,83017222
+80492620~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1612123575707,3,0,نگر,0,0, Fakhar nasir,80492620
+43893550~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1607339118855,3,0,The course is decent. But the quiz has errors.,0,0,Bensen Alex,43893550
+76597588~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1605412686310,3,0,"This is a pretty good course, but there are several major flaws. First, the instructor does not seem to have thought through some of the tasks. The way he has set up the data structure will not work as intended, and he does not seem to realize that his instructions are not going to work. For example, he instructs us to add a list component to the detail page that will list all previous reviews of a given book. He instructs us to create a filter for this list so that only the reviews for that title will appear on a particular book's page. However, he hard codes one book's title into the filter criteria. This means that every book's detail page will list the reviews for that same book that was hard coded into the filter. The filter criteria needs to be written dynamically so that it matches the title of whichever book's page the user is viewing. In order to do this, the filter criteria should reference the cell value of the title column in that book's row in the spreadsheet. I am too new to Glide to know whether this is possible in Glide, but if it isn't, then that filter feature is pretty useless. There is a similar problem with the way the instructor sets up the ""My List"" feature. He set up the data structure with one ListAdd column in the Books spreadsheet. This means that when any user adds the book to their list (i.e., sets that book's ListAdd value to true), then it will be true for ALL users. Every user will see that book in their list. If another user then removes that book from their list, the book's ListAdd value becomes false for ALL users. The book will be removed from everyone's lists. This My List feature would be better accomplished by creating a separate sheet, perhaps called UserLists, that would capture the user's email and the title of the book they add to their list. Then the My List feature in the app would list books from the UserLists sheet filtered by user email. Also, if this were going to be a real-world app, then the books need more than just a title to identify them because multiple books can have the same title. They need a unique identifier, such as the ISBN. I also could not use the Rhyme platform. The virtual desktop would not allow me to have more than one window open, so I could not switch between incognito and regular Chrome tabs. I also was not able to minimize Chrome to get to the actual virtual desktop. The window for the virtual workspace was too small to be useful. If you don't have a fairly large monitor, then you will have trouble with it. The quiz grading also needs to be reviewed to ensure it marks answers correctly.",0,6,Desiree W,76597588
+124143975~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1677292666586,4,0,"The course was very interesting! However, the course video seems to have been created using an earlier version of Glideapps. I eventually had to stop using the course workspace and create my project directly on my Chrome browser. For each step of instruction I had to locate the equivalent components in the current version. It took me longer to finish, but I was able to understand it and get it to work. Thank you",0,0,Judith Z Ulrich,124143975
+94771016~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1668954009924,4,0,nice,0,0,Rohan Dey,94771016
+94756061~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1642254753035,4,0,I REALLY ENJOYED THIS GUIDED PROJECT OUT OF THE ALL I HAVE TAKEN,0,0,NEHA B S,94756061
+90666050~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1634400223469,4,0,Very nice and useful course. Learn a lot,0,0,Teh Eng Shen,90666050
+87513943~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1624268825166,4,0,good,0,0,Pubudu Pradeep,87513943
+62998628~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1623513580149,4,0,"It was good, I just think it would have been nice to do some of it more freely and figure it out on my own. The time should also pause when the videos are paused. I am unable to work on it while the video is playing in a different tab, so it would be nice to have that time when I pause.",0,0,Tressa Nissen,62998628
+58235781~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1622890587383,4,0,I really liked the project and I would recommend to you too if you don't like coding and still want to explore this is the best way. And also it is very beginner friendly.,0,0,Ayushi Malviya,58235781
+82455637~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1618658139991,4,0,"I'm giving 4 stars because the formula  doesn't work and I've got tired of trying at one point. I'm going to do the same application in Python or other programming language. I wanted to know a simple and faster way to do apps, but I'm going to stick with coding them. Furthermore, congratulations for the course! Thank you! ",0,0,Deleted Account,82455637
+82309451~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615135906916,4,0,Awesome plate form for mobile app development,0,0,Muhammad Rashid,82309451
+31755658~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1614602089508,4,0,this course was really fun it was quite easy to understand,0,0,raymond gyamfi,31755658
+2041141~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1613177205194,4,0,"The instructor did a good job taking you through the steps in Google Sheets and Glide.  However, I took the test twice and each time answers were marked as wrong but the explanation marked the answer as correct.  The result was a lower grade for the course.",0,0,Chrita Paulin,2041141
+74641042~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1612453829836,4,0,I did enjoy though it took me a lot of time to finish the course cos I need to pause once in awhile since I need to toggle using the browsers.  I can't be satisfied using the small screen in the workspace. ,0,0,Leila Jamin,74641042
+79696399~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1610989972738,4,0,This course is benaficial for those who want to develop mobile app without coding.,0,0,Waqar Ul Hassan,79696399
+54587888~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1610207740594,4,0,just awesome,0,0,Srisrija Siri,54587888
+48758478~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1610197339249,4,0,For first touch it had simply steps and i easily followed all the steps with confidence,0,0,Dimitris Zafeiris,48758478
+10164467~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1608435607336,4,0,"This class was very helpful for me learning the basics of Glide.  I was struggling to understand how to work Glide.  I would love it if you build on this course with an intermediate course to help with things like the specialty columns such as relations and lookup.  My only issue is that I don't think the final exam was correctly graded.  I'm pretty sure of the two answers I got wrong, given the options presented.  Thank you.  ",0,1,Stef Dukes,10164467
+77027514~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1606339138518,4,0,Great concept! Be patient and keep playing around with the idea.,0,0,Jenna B,77027514
+71642006~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1602828470557,4,0,"In the quiz, there is a remark that the answer is correct yet the program tagged it as in correct. also there could be an instruction to just use glide in the web browser instead of using the VM. ",0,0,Marlowe James Mayores,71642006
+54840314~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1602580238748,4,0,Good,0,0,Nishith Ranjan Roy,54840314
+71010757~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1600187709737,4,0,thank you so much,0,0,Aniket Dey,71010757
+93330786~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1671604890021,5,0,very good,0,0,Kavishka Madushan,93330786
+96684154~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1669048526895,5,0,"Thicuorses very useful for me  and  some queries are also some video are not availableinthia  media   so request to available to learn the video . it is useful for increasingmy  knowledge,  and skill ",0,0,Hari Priya,96684154
+94883365~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1668376879073,5,0,"I was a bit overwhelmed with the new information, never used google sheets; should have brushed up on that first, but with practice I am confident I would be able to create my first app",0,0,MOHAMMAD REZA YAHYAPOUR,94883365
+117493889~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1667671346572,5,0,A very fun project - I never knew making a simple app could be this easy!,0,0,Jiří Kohout,117493889
+65655970~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1667134307653,5,0,a​wesome course,0,0,s.k.o.t Sefa,65655970
+25520122~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1660384729341,5,0,this is  good experience for me,0,0,krishn kumar tiwari (kk),25520122
+83118790~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1659341158749,5,0,good learning,0,0,Nikhat Fatma Mumtaz Husain Shaikh,83118790
+11674928~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1658667900518,5,0,Increible easy and fast,0,0,CAMILO ESTRADA BOTERO,11674928
+95311310~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1655981176696,5,0,"Was Easy,fun and Skillful .... Even the project was very informative and understandable for someone who even knows how to use a computer....Enjoy it!",0,0,003-AARYAN RAJ,95311310
+91561605~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1654140123151,5,0,Easy to follow along,0,0,Brisa Diaz Flores,91561605
+31662465~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1654060215892,5,0,very good ,0,0,Freelance programming,31662465
+104205092~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1653162986619,5,0,Good,0,0,DAVATH PRANAY,104205092
+90928419~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1652277156028,5,0,It is really helpful,0,0,Ganesh J Prasad,90928419
+105832269~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1651565061966,5,0,it's awesome and it so really fun to follow!,0,0,WAYNE DELOS SANTOS,105832269
+62678075~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1649891442612,5,0,"Very Good Course ,Thanks .",0,0,peshang muhammad,62678075
+103479400~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1646929996548,5,0,no,0,0,Sara Almazami,103479400
+43962612~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1644210393819,5,0,Great learning experience.,0,0,GNANAPRAKASH PONNUSAMY,43962612
+72062967~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1641745134643,5,0,Very good course with good teaching,0,0,Jun Kail,72062967
+99759249~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1641376637297,5,0,Very useful to build simple in house apps,0,0,RAJ RAJKUMAR,99759249
+68571063~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1641092244275,5,0,Excellent work ,0,0,it18208436 Perera W.A.D.C.T.,68571063
+5923057~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1640193267918,5,0,W​hat a great experience!,0,0,nazim hyder,5923057
+39038199~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1639538447285,5,0,T​his was a great and fun project! Thank you!,0,0,sev sarac,39038199
+72097184~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1639412339964,5,0,Thank you for the course,0,0,Salomo Simanjuntak,72097184
+98520267~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1639148372162,5,0,"This Course Helps to those Individual or Companies who wants to manage their work through App, And no need to write code to develop an interactive app",0,0,pranav varma,98520267
+70359053~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1638001376509,5,0,it's a good course to learn,0,0,Loem Socheanet,70359053
+95665796~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1636520292603,5,0,good course,0,0,yogi sucahyo,95665796
+26083963~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1636304420125,5,0,Very fun and hands on course session.,0,0,pritish basumatary,26083963
+94979158~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1635591801077,5,0,highly recommended ,0,0,ALEX MBATA,94979158
+78535256~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1634534788583,5,0,Thank you,0,0,Vikram Reddy Vermareddy,78535256
+95291658~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1634407198399,5,0,I enjoyed the course. It made me think how I can use this for my current work.,0,0,Nina Patterson,95291658
+76867176~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1632412930909,5,0,"A great, useful and simple course to start building apps",0,0,Cesar Rodríguez Huerta,76867176
+90280257~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1631624578174,5,0,it is amazing experience for me ,0,0,Akashkumar Prajapati,90280257
+86504991~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1626239125338,5,0,"T​his was a fun project! It was easy to understand and follow along, and I recommend trying this out!",0,0,Jaylene Bayona,86504991
+57701762~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1625829356650,5,0,really helpful,0,0,DURGESH GAUR,57701762
+88804856~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1624517642207,5,0,-,0,0,Alreem,88804856
+88357898~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1624086997112,5,0,"I never thought an app can developed so quickly and easily in a go. Thanks to instructor,Google and Glide",0,0,ADARSH R 19BCA002,88357898
+60938956~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1621101429124,5,0,Very good course to learn,0,0,Geetansh Khatri,60938956
+44682726~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1620837937683,5,0,"Excellent course, got insight on how easily you could create an app.",0,0,Remy de Mel,44682726
+65851539~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1618891713761,5,0,An extremely useful course for Glide app beginners.,0,0,Kannan Sudalai Nadar,65851539
+82974359~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1616003283714,5,0,It was really informative,0,0,Yasoom Syed,82974359
+82968933~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615996013013,5,0,good,0,0,farad abdulaziz hassan alnajjar,82968933
+82123837~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615300351187,5,0,a great course with a very good explanation,0,0,Evita Sarah Surbakti,82123837
+82372721~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615249771270,5,0,Amazing,0,0,Muhammad Idrees Shareef,82372721
+82350737~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615216643860,5,0,greT,0,0,Muhammad Rohan,82350737
+80195528~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615177056066,5,0,EXCELLENT ,0,0,Gulnaz Akram ,80195528
+82269008~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615101924053,5,0,this is a brilliant course,0,0,Muhammad Umair Arif,82269008
+79743659~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615021070907,5,0,Good,0,0,Shahzaib Arshad ,79743659
+82257554~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615016315985,5,0,"it,s a good opportunity ",0,0,Arslan Tariq,82257554
+79797009~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1615012749169,5,0,This course is so good for useful purpose,0,0,muhammad asim,79797009
+82219212~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1614973954700,5,0,well n good,0,0,Talha Bashir,82219212
+82223453~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1614948859858,5,0,great,0,0,Jibran Khan,82223453
+48096187~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1614405006029,5,0,This course is amazing. It provided me an opportunity to do what I love. I was looking for a way to built apps but I didn't know how to code. This course was a great help.,0,0,Muhammad Talha Bashir,48096187
+71739747~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1613903560558,5,0,Awesome course.,0,0,Krunal Patel,71739747
+3044948~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1613844348225,5,0,This course is easy to understand; I enjoy it! thanks,0,0,Cindy Flower,3044948
+60209765~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1612749539515,5,0,"It is an amazing course, I learned a lot, I cannot believe how useful this could be for different fields of knowledge. ",0,0,Nancy Carolina Moreno Matallana,60209765
+79936216~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611658836356,5,0,This is an amazing app to deliver a knowledge to us and help out,0,0,M Adeel Sabir,79936216
+80185332~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611652578119,5,0,useful course,0,0,Muhammad Abdullah,80185332
+79754440~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611585324584,5,0,The course and Instructor both were outstanding.Thanks Coursera.Thanks MNSUAM,0,0,Nadir Khalil,79754440
+79631064~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611419469652,5,0,good cource,0,0,Hira Maryam,79631064
+79795300~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611393587226,5,0,This course is helpful for me.Thanks,0,1,Muhammad Hasham,79795300
+79674686~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611227294486,5,0,This skills is powerful for future,0,0,Zia Ullah,79674686
+79673247~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611212937086,5,0,Best platform to convey the information,0,0,Habiba Noor,79673247
+79677864~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611170003120,5,0,Great Course,0,0,Abdullah Ghauri,79677864
+79744972~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611158433250,5,0,Great,0,0,Hamza Siddiqui,79744972
+76832096~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611075856366,5,0,wow,0,0,ANDREW JERWIN A I,76832096
+79734632~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1611032567475,5,0,Helped me in knowing new field,0,0,Asad ur Rehman Khan,79734632
+69149790~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1610907267926,5,0,exceptionally good i have made an app from glde in 1 day!!!,0,0,Mohammed Juzar Rajkotwala,69149790
+65799656~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1610193605507,5,0,Very systematic guidance!,0,0,Shakthi Priya J,65799656
+72315840~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1609785811088,5,0,very nice course for beginners,0,0,TAMAKUWALA BHAVANK SVNIT,72315840
+13847348~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1609750558921,5,0,"Other than some weird background noise distortion from the professor's side, I loved this course very much, and learned how to build an app in Glide",0,0,Joshua Chen,13847348
+68769734~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1608310843163,5,0,Awesome course opened insights many thanks . hope you do more project guided courses in relation to this. Thanks. ,0,0,Dr.Chandira Gunasena,68769734
+30990355~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1608302881469,5,0,Assign some work to us and find out where is your student,0,0,sampatrao Bhimrao Mali,30990355
+68602495~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1608211555500,5,0,nice and cool course,0,0,Isa Yalavac,68602495
+68197932~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1605456941663,5,0,Great Review ,0,0,Imen CHAIBI,68197932
+73413364~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1604971025333,5,0,This course taught me all  I needed to build apps with glide. I am already working on side projects ,0,0,Seth Antanah,73413364
+75260789~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1604630369722,5,0,A good course. As I am Interested in App Dev This course gave me the sight of Knowledge. Thanks Sir! ,0,0,Arjun Vijay Prakash,75260789
+61438283~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1604244223430,5,0,Very good course. Thanks.,0,0,Keith E. Spears,61438283
+55364114~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1603788823653,5,0,Very simple and easily understandable. ,0,1,Nitesh Gupta,55364114
+74614290~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1603267546692,5,0,Good,0,0,YALAKACHARLA KESHAV KUMAR,74614290
+57850743~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1601134425117,5,0,awesome,0,0,Suhasini Tadikonda,57850743
+40048527~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1601055011349,5,0,A very hands-on-practice course that's going to be super useful to boost your creativity skills,0,0,Alejandro Camacho,40048527
+59982249~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1600893993118,5,0,supeeeeeeeeeeeeerb,0,0,Mashroor,59982249
+71500654~COURSE!~XtkIpOliEeqVIgpj8IJl1w,1600831568139,5,0,helpful,0,0,Annisa Rizqy,71500654

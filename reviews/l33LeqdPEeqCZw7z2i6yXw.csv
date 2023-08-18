@@ -1,0 +1,16 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+39938930~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1594496038071,1,0,This is not a real world data. Instructor is showing a very basic example. I guess he could have done a real world problem which is little challenging and useful to participants.,0,3,Vishnu R,39938930
+341017~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1647100195121,4,0,"Showed good use of the SVM classifier on real medical diabetes data. However data engineering in the sense of building the dataset used by the model from raw data is missing, which is one of the most important part. Tons of online free example videos are there in youtube on how to apply SVM on real dataset, however for such paid project something extra was needed, which in my case was the data engieering.",0,0,Himanka Kalita,341017
+40253877~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1623226379822,4,0,"Quick and basic intro to SVM training. Clearly explained each step and pointed out some issues to avoid. I'd have liked a little explanation of *how* SVMs work (even just how predictions are made once model is trained), but it being ""beyond the scope of the project"" is not unreasonable",0,0,Ran Brynn Reiff,40253877
+61059222~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1600779954455,4,0,Good course,0,1,Nikita Habib,61059222
+44625768~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1600019943293,4,0,Nice course.,0,2,Yasir Ahmad,44625768
+56132043~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1595512405928,4,0,A very simple example,0,0,Shubhra Prakash,56132043
+60489173~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1594541132463,4,0,Good course for practicing SVM Classifiers,0,0,Rushikesh Shinde,60489173
+80364572~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1632596915015,5,0,a1,0,0,Edward Nyameri,80364572
+93174961~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1631816634723,5,0,good and useful,0,0,ESTEBAN PARDO JIMNNEZ,93174961
+78511721~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1610018107653,5,0,Thumbs Up!,0,0,Gregory Gray Jr,78511721
+69522015~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1606081317635,5,0,Just the right amount of explanation and content. ,0,0,Diana Cochran,69522015
+45931782~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1598574475214,5,0,Thank you,0,0,Kamlesh Chhipa,45931782
+62221884~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1595248491777,5,0,Excellent,0,0,VINAYAK MESTRY,62221884
+62972588~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1594459593905,5,0,A short duration course but with deep and effective learnings. This will give you some insights regarding the power of SVMs,0,0,ANURAG PAL,62972588
+41067362~COURSE!~l33LeqdPEeqCZw7z2i6yXw,1594229863503,5,0,Thanks,0,0,Isaac Sheik,41067362

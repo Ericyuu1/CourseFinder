@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!---<base href="http://coursefinder-ttds.com/" target="_blank">--->
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <!---<meta name="keywords" content="HTML, CSS, JavaScript">--->
+  <meta name="description" content="Search courses">
+  <meta name="author" content="TTDS Group">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="../static/script.js"></script>
+
+  <noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+  <title>Advanced Search</title>
+  <style>
+    :root {
+      --primarycolor: #6fcacc;
+      --primarycolor2: rgb(57,162,164);
+      --primarycolor3: rgb(0,128,128);
+      --othercolor: #efefef;
+      --bgcolor: #53a970;
+      --text-color: #333333;
+    }
+    div {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    P {
+      line-height: 130%;
+    }
+    .writebox {
+      border-radius: 20px;
+      border: 1px solid #ccc;
+      width: 650px;
+      vertical-align: bottom;
+      background-color: transparent;
+      transition: box-shadow 0.4s;
+      box-shadow: 0 0 10px #CCC;
+    }
+    .l_Text {
+      font-family: Arial, Helvetica, sans-serif;
+      width: 100px;
+      font-size:14px;
+    }
+    .s_input {
+      height:30px;
+      font-size:16px;
+      border-radius: 5px;
+      border:1px solid #565656;
+    }
+    .s_input:focus {
+      
+    }
+    .selectfield {
+      width:200px;
+      height:35px;
+      font-size:16px;
+      border-radius: 5px;
+      border:1px solid #565656;
+    }
+    .selectboolean {
+      width:100px;
+      height:35px;
+      font-size:16px;
+      border-radius: 5px;
+      border:1px solid #565656;
+    }
+    .Search {
+      border:none;
+      background-color: transparent;
+    }
+    .description{
+      background-color: transparent;
+      width: 700px;
+      max-height: 110px;
+      overflow: auto;
+    }
+    .button_a {
+      font-family: Arial, Helvetica, sans-serif;
+      height: 40px;
+      width: 200px;
+      background-color: var(--primarycolor);
+      border: none;
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+      border-radius: 5px;
+    }
+
+  </style>
+</head>  
+
+<body>
+
+<!--- Page Head --->
+<table width="1200px" border="0">
+  <form action="/search.py">
+    <tr width="100%" align="left">
+      <td rowspan="2" align="center" width="200px" style="border-right:#cccccc solid 1px;">
+        <a href="/"><img src="static/CF2.png" style="height:60px; width:auto"></a>
+      </td>
+      <td rowspan="2" width="20px" ></td>
+      <td></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td width="650px" align="left" style="color: var(--primarycolor2);font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;vertical-align: bottom;">Advanced Search</td>
+    </tr>
+  </form>
+</table>
+
+<hr>
+
+<!--- Search Field --->
+<table width="100%" cellspacing="3" cellpadding="1" border="0">
+  <tr width="100%" align="left" colspan=2>
+    <td width="150px"></td>
+    <td width="700px" align="left">
+      <br><br>
+      <form method="POST" action="{{url_for('search2') }}">
+        <table width="100%" border="0">
+          <tr style="height: 35px">
+            <td colspan="2"><b style="font-family: Arial, Helvetica, sans-serif;font-size: 16px;">KEYWORD</b></td>
+            <td><b style="font-family: Arial, Helvetica, sans-serif;font-size: 16px;">FIELD</b></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td colspan="2"><input class="s_input" name="s_input0"type="text" id="keyword_0" style="width: 505px;"></td>
+            <td>
+              <select name="field_0" class="selectfield">
+                <option value ="course_name_x" selected>Course Name</option>
+                <option value ="instructor_name">Instructor</option>
+                <option value="instructor_external_link_text">Institution</option>
+                <option value="course_intro">Introduction</option>
+              </select>
+            </td>
+            <td></td>
+          </tr>
+
+          <tr><td colspan="3" height="30"></td></tr>
+
+          <!---<tr><td colspan="3"><b style="font-family: Arial, Helvetica, sans-serif;font-size: 16px;">SECOND KEYWORD</b></td></tr>--->
+          <tr>
+            <td>
+              <select name="boolean_1" class="selectboolean">
+                <option value ="AND">AND</option>
+                <option value ="OR">OR</option>
+                <option value="AND NOT">AND NOT</option>
+                <option value="OR NOT">OR NOT</option>
+              </select>
+            </td>
+            <td><input class="s_input" name="s_input1" type="text" id="keyword_1" style="width: 400px;"></td>
+            <td>
+              <select name="field_1" class="selectfield">
+                <option value ="course_name_x" selected>Course Name</option>
+                <option value ="instructor_name">Instructor</option>
+                <option value="instructor_external_link_text">Institution</option>
+                <option value="course_intro">Introduction</option>
+              </select>
+            </td>
+            <td></td>
+          </tr>
+
+          <tr><td colspan="3" height="30"></td></tr>
+          
+          <!---<tr><td colspan="3"><b style="font-family: Arial, Helvetica, sans-serif;font-size: 16px;">THIRD KEYWORD</b></td></tr>--->
+          <tr>
+            <td>
+              <select name="boolean_2" class="selectboolean">
+                <option value ="AND">AND</option>
+                <option value ="OR">OR</option>
+                <option value="AND NOT">AND NOT</option>
+                <option value="OR NOT">OR NOT</option>
+              </select>
+            </td>
+            <td><input class="s_input" name="s_input2" type="text" id="keyword_2" style="width: 400px;"></td>
+            <td>
+              <select name="field_2" class="selectfield">
+                <option value ="course_name_x" selected>Course Name</option>
+                <option value ="instructor_name">Instructor</option>
+                <option value="instructor_external_link_text">Institution</option>
+                <option value="course_intro">Introduction</option>
+              </select>
+            </td>
+            <td></td>
+          </tr>
+
+          <tr><td colspan="3" height="30"></td></tr>
+
+          <!---<tr><td colspan="3"><b style="font-family: Arial, Helvetica, sans-serif;font-size: 16px;">Fourth KEYWORD</b></td></tr>--->
+          <tr>
+            <td>
+              <select name="boolean_3" class="selectboolean">
+                <option value ="AND">AND</option>
+                <option value ="OR">OR</option>
+                <option value="AND NOT">AND NOT</option>
+                <option value="OR NOT">OR NOT</option>
+              </select>
+            </td>
+            <td><input class="s_input" name="s_input3"type="text" id="keyword_3" style="width: 400px;"></td>
+            <td>
+              <select name="field_3" class="selectfield">
+                <option value ="course_name_x" selected>Course Name</option>
+                <option value ="instructor_name">Instructor</option>
+                <option value="instructor_external_link_text">Institution</option>
+                <option value="course_intro">Introduction</option>
+              </select>
+            </td>
+            <td></td>
+          </tr>
+
+          <tr><td colspan="3" height="30"></td></tr>
+
+          <tr>
+            <td colspan="3" align="center">
+              <input class="button_a" type="submit" value="Submit Advanced Search">
+            </td>
+          </tr>
+        </table>
+
+      </form>
+   
+    </td>
+    <td></td>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+</body>

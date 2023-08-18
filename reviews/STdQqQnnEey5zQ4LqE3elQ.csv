@@ -1,0 +1,20 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+12603392~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1667212355675,1,0,"complete w​aste of time. the online resource ""rhyme""  is terrible, slow and to small to use itp​lease avoid it",0,0,Sasha Belenky,12603392
+44163775~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663438929026,1,0,t​he tool is very difficult to use.i had very hard time using the virtual machine,0,0,Charan Reddy,44163775
+37065938~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1660149093668,1,0,very basic.,0,0,Hamza Ateeque,37065938
+106585740~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1667466150636,3,0,s,0,0,Deleted Account,106585740
+106190567~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1656365170094,3,0,The content of this course is designed for the beginner with no understanding of pandas. ,0,1,Pradeep Kumar Gontla ,106190567
+88107380~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1652372978755,3,0,"For a recent course, it includes some obsolete code:    read_csv('file', squeeze = True)    Squeeze is not supported in Pandas read_csv and must be called as    pd.read_csv('file').squeeze(""columns"")  Sorting has changed also:    series.sort_values(inplace=True)  is not suppoorted and needs to be done by making a copy:    series = series.sort_values()  The virtual environment is horrible - the screens are too small on a laptop, contantly timing out (I have a fast fibre connection) and the video pauses for no reason. I downloaded the notebook to work on it in my own editor, but every time you click out of the course window, the video pauses. Very frustrating to work with.The course could be condensed into no more than half an hour - there's a lot of time spent talking about what's going to be talked about instead of just talking about the subject in hand and then going over some basic points over and over.",0,5,Richard Allen,88107380
+118378320~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1668452813243,4,0,A solid introduction to Pandas with some explanation of basic Python. ,0,0,Mason Alexander Reeves,118378320
+115010993~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1665092671911,4,0,G​ood practice on Pandas basics,0,0,shahadat Khan,115010993
+101374208~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663748437267,4,0,I​nteresting and equiping ,0,0,Patric Nondayi,101374208
+81795594~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1662638330496,4,0,Short and concise,0,0,Jessica Addy,81795594
+406444~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1666636795717,5,0,G​reat course!!,0,0,Angel Vivanco,406444
+78907714~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663679255338,5,0,R​elatable,0,0,Fisayo Ajayi,78907714
+73183682~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663426799798,5,0,g​ood,0,0,yeferson garcia,73183682
+10472089~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663393714321,5,0,I​t was good to clear the basics. Please create advanced also,0,0,Tejal Wani,10472089
+112825490~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1663107581090,5,0,"I am very grateful for this opportunity you have given me, this project has helped me regain my vitality and desire to research and learn more in the field of data science",0,0,Lazhar merahi,112825490
+40729276~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1657797751946,5,0,This is a good start course in your journey for AI and deep learning,0,0,ADIL ABDULLAHI AL ROUBLEH,40729276
+106172292~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1654703942115,5,0,The Mastering Data Analysis with Pandas : Part 1 addresses Panda Series and sets you up perfectly for Data Frames and advanced topics.,0,0,Manny Vega,106172292
+101435698~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1652417982115,5,0,This guided coding project helped concrete what I've been learning in other courses. I'm really glad I took it. I think it helped boost my confidence in what I've been learning. The instructor and the material was easy to understand and informative.,0,0,Donna Grant,101435698
+24010351~COURSE!~STdQqQnnEey5zQ4LqE3elQ,1636450630039,5,0,a good start for new learners,0,0,ramazan yel,24010351

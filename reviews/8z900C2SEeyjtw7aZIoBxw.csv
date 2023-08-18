@@ -1,0 +1,3 @@
+id,reviewedAt,rating,isMarkedHelpful,reviewText,productCompleted,mostHelpfulVoteCount,users,user_id
+62666997~COURSE!~8z900C2SEeyjtw7aZIoBxw,1656352974756,5,0,"Muy útil, me ayudó a aclrar muchas cosas del framework. ",0,0,Maria Camila Durango Barrera,62666997
+92893906~COURSE!~8z900C2SEeyjtw7aZIoBxw,1637112491526,5,0,"Me gustó la explicación y los ejemplos. En especial, la implementación para un modelo de ML usando FastApi",0,0,Laura Trujillo,92893906
